@@ -1,0 +1,732 @@
+Soil Test Interpretation Guide
+D.A. Horneck, D.M. Sullivan, J.S. Owen, and J.M. Hart
+EC 1478 • Revised July 2011
+R
+egular soil testing is an important element in
+Contents
+nutrient management. You can use soil tests as
+Nitrogen (N) ........................................................................2
+a diagnostic tool or to identify trends through
+Phosphorus (P) ...................................................................3
+time. To obtain meaningful test results, you must
+Cations (K, Ca, and Mg) ....................................................4
+sample soil correctly, at the same time each year,
+Sulfate-sulfur (SO -S) ........................................................5
+and you must maintain records. 4
+Micronutrients (B, Zn, Cu, Mn, Fe, and Mo) .................5
+For more information, see the following in
+Chloride (Cl–) .......................................................................7
+the OSU Extension Catalog (http://extension.
+pH, lime requirement (LR) ...............................................7
+oregonstate.edu/catalog/): Soil Sampling for
+Home Gardens and Small Acreages (EC 628); Sodium (Na) ........................................................................9
+Monitoring Soil Nutrients Using a Management Soluble salts .......................................................................9
+Unit Approach (PNW 570); Monitoring Soil Organic matter or soil carbon ........................................9
+Nutrients in Dryland Systems Using Management
+Cation exchange capacity (CEC) ..................................10
+Units (EM 8920).
+For more information .....................................................12
+Soil testing laboratory methods vary, which may
+influence results and sufficiency ranges. Therefore,
+the sufficiency ranges in this publication are accurate Table 1. Plant-available nutrient forms.
+only for the test methods listed.
+Nutrient Form used by plant
+Soil tests are used to measure soil nutrients that
+are expected to become plant-available. They do Cations (+):
+not measure the total amounts of nutrients in soil. Nitrogen NH+
+4
+Measurements of total nutrient content are not useful Potassium K+
+indicators of sufficiency for plant growth, because Calcium Ca2+
+only a small portion of the nutrients are plant-
+Magnesium Mg2+
+available. Roots take up plant-available nutrients
+Manganese Mn2+
+as positively or negatively charged ions from the
+Copper Cu2+
+soil (table 1).
+Zinc Zn2+
+Soil test results (see figure 1) can be viewed in
+three categories: (1) low or yes, a fertilizer addition Anions (–):
+will likely increase growth and yield; (2) high or no, Nitrogen NO–
+3
+a fertilizer addition will not likely increase growth or Phosphorus HPO– and HPO2–
+2 4 4
+yield; and (3) intermediate or maybe, a fertilizer addi- Sulfur SO2–
+4
+tion may increase growth or yield. Categorization of
+Boron HBO and HBO–
+3 3 2 3
+soil test results into “yes,” “no,” and “maybe” assists
+Molybdenum HMoO– and MoO2–
+understanding the limits and benefits of using soil 4 4
+Chloride Cl–
+test results for making nutrient recommendations.Most soil test values do not vary greatly from
+year to year. However, some soil and environmental
+conditions cause fluctuations in measurements such as
+pH and nitrate-nitrogen. Drastic changes in test values
+year to year may indicate an unrepresentative soil
+sample or a laboratory error. When in doubt, submit
+a new sample or ask the lab to repeat the analysis.
+Quality control programs for agricultural soil test-
+ing laboratories include North American Proficiency
+Testing (NAPT, http://www.naptprogram.org). This
+program is overseen by the Soil Science Society of
+America and is designed to promote quality, repro-
+Figure 1. Soil test value vs. probability of crop yield
+ducible soil testing methods.
+response to nutrient addition. Crop yield increase
+This publication provides general guidelines for
+due to nutrient addition is likely at low soil test
+interpreting soil test results. Guidelines for specific
+values and unlikely at high soil test values. (Chart ©
+Oregon State University. Prepared by Dan M. Sullivan.) crops are available in many other publications. If a
+nutrient management/fertilizer guide for the crop in
+Differing fertilizer recommendation philoso- which you are interested is available, use it instead
+phies can provide multiple recommendations from of the general information in this guide. Nutrient
+the same soil test results. For example, nutri- management/fertilizer guides for Christmas trees,
+ent application recommendations of land-grant wheat, sweet corn, silage or field corn, peppermint,
+university Extension services in the western United blueberries, caneberries, several grasses grown for
+States are based on the philosophy that nutrients seed, carrots grown for seed, cranberries, hops,
+should only be applied when an economic yield pastures, tree fruits and nuts, alfalfa, and onions are
+increase is likely. In contrast, another philosophy for available from OSU and PNW Extension Publishing
+nutrient application is soil test level maintenance, through the OSU Extension Catalog (http://
+commonly used in the midwestern United States. extension.oregonstate.edu/catalog/). For potato nutri-
+Soil test level maintenance is accomplished by fertil- ent management recommendations in Oregon, use
+izing nutrients removed by crop harvest. Nutrients Washington State University’s Nutrient Management
+are applied even though the soil test level for these Guide: Central Washington Irrigated Potatoes
+nutrients may be sufficient. (EB1882, http://potatoes.wsu.edu/research/images/
+Nutrient concentrations vary with soil depth, nutrient-central-wa.pdf.)
+which affects soil test results. To determine the proper
+sampling depth, you must consider the purpose of Nitrogen (N)
+the soil test. To estimate fertilizer requirement prior
+Plant-available nitrogen (nitrate and
+to planting, sample soil to the depth where most root
+ammonium)
+activity will occur, usually a depth of 6 to 12 inches.
+The plant-available forms of nitrogen are
+Shallow sampling, 2 to 3 inches, is sometimes used
+ammonium-N (NH -N) and nitrate-N (NO -N).
+to evaluate fertilizer need in perennial crops where
+4 3
+The abbreviation NH -N means nitrogen in the
+fertilizers have repeatedly been applied to the soil
+4
+ammonium form, and NO -N means nitrogen in
+surface. A combination of sampling depths may be
+3
+the nitrate form. Soil concentrations of NO -N and
+necessary to diagnose problems in orchards.
+3
+NH -N depend on biological activity and therefore
+For more information, see the following in the OSU 4
+fluctuate with changes in conditions such as tem-
+Extension Catalog (http://extension.oregonstate.
+edu/catalog/): Evaluating Soil Nutrients and pH perature and moisture. Nitrate is easily leached
+by Depth in Situation of Limited or No Tillage in from the soil with high rainfall or excessive irriga-
+Western Oregon (EM 9014). tion. Soil tests can determine NO -N and NH -N
+3 4
+2concentrations at the time of sampling but do not For more information, see the following in the OSU
+reflect future conditions. Extension Catalog (http://extension.oregonstate.
+edu/catalog/): Silage Corn Production Nutrient
+The nitrogen mineralization test estimates sea-
+Management Guide (Western Oregon) (EM
+sonal N supply from a sample collected for wheat
+8978); Sweet Corn Nutrient Management Guide
+during late January. This test is only used for soft
+(Western Oregon) (EM 9010).
+white winter wheat production in western Oregon.
+Post-harvest soil nitrate testing can be used in
+For more information, see the following in
+some cropping systems to determine whether N
+the OSU Extension Catalog (http://extension.
+supplied from all sources (fertilizer, irrigation water,
+oregonstate.edu/catalog/): Using the Nitrogen
+organic amendments) was excessive. Interpretation
+Mineralization Soil Test to Predict Spring
+Fertilizer N Rate for Soft White Winter Wheat of post-harvest soil nitrate analyses is crop specific.
+Grown in Western Oregon (EM 9020). If post-harvest nitrate levels are consistently high,
+reduce fertilizer N inputs in future growing seasons.
+Failure to account for NO -N in the soil or from
+3
+irrigation water can lead to over-application of For more information, see the following in the OSU
+nitrogen fertilizers. Proper irrigation increases N use Extension Catalog (http://extension.oregonstate.
+edu/catalog/): Post-harvest Soil Nitrate Testing for
+efficiency and reduces nitrate leaching.
+Manured Cropping Systems West of the Cascade
+Keep samples for N analysis cool and deliver
+Mountain Range (EM 8832).
+them to the laboratory the day they are collected or
+send them using next-day delivery. If sample results Nitrate-nitrogen (NO -N)—East of the
+3
+are not needed immediately, samples can be frozen Cascade Mountain Range
+and shipped later. In arid regions, soil nitrate is evaluated by mea-
+Ammonium-nitrogen (NH -N) suring NO -N, usually in one-foot depth increments,
+3
+4
+to a depth of 2 to 5 feet. The nitrogen measured with
+Ammonium-nitrogen usually does not accu-
+this test is used to determine the N fertilizer applica-
+mulate in the soil, as soil temperature and moisture
+tion rate. Consult the nutrient management guide for
+conditions suitable for plant growth also are ideal
+an individual crop to determine sampling depth and
+for conversion of NH -N to NO -N. Ammonium-
+4 3 method for crediting soil nitrate-N. If test results are
+nitrogen concentrations of 2–10 ppm are typical.
+reported in ppm, convert to lb/acre using table 13.
+Soil NH -N levels above 10 ppm may occur in
+4
+cold or extremely wet soils, when the soil contains Total nitrogen
+fertilizer from a recent application when soil pH is Total nitrogen analysis measures N in all
+very high or low, and when soluble salts (measured organic and inorganic forms. Total nitrogen does
+by electrical conductivity) are high. not indicate plant-available N and is not the sum of
+Nitrate-nitrogen (NO -N)—West of the NH -N + NO -N. Total N is not used for fertilizer
+4 3
+3
+Cascade Mountain Range recommendations.
+A typical agricultural soil in the Willamette Valley
+Nitrate-N is mobile in H O and is a difficult test
+2 contains about 0.10 to 0.15 percent N, or approxi-
+to interpret in western Oregon. Nitrate moves with
+mately 5,000 lb N/acre in the surface foot. Only 1
+the water when rainfall exceeds evaporation, usu-
+to 4 percent of this total N becomes plant-available
+ally November through April. Consequently, nitrate
+(converts via microbial activity from organic form
+remaining in the soil after harvest can leach during
+to inorganic form) during a growing season. East of
+winter rains, contaminating surface and ground-
+the Cascade Mountain Range, soils usually have half
+water. Situations for which nitrate-N can be used
+or less this amount of total N.
+for management decisions are limited. They must be
+selected carefully to match crop growth and likeli-
+Phosphorus (P)
+hood of sufficient nitrate to reduce fertilizer need. For
+example, midseason measurement of soil nitrate is
+Phosphorus fertilizer recommendations are
+used for silage and sweet corn production.
+based on a documented relationship between crop
+3yield and extractable soil test phosphorus. Historical Cations: potassium, calcium, and
+soil test calibration data in Oregon have been magnesium
+developed in relation to two specific phosphorus
+Of the three primary cations (potassium, calcium,
+extractions methods: the Bray P1 test and the Olsen
+and magnesium), potassium requires the most man-
+or sodium bicarbonate test (table 2). The Bray P1
+agement attention. Few crops have increased growth
+extraction method is used for soils west of the
+or yield from calcium and magnesium additions in
+Cascade Mountain Range, and the Olsen sodium
+the Pacific Northwest.
+bicarbonate (NaHCO ) extraction method is used
+3 The soil test ranges in tables 3 and 4 are for
+for soils east of the Cascade Mountain Range. Soil
+the ammonium acetate or the sodium bicarbonate
+testing laboratories also use several other extrac-
+(NaHCO ) extraction method.
+tion methods. For interpretation of results from 3
+Potassium (K)
+other extraction methods, contact the laboratory
+that performed the analysis. Soil test P extraction Excessive soil potassium levels can result in
+methods other than Bray P1 and Olsen often have elevated K levels in grass forage crops, which may
+little or no field calibration studies performed to be detrimental to animal health. Conversely, very low
+document their utility in Oregon. soil test K levels can reduce plant growth. K applica-
+Phosphorus soil tests are an index of P availabil- tions in table 3 are applied as a broadcast application.
+ity (low, medium, high, excess). When interpreting
+Table 3. Extractable potassium (K) soil test categories
+a P soil test, you must be aware of previous P
+and suggested fertilizer rate recommendations.
+management practices. Phosphorus is relatively
+immobile in soil. If phosphorus has been applied Extractable or soil test K Recommendation (lb KO/acre)
+2
+in a fertilizer band, concentrations of P may persist Low <150 ppm* 100–300
+where the band was placed, making interpretation <0.4 meq/100 g soil
+of soil test data difficult.
+Medium 150–250 ppm 60–250
+The phosphorus application rate necessary
+0.4–0.6 meq/100 g soil
+to correct P deficiencies varies depending on soil
+High 250–800 ppm 0
+properties and crop grown. Phosphorus availability
+0.6–2.0 meq/100 g soil
+decreases in cool, wet soils. In many situations,
+Excessive >800 ppm 0†
+banded phosphorus applications are more effective
+>2.0 meq/100 g soil
+than broadcast applications, especially when soil test
+* For ammonium acetate or sodium bicarbonate extraction method.
+P values are low.
+† When extractable K is excessive, determine soil and irrigation water electrical
+Phosphorus applications generally are not rec-
+conductivity.
+ommended when test results are high or excessive.
+High soil phosphorus combined with P movement Calcium (Ca)
+from soil into surface waters can cause excessive Calcium deficiencies usually are found only
+growth of vegetation, damaging aquatic ecosystems. on very acidic soils. They can be corrected by lim-
+ing with calcium carbonate (CaCO ). Calcium is
+3
+rarely deficient when soil pH is adequate. Calcium
+Table 2. Phosphorus (P) soil test categories and
+suggested fertilizer rate recommendations. deficiency can occur at otherwise adequate soil pH
+values in serpentine soil (high Mg). These soils are
+West of Cascades East of Cascades found in the Siskiyou Mountains and other parts of
+Recommendation
+Bray P1 test P Olsen test P
+(lb PO/acre) southwest Oregon.
+(ppm) (ppm) 2 5
+Magnesium (Mg)
+Low <20 <10 0–300
+Magnesium deficiencies on acidic soils can be
+Medium 20–40 10–25 0–200
+corrected by liming with dolomitic lime (calcium-
+High 40–100 25–50 0–30
+magnesium carbonate [CaCO -MgCO ]). If the soil
+3 3
+Excessive >100 >50 0
+pH is sufficient, Mg can be supplied with Epsom
+4salts (MgSO ) or potassium-magnesium sulfate Soil testing for micronutrients other than boron
+4
+(K SO ·2MgSO ). Excess magnesium can occur on and zinc is recommended only when a deficiency is
+2 4 4
+serpentine soils in southwest Oregon. Agricultural suspected. If you suspect a micronutrient deficiency,
+production on serpentine soil requires management plant tissue testing may be a better diagnostic tool
+not addressed in this publication. than soil testing. Soil testing will help determine
+what rate to apply.
+Table 4. Extractable magnesium (Mg) soil test categories
+Boron (B)
+and suggested fertilizer rate recommendations.
+Crops such as alfalfa, table beets, brassica
+Extractable or soil test Mg Recommendation (lb Mg/acre) crops, caneberries, and root crops have responded
+Low <60 ppm 10–100 to boron fertilization on B-deficient soils in western
+<0.5 meq/100 g soil Oregon. Tree fruits and alfalfa are examples of crops
+sensitive to low boron levels east of the Cascade
+Medium 60–300 ppm 0–60
+Mountain Range.
+0.5–2.5 meq/100 g soil
+While low levels of boron may limit plant growth,
+High >300 ppm 0
+high concentrations can be toxic. When applying
+>2.5 meq/100 g soil
+boron, apply it uniformly as a broadcast application
+and mix it thoroughly with the soil.
+Sulfate-sulfur (SO –-S)
+4 Table 6. Extractable boron (B) soil test categories and
+Plants absorb sulfur in the sulfate form. In high- suggested fertilizer rate recommendations.
+rainfall areas west of the Cascade Mountain Range,
+sulfate is readily leached, and soil tests are not well Soil test B (ppm) Recommendation (lb B/acre)*
+correlated with plant growth. In arid regions east of the Very low <0.2 1–3
+Cascades, soil test information may be useful. Irrigation Low 0.2–0.5 0–3
+water may contain significant amounts of sulfate-sulfur. Medium 0.5–1 0–1
+Plant analysis, especially a nitrogen-sulfur (N:S) ratio,
+High 1–2 0
+is useful for diagnosing a sulfur deficiency.
+Excessive >2† 0
+Table 5. Sulfate-sulfur soil test categories and * Do not apply B in a concentrated area such as a fertilizer band.
+suggested fertilizer rate recommendations, east of † When soil test B is excessive, determine soil and irrigation water electrical
+the Cascade Mountain Range. conductivity and B in irrigation water.
+Zinc (Zn)
+Soil test sulfate-S (ppm) Recommendation (lb S/acre)
+A zinc soil test above 1.5 ppm using the DTPA
+Very low <2 30–60
+extraction method is sufficient for most crops. Corn,
+Low 2–5 10–30
+beans, grapes, hops, onions, and deciduous fruit trees
+Medium 5–20 0–20
+are especially sensitive to low levels of soil test Zn.
+High >20* 0 Fertilizer applications with zinc sulfate are typically
+* When sulfate-S soil test values are high, determine soil and irrigation water 5 to 15 lb Zn per acre.
+electrical conductivity.
+Copper (Cu)
+Copper values above 0.6 ppm using the DTPA
+Micronutrients extraction method are sufficient. Copper deficien-
+cies are extremely rare, regardless of soil test results.
+Deficiencies of micronutrients other than boron
+The only deficiencies that have been identified are on
+and zinc are uncommon. The availability of most
+muck soils such as those in the Klamath and Salem
+micronutrients decreases as pH increases (except for
+(Lake Labish) areas in Oregon and the Colville
+molybdenum, which becomes more available as pH
+area in Washington. Routine copper application to
+increases). Micronutrient deficiencies rarely occur
+mineral soil can cause copper toxicity.
+when the soil pH is below 6.5.
+5Manganese (Mn) Iron (Fe)
+Adequate soil test Mn varies with crop. Soil Soil testing for iron is not recommended.
+test values between 1 and 5 ppm using the DTPA Most test methods do not discern between forms
+extraction method are usually sufficient. Manganese of iron and therefore have little meaning for plant
+deficiencies generally occur only when soil pH is nutrition.
+8.0 or above. Iron deficiencies are uncommon on acidic soils in
+the Pacific Northwest. Where deficiencies occur, they
+Details of Mn deficiency, Mn application, and
+soil pH adjustment can be found in the following often are associated with plants adapted to acidic soil,
+publication in the OSU Extension Catalog (http:// such as blueberries, azaleas, or rhododendrons, grow-
+extension.oregonstate.edu/catalog/): Managing ing on soil with an unsuitably high pH. Acidifying
+Manganese Deficiency in Nursery Production of
+the soil with elemental sulfur usually will correct Fe
+Red Maple (EM 8905).
+deficiency for these plants.
+Guidance on soil acidification for home gardens
+and small acreages in western Oregon is provided
+in the following: Acidifying Soil for Blueberries
+and Ornamental Plants in the Yard and Garden
+West of the Cascade Mountain Range in Oregon
+and Washington (EC 1560); Acidifying Soil in
+Landscapes and Gardens East of the Cascades
+(EC 1585). For large scale agricultural production,
+guidance about soil acidification can be found in
+the following: Acidifying Soil for Crop Production
+West of the Cascade Mountains (EM 8857);
+Acidifying Soil for Crop Production: Inland
+Figure 2. Left: Healthy red maple. Right: Red maple Pacific Northwest (PNW 599). All available in
+with chlorosis from manganese deficiency. To ensure the OSU Extension Catalog (http://extension.
+oregonstate.edu/catalog/).
+adequate manganese is available for red maple, the
+soil pH should be below 5.6 and soil test manganese
+values should be above 20 ppm. (Photos © Oregon
+State University. From: Altland, J. 2006. Managing
+Manganese Deficiency in Nursery Production of
+Red Maple. EM 8905. Corvallis, OR: Oregon State
+University Extension Service.)
+Manganese toxicity is more common in acidic
+soil than Mn deficiency. Garlic and onions are the
+most sensitive crops grown in Oregon. Manganese
+toxicity causes incomplete filling of garlic bulbs
+when the soil pH is below 6.5. In contrast, wheat
+growth and yield is not limited by Mn until soil pH
+is below 5.2. Figure 3. Left: Healthy blueberry leaf. Right: Iron-
+deficient blueberry leaf. Note the pale green leaf
+Diagnosis of either Mn deficiency or toxicity
+area and contrasting green veins on the iron-
+should use soil pH and tissue Mn concentration in
+deficient leaf. (Photo © Oregon State University.
+combination with soil test Mn.
+From: Hart, J., D. Horneck, R. Stevens, N. Bell, and
+For alkaline soils east of the Cascade Mountain
+C. Cogger. 2003. Acidifying Soil for Blueberries and
+Range, acidified microzones, such as the area around
+Ornamental Plants in the Yard and Garden West of the
+fertilizer bands or granules, can increase Mn availability.
+Cascade Mountain Range in Oregon and Washington.
+These acidified microzones can alleviate the Mn defi-
+EC 1560. Corvallis, OR: Oregon State University
+ciency sometimes encountered on soil with high pH. Extension Service.)
+6Iron salts (such as iron sulfate) applied to alkaline when Cl salts are used to supply potassium or mag-
+soil do not remain plant-available for long enough nesium. For example, a 100 lb application of muriate
+to be an effective plant nutrient source. Chelated of potash (potassium chloride [0-0-60]) contains 60
+iron fertilizers are more effective in alkaline soils lb K O and 45 lb Cl.
+2
+than inorganic fertilizer materials, but they are very
+expensive. The cost usually prohibits use. Lowering pH, lime requirement (LR)
+soil pH to increase iron availability on a field scale is
+Soil pH expresses soil acidity. Most crops grow
+not economical. However, adding acidifying materi-
+best when the soil pH is between 6.0 and 8.2.
+als such as elemental sulfur to fertilizer mixtures can
+Table 8. Soil pH ranges.
+acidify microzones around the fertilizer material and
+increase Fe availability. pH
+Turf often will become darker green when a com-
+Strongly acidic <5.1
+plete fertilizer containing Fe is applied. The change
+Moderately acidic 5.2–6.0
+in color is in spite of adequate soil test iron values.
+Slightly acidic 6.1–6.5
+Molybdenum (Mo)
+Neutral 6.6–7.3
+Soil Mo concentrations are too low for most
+Moderately alkaline 7.4–8.4
+labs to evaluate. Molybdenum deficiencies are rare.
+Strongly alkaline >8.5
+Molybdenum-deficient legumes produced on acidic
+soil appear chlorotic or nitrogen deficient. In this
+Soil pH can be increased by liming, the applica-
+situation, applying lime usually increases soil pH
+tion of calcium carbonate (limestone). The soil pH
+and alleviates the chlorosis.
+test indicates if lime is needed. The lime requirement
+Livestock producers desiring information about
+test determines how much lime is needed.
+molybdenum in forage should have the Mo content
+Lime rates in eastern Oregon are much lower
+of forage determined.
+than in western Oregon, typically 500 to 1,500 lb/acre
+compared to 2,000 to 6,000 lb/acre. The lower rates
+Chloride (Cl–) reflect sandy soil or a low cation exchange capacity
+(CEC). The low lime rates in eastern Oregon are
+Soil testing for chloride is not a common practice,
+applied with greater frequency than lime in western
+and little data exist for interpretation of test results.
+Oregon, making the long-term rates for the same
+Wheat sometimes benefits from a chloride applica-
+crop comparable.
+tion. Little information exists on chloride soil test
+values and recommended rates in Washington and SMP lime requirement test
+Oregon. Chloride is supplied with irrigation water and Refer to individual crop nutrient management or
+from organic sources such as manure and compost. fertilizer guides for lime application rate. The infor-
+Chloride fertilizer application may occur incidentally mation provided here is very general. SMP stands
+for Shoemaker, MacLean, and Pratt—the people who
+Table 7. Chloride (Cl) soil test categories and developed the test.
+suggested fertilizer rate recommendations. Accurate lime recommendations cannot be made
+solely on the basis of soil pH. The SMP test is used to
+Soil test Cl Recommendation
+(ppm) (lb potassium chloride [0-0-60]/acre) estimate the lime required to raise the pH of 6 inches
+of soil. The SMP test is performed by mixing soil
+Very low 0–5 0–150
+with a solution buffered at pH 7.5 and determining
+Low 5–10 0–150
+the resulting pH. The soil’s exchangeable hydrogen
+Medium 10–20 0–50
+or “reserve acidity” lowers the pH of the SMP solu-
+High 20–50 0
+tion. Soils with low SMP values have high reserve
+Excessive >50* 0 acidity and high lime requirements. Conversely, soils
+* When soil test Cl is excessive, determine soil and irrigation water electrical that are acidic and have a high SMP buffer have a
+conductivity and B in irrigation water. low lime requirement.
+7Figure 4. Lime rate increases as SMP test value decreases. Left: Western Oregon (full-strength SMP test).
+Right: Eastern Oregon (1/4-strength SMP test). (Charts © Oregon State University. Prepared by Dan M. Sullivan.)
+Figure 4 shows the relationship between SMP Some soils may have a low pH (below 5.3) and a
+test and lime recommendation. Lime rate increases fairly high SMP test value (above 6.2). This condition
+as the SMP test value decreases. can be caused by the application of fertilizer. In this
+Table 9 is used to determine the amount of lime case, the low pH value is temporary, and the pH of
+required, based on the SMP test, to raise soil pH to a the soil will increase as the fertilizer completes its
+desired level. The target pH is determined by the crop to reaction with the soil.
+be grown and possibly by other factors such as disease In western Oregon, sandy soils also may have
+management. For example, when the SMP test value a low pH and high SMP buffer value. This condi-
+is 6 (left column), the recommended rate of lime for tion occurs because sandy soils have low amounts
+most crops in western Oregon is 8,400 lb/acre. For of reserve acidity due to low CEC. In such cases,
+the same SMP test value, only 1,000 lb aglime/acre is a light application of lime (2,000 to 4,000 lb/acre)
+recommended for acid loving crops like blueberries. should suffice to neutralize soil acidity. This amount
+The recommendations in table 9 assume that lime is of lime should be applied regardless of the SMP
+incorporated by tillage to a depth of 6 inches. test value.
+Table 9. Rates of 100 score aglime to raise soil pH determined by use of SMP test.*
+Lime rate recommendation (lb/acre)
+SMP test result Acid-loving plants Western Oregon field crops, horticultural Eastern Oregon field crops, horticultural
+(blueberry, rhododendron, etc.) production and pasture production and pasture
+6.7 0 0 0
+6.4 0 4,400 1,100
+6.0 1,000 8,400 2,100
+5.6 2,000 12,600 3,150
+5.2 2,000 16,600
+4.8 2,000 20,800
+* For specific recommendations, refer to individual crop nutrient management or fertilizer guides.
+8Table 10. Lime requirement for gardens in western Because salts move readily with water, salt
+Oregon based on the SMP test. problems can be transient. Salt toxicity can occur,
+and salts may leach before soil is tested. Low salt
+When the SMP test result is … Apply this amount of lime (lb/1,000 ft2):
+values, therefore, do not always rule out salt toxicity
+<5.5 250
+as a cause of problems.
+5.5–6.0 150–250
+Salt tolerance varies greatly among plant spe-
+6.0–6.5 100–150 cies. Seedlings are especially sensitive to high salt
+>6.5 0 concentrations. Excessive salts may inhibit seed
+germination. Excessive fertilization and poor irriga-
+tion water quality are sources of salts.
+Sodium (Na)
+For more information, see the following in the OSU
+Sodium is not a plant nutrient and therefore is not Extension Catalog (http://extension.oregonstate.
+necessary for plant growth. High levels of sodium edu/catalog/): Managing Salt-affected Soils for
+Crop Production (PNW 601).
+are detrimental to soil structure, soil permeability,
+and plant growth, a problem encountered east of the
+Cascade Mountain Range. Organic matter or soil carbon
+Sodium levels are evaluated based on exchange-
+able sodium percentage (ESP). The ESP is the percent Interpretation
+of the CEC occupied by Na. Soil organic matter (OM) is a surrogate for soil
+ESP values above 10 percent are of concern. carbon and is measured as a reflection of overall soil
+Excessive sodium levels can occur naturally or health. When monitored for several years, it gives
+can result from irrigation with high-sodium water. an indication whether soil quality is improving or
+Reclamation involves establishment of drainage degrading. Soil OM is important to a wide variety of
+followed by gypsum application and leaching with soil chemical, physical, and biological properties. As
+low-sodium water. soil OM increases, so does CEC, soil total N content,
+and other soil properties such as water-holding capac-
+Soluble salts ity and microbiological activity. As OM increases, so
+does the ability to adsorb and reduce effectiveness
+Soluble salt problems usually are associated
+of many soil-applied herbicides.
+with arid regions in eastern Oregon and Washington.
+Soil OM is in equilibrium with climate, soil min-
+Soils with high levels of soluble salts are called
+eralogy, and environment, providing limited capacity
+saline soils. Soils high in sodium are called sodic
+to accumulate organic matter. A soil with 2 percent
+soils (see “Sodium” section). Saline-sodic soils are
+OM will not increase to 10 percent under normal
+high in both soluble salts and sodium. Soluble salts
+farming or gardening practices. A 2 percent increase
+are measured by electrical conductivity (EC) of a
+in soil OM (e.g., from 1 to 3 percent or from 4 to 6
+saturated paste soil extract.
+percent) would be considered a large change and the
+maximum likely for most situations in Oregon. Soil
+OM could increase more than 2 percent in a garden
+Table 11. Soluble salts determined from a saturated
+paste extract. or area receiving large amounts of compost or other
+organic residue.
+EC (mmhos/cm)* ppm salt† Suitability for crop production
+Soil OM content is not a quantitative indicator of
+Low <1.0 <640 Suitable the capacity of soil to supply plant-available nitrogen
+Medium 1.0–2.5 640–1,600 Marginal (PAN) for plant growth even though a soil with more
+High >2.5 >1,600 Poor, unsuitable for many crops OM contains more total N. The timing and amount
+of PAN released from soil organic matter is depen-
+Note: Some laboratories determine EC using a 1:1 or 2:1 ratio of water to soil,
+dent on soil temperature, moisture, and many other
+which provides a substantially lower value than the saturated paste extract. No
+relationship has been established for converting 1:1 or 2:1 EC to saturated paste EC. soil management factors. Laboratories that estimate
+* mmhos/cm is equivalent to deci-siemen/m (dS/m) and milli-siemen/cm (mS/cm). plant-available N release based on soil OM typically
+† Multiply mmhos/cm by 640 to estimate ppm salt. do not have calibration data to support their estimates.
+9Methods for determining soil organic matter Combustion method is more accurate and reproduc-
+Soil OM values vary with method used for the ible than the LOI method because it directly measures
+analysis. Utility of soil OM data is dependent upon the central component of organic matter (carbon),
+analytical method. Before soil OM is determined, while LOI measures weight loss (includes organic
+determine the analytical method to be used. If you matter plus some water adhering to soil minerals).
+are monitoring OM, use the same analytical labora- For monitoring soil OM, the Combustion method is
+tory and analytical method. Differences in results the most suitable test.
+from varying methods can mask changes in OM
+from management. Cation exchange capacity (CEC)
+Laboratory methods used to determine OM
+CEC is a measure of a soil’s capacity to retain
+include the following:
+and release elements such as K, Ca, Mg, and Na.
+• Loss On Ignition (LOI) method—sample
+Soils with high clay and/or organic matter content
+weight loss on ignition at 360ºC–400ºC
+have high CEC. Sandy, low organic matter soils have
+• Combusion method—combustion of sample at
+low CEC. Soil CEC is relatively constant, so no need
+900ºC–1800ºC and direct measurement of C lost
+exists for repeated analyses.
+in gas
+Some laboratories estimate CEC based on soil
+• Walkley-Black method—wet chemistry reac-
+texture, organic matter content, cations, SMP, and pH.
+tion of soil C with an oxidizing agent (potassium
+Such estimates can be inaccurate. The “sum of bases”
+dichromate)
+method for calculating CEC can give inaccurate
+Choosing one of these methods for organic mat-
+results, especially in high pH soils containing lime.
+ter determination involves consideration of factors
+CEC is used to estimate the amount of elemental
+outlined in table 12.
+sulfur required for soil acidification in western Oregon
+What method is preferred?
+and Washington. Acidifying soil is sometimes neces-
+The LOI method is the least expensive. The sary for production of blueberries or nursery stock
+Combusion and Walkley-Black methods are both such as rhododendrons and red maple.
+moderate to high cost. When only an approximate
+For more information, see the following in
+value for soil organic matter is needed, the less
+the OSU Extension Catalog (http://extension.
+expensive LOI test is probably adequate. oregonstate.edu/catalog/): Acidifying Soil for
+The Combusion and Walkley-Black methods both Crop Production West of the Cascade Mountains
+provide high accuracy and high reproducibility; the (EM 8857); Acidifying Soil for Crop Production:
+Inland Pacific Northwest (PNW 599).
+LOI method is less accurate and less reproducible. The
+Table 12. Factors to consider in choosing soil organic matter laboratory method.
+Method Test cost and availability Suitability for soil with carbonate Accuracy and reproducibility Comments
+Loss on Ignition Low cost; often included in Suitable Low to medium; results inconsistent LOI value can be higher or lower
+routine soil test “package” than “true” value determined by
+direct measurement
+Combustion* Moderate to high cost; Suitable after sample pretreatment High Preferred test
+available as additional test to remove carbonates
+upon request at many labs
+Walkley-Black* Moderate to high cost; not Suitable High Test generates a toxic waste
+offered at many labs (chromium)
+*Soil C determined via Combustion or Walkley-Black method is expressed as OM via the following equation: OM = C × 1.7.
+10Base saturation Since base saturation is simply an indirect
+Base saturation is the percentage of the soil CEC expression of soil pH, it is not required for making
+that is occupied by basic cations (calcium, magne- fertilizer or lime recommendations. In acidic soils,
+sium, potassium, sodium) at the current soil pH value. base saturation and soil pH change simultaneously.
+Base saturation and CEC are nearly equivalent (base Liming increases base saturation and soil pH. Sulfur
+saturation is 100 percent) when soil pH is near 7. An application will reduce base saturation and pH. Base
+acidic soil has a base saturation of about 50 percent saturation is not a useful concept in alkaline soils,
+when the soil pH is about 5. where base saturation equals or exceeds 100 percent.
+Table 13. Unit conversions.*
+To convert column 1 into column 2, divide by Column 1 Column 2 To convert column 2 into column 1, multiply by
+390 ppm K meq K/100 g soil 390
+200 ppm Ca meq Ca/100 g soil 200
+121 ppm Mg meq Mg/100 g soil 121
+230 ppm Na meq Na/100 g soil 230
+1 meq/100 g soil cmol/kg soil 1
+3.5† lb/acre (1 ft depth) ppm 3.5†
+43.56 lb/acre lb/1,000 ft2 43.56
+43,560 ft2 acres 43,560
+2.471 acres hectares 2.471
+2.3 PO P 2.3
+2 5
+1.2 KO K 1.2
+2
+* Units used in analytical reports vary. For example, 1 ppm (w/w) = 1 mg/kg or 1 ug/g. Use the conversions in this table to change a unit into a term familiar to you.
+† This factor depends on soil bulk density. 3.5 x ppm = lb/acre-ft when soil bulk density is 1.3 grams per cm3 (81 lb/ft3). These soils typically have a medium to fine texture.
+Use 4 when the soil is “sandy,” more than 60 percent sand.
+11Acknowledgements Hart, J.M., D.M. Sullivan, J.R. Myers, and R.E. Peachey. 2010.
+Sweet Corn Nutrient Management Guide (Western
+This publication was adapted and updated from the
+Oregon). EM 9010. Corvallis, OR: Oregon State University
+following: Marx, E.S., J. Hart, and R.G. Stevens. 1996. Soil Test
+Extension Service.
+Interpretation Guide. EC 1478. Corvallis, OR: Oregon State
+Horneck, D.A., J.W. Ellsworth, B.G. Hopkins, D.M. Sullivan,
+University Extension Service.
+and R.G. Stevens. 2007. Managing Salt-affected Soils for
+This guide was reviewed by the following individuals: Nick
+Crop Production. PNW 601. Corvallis, OR: Oregon State
+Andrews, Small Farms Program, North Willamette Research and
+University Extension Service.
+Extension Center, Oregon State University; Patrick Peterson,
+Horneck, D., J. Hart, R. Stevens, S. Petrie, and J. Altland. 2004.
+Marion Ag Service, Inc., St. Paul, Oregon; Ben Piper, Wilbur-Ellis
+Acidifying Soil for Crop Production West of the Cascade
+Company, Woodburn, Oregon.
+Mountains (Western Oregon and Washington). EM 8857.
+Corvallis, OR: Oregon State University Extension Service.
+For more information
+Horneck, Donald, Donald Wysocki, Bryan Hopkins, John
+The following publications and nutrient management Hart, and Robert Stevens. 2007. Acidifying Soil for Crop
+guides/fertilizer guides for many individual crops are avail- Production: Inland Pacific Northwest. PNW 599. Corvallis,
+able through the Oregon State University Extension Service OR: Oregon State University Extension Service.
+Publications and Multimedia Catalog (http://extension. Locke, K., D. Horneck, J. Hart, and R. Stevens. 2006. Acidifying Soil
+oregonstate.edu/catalog/): in Landscapes and Gardens East of the Cascades. EC 1585.
+Corvallis, OR: Oregon State University Extension Service.
+Altland, J. 2006. Managing Manganese Deficiency in Nursery Staben, M.L., J.W. Ellsworth, D.M. Sullivan, D. Horneck, B.D.
+Production of Red Maple. EM 8905. Corvallis, OR: Oregon Brown, and R.G. Stevens. 2003. Monitoring Soil Nutrients
+State University Extension Service. Using a Management Unit Approach. PNW 570. Corvallis,
+Anderson, Nicole P., John M. Hart, Neil W. Christensen, Mark E. OR: Oregon State University Extension Service.
+Mellbye, and Michael D. Flowers. 2010. Using the Nitrogen Sullivan, D.M., and C.G. Cogger. 2003. Post-harvest Soil Nitrate
+Mineralization Soil Test to Predict Spring Fertilizer N Rate for Testing for Manured Cropping Systems West of the Cascade
+Soft White Winter Wheat Grown in Western Oregon. EM 9020. Mountain Range. EM 8832. Corvallis, OR: Oregon State
+Corvallis, OR: Oregon State University Extension Service. University Extension Service.
+Anderson, Nicole P., John M. Hart, Donald A. Horneck, Dan M.
+Sullivan, Neil W. Christensen, and Gene J. Pirelli. 2010.
+Evaluating Soil Nutrients and pH by Depth in Situations of
+© 2011 Oregon State University.
+Limited or No Tillage in Western Oregon. EM 9014. Corvallis,
+OR: Oregon State University Extension Service. Authors: Donald A. Horneck, Extension agronomist;
+Corp, M.K., D.A. Horneck, D. Wysocki, and L. Lutcher. 2006. Dan M. Sullivan, Extension soil scientist; Jim S. Owen,
+Extension horticulturist; John M. Hart, professor of crop
+Monitoring Soil Nutrients in Dryland Systems Using
+and soil science, emeritus; all of Oregon State University.
+Management Units. EM 8920. Corvallis, OR: Oregon State
+University Extension Service. This publication was produced and distributed in further-
+Gardner, E. Hugh, Michael Robotham, and John Hart. 2003. Soil ance of the Acts of Congress of May 8 and June 30, 1914.
+Sampling for Home Gardens and Small Acreages. EC 628. Extension work is a cooperative program of Oregon State
+University, the U.S. Department of Agriculture, and Oregon
+Corvallis, OR: Oregon State University Extension Service.
+counties. Oregon State University Extension Service offers
+Hart, J., D. Horneck, R. Stevens, N. Bell, and C. Cogger. Acidifying
+educational programs, activities, and materials without
+Soil for Blueberries and Ornamental Plants in the Yard and
+discrimination based on age, color, disability, gender
+Garden West of the Cascade Mountain Range in Oregon identity or expression, marital status, national origin,
+and Washington. EC 1560. Corvallis, OR: Oregon State race, religion, sex, sexual orientation, or veteran’s status.
+University Extension Service. Oregon State University Extension Service is an Equal
+Opportunity Employer.
+Hart, J., D. Sullivan, M. Gamroth, T. Downing, and A. Peters.
+2009. Silage Corn Nutrient Management Guide (Western
+Originally published August 1996. Revised July 2011.
+Oregon). EM 8978. Corvallis, OR: Oregon State University
+Extension Service.
+12

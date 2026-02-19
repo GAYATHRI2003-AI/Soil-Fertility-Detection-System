@@ -1,0 +1,241 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="main-content">
+    <!-- Hero Section -->
+    <section class="hero" style="background-image: url('file:///c:\Users\Yazhini\OneDrive\Desktop\soil\bgd.png'); height: 60vh;">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1>About FertilityPro</h1>
+            <p class="hero-subtitle">Revolutionizing Soil Analysis & Agricultural Intelligence</p>
+        </div>
+    </section>
+
+    <!-- About Content -->
+    <section class="features" style="padding: 4rem 0;">
+        <div class="container">
+            <div style="max-width: 900px; margin: 0 auto; text-align: center; margin-bottom: 3rem;">
+                <h2 style="font-size: 2.5rem; margin-bottom: 1rem; color: #2d3748;">What is FertilityPro?</h2>
+                <p style="font-size: 1.1rem; color: #718096; line-height: 1.8;">
+                    FertilityPro is an AI-powered soil fertility analysis and agricultural decision support system 
+                    designed to help farmers, agronomists, and agricultural professionals make data-driven decisions 
+                    for optimal crop productivity. By combining advanced machine learning, deep learning, and large 
+                    language models with comprehensive agricultural knowledge, FertilityPro provides actionable insights 
+                    for sustainable farming practices across India.
+                </p>
+            </div>
+
+            <!-- Mission & Vision -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 4rem;">
+                <div class="feature-card">
+                    <i class="fas fa-bullseye"></i>
+                    <h3>Our Mission</h3>
+                    <p>Empower farmers with accurate, real-time soil analysis and recommendations to increase productivity while maintaining environmental sustainability.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-lightbulb"></i>
+                    <h3>Our Vision</h3>
+                    <p>Transform agriculture through intelligent technology, making precision soil management accessible to every farmer regardless of their technical expertise.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-heart"></i>
+                    <h3>Our Values</h3>
+                    <p>Accuracy, Sustainability, Accessibility, Innovation, and Farmer-Centric Design guide every decision we make.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technology Stack -->
+    <section class="models-section">
+        <div class="container">
+            <h2 style="font-size: 2.5rem;">Advanced Technology Stack</h2>
+            <p style="text-align: center; color: #718096; font-size: 1.1rem; margin-bottom: 3rem;">
+                FertilityPro leverages cutting-edge AI and machine learning technologies
+            </p>
+
+            <div class="models-grid">
+                <!-- Machine Learning Card -->
+                <div class="model-card">
+                    <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #667eea 0%, #5a67d8 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; color: white; font-size: 2rem;">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h4>Machine Learning (ML)</h4>
+                    <p class="model-desc"><strong>RandomForestClassifier</strong></p>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem; color: #718096;">
+                        Ensemble learning algorithm with 80% accuracy for soil fertility classification. 
+                        Trained on 1,000+ soil samples across 15+ Indian states, analyzing 10 soil parameters 
+                        to identify optimal, high, moderate, low, and infertile soil conditions.
+                    </p>
+                </div>
+
+                <!-- Deep Learning Card -->
+                <div class="model-card">
+                    <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; color: white; font-size: 2rem;">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h4>Deep Learning (DL)</h4>
+                    <p class="model-desc"><strong>all-MiniLM-L6-v2 Embeddings</strong></p>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem; color: #718096;">
+                        State-of-the-art sentence transformer (90MB) for semantic text understanding. 
+                        Converts agricultural knowledge into 384-dimensional embeddings for intelligent 
+                        information retrieval and similarity matching across 5,691 indexed document chunks.
+                    </p>
+                </div>
+
+                <!-- LLM Card -->
+                <div class="model-card">
+                    <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; color: white; font-size: 2rem;">
+                        <i class="fas fa-comments"></i>
+                    </div>
+                    <h4>Large Language Model (LLM)</h4>
+                    <p class="model-desc"><strong>Google FLAN-T5-Base</strong></p>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem; color: #718096;">
+                        250-million parameter instruction-following model for natural language understanding. 
+                        Synthesizes complex agricultural knowledge into clear, actionable answers (~50ms inference). 
+                        Operates locally without cloud dependency, ensuring privacy and reliability.
+                    </p>
+                </div>
+
+                <!-- Database Card -->
+                <div class="model-card">
+                    <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; color: white; font-size: 2rem;">
+                        <i class="fas fa-database"></i>
+                    </div>
+                    <h4>Vector Database</h4>
+                    <p class="model-desc"><strong>ChromaDB</strong></p>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem; color: #718096;">
+                        Scalable vector search engine optimized for semantic retrieval. Indexes 5,691 chunks 
+                        from 35+ research papers across 13 categories (150 MB total). Enables fast, context-aware 
+                        knowledge retrieval in &lt;2 seconds.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Features -->
+    <section class="features">
+        <div class="container">
+            <h2 style="font-size: 2.5rem;">Key Features</h2>
+            
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <i class="fas fa-chart-bar"></i>
+                    <h3>AI-Powered Analysis</h3>
+                    <p>Analyze 10 soil parameters (N, P, K, pH, EC, OC, S, Zn, Fe, B) using Liebig's Law of Minimum to identify limiting factors.</p>
+                </div>
+
+                <div class="feature-card">
+                    <i class="fas fa-lightning-bolt"></i>
+                    <h3>Real-Time Insights</h3>
+                    <p>Get instant fertility assessments, precise amendment recommendations, and soil improvement strategies tailored to your field.</p>
+                </div>
+
+                <div class="feature-card">
+                    <i class="fas fa-brain"></i>
+                    <h3>LLM-Powered Q&A</h3>
+                    <p>Ask complex agricultural questions and receive synthesized answers from 35+ research papers with confidence scores.</p>
+                </div>
+
+                <div class="feature-card">
+                    <i class="fas fa-map"></i>
+                    <h3>Regional Coverage</h3>
+                    <p>Specialized recommendations for 15+ Indian states including Punjab, Haryana, UP, MP, Rajasthan, and more.</p>
+                </div>
+
+                <div class="feature-card">
+                    <i class="fas fa-sprout"></i>
+                    <h3>Crop Advisory</h3>
+                    <p>Season-specific crop recommendations (Kharif, Rabi, Zaid) based on soil conditions and regional climate patterns.</p>
+                </div>
+
+                <div class="feature-card">
+                    <i class="fas fa-leaf"></i>
+                    <h3>Sustainable Farming</h3>
+                    <p>Recommendations for organic amendments, biofortification, and sustainable soil management practices.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Platform Statistics -->
+    <section class="metrics-section">
+        <div class="container">
+            <h2 style="font-size: 2.5rem;">Platform Statistics</h2>
+            
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <h4>80%</h4>
+                    <p>ML Model Accuracy</p>
+                </div>
+
+                <div class="metric-card">
+                    <h4>5,691</h4>
+                    <p>Knowledge Documents</p>
+                </div>
+
+                <div class="metric-card">
+                    <h4>10</h4>
+                    <p>Soil Parameters</p>
+                </div>
+
+                <div class="metric-card">
+                    <h4>35+</h4>
+                    <p>Research Papers</p>
+                </div>
+
+                <div class="metric-card">
+                    <h4>&lt;2s</h4>
+                    <p>Processing Speed</p>
+                </div>
+
+                <div class="metric-card">
+                    <h4>15+</h4>
+                    <p>Indian States</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Impact Section -->
+    <section class="features">
+        <div class="container">
+            <h2 style="font-size: 2.5rem; text-align: center; margin-bottom: 3rem;">How FertilityPro Makes an Impact</h2>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; max-width: 900px; margin: 0 auto;">
+                <div style="padding: 2rem; border-left: 4px solid #667eea; background: #f5f7fa; border-radius: 4px;">
+                    <h4 style="color: #667eea; margin-bottom: 1rem;"><i class="fas fa-chart-line"></i> For Farmers</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Increase crop productivity by 20-30%</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Reduce fertilizer costs through precision application</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Minimize environmental impact</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Make data-driven farming decisions</li>
+                    </ul>
+                </div>
+
+                <div style="padding: 2rem; border-left: 4px solid #f093fb; background: #f5f7fa; border-radius: 4px;">
+                    <h4 style="color: #f093fb; margin-bottom: 1rem;"><i class="fas fa-microscope"></i> For Agronomists</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Quick field assessments</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Evidence-based recommendations</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Manage multiple farms efficiently</li>
+                        <li style="margin: 0.5rem 0;"><i class="fas fa-check" style="color: #43e97b; margin-right: 0.5rem;"></i> Access latest agricultural research</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Transform Your Farming?</h2>
+            <p>Start analyzing your soil with FertilityPro today and unlock the potential of precision agriculture.</p>
+            <a href="/" class="btn btn-primary btn-lg">
+                <i class="fas fa-arrow-right"></i> Get Started
+            </a>
+        </div>
+    </section>
+</div>
+{% endblock %}

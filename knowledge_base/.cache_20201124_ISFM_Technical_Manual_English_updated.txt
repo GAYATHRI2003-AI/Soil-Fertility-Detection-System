@@ -1,0 +1,556 @@
+SUSTAINABLE USE OF REHABILITAED LAND FOR
+EC ONM IC D EVEL OPM ENT ( SURE D) P ROGRAMME
+TECHNICAL MANUAL
+SOIL FERTILITY MANAGEMENT
+www.moa.gov.et
+Second edition
+November 2020This “Soil Fertility Management” technical manual is designed as a training package targeted
+to reach communities. The manual consists and provides technical information and
+theoretical backgrounds for “Integrated Soil Fertility Management” (ISFM) technologies for
+woreda experts and Development Agents for use as a teaching and learning aid.
+The manual is available at GIZ-SURED programme offices or as free download from the
+Ministry of Agriculture website. An additional manual developed by the SURED programme
+“Training Manual for Biological Soil and Water Conservation” provides additional and
+complementary information.
+www.moa.gov.et
+ACKNOWLEDGEMENTS
+This updated manual on soil fertility management results from the experiences gained in
+project implementation of the “Integrated Sol Fertility Management” project, since its
+inception, when the first edition was published in January 2016. The manual forms part of a
+training package for woreda experts and development agents operating at kebele level. It
+includes training plans, teaching and learning aids for farmers.
+Acknowledgements are given from contributions both written and verbal from many
+individuals, researchers, soil, crop and livestock experts, development agents and farmers,
+the ultimate beneficiaries.
+Publication has been supported by Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ) GmbH on behalf of the German Government.FOREWORD
+Major land degradation problems across the Ethiopian Highlands include soil erosion, soil
+nutrient and organic matter depletion and soil acidity. The causes of these problems include
+inherent soil characteristics, intense and erosive rainfall events, frequent tillage, limited
+adoption of soil fertility and health management measures, poor nutrient recycling due to
+competing uses of crop residue and animal manure, sub-optimal and inappropriate
+application of organic and inorganic fertilizers, overgrazing, and deforestation.
+Many factors underly the causes of these problems. These include growing populations,
+poverty and food insecurity, limited market development and/or access, farmers’ lack of
+awareness of appropriate and profitable technologies or practices, the high costs of inputs
+and lack of credit, and difficulties in achieving effective collective action to manage soil
+health and fertility. The challenge for policy makers is to identify and implement appropriate
+policies and programmes to effectively address these problems and achieve sustainable
+development in the Highlands. In areas with high agricultural potential and high market
+access, intensification of crop production using high levels of external inputs maybe
+appropriate, whereas in medium and lower potential areas with limited market access, an
+integrated crop–livestock system is desirable. This can be achieved using integrated soil
+fertility management approach on cultivated land in conjunction with improved management
+of grazing and enclosure areas.
+As such, the Ethiopian Government remains committed to promoting sustainable soil health
+and, fertility management for the benefit of both present and future generations. Improving
+soil health and fertility is an essential pre-requisite for achieving the targets set out in the
+national development agenda for both increasing agricultural productivity on a sustainable
+basis, improving human health and food security. There are several ongoing initiatives
+spearheaded by the Ministry of Agriculture to promote and safe-guard soil health in Ethiopia.
+These include scaling up the Sustainable Land Management (SLM) programme of which the
+Integrated Soil Fertility Management approach is an integral component. It also includes
+activities to promote Conservation Agriculture (CA) and increase capacity for Climate Smart
+Agriculture (CSA), these being key components of the ongoing Ethiopian Soil management
+initiatives.
+For these reasons, this updated Technical Manual is welcomed.
+Ato Tefera Solomon
+MoA, Soil Fertility Improvement Directorate DirectorTABLE OF CONTENTS
+INTRODUCTION ............................................................................................................................................... 1
+MODULE 1: CONCEPTS OF A HEALTHY SOIL ..................................................................................................... 2
+1.1 WHAT IS A HEALTHY SOIL? ........................................................................................................................... 2
+1.2 MAJOR SOIL FERTILITY PROBLEMS IN ETHIOPIA ................................................................................................ 4
+1.3 THE ESSENTIAL ROLE OF SOIL ORGANIC MATTER IN MAINTAINING SOIL HEALTH ........................................................ 5
+MODULE 2: INTEGRATED SOIL FERTILITY MANAGEMENT ................................................................................ 8
+2.1 CONCEPT AND PRINCIPLES ............................................................................................................................ 8
+2.2 A NUTRIENT BUDGET CALCULATION .............................................................................................................. 10
+2.3 SELECTING APPROPRIATE ISFM TECHNOLOGIES .............................................................................................. 11
+2.5 SOCIO-ECONOMIC AND BIO-PHYSICAL CHALLENGES ......................................................................................... 14
+MODULE 3: CONSERVATION AGRICULTURE ................................................................................................... 17
+3.1 CONCEPTS AND PRINCIPLES OF CONSERVATION AGRICULTURE ............................................................................ 17
+3.2 MINIMUM OR ZERO TILLAGE ...................................................................................................................... 18
+3.3 OVERCOMING THE CHALLENGES IN ADOPTING CA .......................................................................................... 19
+MODULE 4: INTEGRATED CROP-LIVESOCK MANAGEMENT SYSTEMS ............................................................. 20
+4.1 CONCEPT AND PRINCIPLES .......................................................................................................................... 20
+4.2 INTEGRATED CROP-LIVESTOCK MANAGEMENT PRACTICES ................................................................................ 22
+4.3 PRODUCTIVE USE OF AREA ENCLOSURES ........................................................................................................ 23
+4.4 SOCIAL ARRANGEMENTS FOR CROP-LIVESTOCK INTEGRATION ............................................................................ 23
+4.5 CHALLENGES FACED .................................................................................................................................. 24
+MODULE 5: ORGANIC FERTILISER PRODUCTION AND USE ............................................................................. 25
+5.1 CONCEPTS AND PRINCIPLES OF ORGANIC MATTER USE ...................................................................................... 25
+5.2 INCREASING AND MAINTAINING SOIL ORGANIC MATTER CONTENT ...................................................................... 26
+5.3 REQUIREMENTS FOR MAKING CONVENTIONAL COMPOST .................................................................................. 27
+5.4 CONVENTIONAL COMPOSTING METHODS ...................................................................................................... 30
+5.5 FARMYARD MANURE ................................................................................................................................ 32
+5.6 RAPID COMPOSTING VERMI-CULTURE AND VERMI-COMPOST ............................................................................ 33
+5.7 RAPID COMPOSTING USING EFFECTIVE MICRO-ORGANISMS .............................................................................. 41
+5.8 BIO-DIGESTERS, BIO-GAS SLURRY MANAGEMENT, USE AND CHALLENGES ............................................................. 43
+5.9 PLANNING AND USING GOOD QUALITY ORGANIC FERTILIZERS ............................................................................ 46
+MODULE 6: CROP ROTATIONS ....................................................................................................................... 49
+6.1 CONCEPT ................................................................................................................................................ 49
+6.2 BENEFITS AND CHALLENGES ........................................................................................................................ 49
+6.3 PLANNING FOR IMPLEMENTATION OF CROP ROTATION ..................................................................................... 49
+MODULE 7: INTERCROPPING ......................................................................................................................... 50
+7.1 CONCEPT ................................................................................................................................................ 50
+7.2 EVIDENCE OF BENEFIT ............................................................................................................................... 50
+7.3 COMMON INTERCROPPING SYSTEMS ............................................................................................................ 51
+7.4 PUSH–PULL INTERCROPPING ....................................................................................................................... 52
+MODULE 8: CROP RESIDUE MANAGEMENT AND MULCHING ......................................................................... 53
+8.1 CONCEPT AND PRINCIPLES ......................................................................................................................... 53
+8.2 CROP RESIDUE MANAGEMENT..................................................................................................................... 53
+8.3 BENEFIT OF USING CROP RESIDUE MULCH FOR NUTRIENT CYCLING AND SOIL FERTILITY ............................................ 54
+8.4 CHALLENGES ........................................................................................................................................... 55
+MODULE 9: GREEN MANURES AND COVER CROPS ........................................................................................ 56
+9.1 CONCEPT AND PRINCIPLE ........................................................................................................................... 569.2 ESTABLISHMENT AND MANAGEMENT OF GREEN MANURES ............................................................................... 56
+9.3 CHALLENGES ........................................................................................................................................... 57
+MODULE 10: BIOLOGICAL NITROGEN FIXATION (BNF) ................................................................................... 58
+10.1 CONCEPTS AND PRINCIPLES ........................................................................................................................ 58
+10.2 SYMBIOTIC NITROGEN FIXATION ................................................................................................................. 60
+10.3 PROMOTION OF RHIZOBIUM INOCULANTS ..................................................................................................... 61
+MODULE 11: SOIL ACIDITY MANAGEMENT .................................................................................................... 66
+11.1 CONCEPT AND PRINCIPLES ......................................................................................................................... 66
+11.2 WHY DO SOILS BECOME ACIDIC? ................................................................................................................. 67
+11.3 EFFECTS OF ACIDITY ON CROP GROWTH AND PRODUCTIVITY .............................................................................. 67
+11.4 MANAGING ACID SOILS .............................................................................................................................. 68
+MODULE 12: USES FOR AGRO-FORESTRY IN SOIL FERTILITY MANAGEMENT .................................................. 71
+12.1 CONCEPT AND PRINCIPLE ........................................................................................................................... 71
+12.2 IMPROVED FALLOW .................................................................................................................................. 71
+12.3 BIOMASS TRANSFER .................................................................................................................................. 72
+12.4 HEDGE ROW AND ALLEY CROPPING .............................................................................................................. 73
+MODULE 13: RAINWATER HARVESTING ......................................................................................................... 74
+13.1 CONCEPT ................................................................................................................................................ 74
+13.2 TYPES OF RAINWATER HARVESTING .............................................................................................................. 74
+13.3 CHALLENGES EXPERIENCED ......................................................................................................................... 78
+MODULE 14: CLIMATE CHANGE, GREEN HOUSE GAS EMISSIONS AND BIODIVERSITY .................................... 80
+14.1 SOME DEFINITIONS ................................................................................................................................... 80
+14.2 CHALLENGES FOR AGRICULTURE AND FORESTRY .............................................................................................. 81
+14.3 ISFM’S ROLE IN MITIGATING THE EFFECTS OF CLIMATE CHANGE ......................................................................... 81
+14.4 BUILDING PARTNERSHIPS TO PROMOTE ISFM AND CSA .................................................................................. 82
+MODULE 15: COMPARING APPROACHES THAT TARGET SOIL HEALTH AND SOIL FERTILITY IMPROVMENT .... 87
+MODULE 16: ENSURING THE EFFICIENCY OF INPUT USE ................................................................................ 89
+16.1 BASIC PRINCIPLES ..................................................................................................................................... 89
+16.2 PLANT NUTRIENT MANAGEMENT ................................................................................................................. 89
+16.3 AGRONOMIC PRACTICES ............................................................................................................................ 93
+MODULE 17: PARTICIPATORY LEARNING AND KNOWLEDGE SHARING APPROACHES .................................... 94
+17.1 PRINCIPLES ............................................................................................................................................. 94
+17.2 FARMER FIELD SCHOOLS ............................................................................................................................ 96
+17.3 TESTING NEW IDEAS THROUGH FARMER DEMONSTRATION AND EXPERIMENTATION ............................................... 98
+17.4 OBSERVING, MONITORING AND EVALUATING ................................................................................................. 99
+BIBLIOGRAPHY AND FURTHER READING ...................................................................................................... 107INTRODUCTION
+Soil fertility is fundamental in determining the productivity of all farming systems. Soil fertility
+is commonly defined in terms of the ability of a soil to supply elements essential for plant
+growth without a toxic concentration. However, these days, soil fertility is also viewed as an
+ecosystem integrating diverse soil functions. It is the combined effects of three major
+interacting components: the chemical, physical and biological characteristics of the soil. The
+capacity of soils to be productive depends on more than just plant nutrients. The physical,
+biological, and chemical characteristics of a soil, for example its organic matter content,
+acidity, texture, depth, and water-retention capacity, all influences soil fertility.
+Degraded soils, low soil fertility and absence of sustainable soil fertility management
+practices are major constraints contributing to low productivity, food shortages and poverty in
+Ethiopia. Though water is the primary limiting factor to cultivation in most cultivated lands in
+Ethiopia, soil fertility is a close second.
+Major causes of soil fertility decline include topsoil erosion, organic matter depletion and soil
+acidity. According to IFPRI (2010), the average annual soil loss from agricultural land is
+estimated to be 137 tons per hectare per year for the Ethiopian highlands, which is
+approximately an annual soil depth loss of 10-13 mm. Soil acidity and aluminum toxicity is
+another important challenge affecting soil fertility in Ethiopia. According to Schlede (1989),
+over 40% of Ethiopian soils are affected by acidity. Out of this total, 27.7 percent are
+moderate to weakly acidic (pH of 5.5 - 6.7); 13.2 percent are strong to moderately acidic (pH
+< 5.5) and nearly one-third have an aluminum toxicity problem. Severe organic matter
+depletion, driven by competing uses for crop residues and manure as livestock feed and fuel
+is another major cause of low soil fertility.
+Looking forward, Ethiopia major challenges of increasing population and increasing food
+demand necessitates continued gains in both land and labor productivity. Although, in the
+longer term, climate change is not expected to affect average yields, the incidences of other
+shocks are expected to increase (Dorosh and Minten. 2020). As agriculture transforms from
+a relatively low productivity cereal and small-scale livestock farms with low marketed output
+toward high productivity, soil health and soil fertility improvements are urgently required.
+There are two main approaches to improve soil fertility management (Sánchez 1995). One is
+to manage soil fertility and meet plant requirements through external inputs (inorganic
+means), while the second (organic means) relies on biological processes of optimizing
+nutrient recycling, with little emphasis on external inputs, but maximizing the efficiency of
+their use. A more sustainable middle path that combines the best features of both
+approaches, Integrated Soil fertility Management (ISFM), is better than either alone. This
+includes close crop-livestock integration as well as promoting “Conservation Agriculture”
+(CA) and “Climate Smart Agriculture” (CSA) and “Regenerative Agriculture” (RA)
+approaches where they are appropriate. For this reason, this updated manual includes
+discussion on each with additional new modules or sections on, rainwater harvesting, and
+use of biogas slurry.
+1MODULE 1: CONCEPTS OF A HEALTHY SOIL
+1.1 WHAT IS A HEALTHY SOIL?
+Soil is the cornerstone of food security and agricultural development and its care,
+restoration, enhancement and conservation is becoming a major global priority. Neglected
+soils lose fertility that increasingly lowers yields over time. Smallholder farmers, especially
+those that farm on inherently poor soils and lack the resources to invest in their lands,
+disproportionately carry the greatest burden. Renewed attention and investment in soils and
+sustainable land management, however, can reverse the process of degradation. Embracing
+integrated soil management that builds on local and natural resources, with the appropriate
+use of targeted inputs and management practices, will provide the care and attention that
+Africa’s soils need for long term sustainable and productive use (Montpellier Panel, 2014).
+A recent “Soil Atlas of Africa” (Jones et al, 2013) highlights soil degradation as a threat to
+about one quarter of the productive land on the continent. This includes desertification and
+soil erosion, but most prominent is the decline in soil fertility through loss of nutrients and
+organic matter under continuous cropping. At the same time, a growing population and the
+need for social and economic development, along with concerns about climate change,
+continue to increase demands on agriculture for food, fodder, fuel and fibre. Simply
+increasing the amount of land dedicated to agriculture is neither desirable nor feasible.
+Instead we need to think about how we can establish and sustain healthy soil, healthy
+people and healthy eco-systems. A healthy human population, which includes food and
+nutritional security, starts from the soil. In creating a healthy soil, it is necessary to consider
+how Integrated Soil Fertility Management (ISFM) can increase crop health and yields for
+human benefit. At the same time, managing a healthy ecosystem puts soil in a wider context
+of managing land and supporting farmers to make improved land use decisions.
+A healthy soil, sometimes called a quality soil is described as having favourable physical,
+chemical and biological functions. Some farmers describe the health of the soil as “the
+power of the soil”. The concept is similar with animals. If a cow is healthy and fertile, it will
+produce many calves. The same applies to the soil. A healthy and fertile soil with a good
+soil structure and a rich base of nutrients with adequate water and energy from light and
+heat will produce good crops and high yields (Figure 1).
+Soils form a living system in which the activities of soil organisms create and enhance soil
+health and enhance productive capacity. A healthy soil has:
+Good soil structure. This means the soil is soft and its particles are well structured,
+providing favorable conditions for plant roots to grow. A good structure also provides air to
+the roots and helps them to extract nutrients and water from the soil.
+Rich base of nutrients. This means that all the different nutrients which plants need for
+good growth are available in the soil.
+Soil micro-organisms. These carry out the biological processes in the creation of healthy
+soil, through symbiotic relationships between plant root systems, soil nutrients and soil
+micro-organisms (Chaparro et al, 2012). Functions undertaken by micro-organisms include
+decomposition of organic matter, mineralization (or breakdown of soil nutrients), special
+2chemical changes (such as nitrification), aggregation thus improving soil structure, antibiotic
+production deterring pathogens, nitrogen fixing and toxin breakdown.
+Figure 1: Ingredients required for a healthy crop
+Soil is made of rock or mineral particles, organic matter, air and water. Between 2-5% is
+organic matter, inhabited by millions of living organisms that break down organic compounds
+and make them available to the plant. The rest of the solid matter comprises rock or mineral
+particles. The texture of the soil is determined by the type and size of mineral particles,
+ranging from clay at the smaller end to silt and sand at the largest. The mineral particle size
+determines the amount of space around each particle. Clay particles are small and tightly
+packed meaning that clay soils will hold water and nutrients but may suffer from poor
+drainage and a lack of air needed by plant roots. Conversely, sand particles have pockets of
+space around them meaning that sandy soils have better aeration and drainage but tend to
+dry out and for nutrients to be leached.
+When a soil is compacted, soil organisms and root growth are restricted, because there is
+little movement of air and water; hence they are less productive. Healthy soils have a
+mixture of small and large particles that enable water drainage and storage, particularly
+important in semi-arid and arid areas.
+The three characteristics or components of soil health are: physical, chemical and biological.
+Soil health refers to the capacity of the soil to perform agronomic and environmental
+functions. Healthy soils have favourable physical, chemical and biological properties that
+promote plant health and maintain environmental quality. A healthy soil is ‘fit for purpose’.
+This means, it is easy to work, friable, holds water and nutrients well and is free draining. It
+allows for abundant, healthy root growth and good crop establishment.
+Physical soil health. This refers to the friability and hardness of the soil. A physically
+healthy soil does not have hard pans or hard setting surfaces. It holds water well, drains well
+3and does not restrict root growth. Physical health can be assessed in the field by measuring,
+soil texture, bulk density, soil structure (aggregate stability and porosity), water-holding
+capacity, infiltration rate, depth to hardpan and depth to water table in the field or laboratory.
+Chemical soil health. This means that nutrients are in balance and available to the crop,
+the acidity / alkalinity (pH) is in the desired range and there are no problems with salinity or
+sodicity. Healthy soils have an optimal amount of nutrients, so that crop growth and yields
+are maximised on a resilient and sustainable basis (Conway, 2012). The primary nutrients
+required are nitrogen, phosphorus and potassium, with micro-nutrients also being essential
+for crop growth. These include zinc, copper, iron, chloride, manganese and molybdenum.
+Chemical soil health can be measured by conducting a soil test mainly Cat-ion exchange
+capacity (CEC), pH, plant available nutrient and electrical conductivity (EC).
+Biological soil health. This refers to soil life. A healthy soil has more soil organisms than an
+unhealthy soil of the same type. Crop residues break down easily and the chemical and
+physical health is better. Biological health can be assessed in the field by checking for
+organisms and comparing the smell and feel of the soil. A high organic matter or carbon
+content for your soil type usually means a healthy soil.
+Healthy soils lead to healthy crops, and we can maximise health benefits and sustainable
+intensification by carefully choosing the types of crops grown including legumes, fruit and
+vegetables. This will help people achieve a well-balanced diet. At the same time, it is
+important to understand that agricultural production systems interact in many ways from field
+to farm, and from farm to landscape. How we sustain soil health, human health and food
+security and healthy eco-systems are some of the most important development questions we
+need to answer. A healthy soil is a fertile soil and one of the most important foundations
+where we should start.
+1.2 MAJOR SOIL FERTILITY PROBLEMS IN ETHIOPIA
+Ethiopia faces a wider set of issues in soil fertility beyond chemical fertilizer use, which has
+historically been a major focus for extension workers, researchers, policymakers and donors.
+If left unchecked, this wider set of issues concerning soil health will limit future output and
+growth in agriculture across the country and in some areas, they already limit the
+effectiveness of chemical fertilizer. These chemical, physical and biological issues interact
+and mainly include topsoil erosion, organic matter depletion and acidity.
+Topsoil erosion: This leads to reduced soil water-holding capacity (making it more
+susceptible to extreme conditions such as drought) and limited crop emergence, growth,
+yield, and rooting depth. These in turn contribute to a vicious cycle of increased rate of loss
+of organic matter.
+According to Hurni (1993), average soil loss by erosion on cultivated land in Ethiopia was
+42 tonnes per hectare per year. Such soil loss through water erosion is always accompanied
+by losses of essential soil nutrients. Erosion is selective for fine soil particles, which are
+relatively richer in soil nutrients. In line with this, Stoorvogel and Smaling (1990) and UNDP
+(2002) reports showed that compared to rates in sub-Saharan Africa, Ethiopia has the
+highest soil nutrient outflow rates of 60 kg ha−1 (30 kg ha−1 nitrogen and 15–20 kg ha−1
+phosphorous), while inflows from fertilizers are very low (<10 kg ha−1). In the long term, such
+soil nutrient losses by erosion adversely affect soil productivity of the source areas.
+4Soil organic matter depletion: Soil organic matter (SOM) is the organic fraction of a soil. It
+consists of plant or animal tissue in various stages of breakdown or decomposition. Most
+soils contain 2-10 percent organic matter.
+Soil organic matter plays a critical role in maintaining the fertility of the soil by increasing
+water holding capacity, reducing surface crusting, increasing cat-ion exchange capacity and
+acting as a buffer against pH changes in the soil (Pieri 1989, Breman 1998, Powell and
+Unger 1997). However, organic materials necessary for maintaining soil organic matter are
+often not available in ample supply, and are often used for competing purposes, such as
+building material, animal feed, or fuel. Organic inputs can be attractive sources of nutrients in
+the sense that they are usually produced locally, and it may be less costly to apply than
+manufactured fertilizer.
+Soil organic matter depletion is a widespread problem in Ethiopia. Investigation made by
+Zeleke et al. (2010) indicates that many soils of the different areas of the country are rated
+low, concerning their organic matter content. Depletion of soil organic matter is driven by
+competing uses for crop residues and manure as livestock feed and fuel. Burning of dung
+cake and crop residues is common due to a lack of widely available and affordable fuel
+wood. Dung cake has been reported to account for about 50 percent of households’ fuel
+supply, particularly in the north and central highland cereal zones, and in some areas,
+manure is used as a source of supplementary cash income. Zinash and Seyoum (1989)
+reported that 63 percent of cereal straws were used for feed, 20 percent for fuel, 10 percent
+for construction, and 7 percent for bedding.
+Soil Acidity: When soil pH is lower than optimal (5.5 and below), it can be described as
+acidic. In this case, the solubility of nutrients needed for growth is reduced leading to
+deficiency in N, P, K, Mg, Ca and Mo. These conditions also usually lead to Al and Mn
+toxicity. This has multiple implications for plant growth and other soil fertility issues, such as
+lack of or reduced response to Ammonium Phosphate and Urea fertilizers, stunted root and
+plant growth due to nutrient deficiency, increased incidence of disease, and toxicity, such as
+for Mn, causing black spots and streaks on leaves). Crop yields are frequently reduced by
+50 percent and even to total crop failure.
+The cause of soil acidity could be the type of parent materials from which the soil is formed,
+leaching of base forming cations, continuous use of acid forming fertilizers such as Urea and
+DAP (Cook, 1982). Soil acidity is further aggravated by leaching and continuous removal of
+basic cations through crop harvest. According to Schlede (1989), over 40% of Ethiopia’s
+soils are affected by acidity, with 28 percent being moderately to weakly acidic (pH of 5.5 -
+6.7); 13 percent being strongly to moderately acidic (pH < 5.5) and nearly one-third having
+aluminium toxicity problems (Schlede, H., 1989). Areas well-known to be severely affected
+by soil acidity include Ghimbi, Nedjo, Hossana, Sodo, Chencha, Hagere-Mariam, Endibir
+and Awi Zone of the Amhara regional state (MoARD and MoFED 2007).
+1.3 THE ESSENTIAL ROLE OF SOIL ORGANIC MATTER IN MAINTAINING SOIL HEALTH
+Soil organic matter is the fraction of the soil that includes plant and animal residues at
+various stages of decomposition; plant roots; cells and tissues of soil organisms; and
+substances synthesized by the soil population. Fresh or undecomposed plant materials such
+as litter and straw and animal dung lying on the soil surface are not included in this definition
+although upon decomposition, these will eventually become part of the soil organic matter.
+5Organic matter is largely made up of the elements carbon, hydrogen, oxygen, and nitrogen,
+phosphorus and sulphur. It is expressed as a percentage of the soil mass that is less than
+two mm in diameter. Soil organic matter is a dynamic mixture that reflects the balance
+between additions of new organic matter and losses of organic matter already in the soil. It
+exists in various forms, which differ in their biodegradability or resistance to decomposition
+and are generally divided into three pools: active, intermediate or slow, and recalcitrant or
+resistant. The active pool includes microbial biomass and labile organic compounds that
+make up less than five percent of the soil organic carbon. The slow pool usually makes up
+20 to 40 percent. These three pools have different rates of turnover. The active pool ranges
+from months to years, the slow pool in decades, and the recalcitrant pool in hundreds to
+thousands of years.
+The active and part of the intermediate pools are involved in nutrient supply and in the
+binding of small soil particles together to form larger structural units called aggregates.
+Aggregation is important for water infiltration, aeration and drainage, and reduces the soil’s
+susceptibility to erosion. On the other hand, the recalcitrant pool or humus possesses a large
+quantity of negative charges and contributes largely to the nutrient holding capacity (cation
+exchange capacity) of the soil. It also imparts a dark colour to topsoil.
+The biggest difference between soil and rock is the presence of organic matter and the
+associated biological activity that takes place in the former. Soil organic matter is at the heart
+of healthy and productive soils. Although organic matter typically makes up a small
+percentage of most mineral soils (less than 10 percent by weight), it is especially important
+because it positively influences or modifies the effects of almost all soil properties.
+Understanding the role of organic matter in maintaining a healthy soil is essential to ensure a
+high level of productivity and to minimize the negative environmental impacts of farming
+activities.
+Organic matter serves several functions, the most important of which are as a soil
+conditioner and as a source of plant nutrients. Organic matter adds body to sandy soils and
+increases its moisture and nutrient-holding capacity. It promotes granulation in clayey soils
+which helps in plant root penetration and entry of water and air into the soil. It makes
+cultivation easier, resulting in better seedbeds and reduced surface crusting that can
+adversely affect the emergence of seedlings. The functions of soil organic matter are broadly
+categorized into biological, physical and chemical but they overlap and interact with each
+other.
+Biological functions: Organic matter is a food and energy source for soil organisms and a
+source of plant nutrients. Organic matter decomposition is a microbiological process which
+releases inorganic forms of nutrients including nitrogen (N), phosphorus and sulphur, which
+slowly become available for plant use. The humus which develops as an intermediate
+product of this decomposition also acts as a store for nutrients. Soil organic carbon is
+generally highly correlated with total N. Therefore, the amount of N mineralization,
+conversion of organic N compounds to ammonium N, increases as soil organic carbon
+increases.
+Organic matter also provides active absorption sites for the deactivation of organic
+chemicals such as pesticides, particularly herbicides. Micro-organisms associated with soil
+organic matter may also rapidly decompose soil-applied organic chemicals.
+6Adding organic matter to the soil contributes a certain level of carbon from the atmosphere.
+This is currently an active area of research by scientists concerned with increasing the
+carbon content of soils to mitigate the adverse effects of climate change and to potentially
+utilize it in emission trading schemes.
+Physical functions: One of the major effects of organic matter is improvement of soil
+structure. Plant roots, earthworms, bacteria, fungi and other micro-organisms release
+organic compounds which help bind soil particles together to produce stable aggregates.
+This improves aeration and increases permeability which in turn makes the soil less
+susceptible to erosion. Stable aggregates also resist compaction caused by ploughing and
+animal traffic.
+Organic substances have been shown to hold up to five times their own weight of water. This
+contributes to improving the available water-holding capacity of soil, making growing plants
+less prone to short-term droughts.
+Chemical functions: Organic matter possesses a high surface area and contains lots of
+negative charges. These negative charges contribute to the nutrient retention capacity of
+soils by attracting positively charged ions (cations) in soil such as calcium, magnesium,
+potassium, ammonium, etc. These would otherwise leach and be lost from the soil profile. It
+should be noted that negatively charged ions (anions) such as nitrate and sulphate are not
+held by the negative charges of organic matter and are therefore still subject to leaching
+loss.
+Organic matter acts as a chemical buffer by resisting rapid change in pH. This mechanism
+delays soil acidification particularly in soils subjected to long-term fertilization with urea and
+ammonium-containing fertilizers However it may be necessary to apply larger quantities of
+liming material to raise the pH of an already acidic soil to a desirable level.
+The concepts, principles and details of each practice and technology are presented in the
+modules which follow. Scaling out involves creating adaptive models of each set of practices
+that will serve as demonstrations for learning and practical advice through the establishment
+of focal points for farmers, farmer organisations, communities and local government that
+encourage adoption and further adaptation. In doing so it is essential that both biophysical
+and socio-economic challenges are understood and addressed. This includes measures that
+both that address long term trends and protect against future shocks.
+7MODULE 2: INTEGRATED SOIL FERTILITY
+MANAGEMENT
+2.1 CONCEPT AND PRINCIPLES
+Integrated soil fertility management (ISFM) represents a set of soil fertility management
+practices that includes both the use of inorganic fertilisers and organic inputs as well as
+improved germplasm or seed. These need to be combined with the knowledge of how to
+adapt these practices to local conditions aimed at maximising agronomic use efficiency of
+the nutrients as well as improving crop productivity. Inputs need to be managed following
+sound agronomic principles (Vanlauwe et al, 2014). This involves the use of carefully
+calculated combinations of inorganic and organic fertilisers in association with
+complementary agronomic practices including tillage, rotation and crop sequencing, as well
+as soil and moisture conservation.
+The flow of nutrients, organic matter and manures around a farm represents a system of
+nutrient cycling and recycling (Figure 2). Inorganic nutrients can be purchased and,
+increasingly, it is possible to access organic nutrients outside the farm. The objective of
+ISFM is to utilize both the available organic and inorganic sources of nutrients in a judicious
+and efficient manner. Optimal nutrient cycling is essential, the aim being to create a tight
+system that synchronizes the release of nutrients by the soil with the demands of the crop.
+At the same time, ISFM seeks to minimize nutrient losses that occur due to volatilization, soil
+erosion and runoff, leaching, burning, and immobilization within the soil.
+Figure 2: Typical flow of nutrients, organic matter and manure around the farm
+8In natural ecosystems nutrients continually recycle. For instance, those collected from the
+soil by the roots of plants, contribute to the growth of stems, leaves and fruits and when the
+plants die, they are returned to the soil as the vegetation rots. Similar recycling also supports
+animal populations. Nutrients such as nitrogen are ingested as the animal graze and are
+partly returned as manure and urine, and partly returned when the animal dies and
+decomposes. As all farmers recognise, when plants are harvested and animals are kept for
+milk and meat, the process of harvesting removes nutrients from the ecosystem. While
+some soils are naturally richer in nutrients than others and can be mined, at least for a while,
+eventually the soils lose nutrients, which must be replaced. Without nutrient replacement
+there can be no agricultural sustainability (Conway, 2012).
+A key aspect of ISFM is the maintenance of or an increase in soil organic matter. Organic
+nutrient sources include legumes, leguminous green manure cover crops, crop residues,
+mulches, manure and urine, composts and household waste, all of which have been
+discussed in earlier sections. In an intensive cropping system, recycling and reusing
+nutrients from organic sources may be insufficient to sustain high crop yields. In these
+situations, nutrients removed from the soil, through harvested biomass, must be replenished
+from external sources. Thus, the use of adequate inorganic fertilisers is essential to maintain
+soil fertility. ISFM is therefore an important strategy for enhancing soil nutrients through the
+combined use of both organic and inorganic fertilisers. At the same time other crop
+management practices including tillage, rotations and moisture conservation practices play
+an important role in ISFM. It is also important that improved crop varieties are used to obtain
+increased yields.
+While chemical fertilisers can release nutrients immediately for plant uptake, organic
+fertilisers play a more important role for improving soil water retention and soil structure. In
+addition, organic fertilisers release nutrients slowly during the growing stages of a crop. Well-
+managed organic manures are often rich in Nitrogen, but deficient in Phosphate. Hence
+there is a need to add mineral phosphate fertiliser in appropriate amounts when organic
+manures are primarily used.
+Organic fertilisers, made at or near the farm and generated from natural resources, are
+usually inexpensive in cash terms. They can significantly increase yields especially on poor
+soils and in some cases give better yields than inorganic fertilisers. In most situations they
+are good partial replacements. Their main disadvantage is a high labour demand for their
+creation.
+Unfortunately, arguments about fertiliser are often strongly polarised. On the one hand,
+some people claim that the only way to increase yields is to use large quantities of inorganic
+fertiliser and that promotion of the use of organic fertilisers will condemn many poor farmers
+to continuing low yields. Opponents of this view regard inorganic fertilisers as harmful and
+can trap farmers in high cost production systems. Although there is some truth in both
+arguments, exclusive use of inorganic fertiliser is often associated with long term yield
+decline. Where labour or locally available biomass is a constraint, use of organic fertilisers
+may be insufficient to produce high yields and putting organic matter back into the soil is a
+high priority. In this situation, targeted minimal use of inorganic fertiliser will be necessary to
+obtain high yields. The approach lies in ISFM, assessing each situation in agronomic, socio-
+economic and ecological terms to determine the appropriate mix of nutrients (Conway 2012).
+9Clearly there is a need to increase the production of biomass to produce organic manure.
+Although inorganic fertiliser can be purchased, organic compost or manure needs to be
+produced on farm. It should however be noted that in some areas, local markets for organic
+wastes are developing. These include waste products from agro-processing industries,
+which can be used for manure and compost production.
+The integration of different technologies and practices acceptable to and profitable for
+farmers is the basis of ISFM. Only if several component technologies are used
+simultaneously will farmers achieve the required magnitude of changes for sustainable
+farming. Examples include increasing biomass production, using earthworms to convert poor
+quality biomass into high quality compost or producing additional biomass to increase
+livestock productivity and manure production. This requires that manure and urine need to
+be collected and stored and then applied effectively.
+2.2 A NUTRIENT BUDGET CALCULATION
+Undertaking a nutrient budget calculation is an agronomic assessment of the nutrients
+required for any crop. An example based on a small farm growing one hectare of a high
+yielding maize cultivar is shown. In this example the farmer has available, one 50 kg bag of
+Formula 5 and another of urea, as well as three tonnes of FYM in his backyard. Formula 5 is
+an inorganic blended fertiliser, currently produced in Ethiopia and recommended for many
+crops in the country. It contains N, P, K, S, Zn, and B. Urea, also an inorganic fertiliser
+contains Ammonium Nitrate (46% N). The FYM contains N, P and K. All this is to be
+applied to one ha of maize, the FYM before planting, the Formula 5 at planting and the urea
+as topdressing when the maize is knee-high.
+Nutrients applied: 100 kg or one quintal of Formula 5 is blended to contain 13 kg of N, 26.1
+kg of P2O5, 13.7 kg of K2O, 5.6 kg of S, 1.7 kg of Zn and 0.5 kg of B. This is equivalent to
+13 kg of N, 11.48 kg of P, 11.37 kg of K, 5.6 kg of S, 1.7 kg of Zn and 0.5 Kg of B in each 50
+kg bag. 50 kg of urea contains 23 kg of N.
+Therefore 50 kg of Formula 5 and 50 kg of Urea provides the following nutrients:
+• Formula 5: 6.5 kg of N (13% x 50), 5.7 kg of P (26% x 50 x 0.44), 5.7 kg of K
+(13.7% x 50), 2.8 kg of S (5.6% x 50), 0.85 kg of Zn and 0.25 kg of B (0.5% x 50).
+• Urea: 23 kg of N (46% x 50).
+Analysis of a sample of the FYM shows that the manure contains 0.8% N, 0.2% P and 0.6%
+K. Thus, the three tonnes of FYM used contains 24 kg N, 6 kg P and 18 kg K.
+The total nutrients added to the soil are the sum of the organic and inorganic fertilisers
+applied before, at and after planting. Thus, the amount of each nutrient applied as calculated
+above is:
+• N (6.5 + 23 + 24) totalling 53.5 kg per hectare.
+• P (7.5 + 6) totalling 13.5 kg P per hectare.
+• K (5.7+18) totalling 3.7 kg of K per hectare.
+Nutrient losses from volatilisation and leaching: Although most of the nutrients added to
+the soil are taken up by plants, some are lost through volatilisation, leaching and/or erosion
+and some are retained in the soil. Therefore, not all the nutrients can be recovered by the
+crop. Losses can be estimated as follows, based on a few assumptions.
+10• Volatilization: Out of the 23 kg of N added through the urea, 25% is lost through
+volatilization that is a loss of 5.75 kg.
+• Leaching: About 10% of the K added is lost through leaching, thus a loss of 2.37 kg.
+• Erosion: Loss of P through erosion is considered negligible since the farm has well-
+maintained terraces.
+After accounting for these losses, the remaining nutrients available to the plant for the one
+hectare of maize are: 47.75 kg of N, 13.5 kg of P, and 21.33 kg of K.
+Nutrient removal with the maize harvest: Harvesting maize grain removes nutrients from
+the farm. Farmers also often remove maize stover for feeding to livestock. One tonne of
+grain and stover contains 24 kg of N, 4 kg of P and 23 kg of K per ha. Assuming that 4.5
+tonnes per hectare of maize grain and stover are harvested, this would remove 108 kg N, 18
+kg P and 103.5 kg of K from the farm. Deducting the lost nutrients from those added would
+leave a negative balance. The results summarized in Table 1, show that there is a net loss of
+N, P and K. Therefore, the system requires replenishment of the lost nutrients; otherwise the
+farm’s production will decline.
+Table 1: Nutrient budget calculation (kg per hectare)
+Nutrient Amount added Estimated Material Total Net
+nutrient removed: used & balance
+Formula FYM Urea Total losses grain & stover lost
+5
+N 6.5 24 23 53.5 5.75 108.0 113.75 -60.25
+P 7.5 6 - 13.5 - 18.0 18.0 -4.5
+K 5.7 18 - 23.7 2.37 103.5 105.85 -79.80
+Hence, the farmer should look for and plan for an additional supply, especially for Potassium
+and Nitrogen. Alternatives to be considered include the use of crop residues, green
+manures, intercrops with legumes, agro-forestry, biomass transfer from elsewhere on the
+farm, compost preparation and use.
+This example of a nutrient budget emphasizes the importance of both organic and inorganic
+fertiliser for increased food production. The fertility of some soils can be maintained if good-
+quality organic fertilisers are available in sufficient quantities, but many soils need the
+addition of inorganic fertilisers, and sometimes lime to correct the pH to maintain high yields.
+Farmers relying solely on organic fertilisers face the problem of scarcity of organic materials
+as well as the variable quality of purchased fertiliser, depending on the source and the way
+the materials are handled.
+2.3 SELECTING APPROPRIATE ISFM TECHNOLOGIES
+There have been decades of research on soils and experience, which demonstrate that
+blanket solutions are often not appropriate. The high variability of soils and rainfall means
+that soils respond to inputs in different ways with distinct variations in input responsiveness.
+An important lesson is that a highly context-specific approach is required that considers not
+only the fertility status of the soil and the availability of organic inputs but also the farmer’s
+ability to access and pay for inputs.
+11Since there are alternative ISFM practices for managing soil, nutrients and water, these
+should not only

@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+
+{% block title %}FertilityPro - Home{% endblock %}
+
+{% block content %}
+<div class="hero" style="background-image: url('file:///c:\Users\Yazhini\OneDrive\Desktop\soil\bgd.png'); background-size: cover; background-position: center;">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <h1>FertilityPro</h1>
+        <p>AI-Powered Soil Health Analysis & Crop Recommendations</p>
+        <p class="hero-subtitle">Leverage cutting-edge AI and agricultural science for optimal farm productivity</p>
+        <div class="hero-buttons">
+            <a href="/analyze" class="btn btn-primary btn-lg">
+                <i class="fas fa-leaf"></i> Start Soil Analysis
+            </a>
+            <a href="/dashboard" class="btn btn-secondary btn-lg">
+                <i class="fas fa-chart-line"></i> View Dashboard
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Features Section -->
+<section class="features">
+    <div class="container">
+        <h2>Why FertilityPro?</h2>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <i class="fas fa-brain"></i>
+                <h3>AI-Powered Analysis</h3>
+                <p>Machine learning + Liebig's Law for precise soil fertility assessment</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-chart-bar"></i>
+                <h3>Real-Time Insights</h3>
+                <p>Instant recommendations with limiting factor identification</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-robot"></i>
+                <h3>LLM Q&A</h3>
+                <p>Ask agricultural questions and get AI-synthesized answers</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-globe"></i>
+                <h3>Regional Coverage</h3>
+                <p>15+ Indian states with seasonal crop recommendations</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-tractor"></i>
+                <h3>Crop Advisory</h3>
+                <p>Season-specific crop planning with soil-crop matching</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-leaf"></i>
+                <h3>Sustainable Farming</h3>
+                <p>Amendment guidance with expected yield improvements</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Models Section -->
+<section class="models-section">
+    <div class="container">
+        <h2>Technology Stack</h2>
+        <div class="models-grid">
+            <div class="model-card">
+                <h4>Machine Learning</h4>
+                <p><strong>RandomForestClassifier</strong></p>
+                <p class="model-desc">80% accuracy soil fertility classification</p>
+            </div>
+            <div class="model-card">
+                <h4>Deep Learning</h4>
+                <p><strong>all-MiniLM-L6-v2</strong></p>
+                <p class="model-desc">Semantic embeddings for knowledge search</p>
+            </div>
+            <div class="model-card">
+                <h4>Large Language Model</h4>
+                <p><strong>Google FLAN-T5-Base</strong></p>
+                <p class="model-desc">Answer synthesis & text generation</p>
+            </div>
+            <div class="model-card">
+                <h4>Database</h4>
+                <p><strong>ChromaDB</strong></p>
+                <p class="model-desc">5,691 indexed documents from 35 PDFs</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Key Metrics -->
+<section class="metrics-section">
+    <div class="container">
+        <h2>Platform Statistics</h2>
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <h4>80%</h4>
+                <p>ML Accuracy</p>
+            </div>
+            <div class="metric-card">
+                <h4>15+</h4>
+                <p>Crops Supported</p>
+            </div>
+            <div class="metric-card">
+                <h4>3</h4>
+                <p>Seasons Covered</p>
+            </div>
+            <div class="metric-card">
+                <h4>5,691</h4>
+                <p>Indexed Documents</p>
+            </div>
+            <div class="metric-card">
+                <h4>10</h4>
+                <p>Parameters Analyzed</p>
+            </div>
+            <div class="metric-card">
+                <h4>&lt;2s</h4>
+                <p>Analysis Speed</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+    <div class="container">
+        <h2>Ready to Boost Your Farm's Productivity?</h2>
+        <p>Start with a soil analysis and get personalized recommendations</p>
+        <a href="/analyze" class="btn btn-primary btn-lg">
+            <i class="fas fa-play-circle"></i> Begin Analysis
+        </a>
+    </div>
+</section>
+
+{% endblock %}

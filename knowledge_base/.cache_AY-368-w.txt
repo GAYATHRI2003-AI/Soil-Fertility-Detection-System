@@ -1,0 +1,306 @@
+Agronomy
+ag.purdue.edu/Agry
+AY-368-W
+Soil Sampling Guidelines
+Soil testing is an integral part of a soil Sample Collection
+fertility management program. Effective and Handling
+Author: Jason P. Ackerson,
+soil testing provides information on
+Proper soil sample collection relies on
+Assistant Professor
+the fertility status of soils within a field
+three principles:
+of Agronomy
+that can be used for making fertilizer
+or lime application recommendations, 1. Organization: having an orderly
+monitoring changes in soil fertility over system for soil sample collection
+time and even identifying and targeting and handling simplifies sample
+low fertility soils within larger fields. collection and minimizes the chance
+Informative soil sampling can improve of human errors such as mislabeling
+on-farm nutrient efficiency, leading or misplacing soil samples.
+to increased return on investment
+2. Consistency: collecting each sample
+for fertilizer and lime application and
+in a uniform manner between years
+decreased risk of off-site nutrient
+and within the course of a sampling
+movement.
+event will greatly improve the quality
+Regardless of the goal, reliable soil and reliability of your results. This
+testing starts with proper soil sampling. means taking samples in the same
+In this article, we will outline the basic manner for each sample.
+principles of agronomic soil sampling,
+3. Simplicity: following simple
+covering the basic principles of soil
+procedures will help ensure sample
+sample collection and providing
+collection is consistent and easily
+guidelines for establishing an effective
+organized.
+soil sampling and testing program.AY-368-W Soil Sampling Guidelines
+Samples and subsamples 4. Insert the soil probe to the desired depth. (See Table
+Soils can be highly variable, even over short distances. 1 for details on sample depths.) Take care to ensure
+Because of this variability, it is often insufficient to the probe is inserted vertically into the soil and not
+collect soil at just one location. Instead, it is preferable tilted to the side. Remove the probe and transfer the
+to collect so-called composite samples. Composite soil core from the probe into a bucket (Fig. 1).
+samples are a mixture of individual samples, or
+subsamples, generally collected from multiple locations
+and mixed together to form a single composite
+sample. By combining multiple subsamples into a
+single composite sample, we can minimize the effects
+of soil variability by averaging the soil properties over
+larger areas. Composite samples are less sensitive to
+unusually high or low soil test values that might occur
+due to concentrated fertilizer applications (e.g. banded
+applications) or natural soil variation.
+Sample collection
+Before collecting soil samples, you will need to gather
+certain materials and tools:
+• A soil probe
+• A clean plastic bucket
+• A trowel
+• Permanent markers Figure 1. Collecting a soil sample with a soil probe. Insert the probe
+vertically into the soil and remove the soil core.
+• Sample bags. Many soil testing laboratories will
+provide wax-lined sample bags. In lieu of laboratory-
+provided bags, consider using paper bags or zip-top 5. Move to a new location and repeat Steps 3 and 4.
+bags. The distance between locations where you collect
+subsamples will vary depending on the sampling
+• Clipboard and paper or field notebook
+strategies you are employing. (See the Sampling
+• GPS-enabled smartphone or handheld gps unit locations and strategies section for more info.) As
+(optional) a general guideline, the larger the area of land you
+are sampling, the more distance you need between
+To collect a composite sample use the following
+sampling locations. As a rough guideline, sampling
+procedure:
+locations should be separated by a minimum of
+1. Before arriving to the field, determine the number 20-30 feet. If employing a zone-based or grid-based
+and approximate location of soil samples. (See soil sampling program, it is often worthwhile to
+the Sampling locations and strategies section for select the location of soil samples prior to arriving in
+details.) the field for sampling. These preidentified points can
+be loaded onto a GPS-enabled device and the GPS
+2. Once the appropriate materials have been collected,
+can be used to direct you to the sampling location.
+travel to the first sampling location. If you’d like,
+you may record the location with a GPS or GPS 6. Continue this process of sample collection at new
+application on your smartphone. This information locations until you have collected a sufficient
+can be useful later for tracking where samples have number of samples. Typically, a composite sample
+been collected. You may find it helpful to return should be comprised of between 10 and 20
+to the same sampling locations in subsequent subsamples. The more subsamples you add into a
+sampling events. composite, the more reliable a sample becomes.
+3. At the sample location, remove any crop residue
+from the soil surface.
+2AY-368-W Soil Sampling Guidelines
+7. Using the trowel, thoroughly mix the soil in the Soil testing laboratories
+bucket until you have a homogeneous mixture. Soil testing is available for a nominal fee through
+several specialized laboratories. Each laboratory will
+8. Place 1-2 cups of the mixture into a sample bag.
+have specific instructions for how to ship and label
+Using permanent marker, label the bag with a
+samples. To ensure the laboratory provides accurate
+unique name. Names should contain identifiers
+and timely results, be careful to follow any laboratory-
+to the field and sample number. For example,
+specific instructions. For details on laboratory-specific
+“Smith-Field1-1” is a good label that identifies the
+instructions, contact your chosen soil testing service.
+farm (Smith Farm), field (Field 1) and the sample
+number (1). While most commercial laboratories provide quality,
+reliable testing services, there can be differences in
+methodology and results between laboratories. For
+Table 1. Sample depth guidelines
+this reason, it is often desirable to use the same soil-
+Tillage System Sample depth testing laboratory every year. This will ensure that any
+observed change in soil-test results from year to year
+Conservation tillage (Less Take separate samples:
+are attributable to true changes in soil fertility status
+than 50% of crop residue
+incorporation) • 0-4 inches for pH/liming and not due to deviations in testing practices between
+recommendations different laboratories.
+• 0-8 inches for fertility analysis
+Sampling locations and strategies
+Conventional tillage 0-8 inches for pH/liming recommendations
+(Greater than 50% of crop and fertility analysis Determining where to take soil samples depends
+residue incorporation) largely on the management strategy you employ
+on your farm. These management strategies can
+be broken down into two types: whole-field and
+spatially explicit (Fig. 2). In a whole-field management
+Sample Handling
+the field is managed as one unit. When fertilizer is
+After collecting a composite sample, it is important
+applied in a whole-field approach, one fertilizer rate is
+to properly store samples to prevent contamination.
+applied uniformly across the entire field. Whole-field
+Typically, most laboratories prefer to prepare samples
+management is simple to implement and does not
+in their lab. This means that you can often send
+require any special equipment or data handling.
+samples directly to the laboratory without doing
+any processing yourself. Some laboratories require In spatially explicit management, the field is broken
+samples to be submitted in specific sample bags or into smaller sections, and each section is managed
+containers. Check with your chosen laboratory for individually. Spatially explicit management can identify
+specific information on its requirements for handling areas of the field with specific fertilizer of liming needs
+and packaging samples. and provides a map of a field’s nutrient and liming
+requirements. Spatially explicit management is an
+If you are not sending samples directly to the
+essential part of precision agriculture. In spatially
+laboratory, consider storing samples in the refrigerator
+explicit management, variable-rate technology can
+or freezer to minimize the chance of mold forming in
+be used to alter fertilizer and lime applications so that
+the sample bag.
+each zone receives a targeted, zone-specific fertilizer or
+If the soil is excessively wet or you cannot store lime application.
+samples in a refrigerator/freezer, allow the samples
+to air dry slightly by spreading the soil in a thin layer
+on a flat surface like a table. You can put down some
+paper such as used newspaper to protect the surface
+from getting dirty. Never dry a sample in an oven or
+microwave; excessive heat can damage the sample and
+alter laboratory results.
+3AY-368-W Soil Sampling Guidelines
+Figure 2. Whole-field management (Fig. 2a) and spatially explicit management (Fig. 2b).
+Ultimately, the decision between whole-field and
+spatially explicit management will depend on the
+specific goals and constraints of each operation.
+Whole-field management is simple to implement
+but risks over- or under-fertilizing some areas of the
+field. Under application of fertilizer and lime can lead
+to poor yield while overapplication leads to wasted
+material and can cause environmental damage.
+Conversely, spatially explicit management can be
+more difficult to implement but the spatial information
+can be used to minimize the risk of over- and under-
+application of fertilizer and lime.
+Soil sampling for whole-field management
+Figure 3. An example of zig-zag sampling pattern for whole field
+The goal of soil sampling for whole-field management
+sampling. Subsamples are collected by traveling in a zig-zag pattern
+is to get a sample representative of the typical soil in
+collecting subsamples at each locations indicated by black dots.
+the field. To do this, subsamples are distributed across
+Background lines represent the various soil types in the field. Ideally, zig-
+large areas to ensure the entire field is represented. To
+zag sampling samples each soil type equally.
+achieve this, collect composite samples in a zig-zag
+pattern (Fig. 3). Each composite sample should consist
+of 10 to 20 subsamples spread evenly across a field. Soil sampling for spatially
+Collect at least one composite per 20 acres.
+explicit management
+There are two main methods for soil sampling in
+spatially explicit management — zone-based sampling
+and grid sampling. With each method, soil samples
+are collected from predefined areas in a field. By
+correlating the soil test results with the area of the
+4AY-368-W Soil Sampling Guidelines
+field where samples were collected, you can generate sampling has several disadvantages when compared
+a map of soil fertility patterns in the field. With both to zone-based sampling.
+methods, the smaller the predefined region (i.e., zone
+The first disadvantage of grid sampling is an increased
+or grid cell), the more detailed the resulting map. Each
+risk of bias. For example, if a majority of grid samples
+method is described in more detail below.
+lie on a particular soil type, the grid sample may
+underrepresent the true variability in a field (Fig. 5).
+Zone-based sampling
+In zone-based strategies, the goal is to collect samples
+that represent the average soil within each zone. Zones
+are typically developed based on unique soil types or
+from patterns in yield maps. The key aspect of each
+zone is that zones represent areas of homogeneous
+or uniform soil conditions. Typically, the more variable
+the soil, the smaller the zones need to be in order to
+accurately map soil fertility patterns. In most cases,
+zones are between 2 and 10 acres in size.
+For zone sampling, collect a composite sample from
+each zone (Fig 4). Larger zones require more samples
+than smaller zones. As a rule of thumb, collect two
+subsamples per acre in a zone. Regardless of zone
+size, a minimum of five subsamples per zone should
+be collected. Subsamples should be located randomly
+within a zone.
+Figure 4. An example of zone-based soil sampling. In this example,
+The real value of zone-based sampling is that zone-
+different management zones are represented by different colors.
+based data can be used to create a map of soil
+Subsamples are collected and composited for each zone. Subsamples are
+fertility and pH within a field. This map can show
+collected for the orange-colored zone at each location denoted by black
+areas of particularly high or low fertility and can be dots. Each of these samples will be mixed into a single composite sample.
+used to develop precision, variable-rate fertilizer and
+lime applications. Because zone-based samples are
+ultimately used to generate a map, it is especially
+important that samples be labeled with the correct
+zone and that the location of each sample or zone is
+recorded. This will ensure that laboratory results from
+each soil sample can be correctly correlated with the
+appropriate location in the field.
+Grid sampling
+Many producers and farm service provides implement
+soil sampling on a grid-based system. In a grid system,
+soil samples are taken at locations spaced in a uniform
+pattern. Typical grid sizes range from 1 to 5 acres, with
+smaller grids (i.e., 2.5 acres or less) providing the best
+results. For a one-acre grid cell, collect at least five
+subsamples. For grid cells between 2.5 and 5 acres,
+collect between 8 and 10 subsamples. Figure 5. An example of grid-based soil sampling with sampling points
+(dots) located on an evenly distributed grid. This system can lead to bias.
+Grids are attractive because they are easy to
+In this example, the orange zone is sampled in 30% of the grid points
+implement and provide improved spatial information
+(white points) but the orange zone only represents 22% of the total field.
+over whole-field soil sampling. However, grid-sampling In this case, the resulting soil sample is highly biased to the soil conditions
+does not utilize or account for underlying variation in represented by the orange zone.
+management zones or soil types. Subsequently, grid
+5AY-368-W Soil Sampling Guidelines
+Grid sampling can also be inefficient. Because grids Sample timing
+do not target areas of known variation in a field, more The most convenient time to collect soil samples is
+samples are needed to cover the complete range when there is no standing crop in the field (i.e. in the
+of soil types and variability. While grid sampling is spring prior to planting or in the fall after harvest).
+preferred to whole-field sampling, it is inferior to the Both sample collection times can be useful for a given
+more informative zone-based sampling. management program. When selecting a sample
+collection time consider the following points:
+Areas to avoid
+• Schedule soil sampling and testing prior to
+Regardless of soil sampling strategy, when collecting application of fertilizers or lime
+samples in the field or identifying soil-sampling
+• Collect samples early enough to provide the
+locations, there are several areas you may wish to
+laboratory sufficient time to return the data
+avoid. These problem areas (Table 2) are areas in
+the field where, due to some disturbance of natural • Keep sample collection timing consistent to avoid
+variation, the soil may not be representative of the year-to-year variability. For example, if implementing
+rest of the soil in a field or zone. If your soil sampling a spring sampling one year, do not adopt fall
+point lies within or near one of these problem areas, sampling for the next year of sampling.
+consider relocating the sample point to a new location.
+In most soils, try to sample fields once every four years.
+If problem areas occupy substantial portions of a field
+This should provide sufficient data on changes in soil
+(i.e. larger than 5-10 acres) consider sampling each
+fertility. An exception to this guideline is for sandy soils
+problem area as a unique zone.
+or highly managed soils (e.g., irrigated fields, silage or
+hayfields, etc.). In these circumstances, soil fertility can
+Table 2. Areas to avoid when collecting soil samples change rapidly and these fields should be sampled
+once every two years.
+Examples of Problem Areas
+• End-rows or areas of heavy equipment traffic
+Conclusions
+• Wet spots or depressions
+Soil sampling and testing can be highly informative.
+• Highly eroded areas
+Information from a well-conducted soil-sampling
+• Locations of former farmsteads or animal enclosures event can be useful in monitoring changes in soil
+• Locations within 100 ft. of roads fertility, developing fertilizer recommendations, and
+• Areas where lime is stored before application improving on-farm nutrient efficiency. Regardless
+of the particular soil-sampling program you employ,
+soil sampling using a consistent, well-conducted, and
+organized approach will lead to the most usable and
+informative soil test results.
+Find out more at
+purdue.edu/extension
+THE EDUCATION STORE
+edustore.purdue.edu
+It is the policy of the Purdue University Cooperative Extension Service that all persons have equal opportunity and access to its educational programs, services, activities, and facilities without regard to race, religion, color, sex, November 2018
+age, national origin or ancestry, marital status, parental status, sexual orientation, disability or status as a veteran. Purdue University is an Affirmative Action institution. This material may be available in alternative formats.

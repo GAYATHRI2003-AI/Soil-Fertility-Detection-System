@@ -1,0 +1,181 @@
+International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395 -0056
+Volume: 04 Issue: 03 | Mar -2017 www.irjet.net p-ISSN: 2395-0072
+Real Time soil fertility analyzer and crop prediction
+Dharesh Vadalia1, Minal Vaity2, Krutika Tawate3 , Dynaneshwar Kapse4
+1 Student VIII SEM, B.E., Computer Engg. , RGIT, Mumbai, India
+2 Student VIII SEM, B.E., Computer Engg. , RGIT, Mumbai, India
+3 Student VIII SEM, B.E., Computer Engg. , RGIT, Mumbai, India
+4 Assistant Professor, Department of Computers, RGIT, Mumbai, India
+---------------------------------------------------------------------***---------------------------------------------------------------------
+Abstract - With evolution in technology various nutrient use efficiency, are often overlooked.
+agricultural practices have shifted from traditional In Automated farming practice we intend to reduce human
+techniques to automated techniques like field irrigation errors by monitoring the soil quality using various soil
+system. Many such agricultural parameters are being sensor via smartphones and webserver. The key feature of
+monitored remotely to improve quality of farming. One of our system is to determine suitable crops for current state
+the most important parameter in farming is soil fertility i.e. of soil. By calculating nutrient content in soil.
+ratio in which various nutrient essential for crop is present
+in soil. To monitor soil fertility, pH of the soil is most 2. LITERATURE REVIEW
+commonly measured. It is also one of the most useful and Paper1: S.Sivachandran, K.Balakrishnan, K.Navin [1]
+informative soil parameters because of its relationship to
+In this paper Embedded Based Soil Analyzer is used to
+many aspects of soil fertility and plant growth. Despite its
+analyze various soil nutrients with the help of pH value. As
+importance, the implications of inadequate soil pH on
+per the availability of nutrients, recommendations of
+forage response, particularly nutrient use efficiency, are
+often overlooked. In the proposed system we determine the cultivating the particular crop will be given. This project
+average percentage of basic soil nutrients Nitrogen, uses microcontroller which determines PH of diluted soil
+Phosphorous and Potassium and determine the suitable sample using Glass ph electrode. PH is defined as the
+crops for the particular soil type. The system will analyze negative logarithm (base 10) of the activity of hydronium
+soil nutrient content at real time and make crop prediction.
+ions (H+or, more precisely, H3O+aq) in a solution. It
+System will be built on Arduino. System will also suggest the
+ranges from 0 to 14, with 7 being neutral. A pH below 7 is
+crops on basis determined PH of soil.
+acidic and above 7 is basic. The optimum pH range for
+most plants is between 5.5 and 7.0. The system includes
+Key Words: PH, Real time detection, Soil fertility, PH
+meter, Crop prediction system. Microcontroller Unit, Signal conditioning, Sensors, Display,
+Thermal Printer and Power supply. Output from pH
+1. INTRODUCTION sensors and EC sensor are analog in nature to process
+In India Conventional farming practice involves human these analog signals to the system A/D converters are
+labors for performing all types of farming activities like used. PIC18F458 Microcontroller has the inbuilt analog to
+watering fields, cultivating crops with required fertilizers digital converter and no need to connect the external A/D
+etc. Soil analysis is a valuable tool for farmers; it converter for the system. In this system, keypad is used to
+determines the inputs required for efficient and connect the user and the system.
+economical production. A proper soil test will help to
+ensure the application of enough fertilizer to meet the Paper 2: Apurva C. Pusatkar, Vijay S. Gulhane [2]
+requirements of the crop while taking advantage of the In this paper, the advanced development in wireless
+nutrients already present in the soil. It will also allow you sensor networks was used in monitoring various
+parameters in agriculture. In this context, due to the
+to determine lime requirements and can be used to
+advancements in small-scale sensor devices with wireless
+diagnose problem areas. Sampling technique is correct; as
+technologies, one is able to remotely monitor humidity,
+the results are only as good as the sample you take. Soil
+temperature and moisture. In this paper it was proposed
+testing is also a requirement for farms that must complete to implement a wireless sensor network connected with
+a nutrient management plan. Major nutrients: Nitrogen centralized basic node using ZigBee, which was connected
+(N), Phosphorus (P) and Potassium (K) Soil pH is the most to a Central Monitoring Station (CMS) through Global
+System for Mobile (GSM) technologies or General Packet
+commonly measured soil properties. It is also one of the
+Radio Service (GPRS). The system acquires Global
+most useful and informative soil parameters because of its
+Positioning System (GPS) parameters related to the field
+relationship to many aspects of soil fertility and plant
+then transfers them to a central monitoring station. This
+growth. Despite its importance, the implications of system was presumed to evaluate soil conditions and act
+inadequate soil pH on forage response, particularly accordingly in order to help farmers. This system implies
+© 2017, IRJET | Impact Factor value: 5.181 | ISO 9001:2008 Certified Journal | Page 1497International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395 -0056
+Volume: 04 Issue: 03 | Mar -2017 www.irjet.net p-ISSN: 2395-0072
+monitoring various factors such as humidity, soil moisture tests, which will include the averaged result of all the tests,
+and provide remote monitoring using ZigBee which sends reflecting the ratio in which various nutrients i.e. Nitrogen,
+data wirelessly to a central server which collects data
+Phosphorous, Potassium are present in the soil. And will
+store it and allow it to be displayed as needed and also be
+also contain the list of suitable crop and the required
+sent to the client mobile.
+fertilizer for the land.
+3. SYSTEM ANALYSIS
+A. Problem Definition
+Soil fertility changes with every harvest and changing
+weather condition and also affects the nutrient content of
+soil. Also fertility of soil varies at different part of field and
+it requires to be monitored for healthy crop production.
+To determine soil fertility PH of soil is determined using
+PH electrodes, PH electrodes sense the soil alkalinity and
+electrical conductivity. On basis of this sensed parameter
+we determine the approximate percentage of basic NPK
+(Nitrogen, Phosphorous, Potassium) nutrient contents
+present in soil. Multiple observations will be taken from
+various parts of land. The average of all the observation
+taken from multiple part of land will give the soils state of
+fertility. On basis of calculated fertility, system will
+determine the suitable crops for the tested land and also
+farmer will get an idea of what fertilizer is required.
+B. Scope
+Proposed system will determine the fertility of soil by Fig -1: Chart representing nutrient content in soil for
+various PH readings
+measuring basic parameter effecting soil fertility like PH
+and electrical conductivity. This will help the farmer in
+deciding, what crop to bow in the soil, based on the D. Soil Quality Analyzer And Crop Prediction System
+measured nutrient contents present in soil at current Working:
+state. It will also help in determining what fertilizer to use Arduino board along with analog to digital convertor is
+for the crop. And amount of fertilizer required. used to process analog reading PH metal electrode.
+Throughout the cultivation process of crop, farmer can Arduino UNO R3, power requirement is 9v [4], which will
+test soil fertility n no. of times and take necessary steps to be powered using 9-volt adapter. The Ph electrode and EC
+get a good yield. Farmer can maintain the record of his sensor will be connected to Arduino digital GPIO pins.
+land fertility over the span of time and can access it Both sensor work in range of 3.3v – 5v power supply.
+remotely from anywhere using a mobile device. Analog-Digital converter is used to convert anolog data
+captured from PH electrode to digital value.
+C. Proposed System
+The objective of proposed system is to replace the
+traditional farming technique of testing soil fertility by the
+automated remotely monitored fertility monitoring
+technique. In this system the farmer gets current status of
+soil fertility in his land at real time. The soil quality is
+determined by using the sensors to calculate the soil
+nutrient contents i.e. nitrogen, phosphorus and potassium
+(NPK). The farmer tests multiple sample of soil in his land
+using a portable device. Result of each test is averaged to
+determine the approximate fertility of total land. Result of
+all the tests will be displayed on dsplay screen. The farmer
+phisically enters the diplayed value in his mobile
+application to get a digitally generated soil fertility e- Fig -2: Block diagram of Soil Quality Analyzer And Crop
+report. A digital report generated on the basis of all the Prediction System
+© 2017, IRJET | Impact Factor value: 5.181 | ISO 9001:2008 Certified Journal | Page 1498International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395 -0056
+Volume: 04 Issue: 03 | Mar -2017 www.irjet.net p-ISSN: 2395-0072
+Ph electrode used to measure the Ph value is a solid metal crop for the land. The advantage of this project is it skips
+electrode which works on principal of, current flowing lab-testing process and determines soil fertility in real
+between two semiconductor electrodes (drain and source) time. The proposed model for testing soil fertility is cheap
+which is controlled by the electrostatic field generated by and easy to use and maintain.
+the protonated third electrode (gate), which is placed
+between drain and source. Ion Selective Field Effect
+REFERENCES
+Transistors [7] are used measure current flow.
+[1] Real Time Embedded Based Soil Analyzer.
+International Research Journal of Engineering and
+Technology (IRJET). Volume: 3 Issue 3 | March 2014
+[2] Implementation of Wireless Sensor Network for Real
+Time Monitoring of Agriculture. International research
+journal of engineering and technology (IRJET). Volume: 03
+issue: 05 | may-2016
+[3] Automated Soil Testing Device. ITSI Transactions on
+Electrical and Electronics Engineering (ITSI-TEEE). 2320 –
+8945, Volume: 1 Issue -5 | 2013
+[4] https://www.arduino.cc/en/Main/ArduinoBoardUno
+[5] https://en.wikipedia.org/wiki/ESP8266
+[6] https://www.agriculturesolutions.com/resources/92-
+the-why-and-how-to-testing-the-electrical-conductivity-
+of-soils
+[7]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291
+948/
+[8]https://www.teachengineering.org/activities/view/ny
+Fig -3: Working of PH metal electrode u_probe_activity1
+[9] http://soilquality.org
+Electrical conductivity is measured using an EC sensor.
+The sensor consists of two metal electrodes and a constant
+voltage is applied across the electrodes resulting in an
+electrical current flowing through the sample. Since the
+current flowing through the soil is proportional to the
+concentration of ions in the soil. The higher the ion
+concentration, more conductive the sample will be and
+hence the higher the conductivity reading. The unit of
+measurement for Electrical Conductivity is microSiemens
+per centimeter (µS/cm)[6]. 1000 microsiemans is equal to
+1 millisieman (1MS/cm). Arduino UNO R3 will process the
+data sensed by the sensor and convert it into user
+understandable reading. This processed data will calculate
+the fertility of soil. The farmer can view digital report
+generated basis on test reading on his mobile devices and
+will also be able to view the list of all suitable crops for his
+land.
+4. CONCLUSIONS
+In this project, a method for determining soil fertility by
+considering Ph and electrical conductivity parameter is
+presented. Ph is measured using Ph meter and electrical
+conductivity is measured using EC sensor. The reading of
+Ph meter gives the approximate ratio of various nutrient
+content present in soil and in what proportion. This
+approximation of soil nutrient will determine the suitable
+© 2017, IRJET | Impact Factor value: 5.181 | ISO 9001:2008 Certified Journal | Page 1499

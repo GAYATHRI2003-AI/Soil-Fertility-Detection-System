@@ -1,0 +1,886 @@
+SSttaattee ooff IInnddiiaann
+AAggrriiccuullttuurree
+Anjani Kumar and Himanshu Pathak
+National Academy of Agricultural Sciences
+New DelhiCitation:
+Kumar A and Pathak H (2024). State of Indian Agriculture.
+National Academy of Agricultural Sciences, New Delhi, p 95.
+Published by:
+National Academy of Agricultural Sciences
+NASC Complex, Dev Prakash Shastri Marg
+P.O. Pusa, New Delhi - 110 012, India
+Email: naas-mail@naas.org.in
+2024
+Copyright:
+National Academy of Agricultural Sciences, India
+ISBN: 978-81-931524-6-1
+Printed at:
+Malhotra Publishing House
+B-6, DSIDC Complex, Kirti Nagar, New Delhi - 110020
+Ph.: 011-41420246; Email: vinay.malhotra@gmail.comAbout the Authors
+Dr Anjani Kumar is Senior Research Fellow at
+International Food Policy Research Institute, South Asia
+Office, New Delhi. He received his PhD (1999) and
+Masters (1992) in Dairy Economics from National Dairy
+Research Institute, Karnal, India. Before joining IFPRI,
+he was Principal Scientist (Agricultural Economics) at the
+International Crops Research Institute for the Semi-Arid
+Tropics, Hyderabad. He has also served as Principal
+Scientist at the National Centre for Agricultural Economics
+and Policy Research, New Delhi and as Senior Agricultural
+Economist in the Asia Office of the International Livestock Research Institute,
+Nairobi. He has also worked as a Consultant for many national and international
+institutions including the FAO and the World Bank. He is the author of about
+140 research papers published in national and international research journals on
+various agricultural development issues. He has also contributed more than 70
+papers/chapters to important books and proceedings. He is a Fellow of the National
+Academy of Agricultural Sciences and the Indian Society of Agricultural Economics.
+He has won a number of awards from national and international organisations,
+including the prestigious Rafi Ahmed Kidwai Award (2017), Lal Bahadur Young
+Scientist Award (2005), and the NAAS Young Scientist Award (2003).
+Dr Himanshu Pathak is Secretary of the Department
+of Agricultural Research and Education, Government
+of India and Director General of the Indian Council of
+Agricultural Research, New Delhi. He provides leadership
+to one of the largest agricultural research and development
+organisations in the world. Earlier, he served as Director
+of ICAR-National Rice Research Institute, Odisha, and
+as Director of ICAR-National Institute of Abiotic Stress
+Management, Maharashtra, India. He has over three
+decades of experience in the areas of agricultural research,
+education, and extension. He has published about 250 research papers with an
+h-index of 79, i10-index of 249, and more than 24,200 citations. He is a fellow of
+the Indian National Science Academy; the National Academy of Sciences, India;
+and the Humboldt Foundation. He is a recipient of the Rafi Ahmed Kidwai Award
+of the Indian Council of Agricultural Research and is a fellow and President of
+the National Academy of Agricultural Sciences.
+State of Indian Agriculture | iiiExecutive
+Council 2024
+President
+Dr Himanshu Pathak
+Immediate Past President
+Dr T Mohapatra
+Vice Presidents
+Dr K M Bujarbaruah
+Dr P K Joshi
+Secretaries
+Dr W S Lakra
+Dr Ashok K Singh
+Foreign Secretary
+Dr Rajeev K Varshney
+Editors
+Dr V K Baranwal
+Dr R K Jain
+Treasurer
+Dr Rajender Parsad
+State of Indian Agriculture | vMembers
+Prof Bishwanath Chakraborty Dr (Ms) P D Kamala Jayanthi
+Dr Anjani Kumar Dr B Mohan Kumar
+Dr S K Pandey Dr R T Patil
+Dr (Ms) Minakshi Prasad Dr E V S Prakasa Rao
+Prof A S Raghavendra Dr C N Ravishankar
+Dr D K Yadava Dr O P Yadav
+Shri Sanjay Garg
+Secretary (ICAR), ICAR Nominee
+vi | Executive Council 2024Contents
+Preface xiii
+Abbreviations xv
+Introduction 1
+1. Performance of Indian Agriculture 3
+1.1. Contribution of Agriculture to GDP and Employment 3
+1.2. Agricultural Growth and Diversification 5
+1.3. Trends in the Production of Major Agricultural and
+Allied Products 10
+1.4. Sources of Agricultural Growth: Changing Role of
+Commodities 13
+1.5. Farmers’ Income and Its Main Sources 13
+1.6. Agricultural Trade 17
+1.7. Processing and Value Addition of Agricultural
+and Allied Products 22
+2. Input Utilisation Patterns in Indian Agriculture 26
+2.1. Requirements and Availability of Quality Seeds 26
+2.2. Investment and Mechanisation 26
+2.3. Fertilisers 29
+2.4. Pesticides 32
+2.5. Irrigation 35
+2.6. Land Use Patterns 37
+2.7. Issues and Challenges of Input Utilisation Patterns 40
+2.8. Opportunities for Efficient Input Utilisation 41
+State of Indian Agriculture | vii3. Agricultural Finance, Markets, and PM-KISAN 43
+3.1. Institutional Credit 43
+3.2. Insurance 45
+3.3. PM-KISAN 47
+3.4. Market Access 47
+3.5. Procurement Operations and Minimum Support Price 49
+3.6. Agricultural Price Movements 51
+4. Climate Change and Sustainability 61
+4.1. Groundwater Extraction 61
+4.2. Salt-Affected Soils 63
+4.3. Soil Erosion and Land Degradation 64
+4.4. Climate Variations and Natural Calamities 67
+5. Technology Development 68
+5.1. Agricultural R&D Budget 68
+5.2. Research Output 69
+5.3. Challenges and Opportunities in Agricultural
+Technology Development and Adoption 69
+6. Way Forward for Sustainable and Inclusive
+Agricultural Growth 73
+6.1. Accelerate Public and Private Investments
+in Agriculture 73
+6.2. Bridge the Yield Gaps 74
+6.3. Address Low Productivity and High Vulnerability 75
+6.4. Increase Crop Diversification 76
+6.5. Promote Agricultural Diversification 78
+6.6. Link Farmers with Markets 79
+6.7. Strengthen Institutions and Improve Rural
+Infrastructure 79
+6.8. Harness Frontier Technologies and Agri-Startups 79
+7. References 81
+Appendix 93
+viii | ContentsFigures
+1. Share of agriculture in GDP and employment in India 4
+2. Agricultural GVA as a percentage of GSDP, 2023 4
+3. State-wise CAGR of agricultural GVA and GDP, 2012
+to 2023 6
+4. Share of different subsectors in gross value of
+agricultural output 7
+5. Share of foodgrains and horticulture in value of crop
+output (percent) 7
+6. Composition (percentage) of agricultural GVA, 2022/2023 8
+7. Area and production status of horticultural crops in India 13
+8. Contribution of different subsectors to agricultural
+growth (percent) 14
+9. Growth in household income, all India 14
+10. Growth in farm household income across sources, all India,
+2012/2013 to 2018/2019 15
+11. Trends in the ratio of agricultural exports and imports 19
+12. Trends in sales of tractors and power tillers 29
+13. Fertiliser consumption in India: nitrogen (N), phosphorus
+pentoxide (P O ), and potassium oxide (K O) 30
+2 5 2
+14. State-wise fertiliser consumption in India 32
+15. Trend in biopesticide consumption between 2018/2019
+and 2022/2023 34
+16. State-wise chemical pesticide consumption 34
+17. Major sources of irrigation across farm sizes 35
+18. Average size of operational landholdings in states and
+union territories 40
+19. Ground-level credit targets for agriculture by NABARD,
+FY 2024 44
+20. Composition of total ground-level credit targets for the
+allied sector, FY 2024 45
+Contd...
+State of Indian Agriculture | ix21. Overview of premium and claims paid under the Pradhan
+Mantri Fasal Bima Yojana (PMFBY) insurance scheme
+since its launch in 2016 46
+22. Procurement of rice and wheat between 2003/2004
+and 2022/2023 49
+23. Procurement of rice and wheat from different states 50
+24. Percentage of beneficiary farmers in different states
+in 2022/2023 50
+25. Average annual increase in Minimum Support Price
+(MSP) of various crops 52
+26. Month-wise Wholesale Price Index changes for primary
+commodities over the course of 2023 53
+27. Percent change in Wholesale Price Index for all primary
+commodities in 2023 54
+28. WPI-based inflation of primary commodities over one year 56
+29. Inflation rates based on CPI-General and CFPI (combined)
+(base: 2012=100) 59
+30. Expenditure on the Department of Agricultural Research
+and Education (DARE) by the MoA&FW 68
+31. Yield gap of major crops 74
+32. Index number of productivity in all crops of India 76
+33. State-wise distribution of districts experiencing high
+vulnerability to climate change 77
+34. Percentage share of area to gross cropped area in two
+distinct periods 77
+x | ContentsTables
+1. CAGR (percent) of different subsectors of agriculture,
+2011/2012 to 2022/2023 9
+2. Production status of major food crops 11
+3. Production of major allied products in 2023 11
+4. Composition of agricultural exports and imports, percent
+of total, 1992 and 2022 18
+5. India’s exports and imports of agricultural commodities 20
+6. Share of food processing industries (FPI) on GVA at
+constant 2011/2012 prices 23
+7. Loss of major agricultural produce in India 24
+8. India’s agri and processed food exports, 2021/2022 25
+9. Requirement and availability of quality seeds, in
+100,000 quintals 26
+10. Public and private GCFA, GDPA (INR billions) and
+annual rate of growth (percent) at 2011/2012 prices 27
+11. Extent of mechanization across farm operations 29
+12. Fertiliser production status in India (2022/2023) 30
+13. State-wise fertilizer consumption, 2021/2022 31
+14. Pesticide consumption in India 33
+15. State-wise area covered under micro-irrigation as of
+March 31, 2022 36
+16. Agricultural land use pattern in India 38
+17. Number and area of operational holding across farm
+categories 39
+18. Disbursement of short-, medium-, and long-term
+institutional credit to the agricultural sector 43
+19. Period-wise details regarding the benefits released under
+the PM-KISAN scheme since its inception on March 9, 2023 47
+20. Overview of market access via e-NAM as of July 3, 2023 49
+21. Wholesale Price Index numbers for major commodities 52
+Contd...
+State of Indian Agriculture | xi22. Index numbers and annual rate of inflation (base year:
+2011/2012=100) 55
+23. Instability among major primary crops, 2014–2023 56
+24. Consumer Price Index numbers 57
+25. Inflation rates based on CPI-General and CFPI, 2023 58
+26. CPI for Agricultural Labourers and its growth rate (inflation) 60
+27. Extent of groundwater extraction in various states of India 61
+28. Extent and distribution of salt-affected soils in India 64
+29. State-wise cultivable area affected by soil erosion in India 65
+30. Assessment of land degradation in India by different
+agencies/organisations 66
+31. Number of extreme weather events in India over the
+past five decades 67
+32. Varieties developed by ICAR 70
+33. Yield gap of major crops, 2021/2022 75
+Appendix
+A1. State-wise progress under PMFBY and RWBCIS-combined,
+2016/2017 to 2022/2023 93
+A2. Share of horticulture value added in agriculture across states 95
+xii | ContentsPreface
+India’s agricultural sector demonstrated robust resilience during the
+COVID 19 pandemic, registering positive growth during that period
+and the majority of the country’s population remains directly or indirectly
+dependent on the sector. Ample evidence suggests that sustainable and
+inclusive agricultural growth is best supported by investment in research
+and that research managers and policymakers should have a clear and
+sustained overview of the sector in order to optimally design and adjust
+interventions. With this in mind, during a meeting with distinguished
+fellows of the Academy, we recognised the need for an annual report on
+the “State of Indian Agriculture”. Duly encouraged by the fellows and
+executive members of the National Academy of Agricultural Sciences,
+we embarked on this journey.
+This document intends to highlight the impediments and challenges
+within the sector with the aim of finding the most effective path toward
+inclusive agricultural growth. We, acknowledge the need for more
+in-depth studies and analysis, however we feel that the issues and
+recommendations emerging from this publication can foster a better
+understanding of the complexities inherent in Indian agriculture. We
+feel that this improved understanding can contribute to alignment within
+the policy and research framework and milieu. We believe that this will,
+in turn, improve efficiency, help ensure equity and sustainability, and
+address India’s concerns regarding food and livelihood security at the
+national, regional, and household levels.
+We thank all the resource persons, reviewers, and fellows of the National
+Academy of Agricultural Sciences (NAAS) who helped us decide on the
+structure and contents of the paper and commenting on a draft version of
+it. We received significant input from Dr Seema Bathla, Dr Raka Saxena,
+Dr Sendhil R, and Dr P Shinoj. We are grateful to all of them. We would
+like to particularly express our sincere thanks to Kriti Sharma, Manpreet
+State of Indian Agriculture | xiiiKaur, Sonali Katoch, and Soumya Subhashree Mohapatra for assisting
+us in the analysis and drafting of the document. We place on record our
+great appreciation for their unflinching support.
+We would also like to convey our gratitude to the NAAS for pursuing
+and bringing out this publication. We believe that this would help the
+ICAR, the Government of India, and other stakeholders enhance the
+performance of Indian agriculture and thereby improve the standard of
+living of Indian farmers.
+Authors
+xiv | PrefaceAbbreviations
+APMC Agricultural Produce Market Committee
+AWiFS Advanced Wide Field Sensor
+CAGR Compound Annual Growth Rate
+CIPHET Central Institute of Post Harvest Engineering & Technology
+CPI Consumer Price Index
+CPIAL Consumer Price Index for Agricultural Labour
+CSSRI Central Soil Salinity Research Institute
+DAH&D Department of Animal Husbandry & Dairying
+DARE Department of Agricultural Research and Education
+DES Directorate of Economics & Statistics
+DoA&FW Department of Agriculture & Farmers Welfare
+e-NAM Electronic National Agriculture Market
+ESCAP Economic and Social Commission for Asia and the Pacific
+FCI Food Corporation of India
+FPI Food Processing Industry
+GoI Government of India
+GSDP Gross State Domestic Product
+GVA Gross Value Added
+ICAR Indian Council of Agricultural Research
+ICFA Indian Council of Food & Agriculture
+Contd...
+State of Indian Agriculture | xvICT Information and Communication Technologies
+IPM Integrated Pest Management
+ISRO Indian Space Research Organisation
+KCC Kisan Credit Card
+MAS Marker-Assisted Selection
+mHa Million Hectares
+Mmt Million Metric Tons
+mtons Million Tons
+MoSPI Ministry of Statistics and Programme Implementation
+MSP Minimum Support Price
+NAAS National Academy of Agricultural Sciences
+NABARD National Bank for Agriculture and Rural Development
+NBSS&LUP National Bureau of Soil Survey and Land Use Planning
+NCAER National Council of Applied Economic Research
+NFSM National Food Security Mission
+NTM Non-Tariff Measure
+PM-KISAN Pradhan Mantri Kisan Samman Nidhi
+PMFBY Pradhan Mantri Fasal Bima Yojana
+PMKSY Pradhan Mantri Krishi Sinchayee Yojana
+RKVY Rastriya Krishi Vikas Yojana
+RWBCIS Restructured Weather Based Insurance Scheme
+SMSP Sub-Mission on Seeds and Planting Materials
+TE Triennium Ending
+UT Union Territory
+WPI Wholesale Price Index
+xvi | List of AbbreviationsIntroduction
+In 2022, India celebrated 75 years of independence from the British Raj.
+This marked a watershed moment in the country’s history, the beginning
+of its Amrit Kaal or ‘golden era’, the quarter century during which it
+resolves to transform itself into a developed nation. In November of 2023,
+India concluded its one-year term as president of the G20, a year that
+was imbued with the spirit of Vasudhaiva Kutumbakam (One Earth, One
+Family, One Future) and during which green, inclusive, and resilient growth
+was endorsed as a priority. Tremendous geopolitical turmoil and natural
+calamities in recent years have led to supply shocks, slowdown in growth, and
+high inflation in several countries. India, during this period, demonstrated
+remarkable resilience toward these uncertainties. The country’s growth
+story has assumed a structurally more robust trajectory. It has geared up to
+turn domestic and international challenges into opportunities, preparing a
+blueprint to steer the economy toward a golden era.
+India has regained its position as the fastest growing large economy in
+the world. In fiscal year (FY) 2023, the gross domestic product (GDP)
+grew by 7.2 percent in real terms. A favourable policy environment and
+greater focus on capital expenditure together have resulted in a robust
+growth of 11.4 percent in the investment-to-GDP ratio. The share of
+capital expenditure in GDP (synonymous with capital formation) is high
+at 34 percent. Increased investments in the infrastructure, technology,
+manufacturing, and agricultural sectors have created the much-needed
+momentum for faster and sustainable growth. The increase in capital
+expenditure by 37.4 percent over FY2022,envisioned in the Union Budget
+FY2023 will further boost investment and ensure long-term economic
+growth. These and many more initiatives have laid the groundwork for
+faster and more inclusive growth, better institutions, and governance, and
+enhanced social welfare.
+It goes without saying that the agricultural sector contributes significantly
+to India’s socioeconomic growth and development (Pathak et al. 2022).
+State of Indian Agriculture | 1Being a principal source of income and livelihood for half the country’s
+population, agriculture can help India achieve a developed nation status.
+Significant transformations are taking place within the food system; these
+range from shifts of traditional farming methods to modern capital-
+intensive systems enabled by digital farm services, to the use of artificial
+intelligence and drone technology. Efforts have also been made to link
+farmers directly with markets in order to help them better assess changing
+consumer food preferences. While moving to a higher growth trajectory,
+agriculture faces numerous domestic and international challenges; these
+include increasingly erratic rainfall, heat waves, the need to reduce
+greenhouse gas (GHG) emissions, degradation of water and soil, high
+volatility in yield and commodity prices, a surge in imports, global
+slowdowns, and increased international conflicts such as that between
+Russia and Ukraine and in Palestine.
+It is against this backdrop that the National Academy of Agricultural
+Sciences (NAAS) offers this report, which intends to delve into the state of
+Indian agriculture. Its broad aim is to consider institutional, technological,
+and digital interventions in terms of the efficacy with which they augment
+farmers’ productivity and income. NAAS has entered its 33rd year as a
+leading and successful science academy that is dedicated to the service
+of Indian agriculture through scientific and policy-oriented interventions.
+Taking stock of the progress that has been made on various fronts in
+agriculture will be helpful to the Academy in suggesting appropriate
+policies for a faster and more sustainable transformation of agriculture.
+The following is the structure of the report. Sections 1 and 2 discuss the
+achievements of the agricultural sector in terms of output growth at the
+all-India level and across the states, input use patterns, farmers’ income,
+and agricultural trade. It also analyses changes in the structure and
+composition of agricultural output and the implications of those changes
+for the future of Indian agriculture. Sections 3 and 4 highlight farmers’
+access to institutional finance, agri-markets and key research; the two
+chapters also discuss new developments in the agricultural sector. Section
+5 brings forth pertinent issues relating to climate change, and the final
+section suggests a way forward for agriculture during the Amrit Kaal.
+2 | IntroductionPerformance of
+1
+Indian Agriculture
+1.1. Contribution of Agriculture to GDP and
+Employment
+According to the theory of economic development, as an economy
+progresses the contribution of agriculture to GDP and employment
+declines and that of the industrial and tertiary (service) sectors increases.
+In 1950/1951, 69 percent of India’s total workforce was engaged in
+agriculture, contributing 53 percent to the national income. Over the
+years, while the share of agriculture has declined in terms of both national
+income and employment, the reduction in employment share has not kept
+pace with the decline in its share of total income. At the all-India level
+in 2022/2023, for instance, the share of agriculture in total employment
+was 44.8 percent while its share of GDP stood at 19.2 percent. As of FY
+2023, India’s INR 297 trillion (about US $ 3.7 trillion) economy included
+19 percent contributed by the agricultural and allied sectors, 31 percent
+by industry, and 54 percent by the service sector. Over the long term, the
+share of industrial GDP in total GDP has hovered around 25-30 percent,
+despite a favourable policy and incentive structure. The current 19 percent
+contribution by agriculture to total GDP reflects its sizeable decline in
+response to growth in the share contributed by the services sector.
+However, it seems that neither the industry nor the service sector has been
+able to pull people out of agriculture as 45 percent of India’s 520-million-
+person labour force continues to be employed in agriculture. Though
+agricultural income is estimated to be INR 46 trillion (about US $0.6
+trillion) and is growing, low levels of labour productivity result from the
+large numbers of people dependent on it (Figure 1). This mismatch in
+income and employment shares may also indicate a neglect of agriculture
+in the existing economic development model, which in turn has caused
+large disparities in income between the agricultural and non-agricultural
+sectors. This suggests an urgent need to recognise the importance of
+State of Indian Agriculture | 3Figure 1. Share of agriculture in GDP and employment in India
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI2023a).
+agriculture by, among other things, improving land and labour productivity
+and creating off-farm jobs.
+The share of agriculture and its allied sectors in the gross state domestic
+product (GSDP) exhibits stark variations across the states (Figure 2). At
+the all-India level, agricultural gross value added (GVA) constitutes a
+Figure 2. Agricultural GVA as a percentage of GSDP, 2023
+Source: Periodic Labour Force Survey (PLFS), July 2022–June 2023(India, MoSPI
+2023b); National Accounts Statistics 2023(India, MoSPI 2023).
+Note: *=fiscal year 2021/2022; GVA = Gross Value Added; GSDP = Gross
+State Domestic Product
+4 | Performance of Indian Agriculture14 percent share of GDP. Among the states it varies from a meagre 3.3
+percent share in Puducherry to a 33.3 percent share in Arunachal Pradesh.
+A higher share indicates a more significant contribution of agriculture to
+state-level economic output and a slower pace of growth in the industrial
+and services sectors. Madhya Pradesh follows closely on Arunachal
+Pradesh at 31.2 percent, which indicates the prominence of the agricultural
+sector in that state’s economy. Andhra Pradesh, Rajasthan, and Tripura
+also exhibit noteworthy percentage shares at 28.7 percent, 26.1 percent,
+and 22.9 percent, respectively. Agriculture maintains a substantial share
+of 21.2 percent in both Punjab and Uttar Pradesh, which emphasises the
+continued importance of agriculture in their respective economies. Other
+states such as Bihar (19.5 percent), Manipur (19.4 percent), and Assam
+(18.1 percent) also demonstrate a considerable reliance on agriculture.
+1.2. Agricultural Growth and Diversification
+Despite global turmoil due to war, natural calamities, and pandemic-
+induced disruptions, India has maintained an annual growth momentum of
+6 percent for over a decade, and in FY2023 it recorded a robust 7.2 percent
+annual rate of growth. The agricultural sector has shown a remarkable
+resilience under the prevailing uncertain conditions, as is evidenced by
+its 3.3 percent (FY2021) and 3.5 percent (FY2022) annual rate of growth
+in real prices. The compound annual growth rate (CAGR) during the past
+12-year period ending FY2023 is close to 4 percent (Figure 3). The rate
+of growth, however, is not uniform across the states. Figure 3 reveals
+the state-wise CAGR of overall GDP and GVA in agriculture over the
+decade from 2011/2012 to 2022/2023. Among the eight states of India’s
+North-Eastern Region, Mizoram’s progress is significant in terms of GDP
+growth (10.1 percent); this is followed closely by Gujarat’s 8.5 percent
+growth, and Karnataka’s 7.5 percent growth. In terms of agricultural GVA,
+Andhra Pradesh takes the lead with 8.57 percent CAGR, followed by
+Mizoram at 8.45 percent and Tripura at 6.02 percent. These figures are
+indicative of the economic dynamism and agricultural prowess of these
+states. Among the states, Kerala has a negative CAGR in agriculture at
+-1.14 percent. A number of other states (Chhattisgarh, Bihar, Rajasthan,
+and Uttar Pradesh) have demonstrated consistent growth in both GDP
+and agricultural GVA.
+Indian agriculture is on a high growth trajectory. One of the factors that
+has contributed to higher income growth is diversification toward allied
+activities. At the time of independence, the crop sector dominated; in the
+subsequent decades, however, especially after the 1980s, acceleration
+State of Indian Agriculture | 5Figure 3. State-wise CAGR of agricultural GVA and GDP, 2012 to 2023
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI2023a).
+Note: CAGR =Compound Annual Growth Rate; GVA = Gross Value Added; *
+=fiscal year 2021/2022.
+was seen in the share of livestock. The crop sector’s share in agricultural
+GVA decreased from 79.3 percent in Triennium ending (TE) 1952 to 54.8
+percent in TE 2022 while the share of livestock has almost doubled from
+16 to 30 percent over the same period. The contribution of fisheries to
+total value of agricultural output has also increased from 0.6 percent in TE
+1952 to 6.6 percent in TE 2022. The share of forestry in total agricultural
+GVA remains low (Figure 4).
+Within the crop sector, the share of horticulture has increased from 10.8
+percent in TE 1952 to 33.5 percent in TE 2022 (Figure 5).
+India can boast of achieving food security at the national and household
+levels and in recent years it can also be considered to have attained
+nutrition security. Due to rising per capita income, growing urbanisation,
+and a rapid increase in the integration of the domestic economy with the
+world economy, consumers are diversifying toward more nutrient-rich
+diets and the agricultural sector is able to meet their demand. Though
+the share of the crop sector in total income has been declining, it remains
+6 | Performance of Indian AgricultureFigure 4. Share of different subsectors in gross value of agricultural output
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI 2023a).
+Figure 5. Share of foodgrains and horticulture in value of crop output
+(percent)
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI 2023a).
+the principal source of income generation. The crop and livestock sectors
+complement each other and thus generate a strong synergy. As evident
+from Figure 6, the fisheries subsector is prominent in coastal areas and
+forestry is important in hilly regions. Among the states, Andhra Pradesh,
+Assam, and Karnataka place significant importance on crops, which
+constitute a 38.53, 66.58, and 60.73 percent share in their respective
+agricultural GVA totals. Within the crop sector, horticulture emerges as a
+significant contributor, as illustrated in Table A2 in the Appendix. In states
+such as Sikkim (87.3 percent), Kerala (43.4 percent), Himachal Pradesh
+State of Indian Agriculture | 7Figure 6. Composition (percentage) of agricultural GVA, 2022/2023
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI 2023a).
+Note: GVA = gross value added; * =fiscal year 2021/2022.
+(41.7 percent), and Meghalaya (41.5 percent), horticulture makes a
+noteworthy contribution to the agricultural GVA. Relative to other states,
+livestock’s share of agricultural GVA is high in Haryana (43.73 percent)
+and Punjab (35.26 percent). Fishing and aquaculture activities are notable
+in Sikkim and Goa with 87.10 percent and 26.98 percent share in GVA,
+respectively. Forestry holds significant importance in the north eastern
+states, especially in Mizoram and Assam.
+Table 1 presents the compound annual growth rate (CAGR) in each
+of the agricultural subsectors for the period 2011/2012 to 2022/2023
+across states and union territories. Notably, a positive and high rate of
+growth in GVA crops can be observed in Madhya Pradesh (5.84 percent),
+Karnataka (4.76 percent), and Andhra Pradesh (4.37 percent);livestock
+GVA, on the other hand, shows a much higher rate of growth in Madhya
+Pradesh (13.48 percent), Assam (12.74 percent), and Tripura (12.99
+percent).A few states exhibit a decline in the annual rate of growth
+of crop cultivation, including Kerala (-2.36 percent) and Nagaland
+(-10.33 percent). Fishing and aquaculture exhibit promising growth in
+Meghalaya (15.00 percent), Odisha (11.05 percent), and Chhattisgarh
+8 | Performance of Indian AgricultureTable 1. CAGR (percent) of different subsectors of agriculture, 2011/2012 to
+2022/2023
+State Compound annual growth rate (%) Horticulture$
+2011/2012 to 2022/2023*
+Crops Livestock Fishing and Forestry
+aquaculture and
+logging
+Andhra Pradesh 4.4 8.6 19.1 1.9 8.1
+Arunachal Pradesh* -3.9 6.2 5.5 10.4 -6.7
+Assam 3.2 12.7 6.9 4.5 2.2
+Bihar 0.0 8.4 7.6 5.1 0.6
+Chhattisgarh 3.3 7.4 9.8 7.3 5.5
+Goa* -0.3 2.4 1.7 26.5 1.7
+Gujarat* 2.5 6.1 5.5 1.6 4.4
+Haryana 1.6 8.0 9.1 2.1 5.1
+Himachal Pradesh 1.0 9.1 7.7 3.6 4.9
+Jharkhand 1.2 5.3 12.1 0.1 -2.7
+Karnataka 4.8 10.3 6.3 5.7 6.0
+Kerala* -2.4 -0.4 1.4 1.7 -1.7
+Madhya Pradesh 5.8 13.5 14.5 5.3 11.5
+Maharashtra* 2.4 6.5 0.8 7.4 3.0
+Manipur* 7.5 1.0 3.5 2.3 2.4
+Meghalaya 1.3 1.4 15.0 9.1 -0.2
+Mizoram* 3.4 5.6 -0.2 16.4 0.6
+Nagaland* 0.2 -10.3 3.2 7.6 2.6
+Odisha 2.0 5.0 11.1 6.0 -1.6
+Punjab 0.7 5.2 7.3 1.7 5.2
+Rajasthan 2.0 11.0 8.2 3.3 4.9
+Sikkim 5.4 5.6 7.6 0.0 1.4
+Tamil Nadu 1.3 10.7 3.1 7.2 0.4
+Telangana 3.8 8.3 6.7 1.4 -2.1
+Tripura 4.2 13.0 9.5 5.6 2.0
+Contd...
+State of Indian Agriculture | 9State Compound annual growth rate (%) Horticulture$
+2011/2012 to 2022/2023*
+Crops Livestock Fishing and Forestry
+aquaculture and
+logging
+Uttar Pradesh 3.3 4.2 7.1 3.8 6.3
+Uttarakhand 0.2 2.9 5.0 3.9 -2.6
+West Bengal 1.5 4.9 2.6 2.7 1.5
+India 1.7 7.6 4.6 8.6 3.5
+Source: Ministry of Statistics and Programme Implementation (India, MoSPI 2023a).
+Note: CAGR = Compound Annual Growth Rate; * = Fiscal Year (FY) 2021/2022;
+$ = FY 2019/2020.
+(9.76 percent). These state-level growth trends provide valuable insights
+into the evolving agricultural landscape, highlighting potential areas
+that may need attention if higher agricultural growth and sustainable
+development is to be achieved.
+1.3. T rends in the Production of Major Agricultural
+and Allied Products
+Over the past five years, both the area and production of major food
+crops have shown an increasing trend (Table 2). Between 2021/2022
+and 2022/2023, total food grain production increased from about 298
+million tons to 330 million metric tons: an increase of about 10 percent.
+Rice registered an incremental production about 17 million tons, while
+wheat production increased by about 3 million tons during this period.
+Total pulse production also witnessed an increase of 3 million tonnes. As
+per the first advance estimates for 2023/2024 (Kharif only), total kharif
+food grain production is estimated at 148.6 million tons, which is higher
+than the average Kharif production over the last three years (2020/2021
+to 2022/2023).
+Climate change has begun to adversely affect the agricultural sector (Pathak
+2023a). During the 2022/2023 Rabi season, a heat wave due to delayed
+monsoon and erratic rainfall caused farmers to incur heavy losses, including
+a 3.7 percent decline in paddy production (Goswami et al. 2023).
+The livestock and fisheries sectors of the economy have been playing
+a vital role in improving the socioeconomic conditions of farmers,
+10 | Performance of Indian AgricultureTable 2. Production status of major food crops
+(Million tons)
+2019/ 2020/ 2021/ 2022/ 2023/
+Crops
+2020 2021 2022 2023 2024*
+Rice 118.9 124.4 129.5 135.8 106.3
+Wheat 107.9 109.6 107.7 110.5
+Nutri-cereals 17.3 18.0 16.0 17.3 12.7
+Total cereals 274.45 285.3 288.3 303.6 141.5
+Total pulses 23.0 25.5 27.3 26.1 7.1
+Total foodgrains 297.5 310.7 315.6 329.7 NA
+Oilseeds 33.2 35.9 37.9 41.4 21.5
+Sugarcane 370.5 405.4 439.4 490.5 434.8
+Cotton** 36.1 35.2 31.2 33.7 31.6
+Jute and Mesta# 9.9 9.4 10.1 9.4 9.2
+Source: APY, Statistics, Directorate of Economics & Statistics, Department of Agriculture
+and Farmers Welfare, GoI
+Note: * = First advance estimates, Directorate of Economics & Statistics, Government
+of India; ** = million bales of 170 kgs each; #= million bales of 180 kgs each.
+especially those operating at a small and marginal scale. In the last
+decade, the livestock sector has shown a continuous and stable CAGR
+of 7.9 percent. India is the world’s largest milk-producing country, with
+a record production of 230.58 mT in 2022/2023. Globally, it is also
+the largest producer of buffalo meat, the second-largest producer of
+goat meat, and the third-largest producer of eggs and fish (Table 3).
+Table 3. Production of major allied products in 2023
+Year Milk Meat Egg Wool Fish
+(mT) (mT) (millions) (million kg) (mT)
+2019/2020 198.4 8.6 1,14,000 36.8 14.2
+2020/2021 210.0 8.8 1,22,000 36.9 14.7
+2021/2022 221.2 9.3 1,30,000 32.9 16.2
+2022/2023 230.58 9.8 1,38,000 33.6 17.4
+Source: Basic Animal Husbandry Statistics (India, DAH&D 2023); Handbook on Fisheries
+Statistics 2022 (India, Department of Fisheries 2022).
+Note: mT = million tons.
+State of Indian Agriculture | 11At 9.7 mT annually, India stands eighth in the world for overall meat
+production. Poultry contributes significantly to the overall growth of
+the livestock sector, with a sustained increase observed in egg and
+poultry meat production. India’s annual fish production has increased
+to a record 17.4 mT in 2022/2023 from 14.16 mT in 2019/2020, a
+23 percent increase over a three-year period (Figure 8). It presently
+holds the distinction of being the world’s second-largest aquaculture
+producer and fourth-largest capture fishery producer. During the past
+decade, fish production has registered an annual growth rate of about
+8 percent. Inland fisheries currently contribute about three-fourths
+of the total fish production, with the remainder coming from marine
+capture fisheries. Over the past decade, fish production from capture
+fisheries (both marine and inland capture) has experienced stagnation;
+aquaculture, in the same period, has exhibited a robust performance,
+thereby driving most of the sector’s growth. The major cultured species
+of inland freshwater fish include the major carps (Catla, Rohu, Mrigal)
+as well as other minor and exotic carps, murrels, and catfish. Marine
+capture fish production consists mainly of Indian oil sardines, Indian
+mackerel, threadfin breams, tuna, penaeid prawns, croakers, sharks, and
+skates. Mariculture involves the culture of marine species in enclosed
+structures; it is fast emerging as a prospective avenue for future marine
+production. Some of the promising mariculture enterprises include cage
+culture, seaweed culture, mussel and oyster culture, and ornamental
+fish culture (Jena et al. 2023).
+Within the crop sector, horticulture contributes significantly to the
+economy with a 33 percent share in agricultural GVA. India currently
+shows a record production of 351.92 million tonnes of horticultural
+products which is produced on 28.12 million hectares (mHa) of land;
+this surpasses the area and production of food grains (Figure 7). The
+productivity of horticulture crops has increased by 50 percent over the past
+two decades; it now stands at 12.49 tons per hectare (t/ha), far exceeding
+the productivity of food grains (2.23 t/ha) (Jha et al. 2019). India is the
+world’s second-largest producer of fruits and vegetables, with crops such
+as spices, plantation crops, and aromatic crops contributing significantly
+to the development of the country’s horticultural sector. The Indian
+horticultural sector ensures nutritional security and also provides crop
+diversification activities, employment opportunities, and improved farm
+income; however, increasing population, uncertain supply and demand,
+and climate change impose challenges and constraints on horticultural
+production systems.
+12 | Performance of Indian AgricultureFigure 7. Area and production status of horticultural crops in India
+Source: Ministry of Agriculture & Farmers Welfare, GoI.
+Note: * = second advance estimates for year 2022/23 released by Ministry of
+Agriculture & Farmers Welfare
+1.4. Sources of Agricultural Growth: Changing Role
+of Commodities
+The crop sector, despite contributing significantly to the overall agricultural
+sector, is declining in importance, moving from about 79 percent in the 1970s
+to 60 percent in the 2000s; by 2023, it contributed only 24 percent to the
+total. Livestock, in contrast, has almost quintupled and now accounts for more
+than half of agricultural growth. Fisheries’ contribution has also increased,
+moving from 0.88 percent in the 1950s to 16 percent in the 2011-to-2022
+period. Over this period, forestry has exhibited a fluctuating trend (Figure 8).
+1.5. Farmers’ Income and Its Main Sources
+The Government of India’s paramount objective is the elevation of
+farmers’ economic well-being. While Indian agriculture contributed only
+19 percent to the country’s GVA in FY 2021/2022 (India, MoA&FW
+2023), it remains the primary sector for livelihood and employment, with
+over 45.5 percent of the nation’s workforce engaged in agricultural and
+allied activities (India, MoSPI 2023). Notably, a higher growth is observed
+when real incomes are calculated using the Consumer Price Index for
+State of Indian Agriculture | 13Figure 8. Contribution of different subsectors to agricultural growth (percent)
+Source: Base data: National Accounts Statistics 2023 (India, MoSPI 2023c).
+Agricultural Labour (CPIAL) as the deflator. Agricultural households
+generate income from various sources including crop cultivation, animal
+husbandry, wages and salaries, and non-farm business pursuits. The
+real income, adjusted with the GDP deflator, witnessed a growth of 2.47
+percent per year between 2002/2003 and 2012/2013, but this slowed
+down to 1.5 percent in the 2012/2013 to 2018/2019 period (Figure 9).
+Figure 9. Growth in household income, all India
+Source: Base data: Situation Assessment Surveys (2002/03; 2012/13 and 2018-19),
+NSSO, (India, MoSPI 2023c).
+14 | Performance of Indian AgricultureWhile overall income of agricultural households has increased (INR
+2,115 to INR 10,218) a notable shift has occurred in the composition
+of income sources, specifically a decline in the proportion derived
+from crop cultivation. The surge in total income of farming households
+observed between 2012/2013 and 2018/2019 can be attributed mainly
+to substantially increased earnings from wages and animal farming; there
+has been, however, a worrisome 2.72 percent annual decline in income
+from crop cultivation (Saxena et al. 2023b) (Figure 10).
+Figure 10. Growth in farm household income across sources, all India,
+2012/2013 to 2018/2019
+Source: Base data: Situation Assessment Surveys (2002/03; 2012/13 and 2018-
+19), NSSO, (India, MoSPI)
+Concerted efforts have been made to address this trend; these include
+the introduction of enhanced crop varieties, micro-irrigation initiatives,
+risk management strategies, and price support programmes specifically
+designed to bolster the crop sector. Ensuring sustained growth, however,
+requires the effective implementation of these measures coupled with robust
+farm linkages. Animal and fish farming are, at the same time, emerging
+as promising sectors with significant growth potential. This positive shift
+underscores the need to explore and capitalise on opportunities within
+these domains, including the diversification of income sources within
+agricultural households. Nurturing these sectors through strategic policies
+and supportive frameworks can contribute not only to the resilience of
+the agricultural economy but also to the overall prosperity of farming
+communities.
+State of Indian Agriculture | 15A supportive policy environment is crucial for enhancing agricultural
+incomes and nutrition security. Its focus should be on the encouragement
+of off-farm activities, especially for smallholders. Agricultural households,
+irrespective of their landholding size, demonstrate a commendable
+level of financial inclusion, with nearly all possessing a bank account;
+this reflects the significant strides that have been made in financial
+accessibility. Challenges persist in specific domains, however, such as in
+crop insurance, where coverage under the Pradhan Mantri Fasal Bima
+Yojana (PMFBY) remains dismally low for marginal farmers. This gap
+in insurance protection constitutes a considerable level of vulnerability
+for this already-vulnerable segment of the farming community. Targeted
+interventions to enhance coverage and effectively mitigate risks are thus
+necessary.
+At the same time, the landscape of registered farm organisations reflects
+the stark reality that only a tiny percentage of agricultural households
+are members of such organisations. This underscores a potential gap in
+collective empowerment and collaborative initiatives and signals the need
+for strategies that enhance farmers’ participation in such organisations
+so as to foster a sense of community and amplify their collective voice.
+The involvement of marginal and small landholders in initiatives such as
+the Soil Health Card Scheme and Animal Health Card Scheme is also
+notably limited. These programmes are designed to empower farmers by
+providing crucial information and resources; they thus need to be more
+inclusive and to ensure that smallholders have access to vital tools for
+optimising soil and animal health. Bridging these participation gaps is
+integral to realising the comprehensive benefits of these schemes across
+all tiers of the agricultural community.
+The potential industrialisation of rural areas hinges on prioritising labour-
+intensive agro-based industries, necessitating a booming rural non-farm
+economy to alleviate employment pressure on agriculture. Effective
+market intelligence is pivotal for enhancing farmers’ income, urging
+the development of domestic marketing linkages and the adoption of
+electronic trading platforms such as the Electronic National Agriculture
+Market, or e-NAM. Amid the COVID-19 pandemic, successful government
+interventions, support payments, and enhancements to supply chains
+underscored the importance of addressing challenges and ensuring food
+security. Post-pandemic, however, global markets imposing stricter food
+safety requirements necessitate India’s investment in food quality and
+safety infrastructure. The impact of the Russia–Ukraine war on global
+commodity prices underscores the uncertainty in global economic prospects
+16 | Performance of Indian Agricultureand suggests an urgent need for a robust domestic food production and
+trade strategy.
+Amidst these challenges, climate change emerges as a critical factor
+requiring immediate attention and strategic planning (Pathak 2023a).
+Collaborative efforts at local, regional, and national levels are imperative to
+develop adaptive strategies that mitigate the impacts of climate change on
+Indian agriculture. This necessitates not only robust research collaborations
+but also dedicated funding for the development and implementation of
+climate-smart technologies, ensuring the sector’s long-term sustainability
+(Pathak 2023a).
+In embracing these challenges and proactively seizing opportunities, India’s
+agricultural sector has the potential to foster resilience, sustainability, and
+improved livelihoods for its farming community. A holistic approach,
+encompassing strategic policy initiatives, technological advancements, and
+global competitiveness can pave the way for a thriving and resilient future
+for Indian agriculture.
+1.6. Agricultural Trade
+Historically, India’s agricultural exports were characterised by spices, tea,
+fish and fishery products, cashew nuts, and other distinctive commodities.
+Evolving trade dynamics, however, have witnessed the ascendance
+of new export leads including basmati rice, meat (particularly buffalo
+meat), soybean meal, and groundnut seed. This diversification in export
+commodities signifies the adaptability and dynamism of India’s agricultural
+trade, including its ability to respond to shifting global demands.
+Table 4 compares the composition of agricultural sector exports and
+imports in 1992 and 2022. This period saw an increase in the export
+share of cereals, livestock, sugar and sugar products. As India moved
+toward and beyond self-sufficiency in these crops it began to export greater
+quantities, resulting in a significant increase in total agricultural exports.
+A decline was registered, on the other hand, in the share of exports of
+cotton, coffee, tea, spices, mate and cocoa, products and preparations
+of vegetables, and fruits and nuts. As for cotton, both its production and
+exports have exhibited fluctuations over the years, however a decline in
+cotton yield and the emergence of competitors like Vietnam has reduced
+the attractiveness of India’s cotton in the international market (Mukherjee
+2023; OEC 2023). Among imports, the share of animal or vegetable fats
+State of Indian Agriculture | 17Table 4. Composition of agricultural exports and imports, percent of total,
+1992 and 2022
+Particulars 1992 2022
+Exports Imports Exports Imports
+Cereals and cereal products 8.1 28.7 26.0 1.0
+Coffee, tea, spices, mate and cocoa 11.9 1.5 6.9 3.8
+Cotton and silk 26.4 15.6 11.7 5.3
+Fishing and aquaculture 13.2 0.0 11.0 0.4
+Horticulture and horticultural 24.0 29.4 12.8 23.5
+products
+Livestock and livestock K products 3.0 1.7 8.7 0.3
+Miscellaneous products* 2.1 10.6 6.0 59.8
+Oilseeds 2.3 1.0 3.2 2.4
+Sugars and confectionery 2.8 0.4 10.5 1.0
+Tobacco and tobacco products 3.6 0.1 2.0 0.2
+Other products** 2.6 11.0 1.2 2.2
+Source: World Integrated Trade Solutions (WITS), 1992, 2022.
+Note: * =animal or vegetable fats and oils, miscellaneous edible preparations; ** =wool,
+vegetable textile fibres, paper yarn, animal hair, and other fabrics.
+and oils in total agricultural imports has increased significantly during the
+period. India’s demand for vegetable oil has been on the rise over this
+period and domestic production has not been able to satisfy this demand
+(Damodaran 2023). A decline has been registered, on the other hand,
+in the share of imports of vegetables, fruits and nuts, cereal and cereal
+products, cotton, coffee, tea, mate, cocoa and spices. Over this period,
+India’s dependence on cereal imports has fallen significantly, as its domestic
+production has increased due to the introduction of improved varieties.
+Despite rising domestic demand for vegetables, fruits, and nuts,the share
+of imports of these commodities has declined, indicating that Indian
+farmers are gradually moving from food grains to horticultural crops (The
+Economic Times 2023).
+In the overall trade landscape, where India has consistently maintained
+a negative trade balance since the initiation of planned development in
+1950/1951, the agricultural sector’s consistent trade surplus stands out as
+a beacon of success. In 2022/2023, India garnered net foreign exchange
+18 | Performance of Indian Agricultureearnings of approximately US$20 billion from agricultural trade. The
+trajectory of both agricultural exports and imports has been noteworthy,
+albeit with distinct growth rates. Between 1992/1993 and 2022/2023,
+agricultural exports experienced a commendable annual growth of 9.5
+percent, highlighting India’s prowess in catering to international markets.
+Agricultural imports, in contrast, surged more rapidly, recording an annual
+growth rate in excess of 15 percent. This divergence has contributed to a
+substantial reduction in the ratio of agricultural exports to imports, dropping
+from 7.4 in 1992/1993 to a modest 1.6 in 2022/2023 (Table 5 and Figure 11).
+Figure 11. Trends in the ratio of agricultural exports and imports
+Source: Latest Trade Figures Department of Commerce (India, Ministry of Commerce
+and Industry 2023)
+Crucially, the country’s capacity to generate exportable surpluses emerges
+as a pivotal determinant in shaping its export prospects. This capacity
+is subject to fluctuations influenced by macro-economic shifts (mainly
+exchange rate) and changes in the production environment (Singh and
+Sain 2003). As India continues to navigate the complexities of the global
+market, sustaining and enhancing its export competitiveness will be
+pivotal for leveraging the full potential of its agricultural prowess on the
+international stage.
+On the import front, a substantial 72 percent of India’s agricultural imports
+in 2023 are in the categories of edible oils, pulses, and fresh and dried
+fruits. The escalating import of edible oils stands out as a major concern;
+in this, vegetable oils take the lead, constituting a significant 51.9 percent
+of the country’s total agricultural imports and making India the world’s
+largest importer of vegetable oils. Imports are also expected to double
+State of Indian Agriculture | 19Table 5. India’s exports and imports of agricultural commodities
+(US$ billion)
+to an estimated US$20.8 billion in 2023/2024 from US$10.8 billion in
+2017/2018 (GTRI 2023).
+This surge in imports poses challenges, but at the same time offers a
+compelling opportunity for India to bolster its self-sufficiency in edible
+oils. Despite a substantial yield gap of over 50 percent in oilseeds, there
+exists immense potential for enhancing domestic production through
+strategic technological interventions (Pathak 2023b). Most of these crops
+are cultivated under rainfed conditions on marginal lands and research
+shows that climate change is likely to have a negative impact on oilseed
+production (Birthal et al. 2021). Effec

@@ -1,0 +1,1020 @@
+)
+I
+S
+G
+(
+8
+A
+I
+D Geological Survey of India (GSI)
+N
+I
+F
+O
+Introduction changing national priorities throughout successive Five
+Y
+Year Plans and are presently oriented in the light of the
+E 8.1 The Geological Survey of India (GSI) was
+V objectives and goals set for it in the XI Plan. The major
+established in 1851 primarily with the objective of
+R
+thrust areas identified for GSI in the XI Plan are:
+U locating mineral resources including coal. In the 150
+S years since its inception, GSI has continued to grow • Creation and updation of national geoscientific
+L and diversify into various geoscience activities, and has information and knowledge base through ground,
+A
+contributed immensely to Indian Geoscience. After marine and airborne surveys, with concept
+C
+I independence, GSI’s activities in mineral exploration oriented thematic geological mapping on
+G
+as well as baseline surveys have increased manifold in progressively larger scales and geochemical and
+O
+order to sustain the momentum of national economic geophysical mapping.
+L
+O development.
+• Identification as well as preliminary assessment
+E
+G GSI’s activities may be grouped as ‘Geoscientific of the mineral resources.
+baseline data’ which includes geological surveys and
+• Geoscientific input to water resource
+mapping; ‘Mineral Resource Assessments’ which
+development, transport and miscellaneous civil
+includes ferrous and nonferrous minerals, coal and
+engineering projects.
+lignite etc. ‘Special Studies’ which includes Natural
+hazards studies, Climatic studies, Geotechnical studies • Natural hazard studies and disaster management
+etc, and ‘Geoinformatics’ which include publication of including earthquake and landslide
+Maps and Reports and generation of spatial information zonation studies.
+through GIS and related software for a variety of • Shallow Subsurface Geology
+applications in developmental and regulatory situation
+• Geo-environmental investigations for both
+as well in the commercial sphere.
+regional and site specific studies.
+Under the National Mineral Policy (NMP) 2008,
+• Computerised archival, analyses, retrieval of
+Geological Survey of India remains the principal agency
+geoscientific data and creation of theme-based
+for geological mapping and regional mineral resources
+relational databases.
+assessment of the country. The NMP seeks to ensure
+that GSI programmes are prioritized in line with the • Dissemination of data through maps, publications,
+national policy goals and are chalked out after taking customization, intranet/extranet f a c i l i t i e s
+into account the exploration work undertaken by the through GSI portal etc.
+private sector for which the existing arrangement of
+• Training in specialised fields for upgradation of
+programme formulation through the Central Geological
+technology and expertise.
+Programming Board (CGPB) would be revamped.
+• Modernisation and expansion of laboratories and
+NMP envisages strengthening the Geological Survey of
+survey facilities.
+India with manpower, equipment and upgraded skill sets.
+Central Geological Programming Board
+Thrust Areas of Activity
+8.3 The Government set up the Central Geological
+8.2 The thrust areas of GSI’s activities have evolved with
+Programming Board (CGPB) by Government Resolution
+54
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+in 1966 for formulation and implementation of the Central Board in respect of the respective sub-sector.
+programmes in the earth- science area, with close During 2009-10 the 12 newly constituted Committees
+coordination between GSI and State Geological of CGPB met for the first time and deliberated on
+Departments and other central agencies. CGPB is relevant issues concerning the development of natural
+supported by State level programming Boards and various resource before the 45th CGPB meeting held in
+subcommittees formed for the development of various September 2009. The second meeting of the
+mineral and geoscience based issues. While finalizing Committees took place in November – December 2009
+the programmes of GSI, the Government policies and before the 46th CGPB meeting in February 2010. An
+directives, suggestions and recommendations of Five Year important aspect of revamping was to energize the
+Plan document, Sub-committees of the Central Geological State Geological Programming Boards (SGPB) and 19
+Programming Board and State Geological Programming States have convened SGPB meetings during the year.
+Boards are considered.
+Restructuring of GSI
+The Central Geological Programming Board (CGPB)
+8.4 A High Powered Committee (HPC) was set up in
+was revamped on 12th March, 2009 with three broad
+January 2008 to thoroughly review the functioning of objectives viz., i) to effectively coordinate the different
+Geological Survey of India and assess its capacity to meet
+earth science related activities in the country, ii) to
+the emerging challenges. The Committee submitted its
+create geoscientific partnership through collaboration
+report on 31st March 2009 and the recommendation
+with various earth science organisations and State
+have been accepted by the Government. The
+Agencies and iii) to create a modern data dissemination
+organizational structure, recommended by the HPC
+mechanism through its Web Portal.
+Committee and accepted by Government, is under
+In accordance with the reconstitution, 12 Committees
+implementation and is given in the Figuress 8.1 & 8.2.
+for the various sub-sectors support CGPB and meet at
+The strength / incumbency in Group ‘A’ post in various
+least twice a year, to submit recommendations to the
+streams is given in Table 8.1
+Table 8.1
+Statement Showing Strength / Incumbency In Group ‘A’ Posts in Various Streams in Geological Survey
+of India (as on 1.1.2010)
+JTS STS JAG SG SAG HAG Total
+Stream
+S F S F S F S F S F S F
+Geology 1304 310 751 551 314 290 164 147 30 26 3 2 3892
+Geophysics 237 113 118 35 51 18 26 19 4 4 625
+Chemistry 234 107 61 23 30 17 14 12 3 3 504
+Engineering 38 23 32 23 17 6 7 5 2 2 1 1 157
+Personnel/
+Administration 28 19 12 10 6 3 2 2 1 1 84
+Finance 4 1 1 1 1 - 8
+Stores 7 6 1 1 1 1 17
+Library 1 - 1
+Survey 2 - 2
+Civil Engineering 1 - 1
+Official Language 1 1 2
+Law Officer 1 - 1
+Vigilance 1 - 1 1 3
+Total 1844 572 988 650 422 336 *214 *186 41 36 4 3 4896
+55
+Annual Report 2009-2010) Figure 8.1
+I
+S Geological Survery of India - Missions
+G
+(
+A
+I
+D
+N
+I
+F
+O
+Y
+E
+V
+R
+U
+S
+L
+A
+C
+I
+G
+O
+L
+O
+E
+G
+Figure 8.2
+Organogram: Support Systems
+56
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+The Director General (DG) as the operational head of resources, determine the relative priorities, and effect
+the GSI has the overall responsibility of planning and executive and other controls on Divisions/Projects
+execution of programmes of the organization. The DG, within the Regions/Wings. Each Region has a
+GSI is supported by Additional Director General (ADG) headquarters unit for planning, finance and
+/ Dy. Director Generals (DDG), in-charge of Missions administration. Operational units at State level, headed
+and Support Systems. There are six Regions by a Deputy Director General, execute the programmes
+(geographically based) for programme execution and in the field.
+Additional Director General/Deputy Director General
+GSI has its Central Headquarters in Kolkata and six
+(HAG/SAG level) head each of these Regions and
+Regional offices (geographically based) at Kolkata,
+function as “Head of Department” (HOD) to oversee
+Shillong, Lucknow, Jaipur, Nagpur and Hyderabad and
+the formulation and implementation of annual
+has State Units in almost all States as given below:
+programmes, exercise budgetary control, allocate
+Regions
+State
+Units
+As recommended by the High Powered Committee, mode and the Field Season 2009-10 starting from
+Geological Survey of India’s status was upgraded on 1.10.2009 is being conducted in this Mode.
+14th July, 2009 and it is now formally an Attached office
+• ‘Mission Offices’ have started functioning.
+of the Ministry of Mines.
+Support Systems are being revamped.
+Status of Implementation of HPC Report
+• For implementation of Enterprise Portal Project in
+8.5 An Implementation Committee has been set up GSI, a Monitoring Committee under the
+to go into the details for implementation of the HPC Chairmanship of Additional Secretary
+report and for further follow up of its 74 main (Mines) was constituted on 2nd April, 2009 and
+recommendations. The following is the status of progress of the Portal Project work is being closely
+implementation of some of the main monitored. Completion Report of Phase I and
+recommendations: Phase II is awaited. GSI is planning for Phase III in
+collaboration with National Informatics Centre
+• GSI has switched over to the Mission- Region
+(NIC).
+57
+Annual Report 2009-2010) • Central Geological Programming Board (CGPB) were trained on G-1A Gravimeter in Toronto,
+I
+S and its Committees have been revamped and a Canada in the month of August, 2009]
+G
+new CGPB Secretariat has already started
+(
+• Proposal for acquisition of a new Geotechnical
+A functioning from Delhi.
+Vessel with shallow drilling capacity for GSI at a
+I
+D • The Ministry of Mines has issued orders on revised cost of Rs.70.20 crores has been finalized
+N
+5.6.2009 for dissemination of Geoscientific and procurement action initiated.
+I
+information gathered by GSI for use by public at
+F
+• Laboratory and IT equipment: In addition, GSI as
+O large for free of cost. GSI has drawn an action
+part of Modernisation has been purchasing
+Y plan for digitizing and uploading all information
+E laboratory and field equipment. A Modernization
+legacy and larger scale maps.
+V
+Committee was set up in 2001 which made many
+R
+U • A Note for right sizing of GSI as per HPC Report significant recommendations in this regard and
+S circulated to all concerned Ministries for the recommendations have been substantially
+L comments before being submitted for Cabinet implemented except in respect of the following:-
+A
+approval.
+C
+(i) Palmtop computer, Digital camera and
+I
+G • Training Policy Coordination Committee (TPCC) Cellular phone for each field officer
+O
+has been set up under the chairmanship of
+L (ii) Magnetic Gradiometry
+O Secretary [Mines] to improve Training capabilities
+E
+and set up Regional Training Institutes. GSI has (iii) Gamma ray Spectrometry
+G
+started imparting training to officials of the State
+(iv) Penetrometers
+Governments in GSI’s Training Institutes free of
+charge as recommended by the HPC.
+(v) Transient EM sounding and profiling etc.
+• A New Transfer Policy was approved for GSI with
+A new Modernisation Committee has been constituted
+effect from 01.01.2010.
+on 30th June, 2009 to make further recommendations
+keeping in view the HPC Report.
+Modernisation
+Performance of GSI during 2009-2010 at a
+8.6 As part of the effort to meet emerging challenges
+glance
+GSI is constantly upgrading its technology both for field
+as well as laboratory equipment.
+8.7 The Scheme wise and percentage wise Plan
+expenditure for the first three years of the XI Plan (till
+The current status on procurement of the important
+December 2009) is given in Annexure 8.1. Target vs.
+capital assets is as under:
+Achievement during the first three years (2007-10) of
+• Procurement of a new ocean going research vessel XI Plan (2007-12) of the Geological Survey of India is
+in replacement of GSI’s existing Research Vessel given in Annexure 8.2.
+Samudra Manthan at a cost of Rs.448.00 crores
+8.8 GSI has annual Field Season Programmes for
+is underway.
+various surveys and field investigations. After the
+• Procurement of a Heliborne Geophysical Survey completion of the field duty and the subsequent
+System for GSI at a cost of Rs.52.00 crores is laboratory work, the field party submits its report as a
+almost complete. The integration of sensors with Progress Report. If a particular field item demands
+the helicopter is to begin from March, 2010 with continuation of the same field assignment for further
+trial flights and to be completed by May, 2012 survey and rock analysis, the field item is continued
+for all the four sensors. [Eleven Officers of GSI and an Interim Report is submitted especially in the
+58
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+case of Geochemical mapping, exploration for minerals, Specialised Thematic Mapping (STM)
+etc. On completion of the full assignment including
+8.11 GSI has launched specialized theme oriented
+laboratory studies, a Final Report is submitted which
+large-scale (1:25,000 or larger) studies/mapping items
+marks the culmination of all geoscience activity on a
+(Specialised Thematic Mapping) from VIII Plan period.
+particular project/item. During the F.Y 2009-10 (upto
+The studies involve application of multidisciplinary
+December 2009) a total of 432 nos. of reports were
+techniques, often complemented by precision
+finalized and circulated. Lists of number of pending
+laboratory studies. The outcome of these mapping
+progress in the categories of Progress Report, Interim
+efforts have already proven its importance in the areas
+Report and Final Report in respect of geological
+of prognostication of natural resources, environmental
+(including mineral investigations) and geochemical
+analysis, natural hazard recognition and risk
+surveys/investigations are given in Annexure 8.3 and
+management, land use management, evaluation of
+8.4.
+major civil engineering projects etc. An area of 3174
+MISSION I: BASELINE GEOSCIENCE DATA sq.km has been covered by STM (during the year upto
+GENERATION December 2009) raising the total coverage to
+1,40,823.50 sq. km.
+8.9 The Mission wise detailed programme are given
+in the follow up paragraphs: Geophysical mapping
+Systematic Geological Mapping 8.12 Systematic ground gravity - magnetic surveys
+under the Geophysical Mapping Programme (GPM)
+8.10 Systematic Geological Mapping on 1:50,000
+has been initiated during X Plan Period and is being
+scale, the most fundamental mapping programme,
+continued in XI Plan Period. The mapping process
+adopted by GSI in past decades generated the basic
+involves acquisition of gravity and magnetic data with
+data stream which catered to our National Geoscientific
+an average station density of one station per 2.5 sq
+Information and knowledge base. Out of the 3.146
+km area for compilation of standardized gravity and
+million sq. km mappable area, 3.09263 million sq. km
+magnetic maps of the country on 1:50,000 scale. A
+have so far been covered by systematic mapping,
+total of 11 investigations were taken up by different
+bringing the total coverage to 98.3%. An area of 130
+Regions under the GPM programme during the year
+sq. km has been covered by Systematic Geological
+raising the total coverage to 1,26,663.30 sq. km.
+Mapping in Mokokchung, Longleng and Tuensang
+districts of Nagaland during 2009-10. Geochemical mapping
+8.13 India’s National GeoChemical Mapping (NGCM)
+Programme was initiated by GSI in 2001-02 with the
+launching of a number of pilot surveys in different
+States all over the country. The prime objective of this
+endeavour is to produce a body of geochemical data
+on 1:50,000 scale for the Indian landmass based
+primarily on stream sediments, analyzed using
+standardized set of methods. These data will compose
+a complete, national-scale geochemical coverage of
+the Indian land area, and will enable construction of
+geochemical maps, refine estimates of baseline
+concentrations of chemical elements in the sampled
+media, and provide context for a wide variety of studies
+Groove sampling of Metagabbro for PGE find
+59
+Annual Report 2009-2010) in the geological and environmental sciences. The RV Samudra Shaudhikama were carried out within TW
+I
+S extent of landmass of the country covered with hard off the West Coast of India. Surveys in the near shore
+G
+rock, soft rock and alluvial tracks is 3.28 million sq. km zone (0 to 10m isobath) are carried out using hired
+(
+A corresponding to 5065 toposheets. About 1,66,006 small-mechanized boats.
+I sq km area encompassing 227 toposheets has been
+D Geological Survey of India has completed seabed
+N covered systematically under NGCM till date. An area
+mapping of 19,75,364 sq km out of a total of
+I of about 839 sq km is covered (up to December 2009).
+20,14,900 sq. km within EEZ including TW and
+F Geochemical Mapping especially in the mineral
+O 1,27,046 Sq. km out of 1,50,000 Sq. km of TW till
+prognosticated areas will be continued. A National
+Y 2008-09. Beyond TW, coverage of EEZ is 18, 48,318
+GCM database is being created centrally with the
+E
+sq km till FS 2008-09. During the Field Session (FS)
+V intention of producing maps depicting geochemical
+R 2008-09, swath bathymetry of 76,229 sq. km., 12,792
+anomalies requiring detailed investigation for various
+U
+Lkm of bathymetry, 15,782 Lkm of magnetic
+S purposes including mineral investigation.
+parametric surveys were done within EEZ and 3105
+L
+A Airborne Mineral Survey sq. km. mapping was carried out within Territorial
+C
+Waters along with 377 sq. km. of swath bathymetry,
+I 8.14 Airborne Geophysical Surveys are carried out by
+G 1,605 Lkm of bathymetry, 114 Lkm of magnetic and
+O the Twin Otter Airborne Survey System (TOASS) with
+1,396 Lkm of shallow seismic parametric surveys.
+L Magnetic and Gamma Ray Spectrometric Sensors
+O
+acquired by GSI in 1986. Since then (upto December, MISSION: II NATURAL RESOURCE ASSESSMENT
+E
+G 2009) a total of 4,76,162 line km over an area of
+8.16 The Geological Survey of India (GSI) is vested
+2,55,065 sq.km. was covered by deploying multi sensor
+with the responsibility of maintaining broad based and
+systems.
+uniform national approach to data generation in respect
+Aerogeophysical survey was carried out using multi of mineral resources to cater to the demand of the
+sensors over 24,101 line km (12,857 line km in Kanker nation for providing reliable information on mineral
+area, Bastar Craton, Chhattisgarh; 11,244 line km in and other natural resources to the public and private
+Mauranipur-Sarila, M.P. – U.P. border area) covering entrepreneurs. Systematic updating of the database of
+an area of 12050 sq km (6,428 sq.km. in Kanker area the survey in the mineral sector is being continued.
+and 5,622 sq.km in Mauranipur-Sarila area) during the From Field Season 2009-10, the resource evaluation
+Field Season 2008 – 09. will be made totally under UNFC three digit code
+system (economic, feasibility and geological axes) in
+As part of the modernization programme, GSI has
+accordance with the requirement of the National
+recently procured one helicopter with state-of-the-art
+Mineral Policy 2008.
+TM domain, EM system fitted on a heliborne platform
+along with the latest magnetic, spectrometric and For the Field Season 2009-10, a total of 92 items
+gravity heliborne geophysical survey systems. (excluding three offshore mineral investigations) are
+included, of which 69 are under ‘Mineral resource
+Marine and Coastal Surveys
+assessment’ (ores and minerals) and 23 belong to
+8.15 Geological Survey of India carried out offshore ‘Natural energy resources’ i.e. [coal and lignite].
+geoscientific studies both in Exclusive Economic Zone
+Among these 69 projects under Mineral Resource
+(EEZ) and Territorial Waters (TW) along the East and
+Assessment, 11 are for Ferrous Minerals (Iron,
+West Coasts of India. Five cruises were mounted
+Manganese, Chromite), 22 for Precious Metals &
+onboard RV Samudra Manthan within EEZ. Six cruises
+Minerals (12 for Gold, 7 for PGE, 3 for Diamond), 24
+were launched onboard RV Samudra Kaustubh within
+for Non-Ferrous and Strategic Minerals (21 Base metal,
+TW off the East Coast of India. Seven cruises onboard
+60
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+3 Molybdenum) and 12 for Industrial & Fertilizer total strike length of the iron ore body is about
+Minerals. 1.95 km with a surface width varying from 40m
+to 250m. Based on the analytical results the iron
+The programming of energy resources [coal and lignite]
+ore resource has been estimated at 9.1million
+has been designed in tune with the XI Plan proposal
+tonnes at 55% Fe cut off.
+approved by the Planning Commission, Government
+guidelines issued from time to time and the Manganese
+recommendation of the CGPB Committee Group V
+• Exploration for manganese in Bolani block, Orissa
+(Energy Minerals). Planning and finalization was based
+resulted in re-estimation of the resource to 0.66mt
+keeping in view the key factors i.e., (i) locating power
+at 20% Mn cut off with an average grade of
+grade coal at shallow depth, (ii) proving of superior
+25.52% Mn corresponding mostly to G-2 stage
+quality including coking coal, (iii) identifying new areas
+of exploration in UNFC system. Thus 0.01 million
+in deeper unexplored part of the basins or as an
+tonne has been added to resources. Damurda
+extension of explored blocks/existing mines, (iv)
+Block of Bonai-Kendujhar Belt, Kendujhar district,
+establishing additional resources of lignite from power
+Orissa has been explored and a tentative resource
+hungry southern and western states and (v) assessment
+from northern part of Damurda (North) block has
+of CBM potentiality in green field areas of selected
+been estimated at 0.94million tonnes at 20% Mn
+coal/lignite basins. GSI has formulated a total of 23
+cut-off.
+coal – lignite exploration items, out of which 19 items
+fall in CIL, 1 item in SCCL and 3 items in Lignite bearing
+Basemetal
+areas (out of 23, 10 nos. are of promotional nature).
+• A low grade copper mineralized zone has been
+Out of these 69 mineral investigations, 18
+established for a strike length of 600m (0.35%
+investigations (excluding two of Kerala on sand in
+Cu X 13.83m) and for 400m (0.18% Cu X 6.25m)
+offshore and onshore) are through State requests/
+at two different sectors at Gangutana,
+collaborations.
+Mahendragarh district, Haryana. A resource of
+Mineral search and assessment is undertaken with 2.128 million tonnes at 0.4% Cu have been
+special emphasis on deficient commodity of high value estimated over a strike length of 800m and vertical
+(e.g. gold, diamond, PGE etc.), strategic minerals depth of 100m towards north of Gangutana. The
+(molybdenum, tungsten), fertilizer mineral stage of exploration corresponds to UNFC system-
+(phosphorite and potash) as well as ores and minerals G3.
+of high demand (basemetal, ferrous minerals, coal,
+Strategic Minerals
+lignite, limestone etc.). A total of 568.75 sq. km. large
+scale mapping, 19.725 sq.km. detailed mapping and • In Tamil Nadu a concept-oriented exploration for
+43,004.44 m drilling were done under Mission II (upto
+molybdenum was taken up in Velampatti South
+December ’09).
+Block, Harur-Uttangarai Belt, Dharmapuri district
+to test the strike extension, depth persistence and
+Mineral Resource Assessment
+potentials of the hitherto unexplored footwall
+8.17 Some of the important findings under Mineral shear zone. With the help of three boreholes, it
+Resource Assessment during the year FS 2008-09 are has been interpreted that a number of
+enumerated below: molybdenum bearing quartz veins are confined
+to a zone of shearing and are much wider than
+Iron Ore
+conceived earlier. Investigation will be continued
+• Exploration for iron ore in Ghoraburhani-Sagasahi during F.S. 2009-10 to establish the geometry of
+area, Sundargarh district Orissa, indicates that the the deep level shear zone, its relation with the
+61
+Annual Report 2009-2010) shallow level shear zone and the geometry of the spinel has also been recorded from Kalwakurthi
+I
+S lodes within the shear zone. and Charakunda block in Mahbubnagar and
+G
+Nalgonda districts.
+( Gold
+A
+Platinoid Group of Elements (PGE)
+I • Bedrock samples in Ajjanahalli Block-C, Tumkur
+D
+district, Karnataka yielded gold value ranging from • In Mettupalaiyam Ultramafic Complex, Tamil
+N
+I 0.10 g/t to 4.22 g/t. Analysis of trench samples Nadu the average width and grade of the PGE
+F indicated gold value ranging from 0.36 g/t to 6.0 bearing zone is 3.50m with Pt value ranging from
+O
+g/t. In Ajjanahalli block-F, three major auriferous 42 to 601 ppb and Pd from 92 to 1575 ppb. A
+Y BIF bands have been delineated. Band-I (strike mineralized zone with high value of PGE (277 ppb
+E
+V length 300m average width 3 to 4m) has recorded Pt and 698 ppb Pd) has been traced for about
+R 1.02 to 2.2 g/t gold; Band-II (strike length 200m 100m in Mallanayakapuram area.
+U
+average width of 2m) has recorded 0.28 to 1.70
+S • In Chettiampalaiyam block of Sittampundi Layered
+g/t gold; Band III (strike length of 700m average
+L Complex, Tamil Nadu PGE mineralization with
+A width 4m) has recorded gold values from 0.03 to
+average grade of 0.91 ppm Pt + 0.77ppm Pd (for
+C
+0.70g/t.
+I a width of 1.55m) and 1.76 ppm Pt + 1.72ppm
+G
+O • On the basis of analytical result a resource of Pd (for a width of 1.80m) was recorded. PGE
+L 22.97million tonnes of gold ore with 1.81 g/t Au mineralized zone with 1.62 ppm Pt + 0.31ppm
+O
+has been estimated in Delwara West block, Pd was traced for 300m.
+E
+G Rajasthan. The total gold resource of Bhukia gold
+• In Maharashtra, samples of pyroxenite from Heti
+prospect has been augmented from 60.58million
+area have analyzed 35-95 ppb Pd, 11-78 ppb Pt.
+tonnes to 83.55 million tonnes with an average
+Fertiliser Minerals
+grade of 1.87g/t Au. The stage of exploration
+corresponds to G-3 of UNFC system. • In West Bengal an investigation for apatite and
+associated minerals was taken up in Panrkidih and
+• A tentative resource of 0.053 million tonnes gold
+Cholwari area, Purulia district during the F.S. 2008-
+ore with an average grade of 3.03 g/t Au has
+09. In Belaidih block, a 130m strike length of the
+been estimated in the Proterozoic rocks of
+mineralized body has been established with over
+Sonapahari area, Sonbhadra district, Uttar
+20%P O . In Chholari block two isolated patches
+Pradesh. The stage of exploration corresponds to
+2 5
+of mineralized body were recorded at 300m apart.
+G-3 of UNFC system.
+Limestone
+• Investigation for gold mineralization in Sonadehi
+gold prospect Chhattisgarh, revealed a resource • In Rajasthan, exploration for limestone was taken
+of 2.28 million tonnes with 0.699 g/t gold. The up in Minyun Ki Dhani block, Jaisalmer district.
+stage of exploration corresponds to G-3 of UNFC The boreholes intersected hard and massive SMS-
+system. grade limestone bands belonging to Khuiala
+Formation (Eocene/ Tertiary) whose thickness
+Diamond
+ranges between 0.24m and 7.50m.
+• Search for kimberlite in Buthpur and Achampet
+block in Mahbubnagar district, Andhra Pradesh, Natural Energy Resources
+yielded kimberlite specific minerals like picro-
+Coal & Lignite
+ilmenite and chrome-spinel in stream sediment
+samples from Palkampally, Wattipalli and 8.18 An additional resource of 1638.52 million tonnes
+Kottapalli. Kimberlite specific minerals like chrome of coal and 0.19 million tonne of lignite has been
+62
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+assessed from the data generated from regional learning. Both the components of the Project are to
+exploration by GSI. The geological resources of Coal be implemented concurrently with simultaneous
+of the country stand at 267.21 billion tonnes and that creation of databases for administrative and scientific
+of lignite at 39.07 billion tonnes as on 01.04.2009. domains. The network will facilitate i) Faster interaction
+among the earth scientists for sharing of knowledge
+Coal Bed Methane
+and experience for effective and timely solution of
+various problems and ii) Initiation of web-centric
+CBM study for determination of in-situ gas content
+database for concurrent input and output of data in
+has been carried out under promotional scheme in
+customized formats at a faster rate, which will be
+seven boreholes (Rajmahal, Birbhum, Ramkola-
+available to users as per their need and authentication.
+Tatapani, Talchir, Sohagpur Coalfields and Tamil Nadu
+The SFC on “The proposal of Network & Portal in
+Lignite Fields) and is presently continuing in two
+Geological Survey of India” was held on 11.08.03. The
+boreholes in Birbhum and Mand-Raigarh coalfields. Gas
+project was to be completed in two Phases. Phase-I
+desorption studies show very incipient gas content
+was to be completed by March 2004 at a total cost of
+(<1.0cc/gm) in all the Coal/Lignite fields except
+Rs.12.2 crores and Phase-II to be completed by March
+Sohagpur Coafield (around 2.0cc/gm), which may be
+2005 at a total cost of Rs.12.80 crores.
+attributed to higher thermal maturity of the coal. The
+adsorption studies conducted so far (Rajmahal, Phase – III: Future Plans
+Ramkola-Tatapani coalfields and Tamil Nadu Lignite
+GSI aims to enhance access to and delivery of services
+Field) indicate that the seams are highly undersaturated
+to benefit the public in general, and the stakeholders
+in methane.
+in particular. More importantly, it aims to help
+MISSION: III GEOINFORMATICS strengthen government’s drive toward effective
+governance and increased transparency to better
+GSI Portal Project
+manage the country’s natural resources for
+8.19 Geoscientific database building activity in GSI development. The next step would be to enhance the
+has gained a new impetus with the implementation of access to and delivery of services and information to
+Enterprise GIS, which is a significant part of the GSI benefit the public (G2C), other government agencies
+Portal Project. Enterprise GIS envisages a centralized (G2G), business partners (G2B) and employees (G2E).
+repository (spatial data warehouse - SDW) of unified GSI with its large volume of data encompassing more
+and coordinated spatial data resources providing than 30000 unpublished reports (largely text
+secured, authorized access to all users. Enterprise GIS information with tabular data, maps, images and
+components such as Load & Update system, Inquiry diagrams), over 750 publications, published maps and
+system are implemented. numerous other documents which gets generated
+everyday through regular office processes intends to
+Phase – I&II
+use a system which would enable it to electronically
+The GSI Portal project will have two active components store, archive, organize, index and file documents, such
+that they can be retrieved anytime, anywhere, without
+– (i) Building a Network infrastructure, connecting
+any loss of time.
+different offices of Geological Survey of India, which
+include Central Headquarters, Regional Headquarters,
+Data accretion and publication on Portal
+Wings and Operation Units & creating a LAN and
+WAN, and (ii) creation of a portal capable of hosting 8.20 Documents (both text and graphic) generated and
+corporate data, disseminate public domain data to circulated by GSI are basically of two types: (a) printed
+common mass, support e-business and promote e- and published material for sale as well as for free
+63
+Annual Report 2009-2010) distribution and (b) unpublished documents for of GSI have been uploaded, and 1069 nos. of full
+I
+S circulation within GSI and also for sale after costing on reports published after 2004 have been accommodated
+G
+case to case basis for bonafide users. The Policy in this in the GSI Portal for consultation and downloading as
+(
+A regard has been modified under direction of the per the new dissemination policy of the Government.
+I Ministry on 5.6.2009 and will henceforth be as given Besides above, the portal is populated with large
+D
+N in Annexure 8.5. number of case studies, DIDs and photographs of
+I general interest.
+8.21 Geological maps on 1:50K scale were compiled
+F
+O at regional level and with an objective to prepare 8.24 The all India earthquake database is being
+Y seamless geological map of India. The digitized updated incorporating 6111 events of 2005 from ISC
+E
+geological layer of 1:50K maps are being uploaded in bulletin. A total of 28278 events occurring within the
+V
+R the Portal. A total of 3065 maps on 1 : 50K scale have territory covered by latitude 0°-37°N and longitude 68°-
+U
+been uploaded in the portal till December, 2009. Out 98°E have been incorporated in the database.
+S
+of 334 sheets of Geological Quadrangle Maps
+L Laboratory data:
+A amenable to compilation and dissemination, 292 have
+C been published till date. Geological and Mineral Map 8.25 Vast volume of data is being generated by analysis
+I
+G of States (Scale 1:2M), describing the geology and of samples collected through National Geochemical
+O
+mineral resources of 30 different states of India Regions Mapping programme. A step has been taken to
+L
+O are updated regularly. The Geological and Mineral Map systematically archive this voluminous geochemical
+E of Assam and Geological and Mineral Map of data. Accordingly, toposheet-wise database is being
+G
+Meghalaya were scrutinized for updation. Spatial built on database compatible format which will be
+database with relevant attribute information have been integrated with GSI Portal in due course.
+built during the period with an aim to add two new
+On line Library
+layers for the existing 1:2 M map service. These
+include information on meteorites fall in Indian sub-
+8.26 As a part of GSI Portal, LIBSYS - the web-
+continent and age data of the Indian rocks. Seven
+compatible network version of Library Management
+District Resource Maps of Eastern Region and one
+software - started functioning. Up to July, 2009, 234
+map of Southern Region have been published during
+publication related data could be entered. Database
+the period. Compilation of geological and geophysical
+on 800 GSI publications have been edited and 409 of
+data on a Territorial Water map of Bay of Bengal has
+these have been entered into TEXTO software towards
+been taken up. In view of the growing demand of
+metadata preparation for soft copy conversion of GSI
+users in the fields of urban planning, water resource
+publications. Metadata of 3022 articles from 326
+development, environmental hazard and neotectonic
+volumes including 185 parts, have been compiled. 175
+studies, compilation of Quaternary Geological Atlas
+International Maps have been scanned for soft copy
+of India was taken up in 2003 and is continuing. About
+conversion.
+802 nos. of various published geological maps
+uploaded in Portal. Creation of Geophysical data repository
+8.22 The uploading of Legacy Field Season Programme 8.27 Creation of geophysical data repository involves
+data and extended abstract of the programmes designing and development of data format, data
+completed till date since 1986 was initiated in July 2009 standard, data dissemination, data storage, data
+and till date about 5046 items have been put in the processing and development of data delivery products
+GSI portal for public viewing. like digital data, digital maps on different scales and
+dissemination of various technical reports together with
+8.23 The metadata of about 30,880 nos. of reports
+in-house expertise. The in-house work has been
+64
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+initiated for developing standards, formats etc. geophysical sensors has been initiated by GSI. The
+Procurement of computer hardware like server, expenditure incurred on this item in F.Y. 2009-10
+network and development of customized software for is of the order of 487.22 lakhs.
+data inputs, data manipulation and delivery of data
+Geotechnical Investigations
+products for which actions have been initiated.
+• Thirty three items of geotechnical and engineering
+MISSION: IV FUNDAMENTAL AND
+geological studies through 190 investigations
+MULTIDISCIPLINARY GEOSCIENCES AND
+were undertaken related to civil engineering
+SPECIAL STUDIES
+projects for water resource development,
+8.28 An additional amount of Rs. 15.00 crores was communication and miscellaneous projects in
+announced in the budget, 2009-10 : almost all the states of the country as well as in
+neighboring countries
+Three projects have been identified which are
+mentioned below:- Seismic/Earthquake Geology
+1. Geomorphological Mapping on 1:50000 scale– • Five items of active fault mapping and three items
+GSI along with Indian Space Research of seismic microzonation were undertaken in
+Organisation (ISRO) has taken up addition to other earthquake related studies.
+Geomorphological mapping of the entire country
+• The Seismic observatories of GSI in Jabalpur,
+on 1: 50K scale using Remote Sensing Techniques
+Nagpur etc are continuously recording global,
+and limited field checks. The project is to be
+regional and local seismic events and monthly /
+completed by 2012. Expenditure incurred on
+quarterly data has been published and distributed
+these items in F.Y. 2009-10 is of the order of Rs.
+regularly.
+10.66 lakhs.
+• The permanent GPS station at Lucknow
+2. 1:50000 scale Map Service on Internet – GSI in
+(established by DST) is engaged in round the clock
+collaboration with National Informatics Center is
+monitoring of GPS data. The data was supplied
+exploring the prospects of using open source
+regularly to National GPS Data Centre, Survey of
+software and open GIS platform for creating map
+India, Dehradun for further processing/
+service on internet. GSI has initiated finalization
+interpretation.
+of geological map layer in National Grid and
+uploading with attribute data in geodata base for Landslide Hazard Studies
+intranet viewing and has uploaded around about
+• Geological Survey of India has been declared as
+2000 toposheets as a back-end support. An
+the Nodal Agency for Landslide Investigation in
+expenditure of Rs. 18.51 lakhs has been incurred
+the country and to develop a comprehensive
+on it in F.Y. 2009-10.
+strategy for the effective mitigation of Landslide
+3. Creation of Geophysical Data Repository and Hazards in landslide prone areas. A new guideline
+acquisition of geophysical sensors – GSI has released by Government of India lays emphasis
+initiated in-house work for developing standards, on preparedness, capacity building and awareness
+formats, etc. It feels that services of a consultant generation. This guideline will be implemented
+is required for identifying the need for through a Detailed Project Report (DPR), which
+procurement of computer hardware like server, is under preparation.
+network and development of customized software
+• GSI has undertaken 20 programmes of landslide
+for data inputs, data manipulation and delivery
+investigation in the landslide prone hilly terrain.
+of data products. Procurement action for
+65
+Annual Report 2009-2010) A total of 2,195 sq km by Landslide Hazard Glaciological Studies
+I
+S Zonation and 572 Line kilometer road corridors
+G • Glacio-geomorphological mapping covering an
+have been covered on Macro Scale (1:25,000/
+(
+area of 0.50 sq km has been undertaken on the
+A 50.000) during F.S. 2008 - 09.
+both the banks of melt water stream of the
+I
+D • Eleven townships have been covered by Landslide Hamtah glacier, Lahul – Spiti district, H.P.
+N
+Hazard Zonation on Meso Scale (1:5000/10,000) Monitoring of glacier snout on 1:5000 scale has
+I
+to assess the stability status of the existing thickly shown that the glacier has vacated an area of
+F
+O populated townships/important civil engineering 0.006 km2 since 2007. During the last eight years
+Y structure etc. in the landslide prone hilly terrain. 2000 – 08, the glacier has vacated an area of
+E
+0.0346 km2 with an average being 0.0043 km2/
+V
+• Landslide Inventory has been taken up for all old
+R year.
+U and fresh landslides for their documentation
+S throughout the country. Detailed site-specific Antarctic Studies
+L studies of three landslides have been carried out.
+A • GSI has been continuing with its Antarctic studies
+C
+Environment Geology programme and till date more than 19000 sq km
+I
+G area has been mapped with the help of ground
+O • Regional Geoenvironmental impact assessment of
+traverses. During the 28th expedition (2008-09)
+L limestone mines and cement plants in Chittorgarh;
+O two geologists of GSI have mapped around 250
+E Sirohi, Pali, Jodhpur and Nagaur districts,
+sq km area in the Gjelsvikfjella region using the
+G Rajasthan and formulation of effective
+Norwegian station TROLL as base.
+environmental management plans,
+Geoenvironmental appraisal in parts of Sohagpur • Monitoring of the snout of “Dakshin Gangotri
+Coalfied, Annupur and Shahdol Districts, MP - Glacier” overriding the southern edge of
+Surguja District, Chhattisgarh and Geo- Schirmacher Oasis has shown a consistent
+environmental impact on rapid urbanization of recession (1.09 m during 2008-2009) which has
+Berhampore – Murshidabad townships and their been partly attributed to changes in the global
+environs in West Bengal were taken up. climate pattern. During the same period the drift
+snow accumulation over the shelf has been
+Medical Geology (Bio- & Chemical Geohazards)
+recorded as 89.5 cm. GSI started drilling for
+• Study of incidence of arsenic in groundwater in retrieving ice cores to study the palaeoclimate of
+parts of Saran and Vaishali districts, Bihar reveals
+that the older alluvium surface appears to be free
+from hazardous incidence of arsenic in
+groundwater while the younger alluvium (older/
+present flood plain) show hazardous incidence of
+As ranging from 50 ppb to >500 ppb in ground
+water with reports of varied forms of skin diseases
+in local population.
+• Development of a mitigation strategy to manage
+risk from arsenic toxicity in groundwater of West
+Bengal, India was continued in collaboration with
+NR-Can, Geological Survey of Canada.
+GSI Field team at Antarctica
+66
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+the area and embarked on the study of sediments petrology, climatic change and responses of
+from the lake bottoms of Antarctic lakes and GPR environment system, studies on geological health
+studies to draw profiles of lakes as well as to hazard and remedies etc are continued.
+determine the ice-land-ice-sea interface. Using
+• The study of the geological and geomorphological
+MLF antenna of 35 MHz frequency, a depth of
+determinants of the characteristics of present day
+up to 400 m has been reached in profiling.
+beaches in Andaman Island for coastal
+• India’s third research station has been planned to management identified that both the sea and
+be established at Larsemann Hills region, Prydz hinterland are the possible source of stress on the
+Bay area of East Antarctica. GSI started mapping target beaches. The Betapur beach in Middle
+of the new site and a geological map has been Andaman appears to be vulnerable in respect of
+prepared for a portion of the area around the new effects of sea induced stress. Corbyn’s Cove beach
+station site. of South Andaman and Wandoor beach close to
+Port Blair are more susceptible to stress from
+Arctic Studies
+hinterland due to man induced process.
+• To continue the studies carried out in previous
+• Palaeontological and palaeobiological studies for
+expeditions, the Third Arctic Expedition launched
+stratigraphic correlation and records of climate
+from 16th June 2009 to 18th July 2009. In view
+change revealed that there has been a three fold
+of the heavy snow cover on Vestre Broggerbreen
+glacier, and several melt water channels in the increase in low salinity indicator planktonic
+proglacial region, glacier remained foraminifera suggesting increased monsoonal
+unapproachable. Field work was restricted to precipitation and increased runoff from Ganga-
+density profiling of snow cover sections and Brahmaputra river system diluting the salinity of
+geomorphological mapping in the proglacial surface layer water in the central Bay of Bengal.
+region using handheld GPS. Mapping of the snout
+• Precise dating of the geological samples has been
+of glacier revealed marginal recession as compared
+to August 2008. During the period, five snow and undertaken at the Geochronology and Isotope
+melt water samples collected for trace elements. Geology Division. Regression of strontium isotopic
+In addition, two samples were collected from data of six whole rock samples of Chinnapendekallu
+terminal moraine –I and II for T.L./O.S.L. dating. granite, Andhra Pradesh yielded a Rb–Sr whole rock
+The team also tested their ice-drilling machine isochron age of 2364Ma.
+using gasoline for fixation of stakes.
+• Radiocarbon dating of Shell samples from Gujarat
+8.29 Laboratory Studies, Research and Development revealed an age of 29,609 ± 320 Ybp.
+• GSI laboratories have been upgraded with state-
+of-the-art instrumental facilities. Intensive
+laboratory studies are being carried out to
+generate precise analytical database to support
+the field investigations. Input from Electron Probe
+Micro Analyses, Fluid inclusion study, Optically
+Stimulated Luminescence (OSL) dating etc. has
+been widely and effectively used in different
+research projects.
+• Basic petrological researches on crustal evolution,
+The GSI research vessel RV Samudra Manthan in the Andaman
+metallogeny, volcanism, evolution of sedimentary
+sea; in the back ground is Barren Volcano
+basins through time and space, experimental
+67
+Annual Report 2009-2010) Museum: that in addition to the Training Advisory Committee of
+I
+S GSI, there should be a Training Policy Coordination
+G The Indian Museum has four galleries dedicated to
+( Committee (TPCC) chaired by the Secretary (Mines).
+Geology namely: Siwalik Gallery, Earth & Meteorite
+A A Committee was formed to meet at least once a year
+I Gallery, Rock & Mineral Gallery and the Invertebrate
+to review training activities of Training Mission, approve
+D
+Fossil gallery since 1875. As a part of setting up of a
+N policy and strategy initiatives. The Committee met for
+I state-of-the-art Earth & Meteorite Gallery, an initiative
+the first time on 10.9.2009 and again on 23.12.2009,
+F has been taken up to restore the antique showcases of
+O and has been giving policy and strategic direction to
+the Indian Museum 200th anniversary (2014)
+GSI in revamping the training infrastructure.
+Y
+E Celebrations of the Museum.
+V Human Resource Development
+R • Provided information on earth science and of the
+U department’s activity Curatorial Division has put Since its inception in 1976, the GSITI has conducted
+S
+up 8 major Earth Science Exhibitions with 666 training programmes (up to 31st July, 2009) and
+L
+A preparation of pavilion model, planning of pavilion trained 14,078 geoscientists of GSI, other earth science
+C organizations and universities of the country and also
+setup, ordering the displays, designing
+I
+G geoscientists from ESCAP and SAARC countries. The
+presentations etc. Audio visual presentations were
+O
+training programmes are focused on fundamentals and
+L also prepared through divisional resources and
+O applied aspects of geosciences viz. Geology,
+presented through LCD TV.
+E Geophysics, Chemistry, Mineral Investigation, Natural
+G
+• A data base on the Fossil Repository is available
+Hazards, Remote Sensing, Drilling and Surveying. The
+online with 756 nos. of GSI collection along with
+Institute regularly conducts DST (Department of
+modification of more than 250 old records. Science & Technology) supported programmes, ISRO
+(Department of Space) supported Remote Sensing
+MISSION: V TRAINING AND CAPACITY
+(NNRMS) programmes, customized courses for other
+BUILDING
+agencies and administrative courses for the
+Training Policy Coordination Committee
+departmental personnel.
+8.30 The High Powered Committee recognized that
+GSI Training Institute is providing high quality cutting
+training activity needs to be vastly expanded to cover
+edge training /knowledge with state-of-the-art
+all the stakeholders, organizations and recommended
+facilities. The TI would conduct induction level Courses
+for GSI scientists, specialized courses, International
+courses and Training of Trainers (TOT) courses for
+Regional Training Centres and State Institutes. The
+Institute has embarked on programmes of capacity
+building in the field of geosciences to raise the technical
+ability of departmental candidates, students, research
+scholars, faculty from Universities and officers of
+various State Governments and private sector
+departments. GSITI conducted orientation course for
+geologists, 10 scientific courses, 6 technical courses,
+11 administrative courses and 2 sponsored courses.
+Five programmes have been undertaken as outside FSP
+Newly Recruited Geologist with Mr. Vijay Kumar, Special
+Secretary (Mines) near the Field Training Centre, programme.
+Zawar (Rajasthan)
+68
+Ministry of MinesGEOLOGICAL
+SURVEY
+OF
+INDIA
+(GSI)
+The HPC recommended creation of Regional Training Regional Training Institutes forming part of the Regions
+Institutes (RTI), one each at the Regional Headquarters will have Field Training Centres (FTCs) specializing in a
+of Geological Survey of India except at Southern particular geologic domain. Accordingly, order was
+Region, (the training needs of Southern Region will be issued December, 2009 creating Regional Training
+looked after by GSITI, Hyderabad), under GSITI to Institutes as follows:
+function in a hybrid matrix system of Administration.
+Sl. No. Regional Training Institute Specialisations
+1 GSI Regional Training Institute – SR Petrology, Remote sensing, Geoinformatics, Geophysics, Rock
+Mechanics, Geotechnical Studies
+2 GSI Regional Training Institute – NR Glaciology, Engineering Geology Himalayan Geology, Siwalik
+Mapping, Seismotectonics and Earthquake Engineering, Quaternary
+Geology, Landslide and Landslide Hazard studies, Active Fault Mapping
+3 GSI Regional Training Institute – WR Desert Geology, Exploration Techniques, Ore Deposit modeling &
+evaluation, Geochemical exploration, Archaean/ Proterozoic Terrain
+Mapping
+4 GSI Regional Training Institute – CR Deccan Traps, Drilling techniques, Geo-archaeological studies,
+Photogeology & Remote sensing studies, Medical Geology,
+Quaternary Geology, Geomorphology and landuse
+5 GSI Regional Training Institute– ER Sedimentary basin analysis, Gondwana Geology, Mapping techniques
+in Coal field areas, Coal exploration, Coal petrography, Coastal &
+near shore processes
+6 GSI Regional Training Institute – NER Mapping techniques for Tertiary rocks, Neotectonics, Landslide &
+Landslike Hazard studies, Geo-environmental & Fragile ecological
+studies
+The Field Training Centres attached to the Regional Training Institutes (RTI) are as follows:
+Sr.No RTI Field Training Centre Specialization
+1 RTI- SR Hyderabad 1) Chitradurga,2) Kothagudem* Mapp

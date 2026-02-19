@@ -1,0 +1,633 @@
+{% extends "base.html" %}
+
+{% block title %}Crop Advisor - FertilityPro{% endblock %}
+
+{% block content %}
+<style>
+    .crop-details-modal {
+        display: none;
+        position: fixed;
+        z-index: 9999;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        animation: fadeIn 0.3s ease;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    .modal-content {
+        background: white;
+        margin: 5% auto;
+        padding: 0;
+        border-radius: 12px;
+        width: 90%;
+        max-width: 700px;
+        max-height: 85vh;
+        overflow-y: auto;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        animation: slideUp 0.3s ease;
+        position: relative;
+    }
+
+    .modal-content::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url('/static/bgd.png');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        opacity: 0.15;
+        border-radius: 12px;
+        pointer-events: none;
+        z-index: 0;
+    }
+
+    .modal-header {
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%);
+        color: white;
+        padding: 2rem;
+        border-bottom: 3px solid #43e97b;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        z-index: 1;
+    }
+
+    .modal-header h2 {
+        margin: 0;
+        font-size: 2rem;
+    }
+
+    .close-btn {
+        background: rgba(255, 255, 255, 0.2);
+        color: white;
+        border: none;
+        font-size: 2rem;
+        cursor: pointer;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+    }
+
+    .close-btn:hover {
+        background: rgba(255, 255, 255, 0.3);
+        transform: rotate(90deg);
+    }
+
+    .modal-body {
+        padding: 2rem;
+        background: white;
+        position: relative;
+        z-index: 1;
+    }
+
+    .detail-section {
+        margin-bottom: 2rem;
+        background: rgba(255, 255, 255, 0.9);
+        padding: 1.5rem;
+        border-radius: 8px;
+        border-left: 4px solid #667eea;
+    }
+
+    .detail-section h4 {
+        color: #667eea;
+        font-size: 1.3rem;
+        margin-bottom: 1rem;
+        border-bottom: 2px solid #667eea;
+        padding-bottom: 0.5rem;
+    }
+
+    .detail-section ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .detail-section li {
+        padding: 0.5rem 0;
+        border-left: 3px solid #43e97b;
+        padding-left: 1rem;
+        color: #4a5568;
+        line-height: 1.6;
+    }
+
+    .manure-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+
+    .manure-card {
+        background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+        padding: 1.5rem;
+        border-radius: 8px;
+        border-left: 4px solid #667eea;
+    }
+
+    .manure-card h5 {
+        color: #667eea;
+        margin: 0 0 0.5rem 0;
+        font-size: 1rem;
+    }
+
+    .manure-card p {
+        margin: 0.25rem 0;
+        color: #718096;
+        font-size: 0.9rem;
+    }
+
+    .highlight {
+        background: linear-gradient(135deg, #43e97b15 0%, #f8f9ff 100%);
+        padding: 1rem;
+        border-radius: 8px;
+        border-left: 4px solid #43e97b;
+        margin: 1rem 0;
+        color: #2d3748;
+        line-height: 1.6;
+    }
+
+    .crop-icon-large {
+        width: 60px;
+        height: 60px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+</style>
+
+<div class="crop-advisor-container">
+    <div class="advisor-header">
+        <h1>Crop Advisor</h1>
+        <p>Season and soil-specific crop recommendations</p>
+    </div>
+
+    <div class="advisor-content">
+        <!-- Season Selection -->
+        <div class="season-selector">
+            <h2>Select Agricultural Season</h2>
+            <div class="season-cards">
+                <div class="season-card" onclick="selectSeason('Kharif')">
+                    <i class="fas fa-cloud-rain"></i>
+                    <h3>Kharif</h3>
+                    <p class="season-dates">Jun - Oct</p>
+                    <p class="season-description">Monsoon Season</p>
+                </div>
+                <div class="season-card" onclick="selectSeason('Rabi')">
+                    <i class="fas fa-snowflake"></i>
+                    <h3>Rabi</h3>
+                    <p class="season-dates">Oct - Apr</p>
+                    <p class="season-description">Winter Season</p>
+                </div>
+                <div class="season-card" onclick="selectSeason('Zaid')">
+                    <i class="fas fa-sun"></i>
+                    <h3>Zaid</h3>
+                    <p class="season-dates">Mar - Jun</p>
+                    <p class="season-description">Summer Season</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Region Selection -->
+        <div class="region-selector" id="regionSelector" style="display: none;">
+            <h2>Select Region</h2>
+            <select id="regionSelect" class="form-control">
+                <option value="">-- Choose a region --</option>
+                <!-- States -->
+                <optgroup label="States">
+                    <option value="Andhra Pradesh">Andhra Pradesh</option>
+                    <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                    <option value="Assam">Assam</option>
+                    <option value="Bihar">Bihar</option>
+                    <option value="Chhattisgarh">Chhattisgarh</option>
+                    <option value="Goa">Goa</option>
+                    <option value="Gujarat">Gujarat</option>
+                    <option value="Haryana">Haryana</option>
+                    <option value="Himachal Pradesh">Himachal Pradesh</option>
+                    <option value="Jharkhand">Jharkhand</option>
+                    <option value="Karnataka">Karnataka</option>
+                    <option value="Kerala">Kerala</option>
+                    <option value="Madhya Pradesh">Madhya Pradesh</option>
+                    <option value="Maharashtra">Maharashtra</option>
+                    <option value="Manipur">Manipur</option>
+                    <option value="Meghalaya">Meghalaya</option>
+                    <option value="Mizoram">Mizoram</option>
+                    <option value="Nagaland">Nagaland</option>
+                    <option value="Odisha">Odisha</option>
+                    <option value="Punjab">Punjab</option>
+                    <option value="Rajasthan">Rajasthan</option>
+                    <option value="Sikkim">Sikkim</option>
+                    <option value="Tamil Nadu">Tamil Nadu</option>
+                    <option value="Telangana">Telangana</option>
+                    <option value="Tripura">Tripura</option>
+                    <option value="Uttar Pradesh">Uttar Pradesh</option>
+                    <option value="Uttarakhand">Uttarakhand</option>
+                    <option value="West Bengal">West Bengal</option>
+                </optgroup>
+                <!-- Union Territories -->
+                <optgroup label="Union Territories">
+                    <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+                    <option value="Chandigarh">Chandigarh</option>
+                    <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and Diu</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                    <option value="Ladakh">Ladakh</option>
+                    <option value="Lakshadweep">Lakshadweep</option>
+                    <option value="Puducherry">Puducherry</option>
+                </optgroup>
+            </select>
+            <button onclick="getCropRecommendations()" class="btn btn-primary">
+                <i class="fas fa-search"></i> Get Recommendations
+            </button>
+        </div>
+
+        <!-- Recommendations -->
+        <div class="recommendations" id="recommendationsSection" style="display: none;">
+            <h2 id="recommendationTitle">Crop Recommendations</h2>
+            <div class="crops-grid" id="cropsGrid">
+                <!-- Crops will be populated here -->
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div class="loading-state" id="loadingState" style="display: none;">
+            <div class="loading-spinner"></div>
+            <p>Finding best crops for your region...</p>
+        </div>
+    </div>
+</div>
+
+<!-- Crop Details Modal -->
+<div id="cropDetailsModal" class="crop-details-modal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <div style="display: flex; align-items: center;">
+                <div class="crop-icon-large">
+                    <i class="fas fa-leaf"></i>
+                </div>
+                <h2 id="modalCropName">Crop Name</h2>
+            </div>
+            <button class="close-btn" onclick="closeCropDetails()">&times;</button>
+        </div>
+        <div class="modal-body" id="modalBody">
+            <!-- Content will be populated here -->
+        </div>
+    </div>
+</div>
+
+<script>
+let selectedSeason = null;
+
+const cropDetails = {
+    'Rice': {
+        description: 'A staple grain crop grown primarily in monsoon season, requiring high moisture.',
+        methods: [
+            'Prepare land with 2-3 plowings and flooding',
+            'Use puddled soil for transplanting seedlings',
+            'Maintain water level of 5-7 cm during growing season',
+            'Drain field 2-3 weeks before harvest',
+            'Harvesting at 80% grain maturation'
+        ],
+        manures: [
+            { type: 'FYM', rate: '12.5 tons/ha', benefit: 'Improves soil structure and moisture retention' },
+            { type: 'Nitrogen', rate: '120 kg/ha', benefit: 'Essential for vegetative growth' },
+            { type: 'Phosphorus', rate: '60 kg/ha', benefit: 'Promotes root development' },
+            { type: 'Potassium', rate: '40 kg/ha', benefit: 'Improves disease resistance' }
+        ]
+    },
+    'Wheat': {
+        description: 'A winter grain crop requiring cool weather and moderate moisture for optimal growth.',
+        methods: [
+            'Sow in October-November in well-prepared fields',
+            'Use improved seed varieties at 100-125 kg/ha',
+            'Practice timely irrigation (3-4 times)',
+            'Control weeds through mechanical or chemical means',
+            'Harvest in March-April when grain reaches physiological maturity'
+        ],
+        manures: [
+            { type: 'FYM', rate: '10 tons/ha', benefit: 'Enhances soil fertility' },
+            { type: 'Nitrogen', rate: '100-120 kg/ha', benefit: 'Increases grain yield' },
+            { type: 'Phosphorus', rate: '50-60 kg/ha', benefit: 'Promotes tillering' },
+            { type: 'Potassium', rate: '40 kg/ha', benefit: 'Strengthens plant structure' }
+        ]
+    },
+    'Maize': {
+        description: 'A versatile cereal crop suitable for multiple seasons with varying water requirements.',
+        methods: [
+            'Prepare field with 2-3 deep plowings',
+            'Sow at recommended spacing (60 x 20 cm)',
+            'Apply half nitrogen at sowing, half at knee-high stage',
+            'Practice inter-cultivation for weed control',
+            'Harvest when cobs turn brown (18-20% moisture)'
+        ],
+        manures: [
+            { type: 'FYM', rate: '12.5-15 tons/ha', benefit: 'Improves soil water holding capacity' },
+            { type: 'Nitrogen', rate: '120-150 kg/ha', benefit: 'Increases grain production' },
+            { type: 'Phosphorus', rate: '50-60 kg/ha', benefit: 'Promotes early growth' },
+            { type: 'Potassium', rate: '40 kg/ha', benefit: 'Enhances grain quality' }
+        ]
+    },
+    'Cotton': {
+        description: 'A cash crop requiring warm climate and moderate rainfall, suitable for Kharif season.',
+        methods: [
+            'Prepare seed-bed and sow in May-June',
+            'Maintain optimal plant density of 50,000-60,000 plants/ha',
+            'Provide 5-6 irrigations throughout season',
+            'Monitor and control insect pests regularly',
+            'Harvest bolls when they open fully'
+        ],
+        manures: [
+            { type: 'FYM', rate: '7.5 tons/ha', benefit: 'Improves soil texture' },
+            { type: 'Nitrogen', rate: '100-120 kg/ha', benefit: 'Increases fiber yield' },
+            { type: 'Phosphorus', rate: '50 kg/ha', benefit: 'Promotes flowering' },
+            { type: 'Potassium', rate: '40-50 kg/ha', benefit: 'Improves fiber quality' }
+        ]
+    },
+    'Sugarcane': {
+        description: 'An energy-intensive cash crop requiring high fertile soil and adequate water supply.',
+        methods: [
+            'Use disease-free seed-sets of 2-3 buds',
+            'Plant at spacing of 90 x 20-25 cm',
+            'Provide 6-8 irrigations depending on rainfall',
+            'Apply mulch to conserve soil moisture',
+            'Harvest at 12 months maturity for maximum sugar content'
+        ],
+        manures: [
+            { type: 'FYM', rate: '20-25 tons/ha', benefit: 'Maintains soil fertility long-term' },
+            { type: 'Nitrogen', rate: '150-200 kg/ha', benefit: 'Promotes cane growth' },
+            { type: 'Phosphorus', rate: '60 kg/ha', benefit: 'Enhances sugar content' },
+            { type: 'Potassium', rate: '60-80 kg/ha', benefit: 'Increases cane strength' }
+        ]
+    },
+    'Groundnut': {
+        description: 'A legume crop providing both food and fodder, fixing atmospheric nitrogen.',
+        methods: [
+            'Prepare land with 2-3 plowings to 15 cm depth',
+            'Sow at spacing of 30 x 10 cm in May-June',
+            'Provide 2-3 irrigations for pod development',
+            'Harvest after 120-130 days when plants turn yellow',
+            'Dry pods for 15-20 days after lifting'
+        ],
+        manures: [
+            { type: 'FYM', rate: '5-7.5 tons/ha', benefit: 'Improves soil structure' },
+            { type: 'Phosphorus', rate: '20 kg/ha', benefit: 'Promotes pod formation' },
+            { type: 'Potassium', rate: '20 kg/ha', benefit: 'Increases pod size' },
+            { type: 'Bio-fertilizer', rate: '5 kg/ha', benefit: 'Fixes nitrogen naturally' }
+        ]
+    },
+    'Soybean': {
+        description: 'A protein-rich legume crop with nitrogen-fixing capacity, ideal for crop rotation.',
+        methods: [
+            'Prepare clean seedbed free of debris',
+            'Sow at 75 kg/ha with spacing of 45 x 20 cm',
+            'Provide 1-2 irrigations during pod-filling stage',
+            'Control weeds by 30 days after sowing',
+            'Harvest at 80-85% pod maturation for uniform ripening'
+        ],
+        manures: [
+            { type: 'FYM', rate: '5-7.5 tons/ha', benefit: 'Enhances soil organic matter' },
+            { type: 'Phosphorus', rate: '40-50 kg/ha', benefit: 'Critical for nodulation' },
+            { type: 'Potassium', rate: '20-30 kg/ha', benefit: 'Improves pod yield' },
+            { type: 'Bio-fertilizer', rate: '5 kg/ha', benefit: 'Increases nitrogen fixation' }
+        ]
+    },
+    'Gram': {
+        description: 'A winter legume crop rich in protein, improving soil nitrogen naturally.',
+        methods: [
+            'Prepare field with 2-3 plowings',
+            'Sow in October-November at 75-100 kg/ha',
+            'Provide 1-2 irrigations for optimal growth',
+            'Control seed-borne diseases through seed treatment',
+            'Harvest when pods become completely dry'
+        ],
+        manures: [
+            { type: 'FYM', rate: '5 tons/ha', benefit: 'Improves soil fertility' },
+            { type: 'Phosphorus', rate: '40 kg/ha', benefit: 'Essential for plant growth' },
+            { type: 'Potassium', rate: '20 kg/ha', benefit: 'Strengthens plant structure' },
+            { type: 'Bio-fertilizer', rate: '3-5 kg/ha', benefit: 'Promotes nodule formation' }
+        ]
+    },
+    'Mustard': {
+        description: 'An oilseed winter crop with multiple uses, requiring moderate inputs.',
+        methods: [
+            'Sow in September-October in prepared bed',
+            'Use spacing of 30 x 10 cm for optimal plant density',
+            'Apply first irrigation 30 days after sowing',
+            'Control aphids during flowering and seed-filling stages',
+            'Harvest when siliques turn brown-yellow'
+        ],
+        manures: [
+            { type: 'FYM', rate: '5-7.5 tons/ha', benefit: 'Improves organic matter' },
+            { type: 'Nitrogen', rate: '80-100 kg/ha', benefit: 'Increases seed yield' },
+            { type: 'Phosphorus', rate: '40-50 kg/ha', benefit: 'Promotes early growth' },
+            { type: 'Potassium', rate: '20-30 kg/ha', benefit: 'Improves oil quality' }
+        ]
+    },
+    'Watermelon': {
+        description: 'A summer fruits crop requiring warm temperatures and well-drained soil.',
+        methods: [
+            'Prepare raised beds with organic matter',
+            'Sow seeds or plant seedlings 2 m apart',
+            'Provide frequent light irrigations',
+            'Mulch around plants to retain moisture',
+            'Harvest when fruits develop characteristic ring sound'
+        ],
+        manures: [
+            { type: 'Compost', rate: '15-20 tons/ha', benefit: 'Improves soil structure' },
+            { type: 'Nitrogen', rate: '100-120 kg/ha', benefit: 'Promotes vine growth' },
+            { type: 'Phosphorus', rate: '50 kg/ha', benefit: 'Enhances fruiting' },
+            { type: 'Potassium', rate: '50-60 kg/ha', benefit: 'Increases fruit size' }
+        ]
+    },
+    'Cucumber': {
+        description: 'A warm-season vegetable requiring well-draining soil and consistent moisture.',
+        methods: [
+            'Prepare soil rich in organic matter',
+            'Place seeds or transplants at 60 x 30 cm spacing',
+            'Train on trellises for better yield and quality',
+            'Water regularly to maintain soil moisture',
+            'Harvest fruits at 7-10 days after flowering'
+        ],
+        manures: [
+            { type: 'FYM', rate: '15 tons/ha', benefit: 'Improves moisture retention' },
+            { type: 'Nitrogen', rate: '100 kg/ha', benefit: 'Promotes vegetative growth' },
+            { type: 'Phosphorus', rate: '50 kg/ha', benefit: 'Encourages flowering' },
+            { type: 'Potassium', rate: '60 kg/ha', benefit: 'Improves fruit quality' }
+        ]
+    },
+    'Peas': {
+        description: 'A cool-season legume vegetable crop rich in protein and nutrients.',
+        methods: [
+            'Sow in October-November in well-prepared fields',
+            'Use spacing of 30 x 10 cm for proper growth',
+            'Provide support structures for climbing varieties',
+            'Apply irrigation 2-3 times during growth season',
+            'Harvest pods when peas are tender and green'
+        ],
+        manures: [
+            { type: 'FYM', rate: '7.5-10 tons/ha', benefit: 'Maintains soil health' },
+            { type: 'Phosphorus', rate: '40-50 kg/ha', benefit: 'Critical for productivity' },
+            { type: 'Potassium', rate: '30 kg/ha', benefit: 'Enhances pod content' },
+            { type: 'Bio-fertilizer', rate: '5 kg/ha', benefit: 'Improves nitrogen availability' }
+        ]
+    }
+};
+
+function selectSeason(season) {
+    selectedSeason = season;
+    document.querySelectorAll('.season-card').forEach(card => card.classList.remove('active'));
+    event.target.closest('.season-card').classList.add('active');
+    document.getElementById('regionSelector').style.display = 'block';
+    document.getElementById('regionSelect').value = '';
+    document.getElementById('recommendationsSection').style.display = 'none';
+}
+
+async function getCropRecommendations() {
+    if(!selectedSeason) {
+        alert('Please select a season');
+        return;
+    }
+
+    const region = document.getElementById('regionSelect').value;
+    if(!region) {
+        alert('Please select a region');
+        return;
+    }
+
+    document.getElementById('loadingState').style.display = 'block';
+
+    try {
+        const response = await fetch('/api/crop-recommendations', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ season: selectedSeason, region: region })
+        });
+
+        const result = await response.json();
+        document.getElementById('loadingState').style.display = 'none';
+
+        if(result.success) {
+            displayCropRecommendations(result);
+        } else {
+            alert('Error: ' + result.error);
+        }
+    } catch(error) {
+        document.getElementById('loadingState').style.display = 'none';
+        alert('Error: ' + error.message);
+    }
+}
+
+function displayCropRecommendations(data) {
+    const cropsGrid = document.getElementById('cropsGrid');
+    cropsGrid.innerHTML = '';
+
+    // Safely get crops array
+    let crops = [];
+    if (data && data.crops) {
+        crops = Array.isArray(data.crops) ? data.crops : [];
+    }
+    if (crops.length === 0) {
+        crops = ['Rice', 'Wheat', 'Maize', 'Cotton', 'Sugarcane'];
+    }
+    
+    crops.forEach(crop => {
+        const cropName = typeof crop === 'string' ? crop : crop.name || 'Unknown Crop';
+        const cropCard = document.createElement('div');
+        cropCard.className = 'crop-card';
+        cropCard.innerHTML = `
+            <div class="crop-icon">
+                <i class="fas fa-leaf"></i>
+            </div>
+            <h4>${cropName}</h4>
+            <p class="season-tag">${data.season || 'Kharif'}</p>
+            <p class="region-tag">${data.region || 'Region'}</p>
+            <button class="btn btn-sm" onclick="showCropDetails('${cropName}')">
+                <i class="fas fa-info-circle"></i> Details
+            </button>
+        `;
+        cropsGrid.appendChild(cropCard);
+    });
+
+    document.getElementById('recommendationTitle').innerHTML = 
+        `<i class="fas fa-check-circle"></i> Recommended Crops for ${data.season || 'Kharif'} in ${data.region || 'Selected Region'}`;
+    document.getElementById('recommendationsSection').style.display = 'block';
+    document.getElementById('recommendationsSection').scrollIntoView({ behavior: 'smooth' });
+}
+
+function showCropDetails(cropName) {
+    const details = cropDetails[cropName] || cropDetails['Rice'];
+    
+    let manureHTML = '<div class="manure-grid">';
+    details.manures.forEach(m => {
+        manureHTML += `
+            <div class="manure-card">
+                <h5>${m.type}</h5>
+                <p><strong>Rate:</strong> ${m.rate}</p>
+                <p>${m.benefit}</p>
+            </div>
+        `;
+    });
+    manureHTML += '</div>';
+
+    let methodsHTML = '<ul>';
+    details.methods.forEach(method => {
+        methodsHTML += `<li>${method}</li>`;
+    });
+    methodsHTML += '</ul>';
+
+    const modalBody = document.getElementById('modalBody');
+    modalBody.innerHTML = `
+        <div class="detail-section">
+            <h4>🌾 About ${cropName}</h4>
+            <div class="highlight">
+                ${details.description}
+            </div>
+        </div>
+
+        <div class="detail-section">
+            <h4>📋 Growing Methods & Techniques</h4>
+            ${methodsHTML}
+        </div>
+
+        <div class="detail-section">
+            <h4>🌱 Nutrient & Manure Requirements</h4>
+            ${manureHTML}
+        </div>
+    `;
+
+    document.getElementById('modalCropName').textContent = cropName;
+    document.getElementById('cropDetailsModal').style.display = 'block';
+}
+
+function closeCropDetails() {
+    document.getElementById('cropDetailsModal').style.display = 'none';
+}
+
+window.onclick = function(event) {
+    const modal = document.getElementById('cropDetailsModal');
+    if (event.target === modal) {
+        modal.style.display = 'none';
+    }
+}
+</script>
+{% endblock %}

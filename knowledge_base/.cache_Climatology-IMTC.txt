@@ -1,0 +1,730 @@
+Lecture Notes
+on
+Climatology
+For
+Integrated Meteorological Training Course
+By
+Gaurishankar Sawaisarje
+Scientist D
+India Meteorological Department
+Meteorological Training Institute
+Pashan, Pune-8
+267CHAPTER 1
+CLIMATOLOGY AND ITS APPLICATIONS
+1. Climatology: An Atmospheric Science
+Atmospheric scientists often subdivide study of complexity of gaseous envelope that
+surrounds the earth into specific areas of interest. One such division identifies the fields of
+meteorology and climatology. Meteorology is a science that deals with motion and the
+phenomena of the atmosphere with a view to both forecasting weather and explaining the
+processes involved. It deals largely with status of atmosphere over a short period of time and
+utilizes physical principles to attain its goal. Climatology is the study of atmospheric
+conditions over a longer period of time. It includes the study of different kinds of weather
+that occur at a place. Dynamic change in the atmosphere brings about variation and
+occasionally great extremes that must be treated on the long term as well as the short term
+basis. As a result, climatology may be defined as the aggregate of weather at a place over a
+given time period.
+There is diversity of approaches available in climate studies. Figure 1. Illustrates the
+major subgroups of climatology, the approaches that can be used in their implementation, and
+the scales at which the work can be completed.
+Figure 1. Subgroups, Analytical methods and scales of climatic study.
+(From J. E. Olive 1981, P4 used by permission of V. H. Winston and Sons.)
+268Climatography consists of the basic presentation of data and its verbal or cartographic
+description.
+Physical Climatology deals largely with the energy exchanges and physical components.
+Dynamic Climatology is more concerned with atmospheric motion and exchanges that lead
+to and result from that motion.
+Applied Climatology is the scientific application of climatic data to specific problems within
+such areas of forestry, agriculture, and industry. It can involve the application of climatic data
+and theory of other disciplines, such as geomorphology and soil science.
+The analytical approaches suggested in the above figure 1. are self-explanatory, with
+the possible exception of the synoptic approach, an analytic method that combines each of the
+others. The object of synoptic climatology is to relate local or regional climates to
+atmospheric circulation.
+2692. Temperature structure of the atmosphere
+In general terms, the atmosphere can be considered as a series of concentric layers or
+shells surrounding the earth. The most commonly used method to describe atmospheric
+layering uses temperature as the variable. This is illustrated in Figure 2. , which shows
+temperature changes with height.
+The troposphere is the lowest level, where “weather” occurs. In this layer, there is
+generally uniform decrease of temperature with height. The lowest part of the troposphere, up
+to 1.5 km or 2 km is called friction layer. The upper limit of the troposphere is the
+tropopause. It is zone where generally decrease of temperature ceases and temperature
+remains fairly constant with height (isothermal-equal temperature). The tropopause also
+represents the upper limit of large scale turbulence and mixing of the layer.
+The stratosphere extends from the 10 km to 45 km above the surface. In this lower
+section, temperatures are fairly constant, but at an elevation of 30 km they increase toward
+the upper limit of this zone, the stratospause. Air circulation in the stratosphere is
+characteristically persistent, with winds blowing at high velocities.
+The mesosphere, above the stratopause, is identified by a marked temperature
+decrease with altitude. Beginning at an elevation of about 80 km, the decline continues until
+the mesopause is reached.
+The thermosphere lying above the mesopause has no defined upper limit. It is so
+named because a very high thermodynamic temperature attained.
+Figure 2. Thermal Structure of Atmosphere
+270Figure 3. Schematic cross section of Earth's Atmosphere showing
+broad chemical dividions
+2713. Applications of Climatology
+Climatology is a fascinating area of study. It relates directly in which the environment
+functions and the everyday lives of people in addition to workings and nature of the
+atmosphere. Applied Climatology is used to –
+a) Improve efficiency of various economic activities that are influenced by climate,
+b) Aid in the needs of societal activities,
+c) Reduce the losses incurred from climatic hazards.
+Consider the following examples:
+Energy: Climate plays a part in the use and development of both fossil fuels and the
+renewable energy sources. The use of fossil fuels to generate energy is so climate related that
+the concept of heating and cooling degree days is used by engineers to estimate energy
+demands. The potential an area has for the development of renewable sources is directly
+related to the atmospheric conditions. To evaluate the potential for the direct use of solar
+energy and wind power requires detailed knowledge of the climatic conditions that prevail.
+Food: The success of agriculture is determined by how well farmers adapt their crops and
+activities to climate.
+Water: Many human problems are related to excesses or deficits of water. The applied
+climatologist supplies important information on everything from the chances of flood
+occurring to the relative severity of the flood as well as his concern with drought includes the
+environmental degradation that can result when a location experiences slowing increasing
+aridity.
+Health: Studies of the relationships between health, disease, mortality, and climate show
+some remarkable results. Climate influences the relative merits of a location as a health
+resort or as a tourist center. The effect of climates at high altitudes provides an apt example of
+the hazard.
+Industry and Trade: Applied climatologists have a significant input into the industrial
+and trade sectors of an economy. For example,
+a) Building and construction: site conditions, design in relation to climate, energy costs,
+construction conditions.
+b) Commerce: Storage of materials, accidents, plant operation, sales planning
+c) Communication: Construction, maintenance of systems, appropriate design
+d) Services: Insurance, environmental law, disaster control
+e) Forestry: Productivity, hazards, regeneration, biological hazards.
+At first glance, it may be difficult to accurately assess the relationship of climatology
+to many of these activities. However, a little thought will clearly indicate the significance of
+applied climatology.
+272CHAPTER 2
+CLIMATIC ELEMENTS
+2.1 Weather elements
+The weather elements that are used to describe climate are also the elements that
+determine the type of climate for a region. The most important elements of weather which in
+different combinations make up the climate of a particular place or area are: solar radiation,
+air temperature, air pressure, wind velocity and wind direction, humidity and precipitation,
+and amount of cloudiness. The climatic elements of temperature, precipitation, and wind are
+the most significant elements used to express the climate of a region.
+Temperature:
+The temperature of an area is dependent upon
+a) latitude or the distribution of the incoming and outgoing radiation,
+b) the nature of the surface (land or water),
+c) the altitude and the
+d) prevailing winds.
+The air temperature normally used in climatology is that recorded at the surface. Moisture or
+lack of moisture modifies the temperature. The more moisture in a region, the smaller the
+temperature range, and the drier the region, the greater the temperature range. Moisture is
+also influenced by temperature. Warmer air can hold more moisture than a cooler air,
+resulting in increased evaporation and a higher probability of clouds and precipitation.
+Moisture, when coupled with condensation and evaporation, is an extremely important
+climatic element. It ultimately determines the type of climate for a specific region.
+Precipitation:
+Precipitation is the second most important climatic element. In most studies,
+precipitation is defined as water reaching Earth’s surface by falling either in a liquid or a
+solid state. The most significant forms are rain and snow. Precipitation has a wide range of
+variability over the earth’s surface. Because of its variability, a longer series of observations
+is generally required to establish mean or an average. It often becomes necessary to include
+such factors as average number of days with precipitation and average amount per day.
+Precipitation is expressed in millimeters. Since precipitation amounts are directly associated
+with amounts and type of clouds, cloud cover must also be considered with precipitation.
+Cloud climatology also includes phenomena such as fog and thunderstorms.
+273Wind:
+Wind is the climatic element that transports heat and moisture into a region.
+Climatologists are mostly interested in wind with regards to its direction, speed, and
+gustiness. Wind is therefore usually discussed in terms of prevailing direction, average
+speeds, and maximum gusts. Some climatological studies use resultant wind, which is the
+vectorial average of all wind directions and speeds for a given level, at a specific place, and
+for a given period.
+2.2 Expression of climatic elements
+Climatic elements are observed over long periods of time; therefore, specific terms must be
+used to express these elements so they have a definite meaning.
+Mean (Average):
+The mean is the most commonly used climatological parameter. The term mean
+normally refers to a mathematical averaging obtained by adding the values of all factors or
+cases and then dividing by the number of items. For example, the average daily temperature
+would be the sum of the hourly temperatures divided by 24.
+The mean temperature of 1 day has been devised by simply adding the maximum and
+minimum temperature values for that day and dividing by 2. In analyzing weather data, the
+terms average and mean are often used interchangeably.
+Normal:
+In climatology, the term normal is applied to the average value over aperiod of time,
+which serves as a standard with which values (occurring on a date or during a specified time)
+may be compared. These periods of time may be a particular month or other portion of the
+year. They may refer to a season or to a year as a whole. The normal is usually determined
+over a 20- or 30-year period.
+Absolute:
+In climatology, the term absolute is usually applied to the extreme highest and lowest
+values for any given meteorological element recorded at the place of observation and are
+most frequently applied to temperature.
+Extreme:
+The term extreme is applied to the highest and lowest value for a particular
+meteorological element occurring over a period of time. This period of time is usually a
+matter of months, seasons or years. The term may be used for a calendar day only, for which
+it is particularly applicable to temperature. At time the term is applied to the average of the
+highest and lowest temperatures as mean monthly or mean annual extremes.
+274Range:
+Range is the difference between the highest and lowest values and reflects the
+extreme variations of these values. Since it has a high variability, this statistic is not
+recommended for precise work. Range is related to extreme values of record and can be
+useful in determining the extreme range for the records available.
+Frequency:
+Frequency is defined as the number of times a certain value occurs within a specified
+period of time. A frequency distribution may be used to present a condensed presentation of
+large data.
+Mode:
+Mode is defined as the value occurring with the greatest frequency or the value about
+which the most cases occur.
+Median:
+The median is the value at the midpoint in an array. It is determined by arranging all
+values in order of size. Rough estimates of the median may be obtained by taking the middle
+value of an ordered series; if there are two middle values they may be averaged to obtain the
+median. The median is not widely used in climatological computations. A longer period of
+record might be required to formulate an accurate median.
+Degree-Day:
+A degree-day is the number of degrees the mean daily temperature is above or below
+a standard temperature base. Degree days are accumulated over a season. At any point in the
+season, the total can be used as an index of past temperature effect upon some quantity, such
+as plant growth, fuel consumption, power output, etc. Degree-days are frequently applied to
+fuel and power consumption in the form of heating degree-days and cooling degree-days.
+275Average and standard deviations
+In the analysis of climatological data, it may be desirable to compute the deviation of
+all items from a central point. This can be obtained from a computation of either the mean (or
+average) deviation or the standard deviation. These are termed measures of dispersion and are
+used to determine whether the average is truly representative or to determine the extent to
+which data vary from the average.
+Average deviation :
+Average deviation is obtained by computing the arithmetic average of the deviations
+from an average of the data.
+Average deviation = ∑ d / n
+where d (the deviations) and n is the number of items.
+Standard deviation:
+Standard deviation is the measure of the scatter or spread of all values in a series of
+observations.
+Standard deviation = SQRT( ∑ d2 / n)
+where d2 is the sum of the squared deviations from the arithmetic average, and n is the
+number of items in the group of data.
+276CHAPTER 3
+CLIMATIC ZONES AND CLIMATIC CONTROLS
+3.1 Climatic zones
+The basic grouping of areas into climatic zones consists of classifying climates into
+five broad belts based on astronomical or mathematical factors. Actually they are zones of
+sunshine or solar climate and include the torrid or tropical zone, the two temperate zones, and
+the two polar zones.
+The tropical zone is limited on the Tropic of Cancer and on the south by the Tropic of
+Cancer which are located at 23 1/2º north and south latitude, respectively.
+The temperate zone of the Northern Hemisphere is limited on the south by the Tropic
+of Cancer and on the north by the Arctic Circle located at 66 1/2º north latitude. The
+temperate zone of the Southern Hemisphere is bounded on the north by the Tropic of
+Capricorn and on the south by the Antarctic Circle located at 66 1/2º south latitude.
+The two polar zones are the areas in the Polar Regions which have the Arctic and
+Antarctic Circles as their boundaries.
+Technically, Climatic zones are limited by isotherms rather than by parallels of
+latitude. A glance at any chart depicting the isotherms over the surface of the earth shows the
+isotherms do not coincide with latitude lines. The astronomical or latitude zones therefore
+differ from the zones of heat.
+The Climatic zones are shown below:
+277Electromagnetic energy travels in waves and spans a broad spectrum from very
+long radio waves to very short gamma rays. The human eye can only detect only a small
+portion of this spectrum called visible light. Our Sun is a source of energy across the full
+spectrum, and its electromagnetic radiation bombards our atmosphere constantly. However,
+the Earth's atmosphere protects us from exposure to a range of higher energy waves that can
+be harmful to life. Examples are Gamma rays, x-rays, and some ultraviolet waves.
+Electromagnetic radiation is reflected or absorbed mainly by several gases in the Earth's
+atmosphere, among the most important being water vapor, carbon dioxide, and ozone. Some
+radiation, such as visible light, largely passes (is transmitted) through the atmosphere. These
+regions of the spectrum with wavelengths that can pass through the atmosphere are referred
+to as "atmospheric windows." Some microwaves can even pass through clouds, which make
+them the best wavelength for transmitting satellite communication signals.
+The Electromagnetic spectrum is shown below:
+278Figure 4. Eectromagnetic Spectrum
+279The cause of seasons is due to orbit of the earth round the sun. This is shown below.
+Winter -December to February.
+Spring-March to May.
+Summer-June to August.
+Fall(autumn)-September to November
+Figure 5. Orbit of the Earth round the Sun
+However, On the basis of climate, the period of year has been divided into four seasons in India.
+They are:-
+1) Cold weather season (winter season) – January and February
+2) Pre-monsoon or Hot weather season – March to May
+3) SW or Summer Monsoon season – June to September
+4) Post monsoon season – October to December
+2803.2 Climatic Controls
+The variation of climatic elements from place to place and from season to season is
+due to several factors called climatic controls. Four climatic controls largely determine the
+climate of every ocean and continental region. These controls are latitude, land and water
+distribution, topography, and ocean currents. Another factor, which is now significant in
+determining a region’s climate, is man. Man’s influence on climate through pollution,
+deforestation, and irrigation, is now considered as climatic factor.
+Latitude:
+Latitude (or the position of earth relative to the Sun) has a marked effect on climatic
+elements. The angle at which rays of sunlight reach Earth and the number of Sun hours each
+day depends upon the distance of the Sun, from the equator. Therefore, the latitude directly
+influences the sources and direction of air masses and the weather they bring with them into a
+region.
+Land and Water Distribution
+Location of continents and oceans greatly influences Earth’s pattern of air
+temperature as well as the sources of movement of air masses.
+(a) Influence of Air Temperature
+Coastal areas assume the temperature characteristics of the land or water that is on
+their windward side. In latitude of prevailing westerly winds, for example, west coasts of
+continents have oceanic temperatures and east coasts have continental temperatures which are
+determined by wind flow. Mixing process in the upper layer of the ocean sharply reduces air
+temperature contrasts between day and night and between winter and summer over oceanic
+areas. Strong seasonal and diurnal contrasts exist in the interior continents due to lack of
+redistribution of heat by turbulence and negligible effect of conduction. In the Southern
+Hemisphere, the temperature gradient does not have as great a seasonal change as it does in
+the Northern Hemisphere due to more water surface in Southern Hemisphere and tapering of
+continents of Southern Hemisphere towards the poles.
+The distribution of water vapor and clouds is another important factor influencing air
+temperature. In areas with high percentage of clouds the solar energy is easily trapped in the
+lower layers due to the greenhouse effect. Thus, areas of high moisture content have
+relatively high temperature.
+(b) Influence on Air Circulation
+The higher mean temperature of Northern Hemisphere is an effect of higher
+percentage of land and warmer oceans in Northern Hemisphere due to the movement of warm
+equatorial waters from the Southern Hemisphere in to the Northern Hemisphere caused by
+the southeast trades crossing the equator. Another factor is the partial protection of oceans of
+Northern Hemisphere from cold polar waters and arctic ice by land barriers. There is no such
+barrier between the Antarctic region and the southern oceans.
+281Figure 6. How Sun Angle decreases the intensity of radiation
+Figure 7. The tilted axis of the earth results in variations of the angle of overhead sun
+and length of daylight. Diagram shows conditions at the equinoxes and solstices
+282Topography:
+Topography plays an extremely important role in determining the climate of a region.
+The height of an area above sea level exerts a considerable influence on its climate. All
+climatic values are affected by surface elevation. An important influence on climate is
+mountainous terrain, especially, the long, high chains of mountains that act as climatic
+divides. The orientation of the mountain range may block certain air masses and prevent them
+from reaching the lee side of the mountains. For example, the Himalayas which are east-west
+orientations prevent polar air masses from advancing southward. Therefore the climates of
+India are warmer in winter than are other locations of the same latitude. The most noted
+influence of mountains is the distribution of precipitation (higher values of precipitation on
+windward side than on the leeward side). Another important topographical feature is the
+presence of lakes. The lake effect can be notable for large, unfrozen bodies of water. The lee
+sides of lakes show considerable diurnal and annual modification in the form of more
+moderate temperatures; increased moisture, cloud and precipitation; and increased winds (due
+to less friction) and land and sea breeze effects.
+Ocean currents:
+Ocean currents play a significant role in controlling the climate of certain regions.
+Ocean currents transport heat moving cold polar water equator ward into warmer waters and
+moving the warm equatorial water pole ward into cooler waters. Currents are driven by the
+major wind systems; therefore, cold southward moving currents flow along the west coasts of
+continents, and the warm northward moving currents flow along the east coasts of the
+continents. This is true in both hemispheres. Basically, this results in cooler climates along
+the west coasts and the warmer climates along the east coasts.
+283CHAPTER 4
+GENERAL CIRCULATION OF THE ATMOSPHERE OVER THE GLOBE
+4.1 Scales of Atmospheric motion
+The time and size scales for atmospheric motions are given in Table below:
+Scale Time Scale Distance Scale Examples
+Macro scale
+Planetary Weeks to longer 1000-40,000 km Westerlies and
+trade winds
+Synoptic Days to weeks 100-5000 km Mid-latitude
+cyclones,
+anticyclones and
+hurricanes, Tropical
+cyclones
+Meso scale Minutes to hours 1-100 km Thunderstorms,
+tornadoes, and
+land-sea breeze
+Micro scale Second to < 1 km Turbulence, dust
+minutes devils, and gusts
+4.2 Large and small scale circulation
+The wind systems shown in figure below illustrate the three major categories of
+atmospheric circulation: macroscale, mesoscale, and microscale. Macroscale circulation
+includes large planetary-scale flow, such as trade winds that blow consistently for weeks to
+longer as well as smaller features like Tropical cyclones. Mesoscale circulation is associated
+with tornadoes, thunderstorms, and numerous local winds that generally last from minutes to
+hours. Finally, microscale events have life span of from a few seconds to minutes and include
+dust devils, gusts, and general atmospheric turbulence.
+284Before examining the large macroscale circulation for Earth, let us turn to some mesoscale
+winds:
+Land and Sea Breezes
+Land is heated more intensely during day light hours than is an adjacent body of
+water. As a result, the air above the land surface heats and expands, creating an area of low
+pressure. A sea breeze then develops, as cooler air over the water moves onto the land. At
+night, the reverse may take place; the land cools more rapidly than the sea and a land breeze
+develops.
+285Mountain and Valley Breezes
+During the day, air along the mountain slopes is heated more intensely than air at the
+same elevation over the valley floor. This warmer air glides up along the mountain slope and
+generates a valley breeze. These can often be identified by the isolated cumulus clouds that
+develop over the adjacent mountain peaks. During night time, rapid radiation heat loss along
+the mountain slopes cools the air, which drains into the valley below and causes a mountain
+breeze.
+286Chinook (Foehn) winds
+These are often created when a strong pressure gradient develops in a mountainous
+region. As the air descends the leeward slopes of the mountains, it is heated adiabatically and
+becomes drier. These winds often bring drastic change and melting snow cover over the
+ground in short order. The Native American word Chinook means “snow eater”.
+Katabatic (Fall) winds
+These winds originate when cold air, situated over a highland area such as the ice sheets of
+Greenland or Antarctica, is set in motion. Under the influence of gravity, the cold air
+cascades over the rim of a highland like a water fall. although the air is heated adiabatically,
+the initial temperatures are so low that the wind arrives in the lowlands still colder and more
+dense than the air it displaces. Examples are mistral which blows from the French Alps
+towards the Mediterranean Sea, bora, which originates in the mountains of Yugoslavia and
+blows to the Adriatic Sea.
+4.3 Three Cell Circulation Model
+This was proposed for each hemisphere in the 1920’s and has been modified to fit upper –air
+observations, it remains a useful way to examine global circulation. Hadley in 1735 was well
+aware that solar energy drives the winds and proposed that the large temperature contrast
+between the poles and the equator creates one large convection cell in each hemisphere
+(northern and southern).
+In the zones between the equator and roughly 30º latitude north and south, the circulation
+closely resembles the model used by Hadley for the whole earth. Near the equator, the warm
+rising air that releases latent heat during the formation of cumulus towers is believed to
+provide the energy to drive the Hadley cells. As the flow aloft in the Hadley cells moves
+poleward, it begins to subside in a zone between 20º and 35º latitude due the two reasons, viz.
+(1) as upper level flow moves away from the stormy equatorial region, where the release of
+latent heat condensation keeps the air warm and buoyant, radiation cooling increases the
+density of air. (2) because of Coriolis force becoming stronger with increase of distance from
+the equator, the poleward moving upper air is deflected into a nearly west to east flow by the
+time it reaches 25º latitude. A convergence is formed aloft due to the Coriolis force and
+results in subsidence. Consequently, this zone of subsidence is the site of the world’s
+subtropical deserts (Sahara desert of North Africa, the great Australian desert). Due to
+general weak winds in this zone, the region is popularly known as the horse latitudes. From
+the center of the horse latitudes, the surface flow splits in to two branches: Equatorward flow
+deflected by Coriolis force to form reliable trade winds. In the northern hemisphere the trades
+are from the northeast, where as in the southern hemisphere the trades are from the southeast.
+The trade winds from both the hemispheres meet at the equator in a region that has a weak
+pressure gradient which is known as doldrums.
+287The circulation between 30º and 60º latitude (north and south) is more complicated. The net
+surface flow is poleward, and because of the Coriolis force, the winds have strong westerly
+component. Relatively little is known about the circulation in high (polar) latitudes. It is
+understood that subsidence at the poles produces a surface flow that moves equatorward and
+is deflected into the polar easterlies of both hemispheres. The meeting of cold polar winds
+moving equatorward with the warmer westerly flow of the mid latitudes is named as polar
+front.
+4.4 Observed distribution of Pressure and winds
+If earth had a uniform surface, two latitudinally oriented belts of high and two of low
+pressure would exist as shown in figure below. Near the equator, the warm rising branch of
+the Hadley cells is associated with the pressure zone, known as the equatorial low which is
+marked by abundant precipitation. Because it is a region where both the trade winds
+converge, it is referred to inter tropical convergence zone.
+288Up to this point, we have only considered the global pressure systems as it they were
+continuous belts around Earth. However, because the Earth’s surface is not uniform, the only
+true zonal distribution of pressure exists along the sub polar low in the Southern Hemisphere.
+To a lesser extent, the equatorial low is also continuous. At other latitudes, particularly in the
+northern hemisphere, the zonal pattern is replaced by semi permanent cells of high and low
+pressure.
+289January Pressure and Wind patterns
+Figure 4 (a) shows a very strong high pressure center, called the Siberian
+High, over the frozen landscape of northern Asia. The polar highs are prominent features of
+the winter circulation over the northern continents. Two intense semi permanent low pressure
+centers (the Aleutian low and the Icelandic low) are situated over the North Pacific and North
+Atlantic respectively. These regions are always experiencing low pressure and hence the term
+semi permanent. The areas affected by these lows experience cloudy conditions and abundant
+winter precipitation.
+July Pressure and Wind patterns
+During the summer months, the sub tropical highs in the Northern Hemisphere
+migrate westward and become more intense than during the winter months. These strong high
+pressure centers dominate the summer circulation over the oceans and pump warm moist air
+on to the continents that lie to the west of these highs. This results in an increase in
+precipitation over parts of eastern North America and Southeast Asia. During the peak of the
+summer monsoon, the subtropical high is found in the North Atlantic is positioned near the
+island of Bermuda, hence the name Bermuda high.
+290291CONTENTS
+Chapter 1: Winter Season
+Chapter 2: Premonsoon Season
+Chapter 3: SW or Summer Monsoon Season
+Chapter 4: Post Monsoon Season
+292(Ref. used for these notes: Indian Climatology by N C Biswas)
+CHAPTER 1
+WINTER SEASON
+1.1 Climatic Pattern
+January is taken as the representative month for the winter season. Winter conditions
+commence over North India from December itself.
+1.1.1 Mean Sea Level Pressure
+Siberian High (45ºN / 105ºE) in the northern hemispheric winter is the most intense
+high pressure cell over the globe. India is at the southern periphery of this high.
+Pressure gradient is stronger to the north of Himalayas and weaker over India. A
+weak ridge runs from West Rajasthan to central parts of Bihar and a prominent ridge
+runs along the east coast.
+A trough extends from Kerala to Gujarat and another from Tennasserim coast to
+Assam.
+2931.1.2 Surface winds
+Surface winds are mainly from northeast to the south of 25ºN both over land and sea.
+North of 25ºN and west of 88ºE, the winds are mainly north-westerly. However, easterlies
+prevail over Assam. Mean wind speed is light over the land and about 10 kts over the sea
+areas.
+1.1.3 Upper Level winds
+The subtropical high pressure belt, which is almost a permanent feature over the globe
+throughout the year, is marked throughout the troposphere and defines the wind flow. The
+winds are westerlies to the north of the sub tropical edge and easterlies to its south
+At 850 hPa level, the subtropical ridge runs over India and neighbourhood between
+18ºN and 20ºN. It tilts southward with height. It runs roughly along 12ºN and 500 hPa and
+along 8ºN at 200 hPa levels.
+The westerly winds strengthen with height over north India between 25ºN and 30ºN.
+The wind speed in this belt is about 40 kts at 500 hPa. About 75 kts at 300 hPa and 85 kts at
+200 hPa levels. Beyond 200 hPa the wind speed gradually decreases.
+2942951.1.4 Temperature
+1.1.4.1 Mean Maximum Temperature (January)
+Peninsular India, south of 20º N is comparatively warmer than to the north. Mean
+maximum temperature to the south of 20º N is 30º C or more. It decreases northward and
+becomes 5º C or below over Kashmir. Thermal gradient over India to the south of 30º N is
+somewhat flat but increases rapidly to the north of it. The isotherms are more or less parallel
+to the latitudes over north India.
+1.1.4.2 Mean Minimum Temperature (January)
+Night minimum temperatures over extreme south Peninsula are more than 20º C.
+They decrease northwards and become below 0º C over Ladak and neighbourhood. They are
+below 10º C to the north of 23º N. The isotherms run more or less parallel to the latitudes
+except in coastal areas.
+2961.1.4.3 Diurnal Range of Temperature (January)
+Diurnal range of temperature is more than 10º C over the entire Indian subcontinent
+except in the coastal areas of Andhra Pradesh, Tamil Nadu, Kerala and Karnataka and
+Kashmir where it is less than 10º C It is greater than 15º C over NW India, Saurashtra and
+Kutch, West Madhya Pradesh. North Maharashtra and Telangana and is between 10º C and
+15º C elsewhere
+1.1.4.4 Upper Air Temperature (January)
+Temperature decreases with height upto 200 hPa level during the season. Also
+temperature decreases northwards from 15º N at all levels between 850 hPa and 300 hPa
+levels. Thermal high in the upper air lies to the south of 15º N at 200 hPa level. Temperature
+over India is somewhat flat and lies within 2º C of 51º C. Above 200 hPa level, the
+temperature gradient is reversed.
+2971.1.5 Rainfall (January and February)
+The winter rainfall over India is a small percentage of the annual rainfall except in
+Kashmir and neighbourhood. It is more than 20 cm over Kashmir, Punjab, Haryana,
+Himachal Pradesh, NW Uttar Pradesh, Northeastern states Bihar Plateau and adjoining
+Madhya Pradesh, Orissa, coastal and southern parts of interior Tamil Nadu and South Kerala
+receive more than 5 cm of rainfall during the season. It is less than 1 cm over Western parts
+of India extending from west Rajasthan in the north to south Karnataka in the south and
+between 1 and 5 cm in the remaining parts of India.
+Rainfall over northern India occurs in association with the passage of western
+disturbances and induced systems and in the south peninsula due to the movement of easterly
+waves.
+2981.1.6 Normal Weather during Winter Season in India
+Normally the weather is dry over India during the winter season, clear sky, low
+humidity; low mean temperature with large diurnal range of temperatures is the normal
+weather pattern over India during the season. However, the dry spell is broken at intervals
+with the passage of western disturbances across North India and Easterly waves across
+extreme south Peninsula
+1.2 Synoptic Feature
+The common synoptic features during the season are (1) Western disturbances and
+induces systems
+(ii) Trough in middle and upper tropospheric westerlies.
+(iii) Sub-tropical Westerly jet.
+The above disturbances affect the weather over northern and adjoining central India.
+The extreme south peninsula of India is affected by
+(iv) Easterly Waves.
+2991.2.1 Western Disturbances (W.D) and Induced Systems.
+A western Disturbance is a synoptic system in mid latitude westerly winds which
+moves from west to east across north India. It can be seen as a low pressure area over north
+Pakistan and neighbourhood which is extended atleast up 0.9 km. a.s.l. as a cyclonic
+circulation (CYCIR) or trough or as a CYCIR/trough in the lower troposphere. Normally the
+disturbances affect Indian subcontinent to the north of Lat. 30º N. The WDs are often
+associated with a trough in the middle and upper troposphere, which tilts westward with
+height.
+When two or more closed isobars at an interval of 2 hPa can be drawn on sea level
+chart over north Pakistan and adjoining Punjab then the W.D is referred to as Western
+Depression. The WDs develop over Mediterranean Sea, Black Sea and Caspian Sea. On
+some occasions its origin can be traced to Atlantic Ocean.
+Occasionally under the influence of WDs, lows or CYCIRs develop in the lower
+troposphere over Rajasthan and west Madhya Pradesh (south of Lat. 30N). These
+disturbances are referred to as Induced Systems. Movement of induced systems is about 5
+per day or less. However, faster movement occurs under the influence of mid or upper
+tropospheric trough.
+Life period of a sequence of WDs per month including the Induced lows move across
+India during winter season. They are less frequent in post – monsoon and pre monsoon
+season. Their frequency is 2 to 4 in Nov & Dec., about 5 in March and April and 2 to 3 in
+May.
+Weather associated with the western disturbances are (i) Precipitation (ii) Cold wave
+condition and (iii) Fog.
+(i) Precipitation
+Precipitation in association with a W.D first commences over Jammu and
+Kashmir, Himachal Pradesh, Punjab and Haryana and the next day over East Rajasthan and
+West Uttar Pradesh. Many times rainfall may cease at this stage. In some cases, rainfall belt
+extends southwards to Madhya Pradesh and during the following 2 days (though not always)
+it spreads to east Uttar Pradesh Bihar, Orissa, West Bengal and Sikkim and Assam. Even the
+disturbance which does not affect NW India south of 30 N sometimes causes precipitation
+over Assam & Arunachal Pradesh 2 to 3 days after the weather over western Himalayas.
+300Precipitation normally occurs in the forward sector of a WD as a thundershower.
+Hails also occur over north India in association with the WDs. The higher reaches of western
+Himalayas, Sikkim and Arunachal Pradesh often get snowfall.
+(ii) Cold wave
+Cold wave conditions are generally experienced during November to March. It is a
+relative term with respect to night minimum temperatures.
+Criteria for cold wave
+As per decisions of AMR 2002, it has been decided that the following revised criteria
+for declaring of cold wave may be introduced w.e.f 1st March 2002.
+Wind chill factor plays an important role and brings down the actual minimum
+temperature depending upon the wind speed. The actual minimum temperature of a station
+should be reduced to wind chill effective minimum temperature (WCTn) based on wind chill
+factor using the enclosed table enclosure I WMO No 331/Tech note No. 123 on “The
+assessment of human bio climate. A limited review of physical parameters 1972)
+For declaring cold wave and Cold day WCTn should only be used.
+If WCTn is 10 C or less, then only the conditions for cold wave should be considered.
+When normal minimum temperature is equal to 10º C or more
+Cold wave Departure from normal is – 5º C to 6º C
+Severe cold wave Departure from normal is – 7º C or less
+When normal minimum temperature is less than 10º C
+Cold wave Departure from normal is – 4º C to – 5º C
+Severe cold wave Departure from normal is -6º C or less
+When WCTn is 0º C or less, cold wave should be declared irrespective of normal
+minimum temperature of the station. However, this criteria is not applicable for those
+stations whose normal minimum temperature is below 0 C
+301Cold day
+In the plains of north India, foggy conditions prevail during winter for several days or
+weeks. The minimum temperature on these days remain above normal, while maximum
+temperature remain much below normal. This creates cold conditions for prolonged period.
+To cover such situations the concept of cold day is introduced.
+When maximum temperature is less than or equal to 16º C in plains it be
+declared “Cold Day”
+Cold wave conditions for coastal stations.
+For coastal stations the threshold value of minimum temperature of 10 C is rarely
+reached. However, the local people feel discomfort due to wind chill factor which reduces
+the minimum temperature by few degrees depending upon the wind speed. The cold day
+concept may be used following the criteria below:-
+Criteria for describing “cold day” for coastal stations
+i) Actual minimum temperature of a station be reduced to WCTn
+ii) This WCTn should be used to declare cold wave or cold day
+iii) When minimum temperature departure is – 5º C or less over a station cold day may be
+described irrespective of threshold value of 10º C
+iv) However, when a threshold of 10º C is reached “cold wave” be declared
+v) When a station satisfies both the cold wave and cold day criteria when cold wave has
+a higher priority and has to be declared.
+Heat wave/ cold wave and hot day cold day are area specific phenomena. Therefore,
+they may be described for Met sub division or a part thereof, when at least two stations
+satisfy the criteria.
+Cold waves occur in the rear sector of western disturbances. The lowest temperatures
+in cold wave are generally reached on the second night of the cold spell, when the minimum
+temperatures have dropped as much as 10º C to 12º C below normal.
+Cold waves may enter NW India from Pakistan or develop over NW India. They
+usually spread eastwards upto West Bengal and southwards to Telangana. On some
+occasions a cold wave may intensify over Bihar or East Uttar Pradesh.
+Severe cold waves occur over NW India, West Uttar Pradesh, Gujarat, Madhya
+Pradesh and Vidarbha between December and April. Occasionally they extend eastwards to
+east Uttar Pradesh or Bihar. A spell of cold wave usually lasts for about 4 to 5 days and on
+rare cases 7 to 10. However, over a region it is normally observed for not more than a couple
+of days. Severe cold wave conditions are generally observed from November to March.
+Jammu and Kashmir is most affected by severe cold wave approx 4 spells per year.
+302(iii) Fog
+Fog is localized phenomenon. It is suspension of very small water droplets in the air
+reducing the horizontal visibility to less than 1 km. with relative humidity 75 percent or more.
+Fog can be classified into 4 types based on the process which causes its formation
+a) Radiation Fog Forms mainly due to radiation cooling of surface at night.
+b) Advection Fog forms when moist air is transported over colder surface
+c) Steaming Fog Caused by the evaporation form warm water into colder air.
+d) Frontal Fog is formed by continuous rain ahead of a warm front.
+Radiation and Advection fog occur mostly over north India in winter. Conditions
+favourable for Radiation fog are
+a) High Relative Humidity (b) cloud free sky (c) Light wind and
+(d) A stable layer with inversion above ground.
+In association with western disturbance conditions become favourable for the
+occurrence of fog over large areas mainly in its rear sector and sometimes ahead of it. The
+low level moisture content, stability and wind field conditions become favourable for its
+formation. In the rear sector of the western disturbance radiation fog occurs one or two days
+after the cessation of rainfall. Normally the radiation occurs in the early morning and may
+prevail till late forenoon. Along the coastal areas of Orissa, West Bengal. Bangladesh fog
+generally occurs ahead of a WD which is located further to the west as moist air current is
+drawn over these areas under the influence of the WD. Occasionally such conditions also
+occur over Bihar and east Uttar Pradesh when a easterly stream in the lower levels extends
+over these areas under the influence of WD.
+In the Brahmaputra valley of Assam for formation is frequent more than 20 days a
+month in winter season. The river and abundant vegetation in the valley provide plenty of
+moisture in the lower level. The overlaying dry and cold westerly flow provides ideal
+condition for the formation of fog in the area almost daily
+In association with an active WD extensive fog occurs over plains of north India
+during December to March.
+3031.2.2 Middle and upper tropospheric westerly trough and sub tropical westerly jet
+(STWJ)
+The predominant winds in the mid latitude regions are westerly. However, the
+streamlines are characterized by wave like motion with alternative troughs and ridges. These
+waves were extensively studied by Rossby and are known as Rossby waves or planetary
+waves. These waves generally move from west to east.
+The mid latitude westerly troughs sometimes develop large amplitudes (i.e their N – S
+extent is very large). Such trough extend southward to tropical regions from November to
+May and indirectly affect the tropical weather. It has also been established that ahead of a
+trough divergence occurs and helps intensification of systems on the surface/lower
+tropospheric levels. The waves may be long waves having a wave length of more than 5000
+kms. And short waves, having a wave length of 2000 to 3000 km.
+Movements of the short wave troughs are faster than the long waves. Long waves are
+generally of larger amplitude, while the short waves have smaller amplitude. The westerly
+trough mainly affects weather over the Indian sub continent from October to May. During
+the monsoon season these troughs are seen rarely in this region.
+JET STREAM
+According to WMO definition a Jet Stream is a narrow current concentrated along a
+quasi horizontal axis in the upper troposphere characterized by strong vertical and lateral
+wind shear featuring one or more velocity maxima. Normally a jet stream is thousands of
+kilometer in length, hundreds of kilometer in width and a few kilometer in depth. The
+vertical wind shear is of the order of 5 to 10 m/sec per km and the lateral shear is of the order
+of 5 m/sec per 100 km.
+An arbitrary lower limit of 30 m/sec (60 kt/hour) is assigned to the wind speed along
+the axis of the jet stream.
+Sub Tropical Westerly Jet (STWJ)
+Jet stream in the subtropical latitude is a semipermanent feature (Namais and Clapp
+1949). It is strongest near the 200 hPa level. During the colder season the subtropical jet
+stream is a dominating phenomenon in both the hemispheres. The major wind maxima are
+normally located downstream from the region of strongest confluence.
+The STWJ is generally observed over North India from October to May and is
+strongest during the winter. The main characteristics of the STWJ over India during winter
+are
+304(i) The mean position of the jet stream in winter lies near Lat. 26º N (Jodhpur,
+Allahabad, Guwahati at 200 hPa level (12 km) The mean wind speed at the core is
+about 100 kts. The axis of the Jet Stream shifts southward as the season advances and
+towards the end of winter or in early spring it reaches the southernmost position.
+(ii) There are two maxima: one over the western India (Jodhpur) and the other over the
+eastern India (Guwahati)
+(iii) The mean wind speed of 95 kts is recorded at 12 km, over Jodhpur and 10.5 km at
+Guwahati. At 12 km it is 90 kts over Guwahati. The mean wind speed is 80 kts. Over
+Allahabad both at 10.5 and 12.0 km
+(iv) During winter the wind speeds of 60 kts or more are found to the north of Lat. 20º N.
+At this latitude Jet speed wind is observed in a thin layer of the atmosphere. At Lat.
+23º N the Jet wind commences at 9 km and over Assam even at 7 km and extends
+upto 14 km.
+(v) The horizontal wind shear is generally more than 5 km/hr per 100 km to the south of
+the jet core and the vertical shear is about 20 km hour per km below the core
+(vi) The S.T. jet stream lies entirely within the troposphere and about 3 – 4 km below the
+tropopause and is located near the break in the tropopause between tropical (near 100
+hPa) and middle latitude (near 200 – 250 hPa) tropopauses.
+(vii) It is strongest in February along Delhi – Allahabad – Guwahati latitudes. It shifts in
+May to 30 N and disappears from the Indian Latitude during the SW monsoon period.
+It appears near 30º N in October at 12 km and shifts between 25º N and 30º N in
+December. Mean wind speed is 70 kts in November and 80 kts in December.
+1.2.3 Easterly waves
+These are the waves/troughs in the equatorial easterly winds (Trades) having
+an approximate wave length around 2000 km. These are weak waves and can be
+detected in the wind field than in the pressure field. The easterly waves are not
+typical of the whole tropical belt. They are observed in some parts of the tropical belt
+(namely) north Atlantic and mid Pacific and in the Indian Seas during from November
+to March and are prominent from the winter season. They can be traced in the Indian
+Seas from the westward moving isallobaric centre at sea level and wind shift in the
+upper air. These waves generally attain maximum intensity around 600 hPa. The
+predominant periodicity of the easterly wave is 7 – 10 days, occasionally 4 -5 days.
+The wave generally tilts eastward with height. There is lower level convergence and
+upper level divergence on the east side (rear) of the surface / 0.3 km a.s.l wave. As
+such, convective shower activity is generally greatest in the rear (east) of a wave
+although it may occur with much lesser intensity and aerial extent to the west
+(forward) of it. During winter south Tamil Nadu and south Kerala experience rainfall
+due to the movement of easterly waves across south Peninsula.
+305CHAPTER 2
+PREMONSOON SEASON
+Climatic pattern
+It is transition period from winter circulation to summer monsoon circulation. The
+month of April is taken as the representative month for the season. During this season
+both days and nights are not, which is occasionally alleviated by local thundershowers.
+Heat wave conditions over plains of north India and dust/sand storms over northwest
+India & neighbourhood are the common features of the season.
+2.1.1 Sea Level Pressure
+It is a transition period from larger pressure gradient from northern latitudes towards
+south (winter) to large pressure gradient from equatorial region towards north (monsoon).
+Though the pressure gradient is weak during this season there is dramatic change from the
+winter pattern. Due to increased heating of lands low pressure area starts developing over
+the land in March itself. The isobars are tapering shaped over the Peninsular India due to
+maritime influence. The land heating is more prominent to the north of 20º N. A weak
+low pressure area develops over Singh and another over Bihar and adjacent U.P. there is
+an extension of the heat low as a trough of low pressure up to Orissa, over the peninsular
+India a trough forms with its axis along longitude 78º E Shallow highs develop over the
+sea areas one over the Central Bay of Bengal and another over the central Arabian Sea.
+By May the heat low is established over Punjab and adjoining areas with an extension of
+trough up to Orissa
+3062.1.2 Surface Winds:
+The winds are Northwesterly to Northerly to the west of the trough line and southerly
+to southeasterly to the east of it over the peninsula. In the northern plains of India winds
+during April are light westerlies whereas over Assam they are light easterlies. Winds
+over the Arabian Sea and the Bay of Bengal are light and are turning anti

@@ -1,0 +1,7 @@
+Field_ID,N_kg_ha,P_kg_ha,K_kg_ha,pH,EC_dS_m,OC_percent,Index_Score,Final_Score,NPK_Status,Limiting_Factor,Fertility_Classification,Recommendation
+1,400.0,18.0,200.0,6.8,1.2,0.85,525.3,525.3,Fertile,pH (Nutrient Availability),OPTIMAL,NITROGEN: Below optimal. Consider applying 50-100 kg/ha | PHOSPHORUS: Below optimal. Consider applyi
+2,250.0,12.0,150.0,5.8,1.5,0.55,226.6,135.96,Infertile,pH (Nutrient Availability),MODERATE,pH: Slightly acidic. Add Limestone 2-5 tons/ha | NITROGEN: Critical deficiency. Apply 280+ kg/ha (ur
+3,500.0,22.0,280.0,4.2,6.5,0.9,721.8,72.18,Fertile,EC / Salinity (Osmotic Stress),INFERTILE,pH: CRITICAL - Highly acidic. Add Agricultural Limestone 5-10 tons/ha to raise pH to 6.5 | EC: High 
+4,150.0,8.0,100.0,7.2,0.6,0.25,64.5,12.9,Infertile,Organic Carbon (Biological Activity),INFERTILE,"NITROGEN: Critical deficiency. Apply 280+ kg/ha (urea, ammonium sulfate, or composted manure) | PHOS"
+5,350.0,16.0,180.0,6.5,2.5,0.7,382.2,229.32,Fertile,EC / Salinity (Osmotic Stress),MODERATE,EC: Moderate salinity (2.5 dS/m). Monitor for sensitive crops | NITROGEN: Below optimal. Consider ap
+6,600.0,25.0,300.0,7.0,1.8,1.1,10.18,10.18,Fertile,pH (Nutrient Availability),LOW,All parameters are within acceptable ranges. Maintain current management practices.

@@ -1,0 +1,427 @@
+{% extends "base.html" %}
+
+{% block title %}Ask AI - FertilityPro{% endblock %}
+
+{% block content %}
+<div class="knowledge-container">
+    <div class="knowledge-header">
+        <h1>Ask AI - Knowledge Base</h1>
+        <p>Get instant agricultural answers powered by LLM synthesis</p>
+        <p class="header-subtitle">Searchable database: 35 PDFs, 5,691 indexed documents</p>
+    </div>
+
+    <div class="knowledge-content">
+        <!-- Query Section -->
+        <div class="query-section">
+            <form id="queryForm" class="query-form">
+                <div class="search-input-wrapper">
+                    <i class="fas fa-search"></i>
+                    <input 
+                        type="text" 
+                        id="queryInput" 
+                        placeholder="Ask about soil, nutrients, crops, fertilizers..." 
+                        required
+                    >
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-robot"></i> Search Knowledge Base
+                </button>
+            </form>
+
+            <!-- Suggestions -->
+            <div class="suggestions">
+                <h4>Example Questions:</h4>
+                <div class="suggestion-chips">
+                    <button type="button" class="suggestion-chip" onclick="promptQuestion('What is the optimal pH for rice cultivation?')">
+                        pH for rice
+                    </button>
+                    <button type="button" class="suggestion-chip" onclick="promptQuestion('How to manage nitrogen deficiency?')">
+                        Nitrogen deficiency
+                    </button>
+                    <button type="button" class="suggestion-chip" onclick="promptQuestion('Best fertilizers for alkaline soil?')">
+                        Alkaline soil
+                    </button>
+                    <button type="button" class="suggestion-chip" onclick="promptQuestion('Crop rotation strategies?')">
+                        Crop rotation
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Container -->
+        <div id="resultsContainer"></div>
+
+        <!-- Loading State -->
+        <div class="loading-state" id="loadingState" style="display: none;">
+            <div class="loading-spinner"></div>
+            <p>Searching knowledge base...</p>
+        </div>
+
+        <!-- Error State -->
+        <div class="error-state" id="errorState" style="display: none;">
+            <i class="fas fa-exclamation-circle"></i>
+            <p id="errorMessage">An error occurred</p>
+        </div>
+    </div>
+
+    <!-- Knowledge Base Stats -->
+    <section class="kb-stats">
+        <h3>Knowledge Base Overview</h3>
+        <div class="stats-grid">
+            <div class="stat-box">
+                <h4>35</h4>
+                <p>Research Papers</p>
+            </div>
+            <div class="stat-box">
+                <h4>5,691</h4>
+                <p>Indexed Chunks</p>
+            </div>
+            <div class="stat-box">
+                <h4>13</h4>
+                <p>Categories</p>
+            </div>
+            <div class="stat-box">
+                <h4>150 MB</h4>
+                <p>Knowledge Size</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories -->
+    <section class="categories-section">
+        <h3>Knowledge Categories</h3>
+        <div class="categories-grid">
+            <div class="category-card">
+                <i class="fas fa-leaf"></i>
+                <h5>Nutrient Management</h5>
+                <p>N, P, K and micronutrients</p>
+            </div>
+            <div class="category-card">
+                <i class="fas fa-flask"></i>
+                <h5>Soil Chemistry</h5>
+                <p>pH, EC, salinity management</p>
+            </div>
+            <div class="category-card">
+                <i class="fas fa-water"></i>
+                <h5>Irrigation</h5>
+                <p>Water management strategies</p>
+            </div>
+            <div class="category-card">
+                <i class="fas fa-bug"></i>
+                <h5>Pest & Disease</h5>
+                <p>Control and prevention</p>
+            </div>
+            <div class="category-card">
+                <i class="fas fa-sync"></i>
+                <h5>Crop Rotation</h5>
+                <p>Sustainable practices</p>
+            </div>
+            <div class="category-card">
+                <i class="fas fa-seedling"></i>
+                <h5>Soil Testing</h5>
+                <p>Lab methods & analysis</p>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+'use strict';
+
+console.log('[KB] Script loading...');
+
+let isLoading = false;
+
+// Initialize after a delay to ensure DOM is ready
+function safeInit() {
+    console.log('[KB] Initializing...');
+    
+    // Verify all required elements exist
+    const requiredElements = ['queryForm', 'queryInput', 'resultsContainer', 'loadingState', 'errorState', 'errorMessage'];
+    const missingElements = [];
+    
+    for (const id of requiredElements) {
+        if (!document.getElementById(id)) {
+            missingElements.push(id);
+            console.warn(`[KB] Missing element: ${id}`);
+        }
+    }
+    
+    if (missingElements.length > 0) {
+        console.error('[KB] Missing elements:', missingElements);
+        // Create missing elements as fallback
+        createMissingElements(missingElements);
+    }
+    
+    // Attach form listener
+    const form = document.getElementById('queryForm');
+    if (form) {
+        form.addEventListener('submit', handleQuerySubmit);
+        console.log('[KB] Form listener attached');
+    } else {
+        console.error('[KB] queryForm not found!');
+    }
+}
+
+function createMissingElements(missing) {
+    const container = document.querySelector('.knowledge-content');
+    if (!container) return;
+    
+    if (missing.includes('resultsContainer')) {
+        const div = document.createElement('div');
+        div.id = 'resultsContainer';
+        container.appendChild(div);
+        console.log('[KB] Created resultsContainer');
+    }
+    
+    if (missing.includes('loadingState')) {
+        const div = document.createElement('div');
+        div.id = 'loadingState';
+        div.innerHTML = '<div class="loading-spinner"></div><p>Searching knowledge base...</p>';
+        div.style.display = 'none';
+        container.appendChild(div);
+        console.log('[KB] Created loadingState');
+    }
+    
+    if (missing.includes('errorState')) {
+        const div = document.createElement('div');
+        div.id = 'errorState';
+        div.innerHTML = '<i class="fas fa-exclamation-circle"></i><p id="errorMessage">An error occurred</p>';
+        div.style.display = 'none';
+        container.appendChild(div);
+        console.log('[KB] Created errorState');
+    }
+}
+
+// Initialize when DOM is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        setTimeout(safeInit, 100);
+    });
+} else {
+    setTimeout(safeInit, 100);
+}
+
+function promptQuestion(question) {
+    const input = document.getElementById('queryInput');
+    if (input) {
+        input.value = question;
+        input.focus();
+    } else {
+        console.error('[KB] queryInput not found');
+    }
+}
+
+async function handleQuerySubmit(event) {
+    if (event) {
+        event.preventDefault();
+    }
+    
+    console.log('[KB] Form submitted');
+    
+    if (isLoading) {
+        console.log('[KB] Already loading, ignoring submission');
+        return;
+    }
+    
+    const queryInput = document.getElementById('queryInput');
+    if (!queryInput) {
+        console.error('[KB] queryInput element not found');
+        showKnowledgeError('Form input not found');
+        return;
+    }
+    
+    const query = (queryInput.value || '').trim();
+    console.log('[KB] Query:', query);
+    
+    if (!query || query.length < 3) {
+        showKnowledgeError('Question must be at least 3 characters');
+        return;
+    }
+
+    isLoading = true;
+    console.log('[KB] Setting isLoading = true');
+    
+    // Show loading, hide errors
+    setElementDisplay('loadingState', true);
+    setElementDisplay('errorState', false);
+    
+    // Clear results
+    const resultsContainer = document.getElementById('resultsContainer');
+    if (resultsContainer) {
+        resultsContainer.innerHTML = '';
+        console.log('[KB] Cleared results container');
+    }
+
+    try {
+        console.log('[KB] Sending fetch request...');
+        const response = await fetch('/api/knowledge-query', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ question: query })
+        });
+
+        console.log('[KB] Response status:', response.status);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+
+        const result = await response.json();
+        console.log('[KB] Response data:', result);
+        
+        setElementDisplay('loadingState', false);
+
+        if (result && result.success && result.answer) {
+            console.log('[KB] Displaying results');
+            displayKnowledgeResults(result);
+        } else {
+            const errorMsg = result?.error || (result?.answer ? 'Success but no answer' : 'No results found');
+            console.error('[KB] Error response:', errorMsg);
+            showKnowledgeError(errorMsg);
+        }
+    } catch (error) {
+        console.error('[KB] Fetch error:', error);
+        setElementDisplay('loadingState', false);
+        showKnowledgeError('Error: ' + (error?.message || 'Unknown error'));
+    } finally {
+        isLoading = false;
+        console.log('[KB] Setting isLoading = false');
+    }
+}
+
+function setElementDisplay(elementId, show) {
+    const element = document.getElementById(elementId);
+    if (element) {
+        element.style.display = show ? 'block' : 'none';
+        console.log(`[KB] ${elementId}: ${show ? 'shown' : 'hidden'}`);
+    } else {
+        console.warn(`[KB] Element not found for display: ${elementId}`);
+    }
+}
+
+function displayKnowledgeResults(data) {
+    console.log('[KB] displayKnowledgeResults called', data);
+    
+    const container = document.getElementById('resultsContainer');
+    if (!container) {
+        console.error('[KB] resultsContainer not found - cannot display results');
+        return;
+    }
+
+    if (!data || !data.answer) {
+        console.error('[KB] No answer in data');
+        showKnowledgeError('No answer received from server');
+        return;
+    }
+
+    try {
+        const title = escapeHtml(data.title || 'Information');
+        // Don't escape the answer - preserve formatting and special characters
+        const answer = (data.answer || 'No answer available').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        const confidence = Math.round((data.confidence || 0) * 100);
+        const sourceCount = data.source_count || 0;
+
+        const resultsHTML = `
+            <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 2rem; border-left: 4px solid #667eea;">
+                <h2 style="color: #667eea; margin-top: 0; margin-bottom: 1.5rem; font-size: 1.5rem;">${title}</h2>
+                
+                <div style="display: flex; gap: 2rem; margin-bottom: 2rem; font-size: 0.9rem; flex-wrap: wrap;">
+                    <span style="display: flex; align-items: center; gap: 0.5rem;">
+                        <i class="fas fa-check-circle" style="color: #43e97b;"></i>
+                        <strong>${confidence}%</strong> Confidence
+                    </span>
+                    <span style="display: flex; align-items: center; gap: 0.5rem;">
+                        <i class="fas fa-book" style="color: #667eea;"></i>
+                        <strong>${sourceCount}</strong> Sources
+                    </span>
+                </div>
+                
+                <div style="background: #f8f9ff; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; border-left: 4px solid #667eea; line-height: 1.8; color: #2d3748; white-space: pre-wrap; word-wrap: break-word; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 0.95rem;">
+                    ${answer}
+                </div>
+                
+                <button type="button" onclick="scrollToInput()" style="padding: 0.75rem 1.5rem; background: #667eea; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem; font-weight: 500;">
+                    <i class="fas fa-arrow-up"></i> Ask Another Question
+                </button>
+            </div>
+        `;
+        
+        console.log('[KB] Setting innerHTML on container');
+        container.innerHTML = resultsHTML;
+        console.log('[KB] innerHTML set successfully');
+        
+        // Scroll to results
+        setTimeout(() => {
+            console.log('[KB] Scrolling to results');
+            container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
+        
+    } catch (error) {
+        console.error('[KB] Error in displayKnowledgeResults:', error);
+        showKnowledgeError('Error displaying results: ' + error.message);
+    }
+}
+
+function scrollToInput() {
+    console.log('[KB] scrollToInput called');
+    const input = document.getElementById('queryInput');
+    if (input) {
+        input.focus();
+        input.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+}
+
+function showKnowledgeError(message) {
+    console.log('[KB] showKnowledgeError called:', message);
+    
+    // Clear results
+    const container = document.getElementById('resultsContainer');
+    if (container) {
+        container.innerHTML = '';
+        console.log('[KB] Cleared results container in error state');
+    }
+    
+    // Set error message
+    const errorMessage = document.getElementById('errorMessage');
+    if (errorMessage) {
+        errorMessage.textContent = message || 'An error occurred';
+        console.log('[KB] Error message set');
+    } else {
+        console.error('[KB] errorMessage element not found');
+    }
+    
+    // Show error state
+    const errorState = document.getElementById('errorState');
+    if (errorState) {
+        errorState.style.display = 'block';
+        console.log('[KB] Error state shown');
+    } else {
+        console.error('[KB] errorState element not found');
+    }
+    
+    // Hide loading
+    setElementDisplay('loadingState', false);
+}
+
+function escapeHtml(text) {
+    if (!text || typeof text !== 'string') {
+        return '';
+    }
+    
+    try {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    } catch (e) {
+        console.error('[KB] Error escaping HTML:', e);
+        return String(text).replace(/[&<>"']/g, char => {
+            const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
+            return map[char];
+        });
+    }
+}
+
+console.log('[KB] Script loaded successfully');
+</script>
+{% endblock %}

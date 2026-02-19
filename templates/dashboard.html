@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - FertilityPro{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+    <div class="dashboard-header">
+        <h1>Analytics Dashboard</h1>
+        <p>Real-time insights into soil health and farm performance</p>
+    </div>
+
+    <!-- Quick Stats -->
+    <section class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                <i class="fas fa-microscope"></i>
+            </div>
+            <div class="stat-info">
+                <h3>Total Analyses</h3>
+                <p class="stat-number" id="total-analyses">247</p>
+            </div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="stat-info">
+                <h3>Optimal Fields</h3>
+                <p class="stat-number" id="optimal-fields">89</p>
+            </div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                <i class="fas fa-warning"></i>
+            </div>
+            <div class="stat-info">
+                <h3>Needs Attention</h3>
+                <p class="stat-number" id="needs-care">47</p>
+            </div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+                <i class="fas fa-book"></i>
+            </div>
+            <div class="stat-info">
+                <h3>Knowledge Base</h3>
+                <p class="stat-number" id="kb-docs">35</p>
+                <p class="stat-subtitle">PDFs Indexed</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Charts Section -->
+    <section class="charts-section">
+        <div class="chart-container">
+            <h3>Fertility Distribution</h3>
+            <div class="chart-wrapper">
+                <canvas id="fertilityChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h3>Top Limiting Factors</h3>
+            <div class="chart-wrapper">
+                <canvas id="limitingFactorChart"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent Analyses -->
+    <section class="recent-analyses">
+        <h2>Recent Soil Analyses</h2>
+        <div class="table-responsive">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Field Name</th>
+                        <th>Fertility Status</th>
+                        <th>Score</th>
+                        <th>Limiting Factor</th>
+                        <th>pH Level</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="recent-analyses-tbody">
+                    <tr>
+                        <td>North Field</td>
+                        <td><span class="badge badge-optimal">OPTIMAL</span></td>
+                        <td>425.5</td>
+                        <td>None</td>
+                        <td>6.8</td>
+                        <td><a href="#" class="btn btn-sm">View</a></td>
+                    </tr>
+                    <tr>
+                        <td>South Field</td>
+                        <td><span class="badge badge-moderate">MODERATE</span></td>
+                        <td>125.3</td>
+                        <td>pH</td>
+                        <td>5.2</td>
+                        <td><a href="#" class="btn btn-sm">View</a></td>
+                    </tr>
+                    <tr>
+                        <td>East Field</td>
+                        <td><span class="badge badge-high">HIGH</span></td>
+                        <td>285.6</td>
+                        <td>OC</td>
+                        <td>6.5</td>
+                        <td><a href="#" class="btn btn-sm">View</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Quick Actions -->
+    <section class="quick-actions">
+        <h2>Quick Actions</h2>
+        <div class="action-buttons">
+            <a href="/analyze" class="action-btn">
+                <i class="fas fa-leaf"></i>
+                <span>New Analysis</span>
+            </a>
+            <a href="/crop-advisor" class="action-btn">
+                <i class="fas fa-tractor"></i>
+                <span>Crop Advisor</span>
+            </a>
+            <a href="/knowledge" class="action-btn">
+                <i class="fas fa-robot"></i>
+                <span>Ask AI</span>
+            </a>
+            <a href="#" class="action-btn">
+                <i class="fas fa-download"></i>
+                <span>Export Report</span>
+            </a>
+        </div>
+    </section>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Fetch dashboard stats
+    fetch('/api/dashboard-stats')
+        .then(response => response.json())
+        .then(data => {
+            if(data.success) {
+                const stats = data.stats;
+                document.getElementById('total-analyses').textContent = stats.total_analyses;
+                document.getElementById('optimal-fields').textContent = stats.optimal_fields;
+                document.getElementById('needs-care').textContent = stats.fields_needing_care;
+                document.getElementById('kb-docs').textContent = stats.knowledge_base_docs;
+            }
+        });
+
+    // Fertility Distribution Chart
+    const ctx1 = document.getElementById('fertilityChart').getContext('2d');
+    new Chart(ctx1, {
+        type: 'doughnut',
+        data: {
+            labels: ['Optimal', 'High', 'Moderate', 'Low', 'Infertile'],
+            datasets: [{
+                data: [89, 45, 67, 35, 11],
+                backgroundColor: ['#43e97b', '#7ed321', '#ffc933', '#ff6b6b', '#ec0c38']
+            }]
+        },
+        options: { responsive: true, maintainAspectRatio: true }
+    });
+
+    // Limiting Factors Chart
+    const ctx2 = document.getElementById('limitingFactorChart').getContext('2d');
+    new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: ['pH', 'OC', 'EC', 'Nitrogen', 'Phosphorus'],
+            datasets: [{
+                label: 'Fields Affected',
+                data: [35, 28, 18, 12, 8],
+                backgroundColor: '#667eea'
+            }]
+        },
+        options: { responsive: true, maintainAspectRatio: true, scales: { y: { beginAtZero: true } } }
+    });
+});
+</script>
+{% endblock %}

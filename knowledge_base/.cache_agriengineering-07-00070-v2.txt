@@ -1,0 +1,1018 @@
+Article
+Detecting Changes in Soil Fertility Properties Using
+Multispectral UAV Images and Machine Learning in Central Peru
+LuciaEnriquez1,2,KevinOrtega2,3 ,DennisCcopi2,4 ,ClaudiaRios1 ,JulioUrquizo1 ,SolanchPatricio1,
+LidianaAlejandro4,ManuelOliva-Cruz5,* ,ElgarBarboza5 andSamuelPizarro4,5,*
+1 EstaciónExperimentalAgrariaSantaAna,DireccióndeDesarrolloTecnológicoAgrario,InstitutoNacionalde
+InnovaciónAgraria(INIA),CarreteraSañosGrande-HualahoyoKm8SantaAna,
+Huancayo12000,Junin,Peru;luciacep7@gmail.com(L.E.);claudiario090@gmail.com(C.R.);
+juliocesarub3@gmail.com(J.U.);solanch.patricio.r@gmail.com(S.P.)
+2 ResearchGrouponNatureConservationandClimateChange,FacultaddeCienciasForestalesydel
+Ambiente,UniversidadNacionaldelCentrodelPerú,Av.MariscalCastilla3909,
+Huancayo12006,Junin,Peru;kevinorqu@gmail.com(K.O.);dennisccopit@gmail.com(D.C.)
+3 EstaciónExperimentalAgrariaSantaAna,DireccióndeRecursosGenéticosyBiotecnología,Instituto
+NacionaldeInnovaciónAgraria(INIA),CarreteraSañosGrande-HualahoyoKm8SantaAna,
+Huancayo12000,Junin,Peru
+4 EstaciónExperimentalAgrariaSantaAna,DireccióndeServiciosEstratégicosAgrarios,InstitutoNacionalde
+InnovaciónAgraria(INIA),CarreteraSañosGrande-HualahoyoKm8SantaAna,
+Huancayo12000,Junin,Peru;lidiana.alejandro@gmail.com
+5 InstitutodeInvestigaciónparaelDesarrolloSustentabledeCejadeSelva(INDES-CES),UniversidadNacional
+ToribioRodríguezdeMendozadeAmazonas,Chachapoyas01001,Amazonas,Peru;
+ebarboza@indes-ces.edu.pe
+* Correspondence:manuel.oliva@untrm.edu.pe(M.O.-C.);samuel.pizarro@untrm.edu.pe(S.P.);
+Tel.:+51-963952025(S.P.)
+Abstract: Remotesensingisessentialinprecisionagricultureasthisapproachprovides
+high-resolutioninformationonthesoil’sphysicalandchemicalparametersfordetailed
+decisionmaking. Globally,technologiessuchasremotesensingandmachinelearningare
+increasinglybeingusedtoinfertheseparameters.Thisstudyevaluatessoilfertilitychanges
+andcomparesthemwithpreviousfertilizationinputsusinghigh-resolutionmultispectral
+AcademicEditor:LeonardoConti imageryandinsitumeasurements. AUAV-capturedimagewasusedtopredictthespatial
+distributionofsoilparameters,generatingfourteenspectralindicesandadigitalsurface
+Received:19December2024
+Revised:27February2025 model(DSM)from103soilplotsacross49.83hectares. Machinelearningalgorithms,in-
+Accepted:28February2025 cludingclassificationandregressiontrees(CART)andrandomforest(RF),modeledthesoil
+Published:6March2025 parameters(N-ppm,P-ppm,K-ppm,OM%,andEC-mS/m). TheRFmodeloutperformed
+Citation: Enriquez,L.;Ortega,K.; others,withR2valuesof72%forN,83%forP,87%forK,85%forOM,and70%forECin
+Ccopi,D.;Rios,C.;Urquizo,J.;Patricio, 2023. Significantspatiotemporalvariationswereobservedbetween2022and2023,includ-
+S.;Alejandro,L.;Oliva-Cruz,M.; inganincreaseinP(14.87ppm)andareductioninEC(−0.954mS/m). High-resolution
+Barboza,E.;Pizarro,S.Detecting
+UAVimagery combinedwith machinelearningprovedhighly effectiveformonitoring
+ChangesinSoilFertilityProperties
+soilfertility. Thisapproach,tailoredtothePeruvianAndes,integratesspectralindicesand
+UsingMultispectralUAVImagesand
+MachineLearninginCentralPeru. field-collecteddata,offeringinnovativetoolstooptimizefertilizationpractices,address
+AgriEngineering2025,7,70. soilmanagementchallenges,andmergemoderntechnologywithtraditionalmethodsfor
+https://doi.org/10.3390/ sustainableagriculturalpractices.
+agriengineering7030070
+Copyright:©2025bytheauthors. Keywords: fertilitysoilmapping;CART;randomforest;precisionagriculture
+LicenseeMDPI,Basel,Switzerland.
+Thisarticleisanopenaccessarticle
+distributedunderthetermsand
+conditionsoftheCreativeCommons 1. Introduction
+Attribution(CCBY)license
+Humanactivityisasignificantfactorinsoilformation,influencingthecomposition
+(https://creativecommons.org/
+licenses/by/4.0/). andpropertiesoftopsoilandultimatelyshapingtheprocessofsoilformation[1,2].Humans
+AgriEngineering2025,7,70 https://doi.org/10.3390/agriengineering7030070AgriEngineering2025,7,70 2of18
+significantly accelerate processes such as deterioration, nutrient depletion, and erosion
+ofsoilstructure,compaction,acidification,alkalization,andsalinization[3,4]. Assessing
+soilfertilityencompassesamultifacetedprocessreliantuponvariousindicators,typically
+categorizedintophysical,chemical,andbiologicalparameters[5]. Monitoringchanges
+in these indicators over time facilitates the evaluation of a soil’s fertility status and the
+identificationofpotentiallimitationsorimbalances,sothatinformeddecisionscanbemade
+regardingfactorssuchasdeterioration,nutrientdepletion,andsoilerosion[6].
+Ingeneral,theAndeanValleyhighlandshavebeenutilizedforagriculturalpurposes
+forcenturies,leadingtoadeclineinsoilfertilityandassociatedecosystemservicesdespite
+beingmanagedwithminimalinputsthatlimitproductivity[7,8]. Consequently,thereisa
+continuousdemandformineralandorganicfertilizers,theapplicationofwhichdepends
+onfactorssuchasdemand,implementationefficiency,andlogisticaldistribution[9]. Itis
+necessarytoadjustmanagementpracticestoimprovesoilfertilityandincreaseproductivity.
+Thisinvolvesevaluatingthecurrentstateandanalyzingquantitativechangesinthephysical
+andchemicalcomponentsfromaspatiotemporalperspective[10];therefore,recognizingthe
+effectsofmanagementtechniquesinagricultureiscrucialformakinginformeddecisions
+andultimatelystrivingforsustainableutilizationofsoilresources[11]. Giventheintricate
+circumstancesconfrontingagriculture,thereisanurgentneedtomonitorthegrowthand
+healthofcropsacrossdiverseenvironmentsandconditions[12]. Additionally,thereisan
+immediaterequirementtoproducecomprehensivemapsdetailingthespatialarrangement
+of soil attributes and their temporal fluctuations across different crop cycles within the
+frameworkofprecisionagriculture.
+With the rapid development of spatial techniques in smart agriculture and cloud-
+basedremotesensing[13],implementingadynamicworkflowtoproducemapsoftopsoil
+fertilitychangeshasbecomefeasible;thesemapsarenowindispensableforfarmersand
+operators,allowingpreciseoptimizationoffertilizationpractices[14]. Thisoptimization
+notonlymaximizescropyieldsbutalsosignificantlyimprovesprofitabilityinagricultural
+operationsbyreducingresourcewasteandincreasingefficiencyintheuseofinputssuch
+asfertilizersandwater[15]. Thiscombinationofprecisionandefficiencytranslatesinto
+smarterandmoreprofitableagriculturalresourcemanagement,providingeconomicand
+environmentalbenefitstobeneficiaries.
+Inthefieldofprecisionagriculture,numerousstudieshavebeenconductedtoinves-
+tigate the spatial variability in various soil parameters using unmanned aerial vehicles
+(UAVs)[16–18]. TheseUAVsarefrequentlyemployedtoobtainspectraldatatoestimatea
+widerangeofparametersindifferentcrops,suchasbiomass[19–21]andorganicmatter[22],
+predict crop yields [23,24], and assess water stress [25] and soil fertility [26]. Addition-
+ally,thegenerationofdigitalsurfacemodels(DSM)fromUAV-collecteddataenablesthe
+creationofdetailedrepresentationsofterrainandvegetationsurfaces[18].
+UAVshaveemergedaskeytoolsinagriculturalmonitoringandmanagement,primar-
+ilyduetotheircapabilitytocalculatespectralindicessuchasthenormalizeddifference
+vegetation index (NDVI), the soil-adjusted vegetation index (SAVI), and the enhanced
+vegetationindex(EVI),amongothers[27]. Theseindices,essentialforassessingsoiland
+planthealthandvigor,arebasedonthereflectanceofvegetationinvariouselectromagnetic
+spectrumregions,includingthenear-infraredandredwavelengths[28]. Thisenablesthe
+identification of stress patterns, nutrient deficiencies, and photosynthetic variability in
+crops [29]. Notably, SAVI adjusts for soil influence in areas with low vegetation cover,
+providingmoreaccurateestimationsinhigh-biomassterrainsandsupportinginformed
+agriculturaldecision-making[30].
+Additionally,multispectralimagerycapturedbyUAVsdelivershigh-resolutionand
+precise data while optimizing time and costs compared to conventional methods [31].AgriEngineering2025,7,70 3of18
+ThesefeaturesestablishUAVsasessentialtoolsinimplementingsustainableagricultural
+practicesandimprovingthemanagementofagriculturalresources[32].
+AlthoughUAVshaveproventobeflexibleandefficienttoolsinagriculturalstudies,
+theystillfacesignificantchallengesinintegratingspatialandtemporaldataforlongitudinal
+investigations of soil fertility. Recent studies have highlighted the use of multispectral
+imagesobtainedviaUAVstoaccuratelymapsoilorganicmatter,akeyindicatoroffertility,
+usingadvancedmachinelearning(ML=algorithms[33–35].
+Moreover,bothmultispectralandhyperspectralimageshavedemonstratedtheireffec-
+tivenessinmappingmacronutrientssuchasnitrogen[36],offeringpractical,reliable,and
+accessiblealternatives.Furthermore,theincorporationofMLalgorithmshasprovenvaluable
+forpredictingandanalyzingthespatialandtemporalvariabilityinsoilfertility[37–39].How-
+ever,methodologicallimitationspersist,alongwiththeneedtostandardizeapproachesfora
+comprehensiveevaluationofspatialandtemporaleffectsonsoilfertilityparameters.
+InPeru,traditionalagricultureinthevalleysdonothaveadequatefertilizationman-
+agement;inordertoimproveyields,itisusualtouseaconstantformula,resultinginover
+orunderfertilization[40].
+Theuseoftopographicdataandspectralindices,incombinationwithsoilproperty
+dataacrossdifferentseasons,allowsabetterunderstandingofnutrientextractionandsoil
+vegetationturnovertooptimizemanagementpracticesaccordingtothespecificspatial
+variation[41]. ByusingUAVtechnology,itispossibletobuildsoilpropertiesmapsathigh
+spatialresolution[42],todetectchangesinsoilfertilityinconsecutivecropseasonsand
+guidefertilizationinputs.
+Inthiscontext,thegoalofthestudyistodetectchangesinfertility-relatedsoilproper-
+tiesinordertocomparethesevariationswiththefertilizerinputsforelectricalconductivity
+(EC)(mS/m),nitrogen(N)(%),phosphorus(P)(ppm),potassium(K)(ppm),andorganic
+matter(OM)(%). Itisexpectedthattheseresultswillenabletheappropriatedecisionsto
+bemaderegardingthemanagementofsoilfertility.
+2. MaterialsandMethods
+2.1. StudyArea
+Soil data collection was carried out at the Santa Ana Agrarian Experimental Center
+(hereafterSantaAna)oftheNationalInstituteofAgrarianInnovation(INIA)(75◦13′17.60′′W,
+12◦0′42.36′′S)(Figure1),locatedwithinagriculturallandsintheMantaroValleyofthecentral
+highlandsofPeru. SantaAnahasanaltitudinalgradientrangefrom3303to3325m.a.s.l.
+Theplainlandscapeofthemountainvalleydominatesthephysiography. With477mmof
+precipitationannually,theclimateisdefinedbydryspellsfromMaytoAugust,transitional
+seasonsfromApriltoOctober,andrainyspellsfromNovembertoMarch.Withthelowest
+temperaturesoccurringbetweenMayandAugustandfrostepisodesoccurringbetweenJuly
+andAugust,theaveragetemperaturerangesfrom3.90to20.2◦C[43,44].Withfloodirrigation
+canals,theagriculturalfieldsspan49.83ofthe67.08hathataredividedamong30parcels.
+OctoberthroughMayiswhentheseedingseasontakesplace.
+2.2. MethodologicalFramework
+ThewholemethodologicalframeworkusedinthisinvestigationisdepictedinFigure2,
+whichalsooffersasummaryoftheintegrativeandsequentialproceduresthatwereapplied.
+Theframeworkiselaborateduponinthefollowingsixmethodologicalsubsections.AgriEngineering 2025, 7, x FOR PEER REVIEW 4 of 20
+AgriEngineering 2025, 7, x FOR PEER REVIEW 4 of 20
+AgriEngineering2025,7,70 4of18
+Figure 1. Location of the study area, Santa Ana (Peru).
+2.2. Methodological Framework
+The whole methodological framework used in this investigation is depicted in Figure
+2, which also offers a summary of the integrative and sequential procedures that were ap-
+plied. The framework is elaborated upon in the following six methodological subsections.
+FFiigguurree 11.. LLooccaattiioonn ooff tthhee ssttuuddyy aarreeaa,, SSaannttaa AAnnaa ((PPeerruu))..
+2.2. Methodological Framework
+The whole methodological framework used in this investigation is depicted in Figure
+2, which also offers a summary of the integrative and sequential procedures that were ap-
+plied. The framework is elaborated upon in the following six methodological subsections.
+Figure2.Representationofthemethodologyemployedinthisinvestigation.
+Figure 2. Representation of the methodology employed in this investigation.
+2.3. FieldSamplingofChemicalandPhysicalSoilParameters
+2.3. Field Sampling of Chemical and Physical Soil Parameters
+Compositesampleswerecollectedusingfivesubsamplesaroundacentralpointof
+each parcel, at a depth of 30 cm, and were georeferenced using a D-RTK 2-DJI GNSS
+GPS (DJI, Shenzhen, China). In October 2022, 46 samples were obtained as part of the
+investigationbyPizarroetal.[13]and103inSeptember2023(Figure2).
+Figure 2. Representation of the methodology employed in this investigation.
+Theincreaseinsampleswasduetoarefinementofthesamplingstrategytoimprove
+t2h.3e. sFpiealtdi aSlarmepprliensge notf aCtihveemniecsasl aanndd Pshtaytsiisctailc aSloirlo Pbaursatmneetsesrso fourresults.AgriEngineering2025,7,70 5of18
+Becausethecalculationofthequalitymeasuresandtheirprecisionisbasicandpro-
+videsestimatesthataresomewhataccurate,thisapproachiseasytoexecute. Thestandard
+erroroftheprojectedqualitymeasurementscanbequantifiedwithoutmakinganyassump-
+tions[45]. TheSantaAna“LaboratoriodeSuelos,AguasyFoliares”(LABSAF)conducted
+thephysicochemicalinvestigationstoascertainthesoil’sEC,N,P,K,andOM.Thematerials
+underwentdisaggregation,homogenization,andsieving(2mm)afterbeingdriedatroom
+temperature(15–30◦C).ECwascalculatedusingtheISO11265:1994/Cor1method[46],
+whiletheMexicanOfficialStandard[47]wasusedtomeasureOM,totalnitrogen,andK.
+2.4. FlightPlanningandImageAcquisitionData
+Table1presentsthetimeandamountofaerialimageryacquiredduringtheperiod
+ofanalysis. Atotalof06flightswereplannedtobuildsoilmapsforeachyear. Theflights
+wereexecutedatnoontominimizeshadowsandensurehighradiometricqualityofthe
+imagescapturedbythemultispectralsensor. Toensuredataaccuracy,asensorcalibration
+wasperformedbeforeandaftereachflight.
+Table1.Flightplanandacquisitionofphotogrammetricimages.
+ID FlightDate FlightExtension(ha) FlightHeight(m) ImagesAcquired
+01 12August2022 137.3430 150 8355
+02 28August2022 123.9733 150 5365
+03 14September2022 126.6630 150 4972
+04 15August2023 161.9183 150 1715
+05 27August2023 165.9676 150 1845
+06 8September2023 166.8823 150 1840
+2.5. SoilFertilityParametersClassification
+Tocarryouttheclassificationandinterpretationofsoilparameters,weused(Table2)
+thethresholdsprovidedaccordingtotheMexicanOfficialStandard[47]andtheguidefor
+theinterpretationofsoilandwateranalysis[48]. Thesedataencompassedvariouskey
+parameters,suchasOM,EC,totalnitrogencontent,availablephosphorus,andpotassium.
+Adetailedclassificationhasbeenestablishedfortheseparametersusingastandardized
+scale, which allows for precise interpretation of the results and facilitates meaningful
+comparisons across different geographical areas, time series, and agricultural contexts.
+Therefore,adoptingitensuresthatinterpretationsandcomparisonsadheretothestudy
+area’sspecificconditions.
+Table2.Soilparameterinterpretationscale.
+Parameter Range
+VeryLow Low Medium High VeryHigh
+Totalnitrogen(N)(ppm) <0.10 0.10–0.20 0.20–0.40 0.40–0.60 >0.60
+Phosphorus(P)(ppm) <5.5 5.5–11 >11
+Potassium(K)(ppm) <120 120–240 240–480 >480
+Electricalconductivity(EC)(mSm−1) <2.0 2.0–4.0 4.0–8.0 8.0–16.0 >0.16
+Organicmatter(OM)(%) <0.5 0.6–1.5 1.6–3.5 3.6–6.0 >6.0
+Note:adaptedclassification[47,48]regardingsoilparameterevaluationranges.
+2.6. FertilityInputAdditionInformationSurvey
+The inputs added to the study area (Figure 2) during the 2022–2023 agricultural
+cycle were fundamental to understanding the percentage variations observed through
+multispectral image analysis. Based on the results obtained from a survey conducted
+amongtherepresentativesanddecision-makersofthe30agriculturalplotsthatmakeup
+SantaAna,thesevariationswerecompared,validated,anddiscussed.AgriEngineering 2025, 7, x FOR PEER REVIEW 6 of 20
+Table 2. Soil parameter interpretation scale.
+Parameter Range
+Very Low Low Medium High Very High
+Total nitrogen (N) (ppm) <0.10 0.10–0.20 0.20–0.40 0.40–0.60 >0.60
+Phosphorus (P) (ppm) <5.5 5.5–11 >11
+Potassium (K) (ppm) <120 120–240 240–480 >480
+Electrical conductivity (EC)(mSm−1) <2.0 2.0–4.0 4.0–8.0 8.0–16.0 >0.16
+Organic matter (OM) (%) <0.5 0.6–1.5 1.6–3.5 3.6–6.0 >6.0
+Note: adapted classification [47,48] regarding soil parameter evaluation ranges.
+2.6. Fertility Input Addition Information Survey
+The inputs added to the study area (Figure 2) during the 2022–2023 agricultural cycle
+were fundamental to understanding the percentage variations observed through multi-
+spectral image analysis. Based on the results obtained from a survey conducted among
+AgriEngineering2025,7,70 the representatives and decision-makers of the 30 agricultural plots that make up S6aonft1a8
+Ana, these variations were compared, validated, and discussed.
+The survey was conducted in January and February 2024. It included questions about
+ThesurveywasconductedinJanuaryandFebruary2024. Itincludedquestionsabout
+the use and application of organic and inorganic fertilizers such as nitrogen, phosphorus,
+theuseandapplicationoforganicandinorganicfertilizerssuchasnitrogen,phosphorus,
+potassium, and organic matter to the soils of the plots, the prioritized crop, and the quan-
+potassium, and organic matter to the soils of the plots, the prioritized crop, and the
+tities (bags or kilograms) of these inputs used. In total, 30 surveys were completed, which
+quantities(bagsorkilograms)oftheseinputsused. Intotal,30surveyswerecompleted,
+allowed for the collection of detailed information about the inputs used to prepare the
+whichallowedforthecollectionofdetailedinformationabouttheinputsusedtoprepare
+crop fields. Notably, some inputs are chemical compounds, so a separation of the compo-
+the crop fields. Notably, some inputs are chemical compounds, so a separation of the
+nents was performed using the molar mass of the compound and calculating the mass
+componentswasperformedusingthemolarmassofthecompoundandcalculatingthe
+fraction of each element. This procedure was applied to diammonium phosphate and po-
+massfractionofeachelement. Thisprocedurewasappliedtodiammoniumphosphateand
+tassium chloride (the most used and representative compounds) to record the quantities
+potassiumchloride(themostusedandrepresentativecompounds)torecordthequantities
+of kilograms applied and standardize the units in the elements.
+ofkilogramsappliedandstandardizetheunitsintheelements.
+2.7. Gathering and Analyzing Multispectral Images
+2.7. GatheringandAnalyzingMultispectralImages
+A DJI Matrice 300 RTK UAV (DJI, Shenzhen, China) equipped with a multispectral
+ADJIMatrice300RTKUAV(DJI,Shenzhen,China)equippedwithamultispectralcam-
+c
+e
+a
+r
+m
+a(
+e
+M
+ra
+i c
+(
+a
+M
+Se
+ic
+n
+a
+s
+S
+e
+e
+,
+n
+In
+s
+c
+e
+.
+,
+,
+I
+S
+n
+e
+c
+a
+.
+t
+,
+t
+S
+le
+e
+,
+a
+W
+ttl
+A
+e,
+, U
+W
+S
+A
+A
+,
+)
+U
+ha
+S
+s
+A
+3
+)
+. 2
+ha
+m
+s
+e
+3
+g
+.
+a
+2
+p
+m
+ix
+e
+e
+g
+ls
+a
+o
+p
+f
+ix
+re
+e
+s
+ls
+o l
+o
+u
+f
+t
+r
+io
+e
+n
+so
+(
+l
+2
+u
+0
+t
+6
+io
+4
+n× (2
+1
+0
+5
+6
+4
+4
+4
+×
+p i
+1
+x
+5
+e
+4
+l
+4
+s)
+p
+a
+i
+n
+x
+d
+el
+fi
+s)
+v
+a
+e
+n
+s
+d
+p e
+fi
+c
+v
+t
+e
+ra
+s
+l
+p
+b
+e
+a
+c
+n
+tr
+d
+a
+s
+l
+(
+b
+b
+a
+l
+n
+u
+d
+e
+s
+( 4
+(b
+75
+lu±e (
+2
+4
+0
+75
+n m
+± 2
+),
+0
+g
+n
+r
+m
+ee
+)
+n
+, g
+(5
+re
+6
+e
+0
+n± (5
+2
+6
+0
+0
+n
+±
+m
+2
+)
+0
+,
+n
+re
+m
+d
+)
+(
+,
+6
+r
+6
+e
+8
+d ±(66
+1
+8
+0
+±
+n m
+10
+) ,
+n
+N
+m
+I
+)
+R
+,
+N
+(8
+I
+4
+R
+0
+(±84
+4
+0
+0
+±
+n
+4
+m
+0
+)
+n
+,
+m
+an
+),
+d
+a
+R
+n
+E
+d
+(
+R
+7
+E
+1 7
+(7±17
+1
+±
+0
+1
+n
+0
+m
+n
+)
+m
+. T
+).
+h
+T
+e
+h
+s
+e
+p e
+s
+c
+p
+i
+e
+fi
+c
+c
+i
+s
+fi
+o
+cs
+f
+o
+th
+f
+e
+th
+U
+e
+A
+U
+V
+A
+,c
+V
+a
+,
+m
+ca
+er
+m
+a,
+er
+a
+a
+n
+,
+d
+an
+fl
+d
+ig
+fl
+h
+i
+t
+g
+p
+h
+l
+t
+a
+p
+n
+l
+a
+a
+r
+n
+e
+are displayed in Figure 3.
+displayedinFigure3.
+FFiigguurree 33.. ((aa) )MMicicaasseennssee RReedd EEddggee PP ccaammeerraa, ,((bb)) CCRRPP PPaanneel,l ,((cc)) MMaattrricicee 330000 UUAAVV iinntteeggrraatteedd wwiitthh
+mmuullttiissppeeccttrraall sseennssoorr sseerrvviinngg aass tthhee iimmaaggiinngg ppllaattffoorrmm uusseedd iinn tthhiiss ssttuuddyy,, ((dd)) flfliigghhtt ppllaann ffoorr tthhee ssttuuddyy
+iimmaaggee,, ((ee)) DDJJII RRTTKK VV22 GGNNSSSS ffoorr mmaarrkkiinngg ssooiill pplloottss,, aanndd ((ff)) GGCCPP..
+Theflightplanwasexecutedroughlyatnoonlocaltime,ataheightabovetheground
+of 150 m. The photos were taken every 2.0 s with 75% front and side overlap. Finally,
+thesephotoswerestoredin16-bit.tiffformatandcalibratedusingsunirradiancedataand
+calibrationreflectancepaneltoobtainreflectancevalues.
+Pix4DProMapper(Prilly,Switzerland)wasusedforthephotogrammetricprocessing.
+Thestartingparametersaredependableforbuildingtheortho-mosaic,asseenbythesmall
+(0.42%)relativevariationsbetweentheoriginalandoptimizedinternalvalues. Toincrease
+thetopographicaccuracyofthepointcloudandreflectancebands,wegathered34ground
+controlpointsusingaD-RTK2-DJIGNSSGPS(horizontal: 1cm+1ppm(RMS);vertical:
+2cm+1ppm(RMS).Wethenincorporatedthesepointsintotheprocessingflow,resulting
+inafinalgroundsurfacedistance(GSD)of15.00cm. Usingtriangulation,adigitalsurface
+model(DSM)wascreatedfromthepointcloudatthesameresolutionasthereflectance
+map. Itwasthenconvertedintoarasterandexportedin.tiffformat.AgriEngineering2025,7,70 7of18
+2.8. ModelDevelopmentandStatisticalAnalysisforVariableExtraction
+Basedonearlierresearch,wecreatedacollectionof14spectralindicesthatarefrequently
+utilizedinvegetationandsoilstudiesinordertocreatethespatialsoilparametersdistribution
+models [13]. These indices consist of soil, water, and vegetation indexes. The reflectance
+valuesofeachpixelweretransformedintoanobservationreplicathatcontrastedwiththe
+concentrationvalueofthesoilparameterofinterestateachsampledsite,whichwasacircular
+bufferwithadiameterof0.5m.Inordertoforecastthesoil’sfertilityqualities,spectralindices
+thatwerechosenbasedonearlierresearch[13,49,50]werecomputedusingvariousreflectance
+combinationsandassembledaspredictorsalongsidethepurespectralbands.
+2.9. SpatialAnalysis
+Theentiresetofsoilsampledatawasrandomlysplitintotrainingdata(70%)and
+validation data (30%), and it was connected by coordinates with the predictor dataset
+(spectral bands, spectral indices, and DSM). In order to forecast fertility soil attributes,
+a number of models were created utilizing logic-based algorithms that are accessible
+ontheGEEplatform[50]andappliedselectivelytofourdatasetstacks: spectralbands,
+spectralbands+DSM,spectralindices,andspectralindices+DSM.Randomforest(RF)
+andclassificationandregressiontrees(CART)weretheMLregressiontechniquesused.
+TheversatileCARTalgorithmiseffectiveforclassificationorregressionanalysis[51]. It
+organizesdataintobinarypartitionsviadecisiontrees,mitigatingdatanoiseandhandling
+missingorabnormaldata. However,itsstabilityislimited,makingitafoundationalmodel
+formorecomplexmodelslikeRF,whichimprovesclassificationaccuracybyaggregating
+predictionsfromindependentlybuiltdecisiontrees,makingnoassumptionsaboutdata
+distribution, handles discrete and continuous variables simultaneously and has robust
+nonlineardataextractionandgeneralizationcapabilities[52].
+Forrandomforest,wedefinedthenumberofdecisiontreesgeneratedas100,leaving
+theotherparametersdefaultasintheotherclassifiers. Furthermore,atotalof120models
+werebuiltusingacombinationofpredictorsandinputdata. Themodelsdevelopedin
+GEEwereassessedusingaccuracymetricslikeR2,rootmeansquareerror(RMSE),and
+meanabsoluteerror(MAE).Thesemetricshelpedusidentifythecombinationofpredictors
+thatmosteffectivelypredictedsoilfertilityproperties. ForN,OM,andEC,weusedCART,
+andspectralindicesaspredictors. ThestackofspectralindicesandDSMwereoptimalfor
+predictingKandPthroughtheRFmodel. Thesepredictivemodelswereusedtocreate
+mapsofsoilpropertiesinthestudyarea.
+Finally,toevaluatetheevolutionofagriculturalsoilproperties,apercentagevariation
+analysiswasconducted. Theannualpercentagevariationwascalculatedbydetermining
+thedifferencebetweenthevaluesofbothperiodsanddividingthisresultbythevalue
+of the first year. These results, at the raster level, were represented on a final variation
+map. Thisanalysismadeitpossibletoidentifythesoilparametersthatshowedthegreatest
+changesovertimeandtounderstandtrendsinsoilquality.
+3. Results
+3.1. DescriptiveStatisticsandChangeDetectionofSoilParameters
+The descriptive statistics of the soil parameters for 2022 [13], and 2023, based on
+46and103samplesrespectively,arepresentedinTable3.In2023,theaverageconcentration
+of all parameters, except EC (electrical conductivity), increased, as did their range of
+variation. TherangeofOM(organicmatter)concentrationin2022(2.295%)wassomewhat
+narrower,withloweraveragevaluescomparedto2023(2.349%). Additionally,themini-
+mumvalueofallparametersincreasedin2023,whilethemaximumvaluedecreasedfor
+OMandEC.AgriEngineering2025,7,70 8of18
+Table3.Descriptivestatisticsandvariationinsoilparametervaluesbetween2022and2023.
+Mean Maximum Minimum StandardDeviation Change(%)
+Parameter
+2022 2023 2022 2023 2022 2023 2022 2023 Mean
+N(ppm) 0.115 0.12 0.229 1.19 0.074 0.04 0.02 0.076 0.002
+P(ppm) 30.121 44.987 57.881 192.61 7.761 6.619 7.473 22.091 −0.538
+K(ppm) 109.342 100.409 335.42 292.7 57.88 5.4 41.171 48.974 0.998
+OM(%) 2.295 2.349 4.57 7.99 1.48 0.7 0.403 1.54 0.992
+EC(mS/m) 3.786 2.832 9.37 6.8 1.58 1.4 1.553 0.693 0.14
+Note:min=theminimumvaluesofthepixelsassignedbythebestmodelingwithrespecttothesoilparameters
+evaluatedforeachyear;max=themaximumvaluesofthepixelsassignedbythebestmodelingwithrespectto
+thesoilparametersevaluatedforeachyear.Thevariationreferstothepercentagedifference,obtainedbydividing
+thedifferencebetweenthevaluesofbothyearsbythevalueofthefirstyear.
+A particular case is potassium (K), which presents a high standard deviation, in-
+dicating a great heterogeneity in the sampled values. This high variability is probably
+attributable to irregular fertilization, resulting in marked differences in potassium con-
+centrationsbetweensamples. Similarly,phosphorus(P)exhibitswidedispersioninthe
+data. Thisvariabilityisassociatedwithdifferencesintheretentioncapacitiesandavailabil-
+ityofphosphorusbetweenthedifferentareas,whichareinfluencedbythetexturaland
+compositionalheterogeneityofthesoil.
+The data presented in Table 3 show the quantification of the N content in the soil,
+anessentialnutrientforplantdevelopment,measuredinppm. During2022,theaverage
+concentrationsrecordedwere0.115ppm. However,in2023ahigherconcentrationrange
+wasobserved,withanaverageof0.120ppm. ItshouldbenotedthattheaveragelevelofN
+increasedconsiderablycomparedtothepreviousyear,reflectinganaverageincreaseof
+0.002%. Ontheotherhand,totalPconcentrationsinthesoilexperiencedaconsiderable
+increasebetweenthetwoyearsbyanaverageof−0.538%. RegardingK,akeymacronutri-
+entinplantmetabolism,adownwardtrendwasobservedinthemaximumandminimum
+valuesbetweenbothyears.
+Unlike the previous parameters, there was a reduction in both the maximum and
+minimum values of potassium in the year 2023, with a decrease of 0.146 times for the
+maximum values and 0.906 times for the minimum values compared to 2022, noting a
+percentagevariationof0.998. FortheOMparameter,measuredasapercentage,which
+influences the physical, chemical, and biological parameters of the soil, the minimum
+valueswere1.480%in2022and0.700%in2023,whilethemaximumvalueswere4.570%in
+2022and7.999%in2023,presentingreducedvariationsandanaveragevariationof0.992%
+betweenbothyears.
+Finally,theECmeasuredindS/mshowedaminimumvalueof1580dS/m,amax-
+imum of 9370 dS/m, and an average of 3786 dS/m in 2022, while in 2023, the values
+were 1400 dS/m for the minimum, 6800 dS/m for the maximum. This parameter pre-
+sented a slight reduction in its maximum value, with a decrease of at least 0.377 times,
+varyingby0.140percent. Theanalyzedparametersarekeyindicatorsofsoilfertilityand
+quality, whosespatiotemporalvariabilitycaninfluencecropyieldsandrequirespecific
+managementpractices.
+Table4showsthemetricsthatwereusedtoevaluatetheaccuracyoftheprediction
+models. Itwasobservedthat,for2023,thevaluesofR-squaredN,P,K,OMandCEare
+explainedby71%,81%,65%,70%and73%fortheCARTmodeland72%,83%,87%,85%
+and 70% for the RF model, respectively, of data variability, indicating a good fit of the
+model. Likewise,for2022thevaluesexplainagoodfitofthemodel,withrangesbetween
+82%,83%,55%,81%and89%fortheCARTmodeland82%,89%,71%,82%and87%forRF,
+respectively. Ontheotherhand,thesquarerootofthemeanRMSEerrorsin2023explainsAgriEngineering2025,7,70 9of18
+alowerrormagnitudefornitrogen(N)(0.20),OM(0.56),EC(0.48),andconsiderablylarger
+forP(3.25)andK(2.91).
+Table4.Performanceofthepredictedphysical-chemicalparametermodels.
+SoilProperty N P K OM EC
+Model CART RF CART CART CART
+R-squared 0.82 0.89 0.55 0.81 0.89
+2022 RMSE 0.01 3.68 27.70 0.20 0.51
+MAE 5.36 1.20 0.00 0.05 0.03
+R-squared 0.71 0.83 0.65 0.70 0.73
+Training 2023 RMSE 0.20 5.65 15.41 0.56 0.48
+MAE 4.28 0.97 0.03 0.01 0.08
+R-squared 0.63 0.64 0.58 0.68 0.64
+2022–2023 RMSE 0.02 17.47 29.74 0.43 0.64
+MAE 0.01 10.69 18.62 0.29 0.42
+R-squared 0.84 0.89 0.72 0.84 0.86
+2022 RMSE 0.01 3.71 28.49 0.22 0.53
+MAE 6.18 1.17 0.00 0.04 0.03
+R-squared 0.77 0.88 0.65 0.79 0.74
+Testing 2023 RMSE 0.07 2.21 23.17 0.12 0.44
+MAE 4.20 0.97 0.13 0.08 0.07
+R-squared 0.53 0.58 0.59 0.56 0.54
+2022–2023 RMSE 0.03 18.86 33.30 0.57 0.80
+MAE 0.02 11.84 21.16 0.37 0.55
+Note: N=totalnitrogen;P=phosphorus;K=potassium;OM=organicmatter;EC=electricalconductivity;
+RF = random forest; CART = classification and regression trees; RMSE = root mean square Error; and
+MAE=meanabsoluteerror.
+Therefore,themodelwouldbequiteaccurateforN,OMandEC.Whilefor2022,the
+RMSEshowsalowsquarederrorinN(0.01)andOM(0.20)andconsiderablyhigherinK
+(27.70). Additionally,regardingtheMAEvalues,theyindicatethattheerrorsinN,P,K,
+OMandECare4.28,0.25,0.03,0.01and0.08for2023,andfor2022,theyare5.36,0.40,0.001,
+0.05and0.03,respectively. Thisindicatesthat,onaverage,themodelpredictionsinN,OM
+andECareveryclosetotheobservedvalues. Finally,thecombinationofthetwodatasets
+resultedinthelowestaccuracymetricsforboththetrainingandtestpartitions. Forthis
+reason, we decided to use the individual datasets for 2022 and 2023 separately, as they
+demonstratedbetterperformancemetrics.
+3.2. InformationonFertilityInputs
+Figure4presentsadetailedpiechartillustratingthespecificinputoffertilizersap-
+pliedoneachparcelattheSantaAnaCenterduring2023. Thisinformationprovidesa
+comprehensiveoverviewofthefertilizationstrategyimplemented,includingthenutrients
+supplied,theapplieddoses,thetypesoffertilizersused,andthetimingofapplication. It
+alsoshowsthedosesofN,P,K,andOMappliedtoeachplot.
+Itisworthnotingthatfertilizerdosesvaryaccordingtothecropanditsdevelopmental
+stage. Forexample,plotswithcorn,potatoes,pastures,andforagesreceivedhigherdoses
+of nitrogen in the form of urea during fruit or tuber development, a critical period for
+nutrientabsorptionandbiomassgeneration.
+Carefullyselectedfertilizerswereusedbasedonthespecificrequirementsofeachcrop
+andsoilcharacteristics. Amongthemostusedcompoundsarediammoniumphosphate
+(sourceofNandP),potassiumchloride(sourceofK),andurea(sourceofN).Theapplica-
+tionwascarriedoutinkg/ha,followingrecommendationsfromspecialistswithextensive
+experienceinfertilizationmanagement.AgriEngineering 2025, 7, x FOR PEER REVIEW 10 of 20
+OM and EC are 4.28, 0.25, 0.03, 0.01 and 0.08 for 2023, and for 2022, they are 5.36, 0.40,
+0.001, 0.05 and 0.03, respectively. This indicates that, on average, the model predictions in
+N, OM and EC are very close to the observed values. Finally, the combination of the two
+datasets resulted in the lowest accuracy metrics for both the training and test partitions.
+For this reason, we decided to use the individual datasets for 2022 and 2023 separately, as
+they demonstrated better performance metrics.
+3.2. Information on Fertility Inputs
+Figure 4 presents a detailed pie chart illustrating the specific input of fertilizers ap-
+plied on each parcel at the Santa Ana Center during 2023. This information provides a
+comprehensive overview of the fertilization strategy implemented, including the nutri-
+AgriEngineering2025,7,70 ents supplied, the applied doses, the types of fertilizers used, and the timing of app1l0icoaf-18
+tion. It also shows the doses of N, P, K, and OM applied to each plot.
+FFiigguurree4 4.. SSuurrvveeyy rreeggaarrddiinngg tthhee aaddddiittiioonn ooff ffeerrttiilliizzeerrss ((kkgg//hhaa) )fofor rththee ppereiroiodd 2022032.3 .
+RIte icso wgnoirzthin ngotthinegc trhitaitc afelrrtoilliezeorf doorsgeasn vicarmy aatctceorridninsgo itlof tehreti lcirtoypa annddh ietsa dltehv,etlhoipsmsteund-y
+itnaclo srtpaogrea. tFeodr oerxgaamnpiclem, paltoetrsi awl iftrho mcorvna,r piooutastosoesu,r cpeass,tuinrecslu, danindg focroamgepso sretecdeivweads theigfhroemr
+cdaomseesli dofs ,nsithreoegpe,nc ionw ths,e afnodrmg uofi nueraeap digusr.inTgh feruseitl eocrt itounbeorf dtehveesleopmmateenrti,a als cwritaicsabl apseerdioodn
+tfhoeri rnluotcraielnatv aabilsaobriplittiyona nadndth beiiormpoastesn gteianletroatiimonp.r ovethephysical,chemicalandbiological
+paramCeatreerfsuollfyt hseelseocitle.dIt fiesritmilipzeorrst awntertoe nuoseted tbhaastepdl ootns 1t6h,e1 s7p,e2c1i,fi2c6 raenqdui2r7emdiednntso otfr eecaecihv e
+acnryopfe arntidli zsaotiilo cnhdaurarcintegritshteicys.e aArm20o2n3g btehcea musoestth uesyedw ecroeminpoaurnedstsi nagrep dhiaasmemasopnairutmo fpahcorso-p
+rpohtaattieo n(sosyusrtceem o.f TNh aisnpdr Pa)c,t ipcoetaasllsoiuwms fcohrlothriedree (sstoourarctieo onf oKf)s, oainldfe urtrieliat y(,soreudrcuec toifo nNi)n. Tphees t
+aanpdpdlicisaetaiosne iwncaisd ceanrcreie,dan odudt iivne krsgi/fihcaa,t ifoonlloowfainggr icreuclotumramlepnrdodatuioctniso nfr.om specialists with
+extenFsigivuer eex4poefrfieernscea ivna fleuratbilliezagtrioapn hmicaanlargeepmreesnent.t ationofthefertilizationstrategyimple-
+menteRdecaotgtnhieziSnagn ttaheA cnraitiSctaalt iroonled oufr oinrggatnhiec ymeaartte2r0 2in3 ,ssohilo wferintiglitiyn athned shuemalmtha, rtyhitsa sbtluedthy e
+tiontcaolrqpuoarnattietide soorgfaconmic pmouatnedrisaal nfrdoemle mvaerniotsussu spopulriecdess, pineccilfuicdailnlyg, rceoamchpionsgte1d4 4w.2a5skteg /frhoamo f
+nciatrmogeelindso,n sthheee0p6, pcloowtas,n danads lgouwinaesa7 .p2i0gksg. /Thhae osneltehceti2o4np olof tt.hTehsee dmetaatieleridalisn fworams abtaiosnedo fotnh e
+ntuhteriire nlotcsaslu apvpaliileadb,ialiptyp lainedd dthoesiers p,toytpeenstioafl fteor itmilipzerrosvues tehde, pahndystiicmali,n cghoefmaipcpall iacnatdio bnioplroogviicdael s
+fundamentalinsightsforevaluatingtheefficiencyoffertilizationanditsimpactoncropyield.
+Furthermore,theincorporationoforganicmatterandtheimplementationofcroprotation
+demonstrateacomprehensiveandsustainableagronomicapproachtosoilmanagement.
+3.3. SpatialModelofNutrientAdditiontoAgriculturalSoils
+AcomprehensiveanalysisofthesoilfertilityovertwoyearsispresentedinFigure5
+throughthecreationandcomparisonoffivethematicmapsoffertilityparameters. The
+firstfivemapsinthefirstcolumncorrespondtotheyear2022,whichcanalsobefound
+inthestudybyPizarroetal.[13]. Thesemapsshowthespatialdistributionofessential
+nutrientssuchasN,K,P,andOM,aswellasEC,whicharerelatedtonecessaryparameters.
+Thesemapsprovideadetailedviewoftheheterogeneityofsoilfertilityinthestudyarea,
+highlightingtheconcentrationsofeachanalyzedelement. Additionally,thesedatacanbe
+examinedingreaterdetailinTable1,facilitatingadeeperunderstandingofthedistribution
+andvariabilityoftheseparameters.AgriEngineering 2025, 7, x FOR PEER REVIEW 12 of 20
+A griEngineering2025,7,70 11of18
+(a)
+(a)
+(b)
+(c)
+(d)
+(e)
+Figure 5. Variability (2022–2023) in soil parameters across different evaluation parameters:
+Figure 5. Variability (2022–2023) in soil parameters across different evaluation parameters: (a) ni-
+(a)nitrogen(N),(b)availablephosphorus(P),(c)potassium(K),(d)organicmatter(MO),(e)electrical
+trogen (N), (b) available phosphorus (P), (c) potassium (K), (d) organic matter (MO), (e) electrical
+conductivity(EC).
+conductivity (EC).AgriEngineering2025,7,70 12of18
+In 2023, five additional maps were submitted, revealing temporal changes in the
+concentrationsofnutrientsandkeysoilparametersintheSantaAnaplots.Thesemapswere
+generatedbyextractingalargernumberofsoilsamplesfromdiverseareas,creatingmore
+robustandcomplexmodels. Thetemporalcomparisonbetweenthe2022and2023maps
+allowsadetailedassessmentofsoilnutrientdynamicsandtheidentificationofnotable
+patternsofchange. Variationsinconcentrationsareobservedtobemainlyinfluencedby
+anthropogenicactivities,suchastheuseoffertilizers,whichiscorroboratedbysurveyson
+theadditionofdifferenttypestoeachplot(Figure4). Thepercentagechangereferstothe
+differencebetweenthepixelsgeneratedforeachyear,dividedbythevalueofthefirstyear.
+ForP,areductionisnotedin2023,withmostpixelsconcentratedbetween5.50and
+11ppm. Organicmattershowslittlenotablevariation,decreasingonaveragefromarange
+of2.5%in2022,tomorespacedvaluesof0.50to6%in2023,duetotheadditionofcompost
+insomelots(Figure4). RegardingN,changesarealsoobservedinplots03,04,24,29with
+variationsfrom0.10ppmin2022to0.20–0.40ppmin2023,butwithgreaterdispersion.This
+wasanticipatedduetolowseasonalfertilizationwithureatopromotegrowthinpastures
+andforagecrops. ThevariationinKisalmostuniformin2023,withallplotsapproaching
+theiraverageof120–240ppm,comparedtopeakshigherthan480ppmin2022.
+Finally,fivepercentagevariationmapscomparing2022and2023areincluded,along
+withhistogramsthatvisualizethedistributionofvaluesandtrendsinsoilfertilityvariability.
+Thelattershowsanegativevariationin2023formostofthestudiedplots. Thisintegrated
+approachprovidesacomprehensiveunderstandingofthedynamicsofsoilfertility,serving
+asabasisfordecision-makinginagriculturalresourcemanagement.
+4. Discussion
+UAV-basedfertilitymonitoringinareaswhereagricultureneedssustainableintensi-
+ficationtomeetglobalfooddemandswillassistinefficientwaterandsoilmanagement,
+integrated with crop practices for enhanced productivity to reduce environmental im-
+pacts[53]. Thisstudyillustratesthatitisfeasibletomonitorsoilfertility-relatedproperties
+throughUAVmultispectralimagery,alongsideplatformslikeGEEandmachinelearning
+modelssuchasRFandCART.
+Thevaluesestimatedforthesoilpropertiesshownoticeablechangesinthesoilfertility
+for the period from 2022 to 2023, for N, K, and P, while variations in soil EC and OM
+werelesspronounced. Thesechangescanbeattributedtoavarietyoffactorsaffectingthe
+chemicalpropertiesofthesoilandtheirspatialdistribution,includingsoilmanagement
+practicessuchascroptype,fertilization,andirrigation[54,55].
+TherangeofNconcentrationsvariedbetweenyears,reflectingthetypicalvariabilityin
+agriculturalenvironmentsandhighlightingthecomplexityofthebiogeochemicalnitrogen
+cycleintheseecosystems[56]. Thisvariabilityisinfluencedbyvariousfactors, suchas
+agricultural practices and soil biological activity [57]. The decrease in N concentration
+suggeststhelossofsoilnutrientsthatshouldbereplacedtoavoidnegativelyimpacting
+crophealthandsoilquality[58]InthecaseofK,mostplotsshowedareductionincon-
+centration, attributedtoitsextractionduringharvesting[59,60], whichcouldaffectsoil
+productivityifnotproperlycompensated[61]. Ontheotherhand,Pconcentrationsshowed
+nosignificantchangesbetweenthetwoyears,remainingwithintherangeof120–240ppm,
+whichisconsideredoptimalorhighforagriculturalsoils[62]. OMcontentshowedminor
+fluctuations,withanotableincreaseinsomeplots. Thisincreaseisduetotheincorporation
+oflargeamountsofmanurefromalpacas,sheep,andguineapigsmanagedinSantaAna
+as part of strategies to improve soil health and agricultural productivity [61], within a
+circulareconomyapproach[63]. RegardingEC,aslightdecreasewasobserved,indicating
+areductioninsoilsalinity. ThiscouldbenefitagriculturalproductionbyimprovingwaterAgriEngineering2025,7,70 13of18
+andnutrientabsorption,aswellashelpingtomaintainabalancedpH,whichisessential
+forefficientnutrienttranslocationinthesoil[64].
+The interannual variability in soil fertility properties and their spatial distribution
+represent a significant challenge for the accuracy of the developed predictive models.
+Whilemachinelearningmodelscanbeadjustedtospecificdatasetsandgenerateprecise
+predictions,combiningdatafromdifferentsourcesandperiodsincreasesthedispersionof
+predictorvariablesandtherangeofresponses. Thisintroducesgreatervariabilityintothe
+modelingprocess,whichmaycompromisemodelaccuracy[65,66].
+Thisphenomenonisrelatedtotransferlearning,whichseekstoimproveamodel’s
+predictivecapabilityinatargetdomainbyutilizinginformationfromasourcedomain,
+but its effectiveness depends on the similarity between both domains [67], including
+considerablevariationsintheaccuracy[68].
+Ourresultsshowedthat,for2022,inmostparameters(N,P,OM,andEC),theCARTand
+randomforestmodelsperformedslightlybettercomparedto2023,withR-squaredvalues
+rangingfrom55%to89%forCARTandfrom70%to89%forRF.ForN,P,OM,EC,theobtained
+metricvaluesforbothRFandCARTdemonstratedgoodfit,consideringthatmodelswiththe
+highestR-squaredvalues,andRMSEandMAEvaluesclosesttozero,aredeemedthebestfor
+predictingsoilproperties[69].Thesefindingsalignwithpreviousstudiesreportingsimilar
+valueswhenusingRFforsoilpropertyprediction[70],outperformingothermodelssuch
+asXGBoost,PLSR,andSVRM,whoseresultsshowedlowerpredictiveperformance[37,71],
+suggestingthatthesemodelsexhibitgreatervariabilityinpredictionerrors.
+Variousstudieshavefocusedonidentifyingthemostefficientmodelsforestimating
+soilfertility. Forexample,RFcombinesmultipledecisiontreestopredictsoilnutrients[72],
+whileXGBoost,anoptimizeddecisiontreealgorithm,hasprovenefficientinevaluating
+totalnitrogencontent[73]. InthecaseofK,theCARTmodelshowedalowerexplanatory
+capacity for variability compared to RF, similar to another report [74]. Regarding soil
+spectroscopy,studiesindicatethatpartialleastsquaresregression(PLSR)[71]andsupport
+vectorregressionmachine(SVRM)[74]arethemostintuitivemodels. Inthisstudy, RF
+and CART efficiently managed the complexity of multispectral data based on fertility
+parameters,makingtheseresultsrobustandaccurate.
+Additionally,inproximalspectrometrylikemultispectralmicrosensorsmountedon
+UAVs,reflectancemeasurementsarehighlysensitivetofactorssuchasilluminationand
+observationgeometry,whichcancausevariationsinthecapturedradiance[75],including
+soilroughnessvariabilityandcropresidues. Evenwiththeuseofcalibrationpanelsused
+commonlytocorrecttheseeffects,theiradjustmentsareapproximateanddonotensure
+completereflectancecorrection[76],makingtheintegrationofmultiplemultispectralphoto
+sourcescomplicated,giventhevariationsinreflectancecorrections.
+Therefore,itisnecessarytodevelopmorerobustmethodstoreducetheinfluenceof
+these variations in spectral measurements [77], and use harmonization techniques in the
+samewaythattheyareusedtomergemultisourcesatelliteimagery,knowingthatsystematic
+samplingforsmall-scalevariabilityistime-consumingandcostly,andthatfieldevaluations
+arenecessaryforreducinguncertaintyandenhancingpredictivemodelaccuracy.
+Thefindingsunderscoretheimportanceofcontinuouslymonitoringtheconcentrations
+of nitrogen, potassium, phosphorus, and other key parameters in agricultural systems.
+Variousfactors,suchascropabsorption,humanactivities,andagriculturalmanagement
+practices,includingtheuseofagrochemicalsandfertilizers,influencevariationsinthese
+nutrients. Theseresultshighlighttheneedtoimplementsustainableagriculturalpractices
+thatreducenutrientlossandpromoteahealthybalanceinsoilbiogeochemicalcycles,a
+conceptsupportedintheworkof[78].AgriEngineering2025,7,70 14of18
+The incorporation of new technologies in agriculture is emerging as a solution to
+challengesinagriculturalproduction. Oneoftheremotesensingtoolsincreasinglyused
+in various studies for soil fertility prediction is satellite imagery from platforms such
+as ZH-1 or Sentinel-2 [73], which enables the monitoring of large areas. Additionally,
+othertechniques,suchasVis–NIRreflectancespectroscopy,facilitaterapidsoilparameter
+evaluation [74]; however, they require specialized and costly equipment. In this study,
+unmannedaerialvehicles(UAVs)wereusedtopredictsoilnutrientvariabilityduringthe
+period2022–2023. TheseUAVsarecharacterizedbyprovidinghigh-quality,high-resolution
+imagesofsmallagriculturalareas[79,80],suchasSantaAna,whichconsistsofsmallplots.
+Furthermore, integration was performed with platforms such as Google Earth Engine
+(GEE)andmachinelearningmodels,includingrandomforest(RF)andclassificationand
+regressiontrees(CART),topredictsoilproperties. Thepredictivemodelperformancewas
+similartothatreportedinsimilarstudies[81–83].
+Thisstudyvalidatesaworkflowthatintegratesmachinelearningandfielddatawithin
+acloudcomputingenvironmenttomapsoilpropertiesacrossmultipleseasons,basedon
+thereflectanceofbaresoilcompositesofagriculturalplots. Akeyfindingisthatmodels
+developedindifferentyears,despiteshowinghighaccuracywhentrainedandvalidated
+independently,arenotinterchangeableduetointerannualvariationsinsoilconditions[84].
+Thishighlightstheimportanceofyear-specificmodelingforachievingaccuratepredictions.
+Nevertheless,thisapproachenableseffectiveinterannualmonitoringofsoilfertility.
+Additionally,beforeconductingfielddatacollectionviaphotogrammetry,itiscrucial
+toestablishcontrolpointsinthestudyareatoensuredataaccuracy. Itisrecommendedto
+conductUAVflightsbetween10:00a.m. and3:00p.m. tominimizetheimpactofshadows
+inimages,whichcoulddistortreflectancevaluesandaffectanalysisquality.
+Finally,traditionalsoilanalysismethodsremainfundamental,astheyprovideessential
+reference data for validating and calibrating ML-based models. In particular, studies
+havedemonstratedthatvisibleandnear-infrared(Vis–NIR)spectroscopycombinedwith
+machinelearningtechniquescanimprovethepredictionofsoilpropertiessuchascation
+exchangecapacity. However,itisstillnecessarytovalidatethesemodelswithconventional
+analysestoensuretheirreliability[84].
+5. Conclusions
+Thepresentstudydemonstratesthatmonitoringsoilfertilityparametersusingmulti-
+spectralimageryobtainedwithUAVs,incombinationwithmachinelearningalgorithms
+such as CART and random forest, constitute a robust and efficient methodology for
+evaluating soil fertility properties. The results highlight the ability of this approach to
+identifysignificantchangesinfertilityparameters,includingconcentrationsofphospho-
+rus(−0.538ppm),nitrogen(0.002ppm),potassium(0.998ppm),electricalconductivity
+(0.992mS/m),andorganicmatter(0.140%)duringthe2022–2023period.
+UAVs equipped with multispectral sensors have become essential tools in preci-
+sionagricultureduetotheirabilitytogeneratehigh-resolutionspectralindices,enabling
+real-timemonitoringofsoilproperties. Thistechnologyfacilitatestheearlydetectionof
+deficienciesofnutrientsinsoilandtheimplementationofadaptivemanagementplans
+aimedatoptimizingproductivity. However,thestudyalsohighlightscertainlimitations,
+suchastheneedtostandardizeanalyticalmethodsandreflectancecorrectionimprovement
+to model the spatial distribution of soil properties. The integration of additional data
+sources,suchassatelliteimageryandground-basedsensors,alongwiththeextensionof
+themonitoringperiodandtheinclusionofagreaterdiversityofsoilparameters,could
+deepen the understanding of soil dynamics and significantly enhance the accuracy of
+predictivemodels.AgriEngineering2025,7,70 15of18
+TheintegrationofUAVsandmachinelearningrepresentsasignificantadvancementin
+soilfertilitymonitoring,contributingtothedevelopmentofmoreefficient,sustainable,and
+resilientagriculture. Futureresearchshouldfocusonreflectanceharmonizationtechniques,
+optimizing the models used and incorporating emerging technologies for continuous
+monitoringofchangesinsoilproperties,toexpandthescopeandapplicabilityofthese
+systemsindiverseagriculturalcontexts.
+AuthorContributions: L.E.,K.O.,J.U.andS.P.(SamuelPizarro): conceptualization;D.C.andS.P.
+(SamuelPizarro):methodology;L.E.,D.C.,C.R.andS.P.(SamuelPizarro):software;J.U.andK.O.:
+validation; S.P.(SolanchPatricio)andL.E.: formalanalysis; L.E., M.O.-C., E.B.andS.P.(Samuel
+Pizarro): investigation; J.U. and L.A.: resources; L.E., D.C., K.O. and C.R.: data curation; K.O.
+and S.P. (Samuel Pizarro): writing—original draft preparation; K.O. and S.P. (Solanch Patricio):
+writing—reviewandediting,D.C.,J.U.,L.A.,M.O.-C.,E.B.andS.P.(SolanchPatricio):visualization;
+M.O.-C.,E.B.andS.P.(SamuelPizarro):supervision;M.O.-C.,S.P.(SamuelPizarro)andL.A.:funding
+acquisition.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding:TheMinistryofAgrarianDevelopmentandIrrigation(MIDAGRI)ofthePeruvianGovern-
+mentprovidedfundingforthisstudythroughtheproject“Creacióndelserviciodeagriculturade
+precisiónenlosDepartamentosdeLambayeque,Huancavelica,UcayaliySanMartín4Departamen-
+tos”(grantnumberCUI2449640).ItalsoreceivedsupportfromtheVice-RectorateforResearchofthe
+UniversidadNacionaldelAmazonasToribioRodríguezdeMendoza—UNTRM.
+DataAvailabilityStatement:Dataavailableonrequest.
+Acknowledgments:Specialthanksareextendedtothecollaboratorsinvolvedinfielddatacollection
+andassistantsofthePrecisionAgricultureProject(CUI2449640)aswellasotherresearchprograms
+ofthe“EstaciónExperimentalAgrariaSantaAna”,INIA.
+ConflictsofInterest:Theauthorsdeclarenoconflictsofinterest.
+References
+1. Taghizadeh-Mehrjardi,R.Agropedogenesis:Humankindasthe6thsoil-formingfactorandattractorsofagrogenicsoildegradation.
+Geophys.Res.Abstr.2019,49,1–42.[CrossRef]
+2. Kuzyakov,Y.;Zamanian,K.Reviewsandsyntheses:Agropedogenesis-Humankindasthesixthsoil-formingfactorandattractors
+ofagriculturalsoildegradation.Biogeosciences2019,16,4783–4803.[CrossRef]
+3. Homburg,J.A.;Sandor,J.A.;Norton,J.B.AnthropogenicinfluencesonZuniagriculturalsoils.Geoarchaeology2005,20,661–693.
+[CrossRef]
+4. Alori,E.T.;Adekiya,A.O.;Adegbite,K.A.ImpactofAgriculturalPracticesonSoilHealth;Springer:Berlin/Heidelberg,Germany,
+2020;pp.89–98.[CrossRef]
+5. Moran,E.F.;Brondizio,E.S.;Tucker,J.M.;daSilva-Forsberg,M.C.;McCracken,S.;Falesi,I.Effectsofsoilfertilityandland-useon
+forestsuccessioninAmazônia.For.Ecol.Manag.2000,139,93–108.[CrossRef]
+6. Ghimire,R.; Thapa,V.R.; Acharya,P.; Wang,J.; Sainju,U.M.SoilIndicatorsandManagementStrategiesforEnvironmental
+Sustainability. In Soil Science: Fundamentals to Recent Advances; Springer: Berlin/Heidelberg, Germany, 2021; pp. 127–140.
+[CrossRef]
+7. Fonte,S.J.;Vanek,S.J.;Oyarzun,P.;Parsa,S.;Quintero,D.C.;Rao,I.M.;Lavelle,P.PathwaystoAgroecologicalIntensificationof
+SoilFertilityManagementbySmallholderFarmersintheAndeanHighlands.Adv.Agron.2012,116,125–184.[CrossRef]
+8. Visscher,A.M.;Vanek,S.;Huaraca,J.;Mendoza,J.;Ccanto,R.;Meza,K.;Olivera,E.;Scurrah,M.;Wellstein,C.;Bonari,G.;etal.
+TraditionalsoilfertilitymanagementamelioratesclimatechangeimpactsontraditionalAndeancropswithinsmallholderfarming
+systems.Sci.TotalEnviron.2024,912,168725.[CrossRef]
+9. Rao,

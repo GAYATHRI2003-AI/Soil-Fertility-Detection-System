@@ -1,0 +1,630 @@
+Voluntary Guidelines
+for Sustainable
+Soil ManagementVoluntary Guidelines
+for Sustainable
+Soil Management
+The present VGSSM is the result of an inclusive and participatory process that
+involved multiple stakeholders - including academic, national and research
+institutions, international organizations, NGOs, civil society and the private
+sector – who contributed with scientific knowledge and experience on how soils
+should be sustainably managed for properly delivering ecosystem services while
+halting degradation.
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS
+Rome, 2017Disclaimer and Copyright
+Recommended citation:
+FAO 2017. Voluntary Guidelines for Sustainable Soil Management
+Food and Agriculture Organization of the United Nations
+Rome, Italy
+The designations employed and the presentation of material in this information product do
+not imply the expression of any opinion whatsoever on the part of the Food and Agriculture
+Organization of the United Nations (FAO) concerning the legal or development status of
+any country, territory, city or area or of its authorities, or concerning the delimitation of its
+frontiers or boundaries. The mention of specific companies or products of manufacturers,
+whether or not these have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s)
+and do not necessarily reflect the views or policies of FAO.
+© FAO, 2017
+FAO encourages the use, reproduction and dissemination of material in this information
+product. Except where otherwise indicated, material may be copied, downloaded and printed
+for private study, research and teaching purposes, or for use in non-commercial products or
+services, provided that appropriate acknowledgement of FAO as the source and copyright
+holder is given and that FAO’s endorsement of users’ views, products or services is not implied
+in any way.
+All requests for translation and adaptation rights, and for resale and other commercial
+use rights should be made via www.fao.org/contact-us/licence-request or addressed to
+copyright@fao.org.
+FAO information products are available on the FAO website www.fao.org/publications
+and can be purchased through publications-sales@fao.org.
+II Voluntary Guidelines for Sustainable Soil ManagementContents
+Foreword V
+1. Introduction 1
+1.1 Background and ratio nale 1
+1.2 Objectives 2
+1.3 Nature and scope 2
+1.4 Target audience 2
+1.5 Definition of sustainable soil management 3
+2. Challenges for achieving sustainable soil management 5
+3. Guidelines for sustainable soil management 7
+3.1 Minimize soil erosion 7
+3.2 Enhance soil organic matter content 8
+3.3 Foster soil nutrient balance and cycles 8
+3.4 Prevent, minimize and mitigate soil salinization and alkalinization 10
+3.5 Prevent and minimize soil contamination 10
+3.6 Prevent and minimize soil acidification 11
+3.7 Preserve and enhance soil biodiversity 11
+3.8 Minimize soil sealing 12
+3.9 Prevent and mitigate soil compaction 12
+3.10 Improve soil water management 13
+4. Dissemination, use and evaluation of the VGSSM 15
+Contents III©FAO/Paballo ThekisoForeword
+Humankind is facing tremendous challenges in agriculture: the climate is changing, the global
+population is growing quickly, cities are expanding, diets are undergoing major shifts – and
+soils are becoming increasingly degraded. In this fast-changing world, and given the urgent
+need to eliminate hunger and ensure food security and nutrition, understanding and attaining
+sustainable soil management has never been more important.
+Indeed, the Sustainable Development Goals identify the need to restore degraded soils and
+improve soil health. There is widespread agreement that we must nurture and unlock the full
+potential of soils, so as to be able to not only support food production but also to store and
+supply more clean water, maintain biodiversity, sequester carbon and increase resilience in a
+changing climate. This is a goal that requires the universal implementation of sustainable soil
+management.
+Soils are the foundation of food production and many essential ecosystem services. It has
+been shown that sustainable soil management contributes to increasing food production,
+enhancing the nutrient content of food, and adapting to and mitigating climate change.
+The conservation and responsible management of soils is thus central to FAO’s mandate to
+help eliminate hunger, food insecurity and malnutrition. To ensure greater recognition of
+the essential contributions of soils to agriculture and food production, as well as their crucial
+ecosystem services, the FAO Council established the Global Soil Partnership (GSP) in December
+2012, as a coalition of willing partners to promote and implement sustainable soil management
+at all scales, from local to global. Since then, the GSP has been conducting a vigorous campaign
+to promote sustainable soil management.
+Under the aegis of the GSP, the World Soil Charter, which contains key principles and guidance
+for action towards sustainable soil management, was revised in 2015, in light of major policy
+and scientific developments over the past three decades. In turn, these Voluntary Guidelines
+for Sustainable Soil Management, endorsed by the FAO Council in December 2016 at its 155th
+Session, complement the World Soil Charter by further elaborating principles and practices for
+incorporation into policies and decision-making.
+I expect this timely tool to both guide practitioners and help generate the necessary support to
+dramatically increase the area under sustainable soil management worldwide. I commend the
+collaborative and inclusive efforts that enabled the development of these Voluntary Guidelines.
+FAO strongly encourages their uptake, and is ready to continue supporting Members in
+implementing effective policies and actions towards healthy soils.
+JOSE GRAZIANO DA SILVA
+FAO Director-General
+Foreword V©FAO/Ronald Vargas1. Introduction
+These Voluntary Guidelines for Sustainable Soil Management (VGSSM) were developed
+through an inclusive process within the framework of the Global Soil Partnership (GSP).
+They aim to be a reference providing general technical and policy recommendations on
+sustainable soil management (SSM) for a wide range of committed stakeholders. The
+guidelines were adopted by the 4th GSP Plenary Assembly (Rome, 25 May 2016), approved by
+the 25th session of the FAO Committee on Agriculture (Rome, 28 September 2016) and finally
+endorsed by the 155th session of the FAO Council (Rome, 5 December 2016).
+1.1 Background and rationale
+Soils are an essential and non-renewable natural resource hosting goods and services vital to
+ecosystems and human life. Soils are fundamental for producing crops, feed, fibre, fuel, and they
+filter and clean tens of thousands of cubic kilometers of water each year. As a major storehouse
+for carbon, soils also help regulate emissions of carbon dioxide and other greenhouse gases,
+which is fundamental for regulating climate. SSM is an integral part of sustainable land
+management, as well as a basis for addressing poverty eradication, agricultural and rural
+development, promoting food security and improving nutrition.
+Soil is the world’s largest terrestrial pool of carbon1,2 and approximately 95% of global food
+is produced in soil3. SSM is a valuable tool for climate change adaptation and a pathway for
+safeguarding key ecosystem services and biodiversity. Due to the incalculable value soils provide
+to society through ecosystem services, SSM ensures a high return on investment by supporting
+and increasing these services. Widespread adoption of SSM practices generates multiple socio-
+economic benefits, especially for smallholder farmers and large scale agricultural producers
+worldwide whose livelihoods directly depend on their soil resources.
+However, evidence recently provided in the Status of the World’s Soil Resources (SWSR) report
+and other studies shows that about 33% of global soils are moderately or highly degraded4,5, i.e.
+due to unsustainable management practices. On a global scale an annual loss of 75 billion tons
+of soil from arable land is estimated to cost about USD 400 billion each year in lost agricultural
+production6. This loss also significantly reduces the soil’s ability to store and cycle carbon,
+nutrients, and water. Annual cereal production losses due to erosion have been estimated at
+7.6 million tonnes.
+Growing concerns about the state of global soils resulted, amongst others, in the establishment
+of the Global Soil Partnership, the proclamation of the International Year of Soils (2015)
+by the UN General Assembly and the adoption of the revised World Soil Charter by the FAO
+Conference. In a broader context, the 2030 Agenda for Sustainable Development adopted
+a number of related targets in 2015, i.a. those aimed at restoring degraded soil, striving to
+achieve a land degradation-neutral world and implementing resilient agricultural practices
+that progressively improve soil quality and minimize soil contamination.
+1 Carbon sequestration in dryland soils. FAO, 2004
+2 Land use, land use change, and forestry. Summary for policy-makers. IPCC, 2000 (pp. 3-4)
+3 Healthy soils are the basis for healthy food production, FAO, 2015.
+4 Status of the World’s Soil Resources (SWSR). Main Report. FAO and ITPS, Rome, 2015 (p. xix)
+5 The state of the world’s land and water resources for food and agriculture (SOLAW). Managing systems at risk. FAO, Rome and Earthscan, London, 2011 (p. 113).
+6 The value of land: Prosperous lands and positive rewards through sustainable land management. The Economics of Land Degradation (ELD) Initiative, 2015 (p. 80).
+1. Introduction 1SSM strongly contributes to collective efforts towards climate change adaptation and mitigation,
+combating desertification and promoting biodiversity, and therefore has specific relevance to the
+United Nations Framework Convention on Climate Change (UNFCCC), United Nations.Convention
+to Combat Desertification (UNCCD) and United Nations Convention on Biological Diversity
+(UNCBD).
+The revised World Soil Charter calls for the incorporation of SSM principles and practices into policy
+guidance. In response, the GSP decided to develop the present Voluntary Guidelines in line with its
+overall goal of promoting SSM.
+1.2 Objectives
+The objectives of the VGSSM are: to present generally accepted, practically proven and scientifically
+based principles to promote SSM and to provide guidance to all stakeholders on how to translate
+these principles into practice, be it for farming, pastoralism, forestry or more general natural
+resources management.
+1.3 Nature and scope
+The VGSSM are of voluntary nature and are not legally binding. They elaborate the principles
+outlined in the revised World Soil Charter, taking into account the evidence provided in the SWSR.
+The guidelines address technical aspects of SSM including core characteristics of sustainably
+managed soils, key challenges and potential solutions to address them. The VGSSM focus mostly on
+agriculture which is broadly defined as the production of food, fibre, feed, timber and fuel, although
+many of the principles described have a significant influence on ecosystem services provided by
+managed and unmanaged soil systems.
+The guidelines are not expected to provide detailed recommendations, but are designed to inform
+strategic and context-specific decision-making at all relevant levels. They are intended to contribute
+to global, regional and national efforts towards the eradication of hunger and poverty due to the
+importance of soils in sustainable development.
+1.4 Target audience
+By providing an easily accessible and readily understandable reference to a wide range of
+stakeholders, the potential target audience of the VGSSM includes: government officials, policy
+makers, farmers, pastoralists, forest and land managers, extension services and agricultural
+advisors, development partners, civil society, private sector and, academia, etc.
+2 Voluntary Guidelines for Sustainable Soil Management1.5 Definition of sustainable soil management
+In these guidelines, SSM is defined according to Principle 3 in the revised World Soil Charter as
+follows:
+“Soil management is sustainable if the supporting, provisioning, regulating, and cultural services provided by soil are
+maintained or enhanced without significantly impairing either the soil functions that enable those services or biodiversity. The
+balance between the supporting and provisioning services for plant production and the regulating services the soil provides for
+water quality and availability and for atmospheric greenhouse gas composition is a particular concern”.
+The types of ecosystem services and the soil functions referred to in the definition can be
+elaborated as follows:
+• Supporting services include primary production, nutrient cycling and soil formation;
+• Provisioning services comprise the supply of food, fibre, fuel, timber and water; raw earth
+material; surface stability; habitat and genetic resources;
+• Regulating services imply the regulation of aspects such as water supply and quality,
+carbon sequestration, climate regulation, control of floods and erosion; and
+• Cultural services denote the aesthetic and cultural benefits derived from soil use.
+SSM is associated with the following characteristics:
+1. Minimal rates of soil erosion by water and wind;
+2. The soil structure is not degraded (e.g. soil compaction) and provides a stable physical
+context for movement of air, water, and heat, as well as root growth;
+3. Sufficient surface cover (e.g. from growing plants, plant residues, etc.) is present to
+protect the soil;
+4. The store of soil organic matter is stable or increasing and ideally close to the optimal
+level for the local environment;
+5. Availability and flows of nutrients are appropriate to maintain or improve soil fertility and
+productivity, and to reduce their losses to the environment;
+6. Soil salinization, sodification and alkalinization are minimal;
+7. Water (e.g. from precipitation and supplementary water sources such as irrigation)
+is efficiently infiltrated and stored to meet the requirements of plants and ensure the
+drainage of any excess;
+8. Contaminants are below toxic levels, i.e. those which would cause harm to plants,
+animals, humans and the environment;
+9. Soil biodiversity provides a full range of biological functions;
+10. The soil management systems for producing food, feed, fuel, timber, and fibre rely on
+optimized and safe use of inputs; and
+11. Soil sealing is minimized through responsible land use planning.
+1. Introduction 3©FAO/Sally Bunning
+4 Voluntary Guidelines for Sustainable Soil Management2. Challenges for achieving sustainable soil management
+Soils have diverse chemical, physical and biological properties. As a consequence, they differ in
+their responses to management practices, their inherent ability to deliver ecosystem services,
+as well as their resilience to disturbance and vulnerability to degradation. The Status of the
+World’s Soil Resources report identified ten key threats that hamper the achievement of
+SSM. These threats are: soil erosion by water and wind, soil organic carbon loss, soil nutrient
+imbalance, soil salinization, soil contamination, acidification, loss of soil biodiversity, soil
+sealing, soil compaction and waterlogging. These different threats vary in terms of intensity
+and trend depending on geographical contexts, though they all need to be addressed in order
+to achieve sustainable soil management.
+SSM shall contribute to addressing global challenges, and meeting international
+commitments, including:
+• the 2030 Agenda for Sustainable Development, where SSM could directly or indirectly
+contribute to achieving several of the agreed goals and targets;
+• the Zero Hunger Challenge (to end hunger and malnutrition and assure food security for a
+growing population);
+• climate change adaptation and mitigation, especially in the light of the Paris Agreement
+adopted at the UNFCCC COP21, which embodies a strong commitment to address climate
+change and give agriculture a prominent role in that process;
+• the commitment to combat desertification and mitigate effects of drought, especially the
+strive to achieve a land degradation neutral world, taking note of the potential benefits
+for all as per the last UNCCD COP12;
+• the Aichi targets which underline an important agenda to preserve biodiversity and the
+provision of ecosystem services;
+• securing land tenure under the Voluntary Guidelines on the Responsible Governance of
+Tenure of Land, Fisheries and Forests in the Context of National Food Security (VGGT).
+This context points to major opportunities to promote SSM. Taking the above into account,
+an enabling environment for promoting SSM is fostered by the following core actions:
+• Establishing or strengthening inclusive SSM-supportive agricultural/environmental
+policies
+Where appropriate, inclusive policies to promote SSM should be linked to agricultural
+and environmental policies, so that their implementation provides multiple benefits. If
+existing, these policies can be reviewed, as appropriate, to mainstream SSM.
+• Increasing responsible investment and positive incentives aimed at promoting
+sustainable soil management
+Where appropriate, responsible investment in SSM according to the Principles for
+Responsible Investments in Agriculture and Food Systems (CFS-RAI) should be increased.
+Provision of positive incentives to those stakeholders who implement SSM principles
+while recognizing the value of ecosystem services could be envisaged.
+2. Challenges for achieving sustainable soil management 5• Promoting secure land tenure rights according to the VGGT
+SSM is affected by secure land tenure rights being in place or not. Access and tenure rights
+are an important factor for SSM to be properly implemented by land users and to enable
+long-term planning.
+• Fostering and strengthening targeted soil research
+It is imperative that investment in soil research is increased to enable national research
+programs and their partners to work with land users to identify and address the
+constraints they face in increasing the ecosystem services provided by soils (i.e. soil
+productivity).
+• Preventing or minimizing soil degradation and restoring/rehabilitating degraded soils
+(including historically degraded soils)
+Soil degradation shall be minimized using SSM, especially through soil conservation
+approaches that proved to be successful. Soil rehabilitation and/or soil restoration should
+also be a priority, returning degraded soils to productivity, especially in historically sound
+agriculture or other production systems currently under threat.
+• Promoting effective education programmes
+Where appropriate, education on soils (formal or informal) should be strengthened. That
+could start with the reflection of their importance in the school’s curricula and extending
+to more professional levels. Capacity development on SSM should be enhanced so that
+more professionals are brought up-to-date on “state of the art” methods and tools.
+• Ensuring adequate inclusion of SSM in extension services
+Agricultural extension services should promote SSM principles and practices.
+• Establishing/strengthening soil information systems
+Considering the living nature of soils, the assessment of their status should be a pre-
+condition to planning any SSM intervention. Soil data and information (including local
+knowledge) are essential for understanding soil conditions and trends in soil functions, as
+well as for targeting interventions to increase productivity. Where appropriate, national
+soil information systems should be established or strengthened in order to have solid
+monitoring capacities of soil condition in place. These systems would also contribute to
+the Global Soil Information System being promoted by the Global Soil Partnership.
+• Fostering international cooperation/collaboration on soils
+International cooperation on soils should foster the exchange of knowledge, technology
+and information. Various arrangements including “North-South”, “South-South” and
+“Triangular” cooperation could be used for that purpose.
+• Promoting communication on SSM practices
+Pursuing the efforts of the International Year of Soils 2015, SSM practices should be
+promoted and disseminated in view of their provisioning of important ecosystem
+services.
+6 Voluntary Guidelines for Sustainable Soil Management3. Guidelines for sustainable soil management
+The following constitutes technical guidelines to address soil threats that hamper SSM.
+They should not be viewed as a full list of good practices, but rather a technical reference to
+be applied on a context specific basis. Specific technical manuals may be developed later to
+provide complementary tools.
+3.1 Minimize soil erosion
+The SWSR report identified soil erosion by water and wind as the most significant threat to
+global soils and the ecosystem services they provide. Soil erosion causes the loss of surface soil
+layers containing organic and mineral nutrient pools, partial or complete loss of soil horizons
+and possible exposure of growth-limiting subsoil, as well as off-site impacts such as damage
+to private and public infrastructure, reduced water quality and sedimentation. Soil erosion
+is accelerated by human activities through, amongst others, reduced plant or residue cover,
+tillage and other field operations, and reduced soil stability leading to soil creep and landslides.
+• Land-use changes such as deforestation or improper grassland-to-cropland conversion
+that cause removal of surface cover and loss of soil carbon should be avoided or carefully
+planned and appropriately implemented if unavoidable;
+• A cover of growing plants or other organic and non-organic residues that protects the
+soil surface from erosion should be maintained through implementation of appropriate
+measures such as mulching, minimum tillage, no-till by direct seeding with attention to
+reduced herbicide use, cover crops, agro-ecological approaches, controlled vehicle traffic,
+continuous plant cover and crop rotation, strip cropping, agroforestry, shelter belts, and
+appropriate stocking rates and grazing intensities;
+• Erosion by water on sloping and relatively steep lands should be minimized by measures
+that reduce runoff rates and velocity such as strip cropping, contour planting, crop
+rotation, intercropping, agroforestry, cross slope barriers (e.g. grass strips, contour bunds
+and stone lines), terrace construction and maintenance, and grassed waterways or
+vegetated buffer strips;
+• Where appropriate, riparian buffers, buffer strips, wetlands, water harvesting and
+cover crops should be used/installed to minimize export of soil particles and associated
+nutrients and contaminants from the soil system and protect the downstream areas from
+damaging impacts; and Erosion by wind, including dust storms, should be minimized and
+mitigated through vegetative (trees and shrubs) or artificial (stone walls) wind breaks to
+reduce wind velocity.
+3. Guidelines for sustainable soil management 73.2 Enhance soil organic matter content
+Soil organic matter (SOM) plays a central role in maintaining soil functions and preventing soil
+degradation. Soils constitute the largest organic carbon pool on the Earth and play a critical role
+in regulating climate and mitigating climate change through trade-offs between greenhouse
+gas emission and carbon sequestration. For this reason, SOM is strategic for climate change
+adaptation and mitigation, and global stores of SOM should be stabilized or increased. A loss
+of soil organic carbon (SOC) due to inappropriate land use or the use of poor soil management
+or cropping practices can cause a decline in soil quality and soil structure, and increase soil
+erosion, potentially leading to emissions of carbon into the atmosphere. On the other hand,
+appropriate land use and soil management can lead to increased SOC and improved soil quality
+that can partially mitigate the rise of atmospheric CO.
+2
+• Increase biomass production by increasing water availability for plants using methods
+(e.g., irrigation with drippers or microsprinklers; irrigation scheduling; monitoring of
+soil moisture or loss of water via evapotranspiration) that maximize water-use efficiency
+and minimize soil erosion and nutrient leaching, using cover crops, balancing fertilizer
+applications and effective use of organic amendments, improving vegetative stands,
+promoting agroforestry and alley cropping, and implementing reforestation and
+afforestation;
+• Protect organic carbon-rich soils in peatlands, forests, pasturelands, etc.;
+• Increase organic matter content through practices such as: managing crop residues,
+using forage by grazing rather than harvesting, practicing organic farming, applying
+integrated soil fertility management and integrated pest management, applying animal
+manure or other carbon-rich wastes, using compost, and applying mulches or providing
+the soil with a permanent cover;
+• Fire should preferably be avoided, except where fire is integral to land management, in
+which case the timing and intensity of burning should aim to limit losses of soil functions.
+Where fire is a naturally occurring event, steps to minimize erosion and encourage re-
+vegetation after fire should be considered, where practical.
+• Make optimum use of all sources of organic inputs, such as animal manure and properly
+processed human wastes;
+• Management practices such as cover crops, improved fallow plant species, reduced- or
+no-tillage practices, or live fences should be adopted to ensure the soil has a sufficient
+organic cover;
+• Decrease decomposition rates of soil organic matter by practicing minimum or no-tillage
+without increasing the use of herbicides; and
+• Implementing crop rotations, planting legumes (including pulses) or improving the crop
+mix.
+3.3 Foster soil nutrient balance and cycles
+The concepts of sufficiency and utilization efficiency apply especially to nutrient dynamics in
+the soil- water-nutrients-plant root continuum. Plant nutrition should be based on crop needs,
+local soil characteristics and conditions, and weather patterns. Plant nutrition can be enhanced
+through nutrient recycling or additions including mineral (chemical) fertilizers, organic
+fertilizers and other soil amendments including primary sources (e.g. rock phosphate) and
+secondary sources (e.g. phosphorus from sewage sludge). It is crucial to select an appropriate
+plant nutrient management system and approach alongside assessing the suitability of the
+land for a given land use.
+8 Voluntary Guidelines for Sustainable Soil ManagementThe benefits of sufficient and balanced nutrient supply for plant needs are well-established and
+include: production of food, feed, fibre, timber, and fuel at levels at, or close to, the optimum
+potential in the specific geographical context; reduced need for pest control measures, external
+application of organic and inorganic amendments, and mineral fertilizers; less pollution
+resulting from inappropriate use of agro-chemicals; and enhanced soil carbon sequestration
+through biomass production and restitution to the soil.
+The lack of basic nutrients leads to the underdevelopment of plants and decrease in yields
+and crop nutritional value. The consequences of excess nutrients in soils are a) the loss of excess
+nutrients (especially nitrogen and phosphorus) from agricultural fields, causing eutrophication
+and deterioration of water quality and terrestrial and aquatic ecosystems; b) increased release
+of the greenhouse gas nitrous oxide from soils to the atmosphere; c) leaching of mobile forms
+of nitrogen to water used for human consumption, with potential human health impacts; and
+d) crop failure.
+• Natural soil fertility and natural nutrient cycles should be improved and maintained
+through the preservation or enhancement of soil organic matter. Improved soil fertility
+can be attained through soil conservation practices such as the use of crop rotations with
+legumes, green- and animal manures, and cover crops in combination with reduced- or
+no-tillage with attention to reduced herbicide use, as well as agroforestry. Nutrient cycles
+are best managed in integrated systems such as crop-livestock systems or crop-livestock-
+forest systems;
+• Nutrient use efficiency should be optimized by adopting measures such as applying
+balanced and context adapted soil organic and inorganic amendments (e.g. compost and
+liming agents, respectively) and/or innovative products (e.g. slow and controlled release
+fertilizers), as well as the recycling and reuse of nutrients;
+• Fertilizer application methods, types, rates and timing should be appropriate to limit
+losses and promote balanced crop nutrient uptake. This should be based on soil and plant
+analyses and be a long-term endeavor rather than short term action;
+• The addition of soil micronutrients should be considered when planning soil fertilization;
+• Practical sources of plant nutrients should be used, including the precise and judicious
+use of organic and mineral amendments, inorganic fertilizers, and agricultural bio-
+products. These amendments and bio-products include liquid, semi-solid or solid
+manures, crop residues, composts, green manures, household refuse, clean ash
+generated during bioenergy production, soil amendments and inoculants. In order to
+increase their efficiency, such measures should be combined with the mitigation of
+other limiting factors (such as water deficiency). Safe use (including tolerable levels of
+contaminants and pollutants, and worker health) of the amendments should be ensured;
+• Soil and plant-tissue testing and field assessments should be adopted and used.
+This provides valuable guidance in diagnosing and correcting limiting factors in crop
+production related to plant nutrients, salinity, sodicity, and extreme pH conditions. Such
+guidance is key for making informed decisions and monitor progress;
+• Where appropriate, livestock movement and grazing should be managed to optimize
+manure and urine deposition;
+• Application of liming agents in acid soils is a prerequisite for optimal nutrient use
+efficiency in such soils, while application of organic amendments such as compost, as
+well as appropriate soil-crop management should be considered for alkaline and other
+soils; and
+• Naturally occurring mineral fertilizer resources like rock phosphate or potash should be
+allocated efficiently and strategically to ensure the continued availability of adequate
+amounts of mineral inputs for future generations.
+3. Guidelines for sustainable soil management 93.4 Prevent, minimize and mitigate soil salinization and alkalinization
+Salinization is the accumulation of water-soluble salts of sodium, magnesium and calcium in
+the soil. It is the consequence of high evapotranspiration rates, inland sea water intrusion,
+and human-induced (e.g. improper irrigation) processes. Salinization reduces crop yields and,
+above certain thresholds, completely eliminates crop production.
+• Surface cover should be optimized to reduce evaporation losses;
+• Efficiency of irrigation water use should be increased through improved conveyance,
+• distribution, and field application methods. Application methods should be used that
+operate with low pressure and apply the water directly to the soil. Automization of water
+supply and application of water on top of crops should be avoided to reduce evaporation
+losses;
+• Irrigation management should ensure sufficient water for plant growth and efficient
+drainage to avoid problems of salinization;
+• Irrigation water quality should be tested and monitored; when feasible, water
+desalinization should be performed;
+• Surface and sub-surface drainage systems should be installed and maintained to control
+rising groundwater tables and control soil salinity. The design of these systems needs to
+be based on a thorough understanding of the water balance in these areas; and
+• If soils are already degraded and prevention is no longer an option, reclamation of
+saline soils can be achieved using a variety of techniques such as direct leaching of salts,
+planting salt tolerant varieties, domestication of native wild halophytes for use in agro-
+pastoral systems, chemical amelioration and the use of organic amendments.
+3.5 Prevent and minimize soil contamination
+Soil may filter, fix and neutralize, but also release pollutants when conditions change (e.g.
+heavy metal release with lowering pH). Therefore, prevention of soil contamination remains
+the best way to maintain healthy soils and food safety in accordance to the Sustainable
+Development Goals.
+Contaminants can enter soils from a variety of sources including agricultural inputs, land
+application of by-products, atmospheric deposition, flood and irrigation water, accidental
+spills, inappropriate urban waste and wastewater management, and other means.
+Accumulation and contamination occur if the rate of addition of a given contaminant exceeds
+its rate of removal from the soil system. Negative consequences may include plant toxicities
+and subsequent productivity declines, contamination of water and off-site areas through
+sediment transport, and increased human and animal health risks through accumulation in
+the food-chain.
+• Governments are encouraged to establish and implement regulations to limit the
+accumulation of contaminants below established levels to safeguard human health and
+well-being, and facilitate remediation of contaminated soils that exceed these levels;
+• Management of local soil contamination requires establishing background levels,
+followed by testing, monitoring and assessing contaminant levels to identify sites that
+are likely to be contaminated. Risk assessment, including total cost assessment, and
+remediation should be applied to reduce risks to humans and ecological systems;
+• Identification of soils that are the most susceptible to the harmful effects of diffuse
+pollutants is needed. Appropriate attention should be given to reduce contaminant loads
+in these soils;
+10 Voluntary Guidelines for Sustainable Soil Management• Information on contaminated soil sites should be available to the public;
+• Contaminated soils should not be used for food and feed production;
+• Recycled nutrients originating from treated waste water or other waste materials that
+are used as soil amendments should be properly processed and tested to ensure they
+contain safe levels of contaminants and plant available nutrients. For instance, organic
+xenobiotics can pose a serious, incalculable and irreversible threat to soil fertility and
+human health; and
+• Outflows of flood water from paddy rice cultivation after applying fertilizers and
+pesticides should be minimized to avoid off-site effects.
+3.6 Prevent and minimize soil acidification
+Human-induced acidification of agricultural and forest soils is primarily associated with
+removal of base cations and loss of soil buffering capacity or increases in nitrogen and sulfur
+inputs (e.g. legume pastures fertilizer inputs, atmospheric deposition). Soils with low pH-
+buffering capacity and/or high aluminium content are most prevalent when they have a low
+content of weatherable minerals (e.g. ancient, strongly weathered soils, and soils developed
+from quartz-rich parent materials).
+• Monitoring soil acidity and minimizing surface and sub-surface soil acidity by using
+proper amendments (such as lime, gypsum and clean ash);
+• Balanced fertilizer and organic amendment applications; and
+• Appropriate use of acidifying fertilizer types.
+3.7 Preserve and enhance soil biodiversity
+Soils provide one of the largest reservoirs of biodiversity on earth, and soil organisms play
+key roles in the delivery of many ecosystems services. Little is known about the degree of
+biodiversity required to maintain core soil functions, but new tools for biochemical techniques
+and DNA analysis suggest significant progress in this area is possible.
+• Monitoring programs for soil biodiversity, including biological indicators (e.g. community
+ecotoxicology) and in-situ early warning signals, should be undertaken;
+• Soil organic matter levels supporting soil biodiversity should be maintained or enhanced
+through the provision of sufficient vegetative cover (e.g. cover crops, multiple crops),
+optimal nutrient additions, addition of diverse organic amendments, minimizing soil
+disturbance, avoiding salinization, and maintaining or restoring vegetation such as
+hedgerows and shelterbelts;
+• The authorization and use of pesticides in agricultural systems should be based on
+the recommendations included in the International Code of Conduct on Pesticide
+Management and relevant national regulations. Integrated or organic pest management
+should be encouraged;
+• The use of nitrogen fixing leguminous species, microbial inoculants, mycorrhizas (spores,
+hyphae, and root fragments), earthworms and other beneficial micro-, meso- and
+macro- soil organisms (e.g. beetle banks) should be encouraged where appropriate,
+with attention to limiting the risk of invasive processes by promoting the use of local
+biodiversity and avoiding the risk of disturbance in soil services;
+• Restoring plant biodiversity in ecosystems, thereby favouring soil biodiversity;
+• In-field crop rotation, inter-cropping, and preservation of field margins, hedges and
+biodiversity refuges should be encouraged; and
+3. Guidelines for sustainable soil management 11• Any land use change in areas with high biodiversity should be subject to land use planning
+and in line with the UNCBD, UNCCD and other relevant international instruments and
+with national law.
+3.8 Minimize soil sealing
+Land conversion and subsequent soil sealing for settlements and infrastructure affect all soils,
+but are of particular concern on productive, arable soils because of their importance for food
+production and food security and nutrition, and circular economy targets. In many places,
+urban sprawl affects the most productive soils adjacent to the cities and settlements. Soil
+sealing and land conversion causes a largely irreversible loss of some or all soil functions and
+the ecosystem services they provide.
+• Considering the total value of soils and to ensure the preservation of productive,
+arable soils, existing policies, relevant laws and land use planning procedures for the
+development of settlements and infrastructure should be reviewed as appropriate;
+• Where policy and legislation aim to minimize land conversion, measures should be
+implemented to encourage densification and re-use of existing urban or industrial areas
+such as abandoned areas and brownfields, and restoring degraded neighbourhoods after
+appropriate reclamation measures have been implemented. Ecological restoration of
+quarries and mining sites should be encouraged; and
+• Soils with significant ecosystem services including high soil carbon stocks, high biological
+diversity or high agricultural suitability should be protected from land conversion for
+settlements and infrastructure by special legislation.
+3.9 Prevent and mitigate soil compaction
+Soil compaction is related to the degradation of soil structure due to imposed stresses by
+machinery and livestock trampling. Soil compaction (reduced or disrupted pore continuity)
+reduces soil aeration by destroying soil aggregates and collapsing macropore density, and
+reduces water drainage and infiltration, generating higher runoff. Compaction limits root
+growth and seed germination by high mechanical impedance, affecting soil biodiversity and
+causing surface soil crusting.
+• Deterioration of soil structure due to inappropriate or excessive tillage should be
+prevented;
+• Vehicular traffic should be minimized to the absolutely essential, particularly on bare
+soils, by reducing the number and frequency of operations, creating controlled traffic
+systems, and by performing agriculture/forestry operations only when the soil moisture
+content is suitable down to deeper depth;
+• Machines and vehicles used in the field should be adjusted to soil strength and should be
+equipped with tyre pressure control systems or other means to reduce surface pressure
+(e.g. contact area), and use of heavy machinery should be avoided. During forestry
+operations, machine traffic should be restricted (e.g. controlled traffic) and brush mats
+used to help protect exposed soils from physical damage; on agricultural soils, controlled
+traffic and drive rows should be established, where possible;
+• Cropping systems should be selected that include crops, pasture plants and, where
+appropriate, agroforestry plants with strong tap roots (dense and fibrous root systems)
+able to penetrate and break up compacted soils;
+• An adequate amount of soil organic matter should be maintained to improve and
+stabilize soil structure;
+12 Voluntary Guidelines for Sustainable Soil Management• Macrofauna and microbial (especially fungal) activity should be promoted to improve soil
+porosity for soil aeration, water infiltration, heat transfer and root growth; and
+• In grazing systems, a sufficient cover of growing plants should be maintained to protect
+the soil from trampling and erosion; livestock management should take into account
+grazing intensity and timing, animal types and stocking rates.
+3.10 Improve soil water management
+A sustainably managed soil has rapid water infiltration, optimal soil water storage of plant
+available water and efficient drainage when saturated. However, when these conditions are
+not met, waterlogging and water scarcity problems arise. On the one hand waterlogging,
+which is related to the saturation of soil with water, creates rooting problems for many plants,
+thereby reducing yields, and can cause contaminants such as arsenic and methylmercury to
+become mobile in the soil. On the other hand, water scarcity occurring in areas where water is
+lost by evaporation, surface runoff and percolation, can cause crop failure.
+• In humid areas where precipitation exceeds evapotranspiration, additional drainage
+systems are needed to provide aeration for root functions like nutrient uptake. This is a
+concern especially in fine-textured soils which have high water retention capacity.
+• Surface and sub-surface drainage systems should be installed and maintained to control
+rising groundwater tables in order to mitigate potential waterlogging;
+• The efficiency of irrigation water use by plants should be increased through improved
+conveyance, distribution, and field application methods (e.g. scheduled drip or
+microsprinkler irrigation) that reduce evaporation and percolation losses of irrigation
+water, as well as through better soil water reserve estimation, better species or variety
+choices, and better computing of water loading periods and amounts;
+• In dryland cropping systems, measures should be implemented to optimize water-use
+efficiency such as the management of soil cover (e.g. previous crops, forage and fallow)
+and water harvesting to increase soil water availability at sowing; reduction of runoff
+and evaporative losses from the soil surface; and ensuring that there is adequate water
+available at each stage of crop development. These measures often involve trade-offs and
+risks that should be recognized and managed;
+• Optimal soil water extraction by the crop through the selection of appropriate cultivars
+and careful timing of agronomic operation should be promoted; and
+• Regularly monitor irrigation water quality for nutrients and potential harmful substances
+.
+3. Guidelines for sustainable soil management 13©FAO/Bahag
+14 Voluntary Guidelines for Sustainable Soil Management4. Dissemination, use and evaluation of the VGSSM
+Without prejudice to the voluntary nature of the present guidelines, all stakeholders are
+encouraged to promote, support and use the guidelines according to their respective individual
+or collective needs, mandates, abilities, and relevant national contexts. The successful use of
+the guidelines needs a collective action of multiple stakeholders in an inclusive, participatory,
+gender sensitive, cost-effective and sustainable manner. In doing so, evidence-based scientific
+knowledge as well as local knowledge should be used as appropriate.
+Acknowledging that States have the primary responsibility for achieving food security and
+nutrition of their population, they are encouraged to:
+• Take the lead in promoting the use and evaluation of the VGSSM;
+• Set up relevant platforms and frameworks, as appropriate, for collective action at local,
+national and regional levels, or use the existing facilities to promote these voluntary
+guidelines;
+• Promote effective extension services that rely on proper research and education
+institutions and mainstream SSM in their activities; and
+• Evaluate their use and the impact of improved soil management on food security,
+ecosystem services related to soil functions and on the efforts towards achieving the
+Sustainable Development Goals.
+In this endeavour, States may seek technical support from FAO or other international
+and regional bodies, as appropriate. The Regional and Sub-Regional Soil Partnerships are
+instrumental in disseminating and promoting the use of the VGSSM.
+Development partners, relevant specialized agencies and programmes of the United Nations,
+international financial institutions and regional organizations are encouraged to:
+• Support the dissemination and implementation of these voluntary guidelines; and
+• Facilitate, as appropriate, technical cooperation, financial assistance, capacity
+development, knowledge sharing and transfer of technology aimed at promoting SSM.
+For other stakeholders, the following is suggested:
+• Private sector enterprises involved in soil management are invited to promote the use
+of the guidelines with a focus on managing risks to maximize positive and minimize
+negative impacts on SSM, relevant to their context and circumstances;
+• Civil society organizations with relevance to soil management are invited to integrate
+the guidelines in their policies and programmes, advocate for the appropriate use
+of the guidelines and assist with building capacity of their members with the aim of
+contributing to SSM; and
+• Research organizations, universities, academia, extension organizations and/or
+programmes are invited to promote integration of the guidelines in their own policies,
+and facilitate knowledge exchange and skills development to contribute to SSM.
+The GSP, hosted by FAO, presents a global forum where different stakeholders learn from each
+other’s experiences and assess progress toward the implementation of these guidelines and
+their relevance, effectiveness and impact. The GSP Secretariat and the Intergovernmental
+4. Dissemination, use and evaluation of the VGSSM 15Technical Panel on Soils (ITPS) as its advisory body will report to the GSP Plenary Assembly on
+the progress in the implementation of the guidelines, as well as evaluate their impact and their
+contribution to the improvement of soil management.
+Dissemination and promotion of the guidelines at the regional level should be supported by all
+stakeholders, particularly through the Regional Soil Partnerships.
+In promoting the use of the VGSSM, possible synergies and collaboration with other relevant
+initiatives related to sustainable soil management could be explored.
+16 Voluntary Guidelines for Sustainable Soil ManagementThe Russian Federation and the European Commission
+are acknowledged for providing the financial support
+needed to develop and publish these guidelines.
+71.20/1/NE4786I
+Ministry of Finance of the
+Russian Federation

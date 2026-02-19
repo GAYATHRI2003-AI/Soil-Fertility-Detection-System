@@ -1,0 +1,453 @@
+979
+International Journal of Bio-resource and Stress Management 2015, 6(2):176-181 DOI: 10.5958/0976-4038.2015.00030.5
+Long-term Effect of Organic Manures and Biofertilizers on Physical and Chemical Properties
+of Soil and Productivity of Rice-Wheat System
+Dhiraj Kumar1, T. J. Purakayastha1* and Y. S. Shivay2
+1Division of Soil Science and Agricultural Chemistry, Indian Agricultural Research Institute, New Delhi (110 012), India
+NC 19.05.15 2Division of Agronomy, Indian Agricultural Research Institute, New Delhi (110 012), India
+Article History Abstract
+Manuscript No. AR979 A field experiment was conducted at the research farm of Indian Agricultural Research
+Received in 16th October, 2014 Institute, New Delhi on a sandy clay-loam soil (Typic Ustochrept) starting from Kharif-
+Received in revised form 6th February, 2015 2003 under organic amendments to rice-wheat cropping system. The experiment was
+Accepted in final form 25th March, 2015 laid out in a randomized block design with three replications and six treatments in
+a set. The treatments consisted of control (T), farmyard manure (FYM) (T); green
+1 2
+manure (GM) (T); GM+biofertilizers (B) (T); GM+FYM (T); and GM+FYM+B (T).
+Correspondence to 3 4 5 6
+In this study, the effect of organic amendments were evaluated on some physical soil
+properties and yield of the respective system by sampling the soil from three depths
+*E-mail: tpurakayastha@gmail.com
+(0-15, 15-30 and 30-60 cm) at the end of Rabi 2011-2012. The results of the study
+revealed that the plots where, farm yard manure (FYM) was incorporated along with
+Keywords green manure (GM) and biofertilizer (B), the yield of rice and wheat had substantially
+improved. The combination of B with GM+FYM had not only led to better soil bulk
+Productivity, rice-wheat, organic manures, density but even prove superior to FYM alone or GM alone. Soil aggregation was
+bio-fertilizers, physical properties significantly affected by organic amendments; particularly mean weight diameter
+(MWD) and geometric mean diameter (GMD) were increased to a tune of 73.5%
+and 34.6% over control in 0-15 cm soil layer. The water stable macroaggregate
+(WSMA) ranged from 54.60% under control to 71.27% under T in the surface
+>0.25mm 6
+soil (0-15 cm). The combined applications of FYM along with GM and B showed the
+highest contents of available N, P, K and S in soil. It is thus certain that the cumulative
+effect of GM+FYM+B proved to be the one that leads to increased productivity as
+well as increased soil physical properties.
+1. Introduction (Biswas and Sharma, 2008; Patil, 2008; Yadav, 1998; Yadav,
+2008), depletion of soil organic carbon and mineral nutrients
+Nutrient balance is one of the key components to increase
+(Prakash et al., 2008), waterlogging and salinization, increasing
+crop productivity. Excess and imbalanced use of nutrients
+nitrate concentration in well water (Singh et al., 1995), are the
+has caused nutrient mining from the soil, deteriorated crop
+consequences of the modern rice-wheat production system with
+productivity and ultimately the soil health. Replenishment
+its unbalanced and injudicious use of chemical fertilizers and
+of these nutrients through organics and in combination with
+pesticides. In commercial scale agriculture, the use of chemical
+organics and inorganics has a direct impact on soil health
+fertilizers cannot be ruled out completely. However, there is a
+and crop productivity. The production of rice and wheat in
+need for integrated application for alternate sources of nutrient
+a rotation is, however, facing a sustainability problem due
+to some practices of the modern production system with for sustaining the crop productivity (Tiwari, 2002). In view
+its indiscriminate use of chemical fertilizers and pesticides of great demand of chemical free Basmati rice throughout the
+(Nambiar, 1994; Duxbury et al., 2000; Ladha et al., 2000; world, it is imperative to study the effect of organic sources
+Yadav et al., 2000; Prasad, 2005). The deleterious effects of of nutrients available locally on the yield of rice-wheat
+agro-chemicals are clearly visible on soil structure, microflora, cropping system especially in Indo-Gangetic alluvial plains.
+food and fodder. The quality of produce is deteriorated mainly Nevertheless, it is also essential to study the long-term effect
+by entry of chemical residues in the plant body and then to the of organic agriculture practiced in rice-wheat cropping system
+food chain. The concerns such as declining factor productivity on health of the soil.
+176
+© 2015 PP HouseKumar et al., 2015
+The emerging scenario necessitates the need for the adoption aestivum, cv. HD 2643). The experiment was carried out in
+of package of practices which maintain soil health, makes a rice-wheat cropping system and the rice crop was taken
+the production system more sustainable and provides better before the wheat crop. For green manures, Sesbania aculeata
+food for meeting the nutritional requirements. It has been (SGM) was used for rice, and Leucaena green leaf manuring
+revealed from the studies on long-term fertilizer experiments (LGLM) was used for wheat. For biofertilizers, blue green
+that farmyard manure along with chemical fertilizers results in algae (BGA) were used in rice and Azotobacter in wheat.
+yield improvement and maintenance of soil fertility (Swarup, Farmyard manure was well decomposed and used at 10 t ha-1.
+1998). The use of organic soil amendments has been associated Sesbania aculeata was grown in the field in plots having the
+with desirable soil properties including higher plant available SGM treatment and incorporated in-situ after about 60 days
+water holding capacity and cation exchange capacity and lower of sowing, but before transplanting of rice, with the help of
+bulk density, and can foster beneficial microorganisms (Doran, a tractor drawn mould board plough followed by heavy disc.
+1995; Drinkwater et al., 1995). The role of biofertilizers for The green lopes of Leucaena leucocephala (Subabul) were
+enhancing the soil productivity by fixing atmospheric nitrogen, manually collected by pruning of shrubs planted on the side
+or by solubilising soil phosphorus, or by stimulating plant of Nala (Trench), located near the experimental field and
+growth through synthesis of growth promoting substances applied at 5 t ha-1 in the plots having the LGLM treatment. It
+has special significance in organic farming. Hence the studies was incorporated into soil with a tractor drawn heavy disc at
+with the objectives to assess the impact of different organic 20 days before the sowing of wheat. Multani mitti (Fuller’s
+amendments on system productivity of rice-wheat cropping earth) based BGA culture containing four micro-organisms
+system and some physical and chemical properties of soil Aulosira fertilissima, Nostoc muscorum, Tolypothrix tenuis
+were undertaken. and Anabaena variabilies was obtained from the National
+Centre for Conservation and Utilization of Blue Green Algae,
+2. Materials and Methods
+IARI, New Delhi and broadcasted uniformly at 2.5 kg ha-1 in
+2.1. Site and soil plots having the BGA treatment after 10 days of transplanting
+of rice. Strains of Azotobacter chroococcum specific to wheat
+The field experiment was conducted in the main block 14-C of
+was obtained from the Division of Microbiology, IARI, New
+the research farm of the Indian Agricultural Research Institute,
+Delhi, and used to inoculate the seeds as per the treatments.
+New Delhi-110012. It is situated at 28o4' N Latitude and 77o1' E
+Sowing of wheat was done by the pora method (sowing with
+Longitude at an elevation of 228.6 metres above the mean sea
+the simplest form of drill consisting of a pipe with a funnel
+level (Arabian Sea). The climate of New Delhi is sub-tropical
+and attached with the plough dropping seeds through (naali
+semi-arid, with dry hot summers and brief severe winters.
+or funnels) with the help of a hand plough in the rows spaced
+The soil of the experimental site was sandy clay loam (Typic
+at a spacing of 15 cm using a seed rate of 120 kg ha-1. The
+Ustochrept) of Gangetic alluvial origin, very deep (>2 m), flat
+pora method was used because some plots were sown with
+and well drained.
+Azotobacter culture treated seed, whereas other plots were
+2.2. Experimental design and treatments
+sown with untreated seed.
+Details of various treatment combinations were presented in
+2.3. Sampling, measurements and data analysis
+(Table 1). These treatment combinations were applied to both
+Sub-samples of soils were drawn by a tube auger from each
+rice (Oryza sativa L., cv. Pusa Basmati 1) and wheat (Triticum
+plot at three respective soil depths, (0-15, 15-30 and 30-60 cm)
+after the harvest of wheat. These were subsequently processed
+Table 1: Treatments used in the field experiment
+for further analysis. The soil bulk density was measured from
+Treat- Details
+desired depths separately from core samplers and calculated
+ments
+by the method prescribed by Veihmeyer and Hendrickson
+T Control
+1 (1948). Subsequently, soil aggregates were separated using
+T FYM @ 10 t ha-1 to rice and wheat
+2 weight sieving technique (Yoder, 1936). After wet-sieving,
+T SGM for rice and LGLM for wheat
+3 aggregates from each sieve were transferred to a set of pre-
+T SGM+BGA for rice and LGLM+Azotobacter for wheat weighed beakers, oven-dried at 60 °C until water evaporated
+4
+T SGM+FYM for rice and LGLM+FYM for wheat and weighed. The mean weight diameter (MWD), geometric
+5
+T SGM+FYM+BGA for rice and mean diameter (GMD) and water stable macroaggregate
+6
+LGLM+FYM+Azotobacter for wheat (WSMA) were calculated as an index of aggregation (Van
+>0.25mm
+Note: FYM: Farm yard manure; SGM: Sesbania green leaf Bavel, 1949; Kemper and Roseneau, 1986) using following
+manuring; LGLM: Leucaena green leaf manuring; BGA: formula:
+Blue green algae MWD = ∑xi wi ..................... (1)
+177
+© 2015 PP HouseInternational Journal of Bio-resource and Stress Management 2015, 6(2):176-181
+Where wi is the proportion of each aggregate class in relation inoculated in rice on yields of the succeeding wheat crop. The
+to whole, and xi the mean diameter of the class (mm). combination of GM+FYM was significantly better than GM
+and FYM alone in increasing grain yield.
+GMD=exp ∑ (wi log xi) / (∑ wi)..................... (2)
+3.3. Soil bulk density
+Where, wi is the weight of aggregates (g) in a size class with
+an average diameter xi. Incorporation of organic manures and biofertilizers reduced
+The oven dry soil samples (<2 mm) were analysed for available bulk density of soil (Figure 1) which is an important soil
+N (alkaline KMnO method by Subbiah and Asija, 1956), 0.5 characteristic for successful root development (Kuchenbuch
+4
+M NaHCO (pH 8.5) extractable P (Olsen et al., 1984) and 1N and Ingram, 2004). Bulk density was lowest in T with 1.55 Mg
+3 6
+NHOAc extractable K (Knudsen et al., 1984) following Page m-3 followed by T and T over the control, though the change
+4 5 4
+et al. (1982) and available S by turbidmetric method (Chesnin was non-significant. A higher bulk density value with similar
+and Yien, 1950). trend was observed in 15-30 cm and 30-60 cm soil depths.
+This might be due to increased compaction with increase in
+Statistical analysis was performed by the Windows-based
+soil depth.
+SPSS program (Version 16.0, SPSS, 2007, Chicago, IL). The
+SPSS procedure was used for analysis of variance to determine 3.4. Mean weight diameter (MWD) and geometric mean
+the statistical significance of treatment effects. Duncan’s diameter (GMD)
+multiple-range test was used to compare treatment means at Soil aggregation as represented by mean weight diameter
+5% probability. (MWD) and geometric mean diameter (GMD) were
+significantly affected by different combinations of organic
+3. Results and Discussion
+amendment practices (Table 3). The MWD in 0-15 cm soil layer
+3.1. Grain yield of rice ranged from 0.49 mm to 0.85 mm among different treatment
+combinations, with highest value in T. The value in T was
+Different combinations of organic amendments and biofertilizers 6 6
+73.5% higher than control T, followed by T, T and T. As far
+significantly influenced the grain yield of rice (Table 2). The 1 5 4 2
+as, GMD is concerned, T and T had registered an increment
+treatment combinations of GM+FYM and GM+FYM+B 6 5
+of 34.6% and 27.7% over T in 0-15 cm soil layer. Similar
+producing grain yields of 4.95 and 5.01 t ha-1, respectively 1
+trends were observed in 15-30 and 30-60 cm soil depth. It has
+were statistically at par and these were significantly higher
+been observed that, the treatments where FYM was applied
+over that obtained with FYM or GM alone. Maskina et al.
+alone or in combinations performed well or had better soil
+(1988) reported beneficial effect of FYM @ 12 t ha-1 in the
+aggregation. This might be ascribed due to close relationship
+absence of fertilizers increased the yield of wetland rice by
+between soil aggregation and organic matter status of the
+32%. Previously it was also reported that cumulative effects
+soil. There was application of organic matter where FYM
+of organic manures were higher as compared to their direct
+was applied in conjunction with GM or B. The organic matter
+effects (Sharma et al., 1995; Dwivedi and Thakur, 2000).
+stabilizes clay domains and between quartz particles and clay
+Further, Chinnusamy et al. (2006) reported that the combination
+of BGA+phosphate solubilising bacteria (PSB)+vesicular domains (Emerson, 1977). The beneficial effect of FYM could
+arbuscular mycorrhizae (VAM)+Azospirillum was best for be attributed to the marked effect on certain polysaccharides
+improvement in growth and yield traits and nutritional status formed during decomposition of organic residues by microbial
+of rice. These findings are in accordance with higher nutrient activity (Martin, 1945).
+supply through GM+FYM and GM+FYM+B than GM alone
+Table 2: Grain yield (t ha-1) of rice and wheat during 2011-
+or FYM alone.
+2012 as influenced by long-term application of organic
+3.2. Grain yield of wheat
+manures and biofertilizers
+The data on grain yield of wheat as influenced by different Treatments Grain yield (t ha-1)
+combinations of organic amendments and biofertilizers are
+Rice Wheat
+presented in (Table 2). Inoculation of B with GM+FYM i.e.,
+T 2.95e 2.80d
+T led to a yield of 4.86 t ha-1 which was 73.57% higher over 1
+6 T 4.81c 3.94c
+the control. Further, the combination of FYM and B with GM 2
+T 4.74d 3.84c
+improved yield over FYM or GM alone. This may be due to 3
+T 4.82c 4.40b
+the fact that, the application of B in wheat resulted in addition 4
+T 4.95b 4.42b
+of nutrients and some amounts of them can be expected from 5
+the residual effect of B applied to the preceding rice crop. Thus T 5.01a 4.86a
+6
+the cumulative effect of GM+B proved more effective than GM Columns with different lower case letters are significant
+alone. Rathore et al. (1995) reported a residual effect of BGA according to Duncan's Multiple Range Test (p=0.05)
+178
+© 2015 PP HouseKumar et al., 2015
+3.5. Water stable macroaggregate (WSMA) content in soil have been widely reported. The data pertaining
+>0.25mm
+to available phosphorus (P) content in 0-15 cm depth of soil
+The water stable macroaggregate (WSMA) ranged from
+>0.25mm
+54.60% under control to 71.27% under T in 0-15 cm soil depth after harvest of wheat varied from 31.74 kg ha-1 in T to 62.43
+6 1
+(Table 3). A lower % of WSMA with non-significant kg ha-1 in T with an increment of 96.7% over T. Further,
+>0.25mm 6 1
+difference across the treatments was observed at 30-60 cm FYM amended plots improved the content of available P over
+soil layer compared to 0-15 and 15-30 cm soil layers and other treatments. The increased in content of P might be due
+maintains the similar trend across the treatments. Differences to the fact that the organic anions compete with the phosphate
+in aggregation between the treatments might be due to the ions for binding sites on soil particles thereby reducing the
+differences in C inputs returned to the soil. The added organics P fixation (Panneerselvam et al., 2000). Long-term studies
+could supply additional fresh organic residues and C to the on rice-wheat system revealed that integrated application
+soil resulting in production of microbial polysaccharides that of organic manures and chemical fertilizers significantly
+increase aggregate cohesion which could explain the observed improved available N and P contents of soil (Kumar and Yadav,
+progressive increase in aggregate stability. Positive effects of 1995). The data on available potassium (K) content of soil for
+manure and straw application on aggregate stability have been 0-15 cm depth varied from a minimum of 396.48 kg ha-1 under
+reported in a number of studies (Tripathy and Singh, 2004; T to 475.66 kg ha-1 under T and 462.73 kg ha-1 under T.
+Singh et al., 2007). 1 5 6
+The application of FYM in conjunction with GM and GM+B
+3.6. Available nutrients i.e., T and T were at par to each other but these treatments
+5 6
+The available nitrogen (N) content in 0-15 cm soil varied from were superior over T. The beneficial effects of FYM on the
+1
+138.6 kg ha-1 in control (T) to 167.58 kg ha-1 in T treatment availability of K may be ascribed to the reduction in K fixation
+1 6
+(Table 4). The lowest value of available N in T was inferior and release of K due to the interaction of organic matter with
+1
+over all the other treatments except T, T and T. In general clay (Tolanur and Badanur, 2003). The available sulphur (S)
+2 3 4
+the application of organic amendments had led to increase in content in soil was increased significantly due to application
+the content of available N in soil. In T and T treatments, the of different combinations of organic sources. The available
+6 5
+increments were 21% and 8.5%, respectively over the control sulphur (S) content in top layer varied markedly from 51.44
+treatment. The beneficial effects of manuring on available N kg ha-1 under control to 89.86 kg ha-1 under T after 9 years of
+6
+Table 3: Impact of organic manuring and biofertilizer amendments on mean weight diameter (MWD), geometric mean
+diameter (GMD) and water stable macroaggregate (WSMA) in the 0-15, 15-30 and 30-60 cm soil layer after 9 years
+>0.25mm
+of rice-wheat cropping
+Treatments Mean weight diameter (mm) Geometric mean diameter (mm) % (WSMA)
+>0.25mm
+0-15 cm 15-30 cm 30-60 cm 0-15 cm 15-30 cm 30-60 cm 0-15 cm 15-30 cm 30-60 cm
+T 0.49b 0.23e 0.07b 1.59c 2.08d 2.54b 54.60d 50.50d 45.23a
+1
+T 0.79a 0.27c 0.08b 1.63bc 2.31b 2.63b 64.03bc 56.37c 50.13a
+2
+T 0.50b 0.24d 0.07b 1.64bc 2.22c 2.59b 59.43cd 52.00cd 48.60a
+3
+T 0.82a 0.29b 0.15a 1.71b 2.33b 3.35a 67.90ab 62.40b 50.30a
+4
+T 0.83a 0.32a 0.16a 2.03a 2.35b 3.38a 68.57ab 63.97b 51.17a
+5
+T 0.85a 0.33a 0.16a 2.14a 2.48a 3.44a 71.27a 72.33a 52.10a
+6
+Table 4: Long-term effect of organic manures and biofertilizers on distribution of soil available N, P, K and S in 0-15 cm,
+15-30 and 30-60 cm soil layer under rice-wheat cropping system
+Available nutrients (kg ha-1)
+Treatment 0-15 cm 15-30 cm 30-60 cm
+N P K S N P K S N P K S
+T 138.60c 31.74d 396.48b 51.44d 82.74bc 7.36e 269.42b 22.14c 37.80b 2.52c 145.66c 16.93a
+1
+T 139.86bc 53.92b 422.41b 73.58abc 83.16bc 11.35c 272.05b 32.56ab 39.06b 3.57abc 157.42bc 21.70a
+2
+T 139.86bc 27.33d 409.30b 56.65cd 76.02c 9.25d 282.74ab 40.37a 50.40a 3.57abc 158.26bc 22.14a
+3
+T 138.60c 29.22d 422.13b 80.74ab 93.24a 11.35c 298.54a 36.90a 48.30a 3.36bc 153.05bc 24.74a
+4
+T 150.36b 42.25c 475.66a 65.12bcd 89.46ab 14.92b 280.50ab 24.74bc 49.14a 4.20ab 181.16a 17.36a
+5
+T 167.58a 62.43a 462.73a 89.86a 95.76a 18.92a 284.20ab 32.56ab 46.20a 5.05a 162.46b 26.05a
+6
+N: Nitrogen; P: Phosphorus; K: Potassium; S: Sulphur
+179
+© 2015 PP House2
+1.9
+1.8
+1.7
+1.6
+1.5
+1.4
+1.3
+1.2
+T T T T T T T T T T T T T T T T T T
+1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
+0-15 15-30 30-60
+continuous addition of organic amendments to both rice and 15, 149-151.
+wheat. The application of FYM alone, GM+B treated soil and Chinnusamy, M., Kaushik, B.D., Prasanna, R., 2006. Growth,
+GM+FYM+B i.e., (T2, T4 and T6) showed highest content of nutritional and yield parameters of wetland rice as
+available sulphur in soil. Moreover, the subsurface layers of influenced by microbial constria under controlled
+soil almost showed similar trends in available N, P, K and S conditions. Journal of Plant Nutrition 29(5), 857-871.
+content, with decline in content with depth. Doran, J., 1995. Building soil quality. In: Proceedings of the
+1995 Conservation Workshop on Opportunities and
+4. Conclusion
+Challenges in Sustainable Agriculture. Red Dear, Alta,
+Canada, Alberta Tillage Conservation Society and Alberta
+The combined application of farm yard manure along with
+Agriculture Conservation, development Branch, 151-158.
+either green manures or green manures with biofertilizers
+Drinkwater, L.E., Letournean, D.K., Workneh, F., van
+consecutively for nine years significantly increased the grain
+Bruggen, A.H.C., Shennan, C., 1995. Fundamental
+yield of rice and wheat in Inceptisol of subtropical India. The
+differences between conventional and organic tomato
+above treatments could be promoted in rice-wheat system
+agroecosystems in California. Ecological Applications
+as an alternative source of nutrients to further improve the
+5, 1098-1112.
+physical properties of soil. Nevertheless, organic manuring
+Duxbury, J.M., Abrol, I.P., Gupta, R.K., Bronson, K., 2000.
+treatments also invariably increased the available N, P, K and
+Analysis of long-term soil fertility experiments with rice-
+S contents in soil.
+wheat rotation in South Asia. In: Abrol, I.P., Bronson, K.,
+5. Acknowledgements Duxbury, J.M., Gupta, R.K. (Eds.), Long-Term Soil Fertility
+Experiments in Rice-Wheat Cropping System. Rice-Wheat
+The authors are grateful to the Head, Division of Soil Science
+Consortium Res. Ser. No. 6, Rice-Wheat Consortium for
+and Agricultural Chemistry and Division of Agronomy, IARI,
+the Indo-Gangetic Plains, New Delhi, India, 7-22.
+New Delhi for providing the necessary infrastructure and
+Dwivedi, D.K., Thakur, S.S., 2000. Effect of organic and
+support during the research work. The fellowship received
+inorganic fertility levels on productivity of rice (Oryza
+through SRF, Indian Council of Agricultural Research and
+sativa). Indian Journal of Agronomy 45(3), 568-574.
+Indian Agricultural Research Institute, New Delhi by the senior
+Emerson, W.W., 1977. Physical properties and structure.
+author is gratefully acknowledged.
+In: Russell, J.S., Graecen, E.L. (Eds.), Soil Factors in
+6. References Crop Production in a Semi-arid Environment, St.Lucia,
+Australia: University of Queensland press, 78-104.
+Biswas, P.P., Sharma, P.D., 2008. A new approach for Kemper, W.D., Rosenau, R.C., 1986. Aggregate stability and
+estimating fertilizer response ratio-the Indian scenario. size distribution. In: Methods of Soil Analysis. Klute, A.
+Indian Journal of Fertilizers 4(7), 59-62. (Ed.), Part I. American Society of Agronomy Monograph
+Chesnin, L., Yien, C.H., 1950. Turbidimetric determinations of 9, 425-442.
+available sulphates. Soil Science of America Proceedings Kuchenbuch, R.O., Ingram, K.T., 2004. Effects of soil bulk
+© 2015 PP House
+)3-m
+gM(
+ytisned
+klub
+lioS
+International Journal of Bio-resource and Stress Management 2015, 6(2):176-181
+Figure 1: Soil bulk density (Mg m-3) at 0-15, 15-30 and 30-60 cm soil layer as influenced by organic manure and biofertilizers
+under rice-wheat cropping system. Error bars indicate SE(m).
+180Kumar et al., 2015
+density on seminal and lateral roots of young maize system. Indian Journal of Agronomy 40(1), 14-19.
+plants (Zea mays L). Journal of Plant Nutrition and Soil Sharma, S.N., Prasad, R., Singh, S., 1995. The role of mungbean
+Science 167, 229-235. residue incorporation on productivity and nitrogen uptake
+Kumar, A., Yadav, D.S., 1995. Use of organic manure and of a rice-wheat cropping system. Bioresource Technology
+fertilizer in rice (Oryza sativa)-wheat (Triticum aestivum) 67, 171-175.
+cropping system for sustainability. Indian Journal of Singh, G., Jalota, S.K., Singh, Y., 2007. Manuring and residue
+Agricultural Sciences 65(10), 703-707. management effects on physical properties of a soil under
+Knudsen, D., Peterson, G.A., Pratt, P.F., 1982. Lithium, sodium the rice-wheat system in Punjab, India. Soil and Tillage
+and potassium. In: Page, A.L., Miller, R.H., Keeney, Research 94, 229-238.
+D.R. (Eds.), Methods of soil analysis, part 2, Chemical Singh, S., Prasad, R., Sharma, S.N., 1995. Effect of blue green
+and microbiological properties. American Society of algae, nitrogen levels and modified urea materials on
+Agronomy, Soil Science Society of America, Madison, yield attributes and yield of wet land rice (Oryza sativa).
+Wisconsin, 225-246. Indian Journal of Agronomy 40(4), 594-597.
+Ladha, J.K., Fisher, K.S., Hossain, M., Hobbs, P.R., Hardy, Subbaiah, B.V., Asija, G.L., 1956. A rapid procedure for assessment
+of available nitrogen. Current Science, 259-260.
+B., 2000. Improving the productivity and sustainability
+Swarup, A., 1998. Emerging soil fertility management issues
+of rice-wheat systems of the Indo-Gangetic Plains: A
+for sustainable crop productivity in irrigated systems.
+synthesis of NARS-IRRI partnership research. Discussion
+In: Swarup, A., Reddy, Damodar., Prasad, R.N. (Eds.),
+paper no. 40. IRRI, Los Banos, Philippines, 1-31.
+Long-term Soil Fertility Management through Integrated
+Martin, J.P., 1945. Microorganisms and soil aggregates, I:
+Plant Nutrient Supply, Indian Institute of Soil Science,
+origin and nature of some of the aggregating substances.
+Bhopal, India, 54-67.
+Soil Science 59, 163-174.
+Tiwari, K.N., 2002. Nutrient management for sustainable
+Maskina, M.S., Singh, B., Singh, Y., Baddesha, H.S., Meelu,
+agriculture. Journal of Indian Society of Soil Science
+O.P., 1988. Fertilizer requirement of rice-wheat and maize-
+50(4), 374-397.
+wheat rotations on coarse textures soils amended with
+Tolanur, S.I., Badanur, V.P., 2003. Changes in organic carbon,
+farm yard manure. Fertilizer Research 17, 153-164.
+available N, P and K under integrated use of organic manure,
+Nambiar, K.K.M., 1994. Soil fertility and crop productivity
+green manure and fertiliser on sustaining productivity of
+under long-term fertilizer use in India. Indian Council
+pearlmillet-pigeonpea system and fertility of an Inceptisol.
+for Agricultural Research, New Delhi, India.
+Journal of Indian Society of Soil Science 51, 37-41.
+Olsen, S.R., Cole, C.V., Watanabe, F.S., Dean, L.A., 1954.
+Tripathy, R., Singh, A.K., 2004. Effect of water and nitrogen
+Estimation of available phosphorus in soils by extraction
+management on aggregate size and carbon enrichment
+with sodium bicarbonate. Circular U.S. Department of
+of soil in rice–wheat cropping system. Journal of Plant
+Agriculture 939.
+Nutrition and Soil Science 167, 216–228.
+Panneerselvam, S., Christopher, L.A., Balasubramanian,
+Van Bavel, C.H.M., 1949. Mean weight diameter of soil
+N., 2000. Soil available phosphorus and its uptake
+aggregates as a statistical index of aggregation. Soil
+by soybean (Glycine max, L. Merrill) as influenced
+Science Society of America Proceedings 14, 20–23.
+by organic manures, inorganic fertilisers and weed
+Veihmeyer, J., Hendrickson, A.H., 1948. Soil density and root
+management practices. Indian Journal of Agricultural
+penetration. Soil Science 65, 487-493.
+Research 34(1), 9-16.
+Yadav, D.S., 2008. Long-term effect of nutrient management on
+Patil, V.C., 2008. Declining factor productivity and improving
+soil health and productivity of rice (Oryza sativa)-wheat
+nutrient use efficiency. In: National Symposium on New
+(Triticum aestivum) system. In: National Symposium
+Paradigms in Agronomic Research. November 19-21,
+on New Paradigms in Agronomic Research, November
+2008. Navsari, Gujarat.
+19-21, 2008. Navsari, Gujarat.
+Prakash, A., Singh, V.P., Kumar, R., Singh, I.P., 2008. Effect
+Yadav, R.L., 1998. Factor productivity trends in a rice-wheat
+of organics and micronutrient fertilization in rice (Oryza
+cropping system under long-term use of chemical
+sativa)-wheat (Triticum aestivum) cropping system. In: fertilizers. Experimental Agriculture 34, 1-8.
+National Symposium on New Paradigms in Agronomic Yadav, R.L., Dwivedi, B.S., Pandey, P.S., 2000. Rice-wheat
+Research. November 19-21, 2008. Navsari, Gujarat. cropping system: assessment of sustainability under
+Prasad, R., 2005. Rice-wheat cropping systems. Advances in green manuring and chemical fertilizer inputs. Field
+Agronomy 86, 255-339. Crops Research 65, 15-30.
+Rathore, A.L., Chipde, S.J., Pal, A.R., 1995. Direct and residual Yoder, R.E., 1936. A Direct Method of Aggregate Analysis and
+effects of bio-organic and inorganic fertilizers in rice Study of the Physical Nature of Erosion Losses. Journal
+(Oryza sativa)-wheat (Triticum aestivum) cropping of American Society of Agronomy 28, 337-351.
+181
+© 2015 PP House

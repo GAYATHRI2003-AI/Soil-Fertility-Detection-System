@@ -1,0 +1,874 @@
+ICAR RABI AgRo-AdvIsoRy
+foR
+fARmeRs
+Indian Council of Agricultural Research
+Krishi Bhawain, New DelhiICAR Rabi Agro Advisory for Farmers
+September 2021, New Delhi
+Concept:
+Dr. T. Mohapatra, Secretary (DARE) & DG (ICAR)
+Guidance:
+Dr. A.K. Singh, DDG (Agricultural Extension), ICAR
+Compilation:
+Dr. Sushil Kumar Singh, Director, ICAR-ATARI, Zone-II, Jodhpur
+Layout & Design:
+Anil K. Sharma, CP&PRO/Consultant (PR&Exhibition), ICAR
+e-Published by:
+Dr. S.K. Singh, Project Director (DKMA), ICAR, New Delhi, and
+Laser typeset & printed at M/s. Royal Offset Printers, A-89/1, Naraina Industrial
+Area, Phase-I, New Delhi-110028. Mob.: 9811622258Content
+S. No. Particulars Page No.
+1. Messages v
+2. Foreword xi
+3. Preface xiii
+4. ICAR Agro-advisory for Rabi 2021-22: Introduction 00
+5. Zone-I: Himachal Pradesh, Punjab, Jammu & 00
+Kashmir, Ladakh, Uttarakhand
+6. Zone-II: Rajasthan, Haryana and Delhi 00
+7. Zone-III: Uttar Pradesh 00
+8. Zone-IV: Bihar, Jharkhand 00
+9. Zone-V: Odisha, West Bengal, Andaman & Nicobar 00
+Islands
+10. Zone-VI: Arunachal Pradesh, Assam, Sikkim 00
+11. Zone-VII: Manipur, Meghalaya, Mizoram, Nagaland, 00
+Tripura
+12. Zone-VIII: Maharashtra, Gujarat, Goa 00
+13. Zone-IX: Madhya Pradesh, Chhattisgarh 00
+14. Zone-X: Andhra Pradesh, Telangana, Tamil Nadu 00
+and Pudducheri
+15. Zone-XI: Karnataka, Kerala, Lakshdweep 00
+16. Agro-advisory in state language 00NARENDRA SINGH TOMAR
+MINISTER OF AGRICULTURE & FARMERS’ WELFARE,
+RURAL DEVELOPMENT AND PANCHAYATI RAJ
+GOVERNMENT OF INDIA
+KRISHI BHAWAN, NEW DELHI
+[kkn~; lqj{kk euq”; dh ewyHkwr vko’;drk gS vkSj Hkkjrh;
+fdlkuksa ,oa Ñf”k oSKkfudks us lfØ; Hkkxhnkjh fuHkkrs gq, ns’k ds
+yksxksa ds Hkj.k&iks”k.k dh ftEesnkjh cgqr vPNh rjg ls fuHkkbZ gSaA
+orZeku esa Ñf”k vkSj fdlku dY;k.k ea=ky;] Hkkjr ljdkj] lfØ;rk
+ds lkFk uhfrxr QSlys ysdj ns’k ds y?kq o lhekUr fdlkuksa dh
+leL;kvksa dks de djus ds fy, rRijrk ds lkFk dk;Z dj jgk gSA
+dksfoM&19 ds dkju mRiUu gqbZ oSf’od egkekjh Hkkjrh;
+vFkZO;oLFkk ds fy, cM+h pqukSrh ds :i esa mHkj dj lkeus vkbZ gSA
+bl egkekjh ds dkj.k fo’o Lrj ij yksxksa ds LokLF; vkSj vkthfodk
+ij dkQh izfrdwy izHkko iM+k gSA
+bu foijhr ifjfLFkfr;ksa esa Hkh o”kZ 2020&21 esa [kkn~;kUu Qlyksa
+dk mRiknu 308-65 fefy;u Vu ds fjdkWMZ Lrj ij igqap x;k gSA
+pkSFks vfxze vuqeku ds vuqlkj o”kZ 2020&21 ds nkSjku pkoy dk
+mRiknu 122-77 fefy;u Vu gqvk] tks fd fjdkWMZ gSA blh Øe esa
+nygu dk 25-72 fefy;u Vu] frygu dk 36-10 fefy;u Vu] eDdk
+dk 31-51 fefy;u Vu ,oa xsgq¡ dk 109-52 fefy;u Vu mRiknu ntZ
+fd;k x;k gS] tks fd bu lcdk fjdkWMZ mRiknu gSA Ñf”k fofofèkdj.k
+dks c<+kok nsrs gq, jk”Vªh; [kkn~; lqj{kk fe’ku ds varZxr nyguh o
+fryguh Qlyksa ds mRiknu esa vkRefuHkZj cuus ds iz;kl tkjh gSA
+Office : Room No. 120, Krishi Bhawan, New Delhi-110 001 Tel.: 23383370, 23782691 Fax : 23384129
+Resi.: 3, Krishna Menon Marg, New Delhi-110001, Ph.: 011-23794697 / 98, Fax: 011-23794696
+vo”kZ 2022 rd Ñ”kdksa dh vk; dks nksxquh djus ds egRodka{kh
+y{; dh izkfIr ds fy;s Ñf”k {ks= esa izlaLdj.k] Hk.Mkj.k] Ñf”kd
+mRiknu laxBuksa dk xBu dk xBu ,oa ,xzh bUÝkLVªDpj Q.M dh
+?kks”k.kk vkRefuHkZj Hkkjr fe’ku ds varxZr dh xbZ gSA blls vxys dqN
+o”kks± esa Ñf”k dks csgrj xfr iznku dh tk ldsxhA
+Hkkjrh; Ñf”k vuqla/kku ifj”kn us dksfoM egkekjh ls mRiUu
+pqukSfr;ksa dks xaHkhjrk ls ysrs gq, ykWdMkmu ls izHkkfor fdlkuksa dks
+bl eqf’dy le; esa gj laHko O;ogkfjd lek/kku o lq>ko miyC/k
+djkus esa lfØ; Hkwfedk fuHkkbZ gSA fu/kkZfjr y{;ksa dh izkfIr ds fy,
+Hkkjrh; Ñf”k vuqla/kku ifj”kn ,oa jk”Vªh; Ñf”k vuqla/kku iz.kkyh
+ds vU; ?kVdksa dk ;ksxnku vfregRoiw.kZ gSA blh ifjizs{; esa jch
+2021&22 ds fy, Hkkjrh; Ñf”k vuqla/kku ifj”kn }kjk Ñf”k o vU;
+fo/kkvksa ij vk/kkfjr lykg ¼,Mokbtjh½ fodflr dj Ñ”kdksa dks lgh
+le; esa miyC/k djkus dk ;g iz;kl ljkguh, gSA eq>s iw.kZ fo’okl
+gS fd fdlkuksa ds fy, ;g tkudkjh dkQh mi;qDr ,oa ykHkdkjh
+gksxh vkSj mUgsa blls Ñf”k ds {ks= esa mfpr ykHk izkfIr ds lkFk gh
+lkFk mudh vkenuh nksxquh djus esa enn feysxhAKAILASH CHOUDHARY
+MINISTER OF STATE FOR AGRICULTURE
+& FARMERS WELFARE
+GOVERNMENT OF INDIA
+dksfoM&19 ds dkj.k mRiUu oSf’od egkekjh dh nwljh ygj
+us lHkh ds fy, ,d tcjnLr pqukSrh [kM+h dh gSA bl egkekjh ls
+fuiVus ds fy, Hkkjr ljdkj us fofHkUu çdkj ds dk;ZØe o ;kstuk,a
+lapkfyr dh gSA Hkkjrh; —f”k vuqlaèkku ifj”kn~ us —f”k foKku dsUæks
+ds ekè;e ls viuh lsokvksa dks vfojy :i ls fdlkuksa rd igq¡pkus
+ds fy, fofHkUu çlkj&ç.kkfy;ksa ;Fkk bysDVªkfud] fMftVy o opqZvy
+ekè;e ls y‚dMkmu ds nkSjku lqpk: cuk;s j[kus esa ljkguh; dk;Z
+fd;k gSA Hkkjr esa vfèkdka'k tula[;k çR;{k ,oa vçR;{k :i ls —f”k
+ij fuHkZj gSA Hkkjr nwèk] elkys] nky] pk;] dktw vkSj twV dk 'kh”kZ
+mRiknd gS rFkk pkoy] xsagw¡] frygu] Qy ,oa lCth] xUuk vkSj dikl
+dk nwljk lcls cM+k mRiknd gSA bu lHkh rF;ksa ds ckotwn] Hkkjr esa
+dÃ Qlyksa dh vkSlr mRikndrk vis{kk ls de gSA c<+rh tula[;k
+o oSÜohdj.k ds çHkko ls xq.koÙkk vkSj Hkkstu dh ikSfIVdrk dh ekax
+c<+sxhA ,d vuqeku ds vuqlkj 2030 rd [kk|kUu dh ekax c<+dj
+345 fefy;u Vu gks tk,xhA
+Hkkjr ljdkj —f”k dh lHkh pqukSfr;ksa dk lkeuk djus dh
+dksf'k'k dj jgh gSa] ftlesa fdlkuksa dh NksVh tksr] çkFkfed vkSj
+ekè;fed çlajdj.k] vkiwÆr J`a[kyk] lalkèkuksa vkSj foi.ku ds dq'ky
+mi;ksx dk leFkZu djus okyk cqfu;knh <kapk] cktkj esa fcpkSfy;ksa dks
+Office : 199Q, Krishi Bhawan, New Delhi-110 001. Tel. : +91-11-23782343, 23388165 Fax : 23074190
+viide djuk 'kkfey gSA blds lkFk gh lwpuk çkS|ksfxdh Økafr] —f”k esa uÃ
+çkS|ksfxdh] fo'ks”k :i ls vuqlaèkku vkSj fodkl ij futh fuos'k] NksVh tksr
+,oa mit vkfn dh leL;kvksa ds lekèkku ds fy, lgdkjh@lewg vkèkkfjr
+ç;kl —f”k dk psgjk cny jgs gSaA
+rduhdh ,oa çkS|ksfxdh vkèkkfjr —f”k fodkl dh uÈo j[kh tk jgh
+gS] ftlesa Hkkjrh; —f”k vuqlaèkku ifj”kn dh Hkwfedk vfr egRoiw.kZ gSA
+Hkkjrh; —f”k vuqlaèkku ifj”kn ds }kjk fodflr jch 2021&22 ds fy, —f”k
+lykg ,oa rduhdh tkudkfj;k¡ fdlkuksa dks uohure ,oa lkef;d tkudkjh
+igq¡pkus esa lQy gksxhA ifj”kn dh bl igy ds fy, gkÆnd cèkkÃ nsrk gw¡A
+viiifoRewoRd
+Agriculture, which is the primary driver of rural economy
+providing food security to the country and employment to 58 percent of
+the population, continued to grow at an steady rate during the Covid-19
+Pandemic wave. Agriculture could perform well because of policy
+interventions, timely agro-advisories and farmers’ commitment along
+with good monsoon and cheaper and higher availability of labour, This
+has reflected on the GDP, the agricultural economy grew significantly by
+3.4 percent. During 2020-21, the food grain production in the country
+has reached the milestone of 308.65 million tons with record production
+of paddy, wheat and pulses. Accomplishing a record of 25.72 million
+tons of pulse production entails the story of pulses revolution in the
+country. However, for many commodities, impetus on adoption of latest
+farming practices and technology up-gradation at the grass roots level
+in different regions is required.
+Positive indications in oilseeds production i.e. 36.10 million tons
+in 2020-21 are the outcome of policy interventions, scientific approaches
+for Lab to Land and development initiatives. The Indian agriculture has
+to move towards diversification with focus on processing and value
+addition, and robust marketing system. The yield gaps and production
+gaps need to be bridged. Therefore, promoting best agricultural practices
+for enhancing farm production and income, while ensuring optimum
+use of resources, is major thrust of ICAR through Rabi Agro-Advisories
+2021-22. This document is meant to serve the farmers of the countr,
+across 28 States and 8 Union Territories, engaged in farming and allied
+sectors covering major crops, livestock and fisheries.
+ixI congratulate the Agrigultural Extension Division of ICAR and
+all the ATARIs for bringing out the publication in regional languages
+for the benefit of farmers.
+(T. Mohapatra)
+Secretary, DARE and Director General, ICAR
+Dated the 31st August, 2021
+New DelhiPRefACe
+The COVID-19 Pandemic has created unprecedented situation
+throughout the world. It has been more than a year and half since
+COVID-19 Pandemic threatened the human life by killing millions
+across the globe. During this crisis the economies of countries suffered
+heavily but agriculture sector showed lot of resilience. Growth of
+agriculture sector was not thwarted in India and it continued to set
+records of food grains production. Krishi Vigyan Kendras (KVKs), in
+tune with the policy directions and guidelines of Government of India
+and Indian Council of Agricultural Research (ICAR), reached farmers
+across the nation using Information and Communication Technology
+to issue farm advisories. KVKs also provided necessary input support
+by making available seeds and planting materials and agro advisories for
+farmers in regional languages.
+The Agricultural Technology Application Research Institutes
+(ATARIs) throughout India, collaborated with Research Institutes
+and State Agricultural Universities, State Agriculture and other Line
+Departments to develop Rabi advisories for the benefit of farming
+community across the country. The advisories include scientifically
+proven best practices related to crops, horticulture, livestock and
+fisheries to be followed by the farmers to obtain optimum production
+levels with maximum profit during Rabi season 2021-22.
+I am very hopeful that these advisories will help farmers and
+farmers’ groups in appropriate decision making in maximizing yields
+and enhancing farm income. I congratulate the team for bringing out
+such important compilation in real time frame for benefit of farming
+community of country.
+(A. K. Singh)
+Deputy Director General (Agricultural Extension)
+ICAR, New Delhi
+xiICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+AgRo-AdvIsoRy foR RABI-2021-22
+Introduction
+Despite the COVID-19 pandemic second wave, Indian Agriculture has
+excelled with unprecedented production of food grains attaining the
+mark of 308.65 million tons (MT) during 2020-21, with record output
+of rice (122.27 MT), wheat (109.52 MT), coarse grains (51.15 MT) and
+pulses (25.72 MT) in the food grain basket (4th Advance Estimate, MoA,
+2021). Much of this success has been possible owing to Governments’
+efforts in reaching millions of farmers, making available the inputs,
+proactive actions and framing farmers’ friendly policies.
+The second wave of COVID-19 (2021) pandemic posed a serious
+problem to the nation halting economic activities in one way or the
+other. However, concerted efforts with suitable technological options
+could show pathways under such circumstances. Technological options
+such as resource conservation and climate resilient technologies,
+promotion of hybrids, bio-fortified varieties, focussed approach on
+pulses and oilseeds, and crop diversification helped in addressing these
+challenges.
+Major field crops cultivated in Rabi includes cereals (wheat, barley,
+maize); oilseeds (mustard, linseed); pulses (chickpea, lentil, and field
+peas); commercial crops like cumin, coriander, fenugreek, fennel etc.
+vegetables and fruit crops. Sustaining pulses production can be ensured
+by demonstrating production, protection and improved technologies
+under different farming situation of Rabi pulses, judicious use of
+pesticides for control of insects, pests and diseases. Likewise, targeting
+oilseed production, will require adoption of planting techniques like
+Broad Bed Furrow (BBF) method, availability of seeds of improved
+varieties, participatory seed production, appropriate agronomic
+practices and targeting non-traditional areas. Impetus to horizontal
+coverage to oil palm in North Eastern states holds good for improving
+oil seed production.
+1ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+The focus should also be on rainfed agro-ecosystem which requires
+holistic planning, prioritization of resources and operationalization of
+district agricultural contingency plan. If addressed comprehensively,
+it can help in sustaining/ enhancing production and productivity of
+pulses, oilseeds and coarse cereals in the country apart from wheat
+during the ensuing Rabi season. Availability of seeds of multiple stress
+tolerant varieties, fertilizers, pesticides and supplement irrigation will
+add value to the production scenario. For ensuring the set targets, it is
+imperative to develop micro-level planning and its implementation at
+grass root level.
+To cope with shortages of labour and timely availability of inputs at
+affordable prices, farmers need to enhance the use of on-farm inputs
+especially organic manures, adopt best practices for increasing resource
+use efficiency and reduce cost of cultivation. After harvest of paddy,
+crop residue management should be given top priority by farmers in
+order to protect the environment, soil health and its micro-organisms.
+In view of this, ICAR has prepared agro-advisory for farmers for the
+early part of Rabi season across the country in all the 28 states and 8
+UTs covering major crops, livestock, poultry and fisheries. The agro-
+advisory and its regional translations have been organized for respective
+states under ATARI Zones (Zones 1 to 11) of the Agricultural Extension
+Division of ICAR. The crop, livestock and fisheries advisories mainly
+deal with best practices to be adopted by farmers during ensuing Rabi
+season. The technical aspects covered in the advisories are related to
+seed, soil, water, nutrient and health management in crops, vegetables
+&fruits, and livestock enterprises. The zone wise advisory in brief are
+given below-
+In Zone-I (Himachal Pradesh, Punjab, Jammu & Kashmir, Ladakh
+and Uttarakhand) major crops cultivated during Rabi are- wheat,
+mustard and chickpea. Farmers of these States/UTs are advised to
+use improved and high yielding varieties for cultivation of these
+crops along with other crops. The high yielding wheat varieties
+advised for sowing are Unnat PBW 343, Unnat PBW 550, PBW
+2ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+869, PBW 824, PBW 803, PBW 1 Chapati, PBW 1 Zn, PBW 725,
+PBW 677, HD 3086, WH 1105, HD 2967, PBW 621, WHD 943,
+PDW 291, PBW 752 (Biofortified), PBW 658, HS 542, HPW 360,
+HPW 155, HPW 349, HPW 249, HPW 236, VL 907, HS 507, HPW
+368, VL 892, HPW 373, Saptdhara, Him Pratham (DH 114), JAUW
+584, HD 3226, RSP 561, DPW 50, DBW 222, WB 02 (Biofortified),
+DBW 173 (Biofortified), WH 1124, DBW-90, HD 3059, WH 1021,
+Raj 3077, PBW 660, PBW 664, WH 1080, PBW 175, RSP 81, HD
+3237, HI 1620, WH 1142, HD 3043, HS 562, VL 832, HS 490, HS
+420, VL 804, HS 375, Shalimar Wheat -1, VL 738, HS 240, UP
+2903, UP 2938 UP 2855, UP 2784, UP 2628, UP 2554, DPW 621-
+50, PBW 502, WH 542, UP2944, UP 2844, UP 2865, UP 2526, UP
+2565, PBW 590, DBW 71, Raj 3765, PBW 396, PBW 644, PBW 299,
+UP 2572, UP 2584, VL 953, VL 829, HPW 42, HS 365, HPBW 01
+(Biofortified), PBW 771 (Biofortified), DBW 303 (Biofortified) and
+HD 3298 (Biofortified). Rapeseed and mustard varieties advised
+for sowing are KBS 3, HPBS 1, HPN 3, ONK 1, Shalimar Brown
+Sarson-1, Shalimar Brown Sarson-2, Shalimar Brown Sarson-3, TL
+17, TL 15, RCH 1, PHR 126, RLC 3, PBR 357, PBR 97, PBR 91, RLM
+619, PGSH 1707, GSC 7, GSC 6, Hyola PAC 401, PC 6, TMLC 2,
+Pusa Bahar, Pusa Basant, Pusa Mustard-25, Giriraj (DRMRIJ-31),
+RH-749, RSPR-69, NRCDR-2, RSPR-01, RSPR-03, RL-1359,
+Kranti, Varuna, Pusa Bold, RH-406, RH-30, NRCHB-101, KOS-
+1, KS-101 (Gulcheen), GSL-1, GSL-2, DGS-1, RSPN-25, RSPT-l,
+RSPT-2, RSPT-6, VL Toria 3, Pant Hill Toria 1, Uttara, Pant Pili
+Sarson 1, Pani Swela, Pant Girja, Pusa Mustard 27, Pant Rye 19,
+Pant Rye 20, Pant Rye 21, Ashirwad, Vardan, Pusa Mustard 30
+(Biofortified), Pusa Double Zero Mustard 31 (Biofortified), and
+Pusa Mustard 32 (Biofortified). Farmers are advised for sowing
+of following chickpea varieties - Himachal chana -1, Himachal
+chana-2, GPF-2, Palam chana-1, HPG 17, K-468, C-235m, Gaurav,
+GNG 1581, CSJ-515, Pant G 114, DCP 92-3, RSG 963, Pant G 186,
+Pusa 547, Pant G3, Pant G4, Pant G5, PBG 8, PBG 7, PBG 5 and
+PDG 4. Kabuli channa varieties of gram are L 552, Pusa 1003, Pusa
+3ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+1053, Pant Kabuli Channa 1, Pant Kabuli Channa 2 and Shubra for
+higher production & returns. Along with selection of suitable crop
+cultivars farmers are also advised to adhere to optimum sowing
+time for achieving higher productivity.
+Fruits cultivation is important source of income for farmers in
+these states and hence, farmers are advised to grow seasonal fruits
+with improved practices and integrated nutrient management,
+IPM and general management of fruit orchards have been advised
+for higher yields and income.
+Similarly, cultivation of Rabi vegetables with suitable cultivars
+are recommended for farmers of these states. Also, proper
+management of livestock for higher production is advised with
+improved practices.
+In Zone-II the farmers of states of Rajasthan, Haryana and Delhi
+are advised for selection of suitable crop cultivars in different
+crops and adhering to optimum sowing times for achieving higher
+productivity. The important Rabi annual crops in these states are-
+wheat, mustard, and chickpea. The suitable cultivars suggested for
+wheat are - Raj-3765, Raj-3777, Raj-4037, Raj-4120, Raj-4079, Raj-
+4238, KRL-210, DBW-303, DBW-48, WH 1105, WH 1184, WH
+283, WH 542, HD 2967, HD 3086, DBW 88, DBW 187, DBW 222,
+PBW 550, WH 1080, WH 896, and HD 943; for mustard NRCDR-2,
+DRMRIJ-31, NRCHB-101, RH-30, RGN-73, Bio-902, Aravali,
+RH-725, PM-32 (Bio-fortified), RGN-48, RGN-145 are advised;
+and for chickpea GNG-1581, GNG-2144, GNG-2171, GNG-1958,
+GNG-663, Pratap Chana-1, GNG-1969, KAK-2, Shubhra, Ujjaval,
+HC-1, HC- 3, HC- 5, CSJ-515, GNG-2144, GNG-2171, and RSG-
+501 varieties are recommended.
+Seed treatment, nutrient management and fertilizer application in
+all crops based on soil test to save on input use and reduce cost of
+cultivation is advised.
+Livestock is important component of agriculture for the farmers
+in these states hence, proper management of livestock viz. cattle,
+4ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+buffalo, goat& sheep is advised with improved practices for
+enhanced production.
+The ATARI-Zone-III covers state of Uttar Pradesh and major Rabi
+crops of the state include Wheat, Mustard, Chickpea, lentil, and
+Pea. The farmers are advised to sow suitable cultivars of these
+crops on time to get the optimum production. The recommended
+varieties of wheat include DBW-187 (Karan Vandana), DBW-222,
+252, 47, HS 542 (Pusa Kiran), K 8804, Deva, Indra, DBW 48, DBW
+303, and HD 3298 (Biofortified), while that of mustard include
+Varuna, Rohini, Vaibhav, Vardan, Basanti, and Urvashi. Farmers
+are advised to use following improved varieties of chickpea- JAKI
+9218, Alok, Karnal Chana-1, Surya, Udai, Pusa 372, and Subhra,
+Ujjwal, Pusa 1003, JGK 1 and KAK 2, while that of lentil include PL
+639, NDL-2, IPL-81, IPL-316, L 4076, HUL-57, and IPL 220
+Farmers are also advised for production of fodder (Berseem,
+Oats) to support livestock (dairy animals, poultry, goat & sheep)
+management during Rabi season.
+Rabi vegetables production is important source of income of
+farmers in the UP state, hence, farmers are advised to grow Rabi
+vegetables like Potato, Onion, Tomato, Cauliflower, Cabbage,
+Vegetable Pea, Carrot and Brinjal etc. using improved and
+suitable cultivars. Advisory is also given for growing of fruit
+(Aonla, Papaya, Guava) and spice crops (Garlic, coriander,
+fenugreek, and fennel) adopting improved practices.
+Bihar and Jharkhand states are covered under Zone-IV and wheat,
+Rabi maize, chickpea, lentil, rapeseed and mustard, are important
+Rabi crops in these states. Sowing of improved varieties of these
+crops has been advised to the farmers viz., DBW 187, HD 2967,
+K1317, DBW 39, CBW 38, PBW 343, Sabour Samridhi, HD
+3118, HI 1563, DBW 107, HP 1633, HUW 234, PBW 373, Sabour
+Shrestha, HD 3171, K 8027, and Sabour Nirjal, DBW 48, DBW
+303, and HD 3298 (Biofortified) of wheat; Ganga 11, DHM 103,
+Rajendra hybrid makka-1, ICI 705, Dhawal, Laxmi, Devaki,
+5ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Saktiman 1, Saktiman 2, of Rabi maize; RSG 44, Pusa 329, DCP-
+92-3, GCP105, KWR108, Pant gram3, Birsa chana 3, Pusa 372 of
+chickpea; PL 406, K 75 (Mallika), HUL 57, WBL 58, PL 777-12
+(Arun), Narendra Masoor 1 of Lentil; Sej 2, Pusa Mahak, Rajendra
+Rai Pichheti, Rajendra Anukool, Ashirvad, RGN 73, NRCHB 101,
+DRMR 150-35, NRCYS-05-02 and PM 32 (biofortified) of rapeseed
+and mustard.
+Farmers are also advised for growing of various vegetable (tomato,
+chilli, bitter gourd, French bean and Dolichos bean, cabbage,
+cauliflower, knol-khol, brinjal, beet, carrot, and radish) and fruit
+(Mango, Guava, and litchi) crops by adopting various improved
+practices for better yield and remunerative price.
+Advisory for management of livestock viz. dairy animals, poultry,
+and fisheries by adoption of various improved practise is also been
+given to the farmers in the state of Bihar and Jharkhand.
+In Zone-V (West Bengal, Odisha, and Andaman & Nicobar
+Islands) Boro/Rabi paddy, maize, lentil, summer green gram
+and rapeseed-mustard, are the major crops of Rabi season. The
+farmers of the zone are advised to use seeds of suitable improved
+varieties for higher production and return. For Boro & Rabi Paddy
+farmers are advised to grow IET-4786 (Satabdi), WGL-20471 (Lal
+minikit), IR-36, CR-126-42-1, IET-1444, IET-4094 (Khitish), CR
+Dhan 310, Hiranyamayee, improved Lalat, Manaswini, MTU-
+1010, Naveen, Rajlaxmi (Hybrid) and Ajay (Hybrid) varieties. For
+Rabi Maize improved varieties advised are- P 3396, Deccan 105,
+P 3546, Rajkumar, All-Rounder, 900 M Gold, PAC-740, Vijaya,
+Navjot, Madhuri, Naveen, Ganga-5, Kargil-633. For Lentil sowing
+of suitable varieties like WBL-77 (Moitree), L-4717 (PusaAgeti),
+KLS-09-3, PL-8, and IPL-316 are advised. For summer green gram
+improved varieties IPM-02-14 and IPM-205-7 are recommended.
+The following improved varieties of Rapeseed-Mustard are advised
+for sowing during Rabi season- Binoy, PM 32, Bhagirathi, PM-2-
+3, PM-99-125, PM-5, PM-28, PM-30, YSH-0401, NRCHB-101,
+TBM-204 and Tapeswar.
+6ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Advisory for cultivation of vegetable crops viz. tomato, chilli,
+bitter gourd, French bean and Dolichos bean, cabbage, cauliflower,
+knol-khol, brinjal, beet, carrot, and radish by following improved
+practices is also being given along with various fruit crops viz.
+Mango, Guava, and litchi.
+The animal husbandry, poultry and fisheries are also important
+component of agriculture in the zone and hence, advisory for
+management of these livestock enterprises is also given to the
+farmers.
+In Zone-VI (Assam, Sikkim and Arunachal Pradesh) Ahu/Rabi
+Rice, buckwheat, maize, lentil, rapeseed & mustard/toria, potato
+are the major Rabi crops. High yielding hybrids (F1 hybrids) like
+HQPM-1, C-1415, PAC-705 and composite varieties like Vijay,
+VL Makka-88, of maize are advised for sowing by the farmers.
+Recommended varieties of Lentil are HUL 57 (small seed lentil
+variety), Axom Masur 1 (SL 2-24) and Axom Masur 2 (SL 2-28).
+Improved varieties of Rapeseed & mustard/Toria advised for
+sowing are -TS 36, TS 38, Jeuti, TS 46 and TS 67, NRCHB-101,
+PM 26, PM 27, Pant Pili Sarson-1, Pant Sweta, Uttara and Benoy-9.
+Suitable varieties of Potato advised for sowing are- Kufri Sindhuri,
+Kufri Pukhraj, Khufri Bahar, Khufri Alankar, K. Jyoti, and K.
+Kanchan (red-skinned).
+Farmers of the zone are advised to grow various vegetable and
+fruit crops following all the improved practices for better yield and
+income.
+Poultry, piggery, cattle, goats, and fisheries are important livestock
+enterprises in the zone and farmers are advised to manage all these
+following recommended improved practices. Advisory is also
+given for mushroom cultivation and various community science-
+based enterprises/activities.
+In zone-VII (Manipur, Meghalaya, Mizoram, Nagaland, and
+Tripura) Boro paddy, maize, rapeseed & mustard/ toria, chickpea,
+field pea and lentil are important Rabi crops. The improved
+7ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+varieties of Boro paddy recommended are- Navin, MTU 1010,
+Tripura Chikon, Gomati, Bisnuprasad, Joymati, KRH 2, DRRH
+1, and Swarna Ganga Red. Maize varieties suitable for Rabi in the
+zone are- HQPM-1, HQPM-5, Hybrid 4558, Hero 22, DA61, RCM
+76, and Vivek Hybrid. For Field pea, varieties Aman, Prakash,
+Rachna and Aparna are advised for sowing. For Chickpea varieties
+like JG-14 and JG-16 are recommended for sowing. For Rapeseed
+& Mustard/ toria varieties such as M-27, TS-36, TS-46, PM 27, PM
+28, NRCHB 101, TRC-t-1-1-5-1, TRS-Y-01-5-1-1, SCRT 1-2-1,
+SCRT 1-2-3 and lentil variety like WBL-77, WBL-58, HUL-57 are
+advised for sowing.
+The farmers of the zone are also advised to grow various Rabi
+vegetables (cauliflower, cabbage, broccoli, chilli, tomato, onion,
+garlic, radish, carrot, beet root etc.) and fruit crops by adopting
+the improved practices for better yield and economic returns.
+The recommended varieties of Cabbage (Green Hero, Rare Ball),
+Cauliflower (White Excel, Sweta, Pusa snowball etc.), broccoli
+(Green magic, Harumi 88, Puspa etc.), tomato (Arka Rakshak,
+Arka Samrat), Onion (Arka Lalima, Bhima Shakti, Bhima Kiran,
+Prema) are advised to be used.
+The farmers in the zone are also advised for proper management of
+livestock including cattle, goat, pigs, poultry, and fisheries during
+the Rabi season by following all the recommended practices.
+Advisory is also given for mushroom production and various
+home science-based enterprises.
+In Zone-VIII (Maharashtra and Gujarat) wheat, chickpea, Rabi
+sorghum, safflower, mustard, cumin, onion, and sugarcane are
+important Rabi season crops. Sowing of improved wheat varieties
+Tryambak, Godawari, Tapowan, Parbhani-51, PDKV Washim,
+PDKV Sardar, AKAW-4647, AKAW-1071, GW-366, GW-496 and
+GW-451, GW-173 and GW-11 has been advised to the farmers.
+For mustard, sowing of recommended improved varieties Shatabdi
+(CAN-9), TPM-1, GDM-4, GDM-6 is advised. For cumin, sowing
+8ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+of recommended varieties GC-4 and GC- 5 is advised. For chickpea,
+advisory for sowing of improved varieties Akash, Phule Vikram,
+Phule Vikrant, JAKI-9218, PKV Kabuli-2, Virat, BDNGK-798 is
+given. Improved varieties like Parbhani Moti, Parbhani Super
+Moti, Phule Vasudha, Phule Revati, and PKV Kranti is advised for
+sowing for higher yield of Rabi sorghum. Improved varieties PBN-
+12, PBN-46, PBN-40 (non-spiny), PKV Pink (AKS-311), NARI-
+6 (non-spiny), NARI NH-1 (non-spiny) is advised for Safflower.
+Improved varieties of onion viz. Baswant-780, N-2-4-1, Agri
+Found Light Red, Phule Samarth, Bhima Super, Bhima Red, Bhima
+Shakti, Bhima Shubhra, GJWO-3, GAWO-2, Bhima Shweta, Bhima
+Safed, and Nasik-53 is recommended for Rabi onion cultivation.
+For sugarcane GNS 11 (Co N 13072), GNS 10 (Co N 13073),
+GNS 9 (Co N 9072), GNS 8(Co N 7072), MS-10001, VSI-08005,
+Co-86032, Co-8014 (Mahalaxmi), and CoM-0265 varieties are
+suggested for sowing.
+The farmers of the zone are also advised for adoption of improved
+practices for cultivation of major vegetable (brinjal, tomato, okra),
+fruit (pomegranate, citrus, mango, banana, and grapes) and
+floricultural (Gaillardia, Marigold, Chrysanthemum, Tuberose,
+Gladiolus, Jasmin, Rose) crops for higher yield and income.
+Advisory has also been given to the farmers of the zone for
+management of Dairy cattle, Goat, Poultry, Fodder and, Fisheries
+during the coming Rabi season.
+In zone IX (Madhya Pradesh and Chhattisgarh) wheat, chickpea,
+lentil, linseed, mustard, and sugarcane are major crops. Sowing
+of high yielding varieties of wheat, viz.- JW 3382, JW 3465, JW
+1201, GW 322, GW 273, GW 366, JW 3336, NI1633, HD 2864, HD
+2932, Ratan, Chhattisgarh Gehun-2, CG Gehun-3, Chhattisgarh
+Amber wheat, Kanishka (CG-1029), Chhattisgarh Hansa Gehun,
+Chhattisgarh Gehun-1023, HW 2004, HD-4672, HL-8627, HI-
+8713, MP-1215, HI-1531, HI-1544, MP-3336, MP-1203, HD-2332,
+HD-2864, JW-3288, DBW 48, DBW 303, and HD 3298 (Biofortified)
+9ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+advised to the farmers. For chickpea use of high yielding and pest
+tolerant varieties JG 14, JG 11, JG 130, JG 16, JAKI 92-18, JG 63, JG
+412, JG 226, JG 36, PBG 1, BG 267, GNG146, RVG 201, RVG 202,
+JGK 1, JGK 2, JGK 3, KAK 2, GG-1 (Gujarat Gram-1), Vaibhav,
+JG-14, Indira Chana-1, JSC-55, JSC-56, BGD-128 (Pusa Shubhra),
+IPCK-2002-29, IPCK-2004-29, IPC-2066-77 and JGG 1 has been
+advised. For better yield and returns from Lentil cultivation of
+improved varieties Lens-4076, IPL-81 (Noori), JL-3, IPL-316, RVL
+11-6, L-4717 (Pusa Ageti Masoor), RKL 14-20 (Kota Masoor-2),
+L-4727, Kota Masoor-1 (RKL-607-1), and Chhattisgarh Masoor-1
+is advised. For more returns from Linseed cultivation, sowing of
+high yielding multiple resistant varieties viz., JLS 66, JLS 73, JLS 95,
+RLC 148, RLC 164, JLS 79, R-552, Kiran, T-397, Padmini, Shekhar,
+Indira Alsi-32, Kartika, Deepika, Indravati Alsi, RLC-133, RLC-
+143, RLC-153 and RLC 167 is advised. Sowing of mustard varieties
+Pusa Tarak, Pusa Mahak, Pusa Agrani, Pusa Jai Kisan (BW-902),
+Pusa Bold, Kranti (PR-15), Vardan (RK 1467), Varuna (T-59),
+Chhattisgarh Sarson-1, Indira Toria-1 and Pusa Aditya are advised.
+High yielding and high sugar varieties viz. CoJN 86-600, CoJN
+86-141, CoJN 9505, COC 671, Co 94008 (Shyama), CoM 88121
+(Krishna), Co 86032 (Nayana) of sugarcane is recommended for
+cultivation.
+Farmers are advised to follow improved practices for cultivation of
+fruits (mango, guava, pomegranate, ber) and vegetable (Tomato,
+Cauliflower, Cabbage, Onion, Vegetable Pea, Chilli, Potato) crops
+during Rabi season.
+Advisory for management of Animal Husbandry enterprises viz.
+dairy, poultry, fisheries, and sheep & goat during Rabi season is
+also given to the farmers of the zone.
+In Zone-X (Andhra Pradesh, Telangana, Tamil Nadu &
+Pondicherry) Rice, maize, green gram, black gram, bengal
+gram, groundnut, sesame, and sugarcane are major crops. The
+major improved varieties of rice advised for cultivation during
+10ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Rabi are- Pushkala, Cottondorasannalu, Nellore Mahsuri,
+Cottondorasannalu, Tarangini, Chandra, Nandyala Sona, Talanaga
+Sona (RNR 15048), Batukamma (JGL 18047), Kunaram Sannalu
+(KNM 118), Tellahamsa (RNR 10754), VGD 1, TKM 13, CO 52, CO
+(R) 50, ADT 39, ADT 38, ADT 49, Improved White Ponni, ADT
+(R) 46, CR1009, ADT 53, CO 51, TPS 5, MDU 6, ADT 37, CORH
+3, ASD 16, and TKM 9. The improved varieties of maize advised for
+sowing are- DHM 113, NK-30, Bio 9681, MCH 36, JKMH 2492,
+DHM 121, Kohinoor, JKMH 175, MCH 2, KH 510, KMH 25K60,
+S 6217, DHM 115, Pioneer 3342, KH 5991, DKC 7074 R, Bio 605,
+Sun Vaman, Sugar 75, Bright Gene, BPCH 6, Prakash, PEH-1,
+Madhuri, Win Orange, Almora sweet corn, Pearl popcorn, VL 42,
+JH 3459, VL Baby corn 1, CO 6, COH(M) 8 and COH(M) 9. The
+varieties advised for sowing of Bengal gram/chickpea are- Nandyal
+Gram 452, Nandyal Gram 49, Dheera, Nandyala Sanaga1, JG 11,
+JAKI 9218, Nandyala Gram 119, KAK 2, Vihar and LBeG 7 (Lam
+Sanaga). The major improved varieties of green gram, viz., LGG
+460, LGG 407, TM 96-2, WGG 42, IPM 2-14, Co (Gg) 7, VBN(Gg)
+2, VBN(Gg) 3, CO 8, and VBN 4; and of Black gram, viz., GBG 1,
+TBG 104, LBG 787, LBG 752, LBG 685, LBG 645, LBG 709, LBG
+20, T9, PU 31, VBN 6, MDU 1, CO 6, VBN 8, VBN 10, ADT 6,
+KKM 1, VBN 6, and VBN 9 are advised for sowing. The improved
+varieties of groundnut viz. Dheeraj, Kadiri 6, Dharani, Narayani,
+ICGV 91114, Abhaya, Prasuna, Nitya Haritha, KadiriAmaravathi,
+KadiriHarithandra, Bheema, TAG 24, Greeshma and Rohini has
+been advised for sowing. Improved varieties of sesame advised
+for sowing are- Gouri, Madhavi, Varaha, Gowtham and Sarada,
+VRI(Sv) 2, TMV 7, and VRI 3. The major sugarcane varieties
+advised for sowing are- 85 A261, 84 A 125, Co 8014, 83 A 30, 87
+A 298, 99 V 30, 86 V 96, 91 V 83, 2000 V 59, 2003 V 46, 93 A 145,
+97A 85, 2001 A 63, 2003A 255, 2005A 128, 2009V 127 (Ranga) and
+2005T 16.
+Advisory is also provided for all the major fruit (Mango, banana,
+guava, papaya, sweet orange, acid lime, cashew, coconut) and
+11ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+vegetable (Tomato, brinjal, bhendi, gourds, chilli, annual moringa,
+tapioca, small onion) crops.
+The farmers of the zone are also advised to follow all the
+recommendations related to feeding, breeding, management, and
+vaccination of livestock enterprises (dairy, poultry, goat & sheep,
+fisheries) in coming Rabi season.
+The states of Karnataka, Kerala and Lakshadweep Islands are
+covered under Zone-XI and the major crops cultivated during
+Rabi season are- paddy, sorghum, maize, chickpea, sunflower,
+cotton, sugarcane, and coconut & other plantation crops. Farmers
+are advised to grow improved hybrid maize varieties viz., MAH-
+14-5, Hema and Nithyashree. In chickpea, early sowing and
+seed priming with CaCl (2%) to be practiced to induce drought
+2
+tolerance. Use of wilt resistant variety Jaki-9218 (25 kg / acre)
+in wilt endemic areas. Sowing new hybrids RSFH -1887, KBSH-
+42, KBSH-44 of sunflower is advised. In Rabi sorghum seeds to
+be treated with Calcium Chloride to get uniform emergence of
+seedlings and to induce drought tolerance. Farmers are advised to
+use onion varieties Bhima Dark Red, Bhima Shakti, Bhima Kiran,
+Bhima Light Red, Arka Nikitha, Arka Pragati, Arka Kirthiman,
+Arka Lalima and Arka Bheem (red onions) and Bhima Shubra,
+Bhima Shweta and Bhima Safed (white onions) for cultivation in
+Rabi season. Advised to follow modern methods of cultivation in
+watermelon like transplanting of seedlings against direct sowing,
+mulching, drip and fertigation and use of vegetable special (1g/lit)
+during fruit development stage. Paddy seeds may be soaked in a
+solution of Pseudomonas culture (10 g for 1 kg seed) to control
+sheath blight, sheath rot, leaf spot disease etc. as a prophylactic
+measure.
+Farmers are advised to go for mulching using dried leaves in
+existing pepper, ginger and turmeric plantations. Shade to be
+provided using coconut leaves to pepper vines planted last year.
+Spray Black Pepper special (micronutrient mixture) @ 5 gm per
+12ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+litre during September - October month in order to increase the
+yield. In coconut, mulch the crop with glyricidia and earthing up
+to be done after last application of fertilizer dose in the month of
+October. Farmers of plantation crops are also advised for adopting
+various plant protection measures, and irrigation and nutrient
+management in Rabi season.
+Farmers are also advised to grow various vegetable (Brinjal, tomato,
+cauliflower, cabbage, knol-khol, bhendi, brinjal, ridge gourd, leafy
+vegetables, gourds) by adopting improved practices for better
+yield and income. Foliar spray of the multi-nutrient mix, vegetable
+sampoorna is advised to rectify nutrient deficiencies, if noticed.
+Advisory is also given to the farmers for management of various
+livestock enterprises viz. dairy, poultry, goat & sheep, and fisheries
+during the coming Rabi season. Maximum cattle and buffaloes
+show oestrus symptoms in winter season. Farmers are advised
+to look for oestrus signs in animals viz., bellowing, mounting on
+other animals, cervical discharge, anorexia, reduction in milk yield
+and do Artificial insemination / Natural service accordingly for
+assured pregnancy.
+13ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Zone-I
+HImACHAL PRAdesH
+Himachal Pradesh is predominantly a hilly state, where majority area
+(about 80 %) is rainfed. During Rabi season wheat among cereals,
+chickpea & lentil among pulses and sarson among vegetables are
+predominant crops. Among vegetables, cole crops, peas, onion,
+and garlic are the main crops. Some important advisories to harness
+optimum returns are advocated for farmers.
+Wheat
+HS 542, HPW 360 cultivars of wheat are recommended for low
+and mid hill zone of the state under early sown conditions (Up
+to 20th October) whereas HPW 155, HPW 349, HPW 249, HPW
+236, VL 907, HS 507, HPW 368 are recommended for timely sown
+conditions (15 October- 15 November) in these zones. For late
+sown conditions (up to December end) VL 892, HPW 373 can be
+grown in low and mid hill conditions. HPW 155 and HPW 236 are
+recommended cultivars of wheat for high hill zone and Saptdhara
+and Him Pratham (DH 114) for high snow-covered areas under
+timely sown conditions (1-15th October).
+The sowing should be done in lines with spacing of 22 cm with
+seed rate of 100 Kg/ha and 150 Kg /ha for timely and late sown
+conditions respectively. Before sowing treat the seed with Bavistin
+@ 2.5 g/kg of seed. Apply full quantity of SSP (375Kg), MOP (50
+Kg) along with 50 per cent of Urea (130 Kg) along with FYM at the
+time of sowing while remaining half quantity of Urea should be
+given at the time of crown root initiation or occurrence of first rain.
+Since, weed causes heavy economic loss to the wheat crop and to
+avoid these losses, Vesta @ 400g/ ha or Chlodinafop @ 400g/ha
+followed by 2, 4- D @ 1.25 kg/ha after 2-3 days of Clodinofop spray
+are recommended for chemical management of weed problems.
+15ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+The spray should be done after the appearance of 2-3 leaf stage in
+weeds.
+Among diseases yellow rust and Karnal bunt are major problem in
+wheat crop which can be managed by the spray of Tilt @ 1ml per
+liter of water at the appearance of the symptoms. Termite is major
+pest among all pests in this crop and seed treatment with with
+chloropyriphos 20 EC @ 4ml/Kg seed along with soil incorporation
+of chloropyriphos 20 EC @ 2 L mixing with 25 Kg sand/ha at the
+time of sowing is recommended for the management of this pest.
+Chickpea
+Himachal chana -1, Himachal chana-2, GPF-2, Palam chana-1,
+HPG 17 are the recommended cultivars of chickpea. Treat the seeds
+with fungicide (Bavistin @2.5gm/Kg of seed) and biofertilizers like
+Rhizobium and Phosphorus solubilizing bacteria before sowing. Go
+for sowing of crop at proper soil moisture. Mid October is the best
+time for it’s sowing, and sowing should be done in lines with 30 cm
+line spacing for all cultivars except HPG 17 for which line spacing
+of 50 cm is recommended with optimum depth of 10-12.5 cm. The
+seed rate for small & medium sized seeded chickpea cultivars like
+Himachal chana -1, Himachal chana-2, GPF-2, Palam chana-1 is
+40-45 Kg/ha however, for bold seeded cultivars like HPG 17, seed
+rate of 80Kg/ha is recommended. Urea 65 Kg, SSP 375Kg and 50Kg
+MOP per ha is recommended for the cultivation of chickpea. The
+full dose of SSP, MOP and half dose of Urea should be applied at
+the time of sowing while reaming half dose of Urea should be given
+to crop after 4-5 weeks of sowing.
+For the management of pod borer in chickpea, spray the crop with
+Carbaryl 50 WP @1250 gm/ha and apply bavistin @1g / L of water
+for the management of Acochyta blight.
+Lentil
+Vipasha and Markandey are the recommended cultivars of Lentil
+which can be sown between October end to mid November
+16ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+with seed rate of 25-30Kg/ha. Urea 22Kg and SSP 250Kg/ha is
+recommended fertilizers which can be applied at the time of
+sowing.
+Brown sarson and Gobhi Sarson
+KBS 3, HPBS 1 and HPN 3, ONK 1, GSC 7 are the recommended
+cultivars of Brown and Gobhi Sarson respectively. First fortnight of
+October is the best time for the cultivation of these crops.
+The seed rate of 6Kg/ha is required, and sowing should be done
+with spacing of 30 cm line to line and 10 cm plant to plant. For
+brown sarson, apply full does of SSP (250Kg), MOP (65 Kg),
+Gipsum (140 Kg) along with 50% of Urea (65Kg) at the time
+of sowing while remaing dose of Urea should be applied before
+flowering. For Gobhi sarson, apply full does of SSP (375Kg), MOP
+(65 Kg) and 50% dose of Urea (125Kg) during sowing time and
+rest of Urea should be applied in two splits after 60 days and 80-90
+days after sowing.
+Two manual weeding are required between 40-70 days of sowing
+for the management of weeds. Spray of Pendimethalin (Stomp 30
+EC) @ 1.5 Kg /ha as a pre-emergence or Isoproturon @ 1Kg/ha
+in 700-800 l of water as post emergence (30-35 days of sowing) is
+recommended for the chemical method of weed management.
+Aphid is the major pest associated with this crop, which can be
+managed by the spray of methyl Demeton 25 EC or dimethoate 30
+EC @ 1ml/L of water.
+Winter vegetable
+Cole Crops (cauliflower, cabbage, and broccoli)
+Nursery sowing of cauliflower hybrids (Gibount, Fusiyama, Casper
+RZ, Swati, Shweta, Bio pearl white) in August-September & July
+-August (Mid group) and (Pahuja-71 & IAHS-9803) in October-
+November & September (Late group) in low & Mid hills and April-
+May (Late group) in high hills of HP for healthy seedlings on raised
+17ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+beds or poly trays or under protected structure.
+Nursery sowing of Cabbage hybrids (Pusa cabbage hybrid 1,
+Pusa cabbage hybrid-81, Varun, Pushkar) should be completed
+in August–September in low and mid hills for healthy seedlings
+on raised beds or poly trays or under protected structure, while
+transplanting should be completed from October – January.
+Nursery sowing of Broccoli varieties/ hybrids (Palam Samridhi,
+Palam Haritika, Palam Kanchan, Palam Vachitra, KTS-I and
+Punjab Broccoli-I.) should be completed in September to October
+in low & Mid hills.
+Apply FYM@ 200 -250 q per ha at the time of field preparation,
+NPK @120-180: 75-80: 60-75 kg per ha. Full dose of phosphorus
+and one-third of N and half of potassium should be applied at the
+time of transplanting. Remaining part of N should be top dressed
+at an interval of one month each while half of potassium is to be
+applied along with N during second top dressing. Borex can be
+added in the soil for the management of browning in cauliflower
+First light irrigation should be given immediately after transplanting
+of the seedlings and regular maintenance of optimum moisture is
+essential during growth and curd development. The harvesting of
+curds is to be done as soon as the curds attain prime maturity and
+compactness
+Harvesting of broccoli heads at correct time i.e., before the buds
+open and when the bud clusters are compact
+Damping off of seedlings is major problem in cole crops and for
+its control applies Mancozeb 25 g + carbendazim 10 g per 10 litres
+of water. Seed treatment with hot water (50 0C) and streptocycline
+(1g/ 10 L water) for 30 minutes each is advised for protection
+against black rot. In case of attack of aphids and cabbage butterfly,
+malathion @ 1ml/ L can be applied. Cypermethin @1mlL can be
+applied for protection against cut worms at early stage.
+18ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Garden Pea
+The sowing of important early pea varieties (Arkel, Palm Triloki,
+GS-10, AS-10) should be completed in September- October in low
+and mid hills & March- June in high hills.
+The sowing of main season pea varieties viz., PB-89, Him Palam
+Matar-1, AP-3, GS-10 should be completed in late October –
+November in low and mid hills & October – Mid November in
+high hills of HP.
+Application of FYM@ 20 -30 tons, 20-50 kg nitrogen, 30- 60 kg
+phosphorus and 30-60 kg potassium per ha should be applied at
+the time of sowing based on fertility status of the soil.
+First hoeing and earthing up should be completed after 2-3 weeks
+of sowing and second at flower initiation for higher yield. Pre-
+emergence application of Alachlor or Pendimethalin @ 3litres /ha
+is recommended to check the weeds in the initial growth stages
+Irrigations before flowering, during flowering and at pod formation
+stages are necessary for quality pods and higher yield.
+Picking of pods should be done either early in the morning or
+late in the afternoon. Picking should not be done during mid-day
+which deteriorates the quality of pea pod due to heat.
+Powdery mildew is serious problem in peas which can be controlled
+using karathane 0.5 ml or wettable sulphur 2.0 g or hexaconazole
+0.5 ml per L of water. For protection against leaf miner and pod
+borer lambda cyhalothrin 0.75 ml and malathion 2 ml per L of
+water can be applied, respectively.
+Onion and Garlic
+Nursery sowing of onion varieties (Palam Lohit, Nasik Red,
+Agrifound Dark Red) should be completed in mid-October – mid
+November in low & mid hill and transplanting should be completed
+in December- January (low & mid hill).
+The recommended varieties of garlic are GHC-1, Agrifound
+Parvati, Large Segmented and Solan Selection
+19ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Apply FYM@ 200-300 q/ha, nitrogen @ 60-150 kg, phosphorus @
+35-150 kg and potassium@ 25-120kg per hectare depending upon
+the soil test, cultivar and growing season. Apply 50% nitrogen
+and entire quantity of phosphorus and potash at the time of
+transplanting or bulb sowing. Remaining half of the nitrogen is top
+dressed 5-6 weeks after transplanting.
+Onions are ready for dry bulb harvesting when the tops get dried
+(or at neck fall stage) and bulbs are mature. Harvesting should be
+completed in last week of May, which increases storage life of bulbs.
+Root & Leafy Vegetables
+Sowing of root vegetables (Radish, Carrot & Turnip) should be
+completed in: August-September (Low hill), July – October (Mid
+hill) and March- August (High hill).
+The recommended varieties of Radish (Pusa Himani, Japanese
+white, White Icicle & Early Menu White), Carrot (Nantes, Solan,
+Rachna) and Turnip (Purple Top White Globe, Golden Ball,
+Snowball) should be sown
+Application of FYM @ 100 q/ha, nitrogen @ 50-90 kg, Phosphorus
+@ 50-80kg & Potash 40-80Kg/ha. Full dose of FYM, P, K and half
+of N should be applied at the time of sowing and remaining part
+of N should be top-dressed in two equal instalments at an interval
+of one month.
+Sowing of leafy vegetables (Spinach, Beet leaf, fenugreek &
+coriander) should be completed August-November & February
+-March in low hill, July- October & February- April (Mid hill) and
+March- June in high hill
+The recommended varieties of Spinach are (Pusa Harit, Banerjee
+Gaint), beat leaf (Virginia Savoy, Long Standing), Fenugreek (IC-
+74, Palam Soumya, Kasuri Methi, Pusa Kasuri) and Coriander
+(Mahak and local land races) should be planted.
+20ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Fruit crops
+Apple
+Prepare tree basins and apply recommended dose of FYM (100 kg/
+plant), Nitrogen (1.5 kg Urea per tree basin), Phosphorous (SSP
+2 kg per plant) and potash (MOP 1.7 kg per plant) for plants of
+age more than 10 years. Complete dose of Potash and phosphorous
+should be given at the Time of basin preparation along with FYM
+during December- January.
+Half dose of Nitrogen (750 g per tree) should be given 2-3 weeks
+before flowering and remaining quantity (750 g per tree) should be
+applied after one month.
+The fallen leaves of apple should be collected and decomposed in a
+compost pit or spray of 5% urea (10 kg in 200lt water) may be done
+on orchard floor on fallen leaves to ensure fast decomposition of
+infected leaves.
+During winters (November- December), expose the root system
+of infected trees and cut the infected portion and apply Bordeaux
+paint / chaubatia paste for the control of White root rot.
+Remove all dead, diseased braches at the time of pruning and apply
+Bordeaux paint/ chaubatia paste or any other Copper fungicide-
+based paint.
+Scarify wounds near collar region and apply Bordeaux paint/
+chaubatia paste or any other Copper fungicide-based paint during
+winter season.
+For the management of canker, scarify the diseased portion upto
+healthy region and apply Bordeaux paint/ chaubatia paste or any
+other Copper fungicide-based paint during winter season.
+Apply a mixture of lime + copper sulphate + linseed oil (30kg lime+
+500 gm copper sulphate + 500 ml linseed oil in 100 L water) on
+stems upto a height of 2-3 ft from the ground level during October-
+November for protection against sun burning.
+21ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Spray Horticulture Mineral Oil (2%) (20ml/L water) for the control
+of sanjose scale at green tip stage of apple bud.
+Spray melathion 50 EC (1ml/L water) or oxy-demeton methyl
+25 EC (1ml/L water) just after fruit set to kill crawlers and newly
+settled stage.
+Place Phorate Granules (25-30gm Thimet/Phorate 10G) or
+carbofuran (70-80 gm Furadon 3G) at 5cm depth in rhizosphere
+in April and October to control woolly apple aphid in non-fruiting
+trees.
+Drench with Chlorpyriphos 20 EC (4ml/L water) in collar region
+during October-November using at least 5 L of pesticide emulsion
+per tree in collar region for the control of woolly apple aphid. Spray
+with Chlorpyriphos 20 EC (2ml/L water) or quinalphos 25 EC
+(2ml/L water) in September- October to check aerial population of
+woolly apple aphid.
+For stem borer, clear the hole with flexible wire, insert cotton wick
+soaked in petrol/ dimethoate 30 EC (1ml/L water) and plug the
+hole with mud.
+Drench the tree basin with Chlorpyriphos (5ml/L water) during
+November- December for the control of root borer.
+Three to four honeybee hives to be kept per hectare in apple
+orchards for effective pollination during flowering period. Place
+the beehives at 5-10 per bloom.
+To check the deficiency of micronutrients, give a spray of
+micronutrient mixture (2.5 gm/L).
+For the management of scab/ powdery mildew give a spray of
+dodine (1gm/L water) or fluxapyroxad + difenconazole (30ml/100
+L water) at green tip stage.
+Recommendations against Hail damage:
+Spray 100 gm Carbendazim or 600 gm Mancozeb in 200 L of water
+immediately after hail but within 24 hours.
+22ICAR RABI AgRo-AdvIsoRy foR fARmeRs ICAR RABI AgRo-AdvIsoRy foR fARmeRs
+Spray 200 gm Boric acid + 500 gm Zinc sulphate + 250 gm Quick
+lime in 200 L of water within 3-4 days of hailstorm.
+After 10 to 12 days, a spray of micro-nutrients mixtures like
+Agromin, Multiplex or Microvit @ 400 to 600 g per 200 L of water
+should be given.
+Stone fruits (Plum, Peach, Apricots, Nectarines)
+Preparation of tree basins and application of recommended
+dose of FYM (40kg/plant), Nitrogen (1 kg Urea per tree basin),
+Phosphorous (SSP 1.5 kg per plant) and potash (MOP 1.2 kg per
+plant) for plants of age more than 7 years. Complete dose of Potash
+and phosphorous should be given at the Time of basin preparation
+along with FYM during Decemb

@@ -1,0 +1,258 @@
+{% extends "base.html" %}
+
+{% block title %}Soil Analysis - FertilityPro{% endblock %}
+
+{% block content %}
+<div class="analyze-container">
+    <div class="analyze-header">
+        <h1>Soil Fertility Analysis</h1>
+        <p>Enter your soil parameters for AI-powered fertility assessment</p>
+    </div>
+
+    <div class="analyze-content">
+        <!-- Input Form -->
+        <div class="form-section">
+            <h2>Soil Parameters</h2>
+            <form id="analysisForm" class="analysis-form">
+                <div class="form-grid">
+                    <!-- NPK Parameters -->
+                    <div class="form-group">
+                        <label for="nitrogen">
+                            <i class="fas fa-leaf"></i> Nitrogen (N)
+                            <span class="unit">kg/ha</span>
+                        </label>
+                        <input type="number" id="nitrogen" name="nitrogen" placeholder="0-600" step="1" required>
+                        <small>Optimal: 280-400 kg/ha</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="phosphorus">
+                            <i class="fas fa-circle"></i> Phosphorus (P)
+                            <span class="unit">kg/ha</span>
+                        </label>
+                        <input type="number" id="phosphorus" name="phosphorus" placeholder="0-50" step="1" required>
+                        <small>Optimal: 15-40 kg/ha</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="potassium">
+                            <i class="fas fa-circle"></i> Potassium (K)
+                            <span class="unit">kg/ha</span>
+                        </label>
+                        <input type="number" id="potassium" name="potassium" placeholder="0-400" step="1" required>
+                        <small>Optimal: 110-280 kg/ha</small>
+                    </div>
+
+                    <!-- pH -->
+                    <div class="form-group">
+                        <label for="ph">
+                            <i class="fas fa-flask"></i> pH
+                            <span class="unit">0-14 scale</span>
+                        </label>
+                        <input type="number" id="ph" name="ph" placeholder="0-14" step="0.1" min="0" max="14" required>
+                        <small>Optimal: 6.0-7.0</small>
+                    </div>
+
+                    <!-- EC -->
+                    <div class="form-group">
+                        <label for="ec">
+                            <i class="fas fa-wave-square"></i> EC
+                            <span class="unit">dS/m</span>
+                        </label>
+                        <input type="number" id="ec" name="ec" placeholder="0-10" step="0.1" required>
+                        <small>Optimal: 0.4-1.2 dS/m</small>
+                    </div>
+
+                    <!-- OC -->
+                    <div class="form-group">
+                        <label for="oc">
+                            <i class="fas fa-leaf"></i> Organic Carbon
+                            <span class="unit">%</span>
+                        </label>
+                        <input type="number" id="oc" name="oc" placeholder="0-10" step="0.1" required>
+                        <small>Optimal: 2.5-4.0%</small>
+                    </div>
+
+                    <!-- Micronutrients -->
+                    <div class="form-group">
+                        <label for="sulfur">
+                            <i class="fas fa-atom"></i> Sulfur (S)
+                            <span class="unit">mg/kg</span>
+                        </label>
+                        <input type="number" id="sulfur" name="sulfur" placeholder="0-50" step="0.1" required>
+                        <small>Optimal: 12-20 mg/kg</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="zinc">
+                            <i class="fas fa-atom"></i> Zinc (Zn)
+                            <span class="unit">mg/kg</span>
+                        </label>
+                        <input type="number" id="zinc" name="zinc" placeholder="0-5" step="0.1" required>
+                        <small>Optimal: 1.5-3.0 mg/kg</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="iron">
+                            <i class="fas fa-atom"></i> Iron (Fe)
+                            <span class="unit">mg/kg</span>
+                        </label>
+                        <input type="number" id="iron" name="iron" placeholder="0-200" step="0.1" required>
+                        <small>Optimal: 60-100 mg/kg</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="boron">
+                            <i class="fas fa-atom"></i> Boron (B)
+                            <span class="unit">mg/kg</span>
+                        </label>
+                        <input type="number" id="boron" name="boron" placeholder="0-3" step="0.1" required>
+                        <small>Optimal: 0.5-1.5 mg/kg</small>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-lg">
+                    <i class="fas fa-play-circle"></i> Analyze Soil
+                </button>
+            </form>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-section" id="resultsSection" style="display: none;">
+            <h2>Analysis Results</h2>
+            
+            <div class="result-cards">
+                <div class="result-card main-result">
+                    <div class="result-status" id="fertilityStatus">
+                        <h3>Fertility Status</h3>
+                        <p class="status-badge" id="statusBadge">--</p>
+                    </div>
+                    <div class="result-score">
+                        <p>Final Score</p>
+                        <h2 id="finalScore">0</h2>
+                    </div>
+                </div>
+
+                <div class="result-card">
+                    <h4>Limiting Factor</h4>
+                    <p id="limitingFactor" class="result-value">--</p>
+                    <p id="limitingFactorValue" class="result-description">--</p>
+                </div>
+
+                <div class="result-card">
+                    <h4>Index Score</h4>
+                    <p id="indexScore" class="result-value">0</p>
+                    <p class="result-description">Fertility potential</p>
+                </div>
+            </div>
+
+            <!-- Recommendations -->
+            <div class="recommendations-section">
+                <h3>Recommendations</h3>
+                <div id="recommendationsList" class="recommendations-list">
+                    <!-- Recommendations will be populated here -->
+                </div>
+            </div>
+
+            <!-- Parameter Assessment -->
+            <div class="parameter-assessment">
+                <h3>Parameter Assessment</h3>
+                <div class="parameter-grid">
+                    <div class="param-card">
+                        <h5>NPK Status</h5>
+                        <p id="npkStatus">--</p>
+                    </div>
+                    <div class="param-card">
+                        <h5>pH Status</h5>
+                        <p id="phStatus">--</p>
+                    </div>
+                    <div class="param-card">
+                        <h5>EC Status</h5>
+                        <p id="ecStatus">--</p>
+                    </div>
+                    <div class="param-card">
+                        <h5>OC Status</h5>
+                        <p id="ocStatus">--</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.getElementById('analysisForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    const formData = {
+        nitrogen: document.getElementById('nitrogen').value,
+        phosphorus: document.getElementById('phosphorus').value,
+        potassium: document.getElementById('potassium').value,
+        ph: document.getElementById('ph').value,
+        ec: document.getElementById('ec').value,
+        oc: document.getElementById('oc').value,
+        sulfur: document.getElementById('sulfur').value,
+        zinc: document.getElementById('zinc').value,
+        iron: document.getElementById('iron').value,
+        boron: document.getElementById('boron').value
+    };
+
+    try {
+        const response = await fetch('/api/analyze', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(formData)
+        });
+
+        const result = await response.json();
+
+        if(result.success) {
+            displayResults(result.data);
+            document.getElementById('resultsSection').style.display = 'block';
+            document.getElementById('resultsSection').scrollIntoView({ behavior: 'smooth' });
+        } else {
+            alert('Analysis failed: ' + result.error);
+        }
+    } catch(error) {
+        alert('Error: ' + error.message);
+    }
+});
+
+function displayResults(data) {
+    // Update status badge
+    const status = data.classification || 'UNKNOWN';
+    const statusBadge = document.getElementById('statusBadge');
+    statusBadge.textContent = status;
+    statusBadge.className = 'status-badge badge-' + status.toLowerCase();
+
+    // Update scores
+    document.getElementById('finalScore').textContent = (data.final_score || 0).toFixed(2);
+    document.getElementById('indexScore').textContent = (data.index_score || 0).toFixed(2);
+
+    // Update limiting factor
+    const limitingFactor = data.limiting_factor || 'None';
+    document.getElementById('limitingFactor').textContent = limitingFactor;
+    
+    // Recommendations
+    const recommendations = data.recommendations || [];
+    const recList = document.getElementById('recommendationsList');
+    recList.innerHTML = '';
+    
+    if(recommendations.length > 0) {
+        recommendations.forEach(rec => {
+            const recElement = document.createElement('div');
+            recElement.className = 'recommendation-item';
+            recElement.innerHTML = `
+                <h5>${rec.issue || 'Recommendation'}</h5>
+                <p><strong>Action:</strong> ${rec.product || 'N/A'}</p>
+                <p><strong>Rate:</strong> ${rec.rate || 'N/A'}</p>
+                <p><strong>Expected Impact:</strong> ${rec.expected_impact || 'N/A'}</p>
+            `;
+            recList.appendChild(recElement);
+        });
+    } else {
+        recList.innerHTML = '<p>No specific recommendations needed.</p>';
+    }
+}
+</script>
+{% endblock %}

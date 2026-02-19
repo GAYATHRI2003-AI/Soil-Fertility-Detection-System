@@ -1,0 +1,718 @@
+SUSTAINABLE MANAGEMENT OF SOIL HEALTH
+(ISBN: 978-93-88901-98-7)
+Editors
+Dr. Surajyoti Pradhan
+Dr. Prem Kumar Bharteey
+Dr. Sushmita Thokchom
+August 2023First Edition: August, 2023
+ISBN: 978-93-88901-98-7
+© Copyright reserved by the Editor
+Publication, Distribution and Promotion Rights reserved by Bhumi Publishing, Nigave Khalasa,
+Kolhapur
+Despite every effort, there may still be chances for some errors and omissions to have crept in
+inadvertently.
+No part of this publication may be reproduced in any form or by any means, electronically,
+mechanically, by photocopying, recording or otherwise, without the prior permission of the
+publishers.
+The views and results expressed in various articles are those of the authors and not of editors or
+publisher of the book.
+Published by:
+Bhumi Publishing,
+Nigave Khalasa, Kolhapur 416207, Maharashtra, India
+Website: www. bhumipublishing. com
+E-mail: bhumipublishing@gmail. com
+Book Available online at:
+https://www. bhumipublishing. com/book/PREFACE
+A summary of how to improve soil health can be found in the new book
+"Sustainable Soil Health Management" by Dr. Surajyoti Pradhan, Dr. Prem Kumar
+Bharteey and Dr. Sushmita Thokchom. This book is a compilation of important
+articles written by renowned experts in the field of managing soil health and
+Sustainable Agriculture. Soil is essential for economic and social growth because it
+provides food, fodder, fiber, and renewable energy to support human, animal, and
+plant life. However, in our rush to grow more food, soils have been particularly abused
+to the point where they are now threatening our health and well-being. Because there
+is no chance of increasing cultivated area further, much of the desired increase in food
+grain output must be done through increasing productivity per unit area. Soil health, a
+physical, chemical, and biological process, is currently displaying signs of tiredness as a
+result of intensive cultivation, over-mining of nutrients by crops, and lower
+replenishment through organic and inorganic sources of organic nutrients. One of the
+reasons for stagnant or declining yields is frequently attributed to the ongoing
+reduction in soil health. Our soils are not only not very fertile, but over time, multi-
+nutrient deficits are being created in many regions due to improper, unbalanced, and
+inefficient nutrient utilization. This, along with ineffective field water management, is
+the main factor contributing to low nutrient and water use efficiency, which raises
+production costs. Every year, there is a net deficiency of around 10 million tonnes of
+nutrients added and removed from the soil in Indian agriculture. Soils are currently
+displaying a lack of secondary nutrients such as sulphur, as well as a lack of/toxicity of
+certain micronutrients. The ICAR institutes, SAUs, and All India Co-ordinated Research
+Projects (AICRP) have developed a number of location-specific and environmentally
+friendly technologies to improve and maintain soil physical, chemical, and biological
+health and yield sustainability. This can be achieved only by implementing sustainable
+methods and sustainable solutions in agriculture which have been discussed in the
+current book in order to protect, maintain, and promote soil health and to achieve the
+objective of increased productivity and sustainability without causing any harm to the
+soil system or the environment, suggestions have also been made to review, improve,
+and reinforce the current programs. We hope that this book imparts basic and
+innovative knowledge of several soil health and Sustainable agriculture
+- EditorsTABLE OF CONTENT
+Sr. No. Book Chapter and Author(s) Page No.
+SOIL HEALTH AND IT’S CO-RELATIONSHIP WITH
+SUSTAINABLE AGRICULTURE
+1. 1 – 6
+Surajyoti Pradhan, Prem Kumar Bharteey, Ayush Bahuguna,
+Nidhi Luthra and Sudhir Pal
+ROLE OF MICRO-ORGANISM FOR IMPROVING SOIL HEALTH
+2. 7 – 19
+Manoharmayum Monica Devi and Keisham Dony Devi
+IMPACT OF MACRO-ORGANISMS ON SUSTAINABLE SOIL
+HEALTH
+3. 20 – 27
+Keisham Dony Devi, Manoharmayum Monica Devi and
+Toko Jumi
+THE FUNCTIONAL AND ENVIRONMENTAL BENEFITS OF
+4. BIOENGINEERED MICROORGANISMS 28 – 39
+Lal Ji Bharti and Ramdeen Kumar
+INM: A KEY FOR SOIL HEALTH AND SUSTAINABLE
+AGRICULTURE
+5. 40 – 52
+Jahnabi Hazarika, Surajyoti Pradhan,
+Pritom Kumar Borthakur and Sanjib Sharma
+ROLE OF ORGANIC MANURE FOR IMPROVING SOIL HEALTH
+6. Vikash Kumar Shakywal, Surajyoti Pradhan, 53 – 71
+Srijana Marasini and Ramdeen Kumar
+COMPOSTING: AN EFFECTIVE APPROACH FOR
+7. SOIL HEALTH MANAGEMENT 72 – 83
+Priyobarta Singh Khumukcham and Chandan A. S
+VERMICOMPOST: A VIABLE RESOURCE IN ORGANIC
+8. FARMING 84 – 91
+Shweta Rathour and Ramdeen Kumar
+APPLICATION OF BIOCHAR: AN EFFECTIVE WAY OF
+IMPROVING SOIL FERTILITY
+9. 92 – 97
+Chandan A.S, Ranjan Das, P. Sandhya Rani,
+N.V. Sarala and Rajesh Chintey
+SOIL HEALTH MANAGEMENT IN DRYLAND AREAS
+10. 98 – 107
+Jyotirupa Kalita, Tilak Prasad Panika and Francis Xavier Barla
+ORGANIC PLANT NUTRIENT FOR MAXIMIZING NUTRIENT
+11. USE EFFICIENCY 108 – 118
+Jahnabi Hazarika and Tilak Prasad PanikaCLIMATE SMART CROPPING SYSTEMS: LEADING THE WAY
+12. IN SOIL HEALTH MANAGEMENT 119 – 128
+Sayoni Das, Ombir Singh, Sandeep Kumar and Ranjeet Kumar
+ROLE OF INTEGRATED FARMING SYSTEM IN SUSTAINED
+13. FARMER’S INCOME 129 – 137
+Chandan A. S. and Priyobartasingh Khumukcham
+INTEGRATING NANOTECHNOLOGY INTO AGRICULTURAL
+14. SYSTEMS FOR SUSTAINABILITY 138 – 146
+Surajyoti Pradhan Rajashree Patra and Ramdeen Kumar
+NATURAL FARMING: WAY FOR SUSTAINABLE AGRICULTURE
+15. 147 – 164
+Surajyoti Pradhan and Geetanjali PradhanSustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+CHAPTER 1
+SOIL HEALTH AND IT’S CO-RELATIONSHIP WITH
+SUSTAINABLE AGRICULTURE
+Surajyoti Pradhan*1, Prem Kumar Bharteey2, Ayush Bahuguna2,
+Nidhi Luthra2 and Sudhir Pal2
+1Department of Agronomy, KVK, Mayurbhanj-2,
+Odisha University of Agriculture and Technology
+2Department of Agricultural Chemistry & Soil Science,
+C.C.R (P.G.) College, Muzaffarnagar-251 001, Uttar Pradesh, India
+*Corresponding author E-mail: surajyotipradhan.18@gmail.com
+Soil health is indeed a crucial concept in agriculture and environmental science. It
+encompasses the overall well-being and functionality of soil as a living ecosystem. The five vital
+functions you mentioned are often used to evaluate and describe soil health:
+1. Sustaining plant and animal life: Soil provides a habitat for a diverse community of
+organisms, from microorganisms like bacteria and fungi to larger organisms like
+earthworms and insects. These organisms play essential roles in nutrient cycling,
+decomposition of organic matter, and soil structure formation, ultimately supporting
+plant growth and providing a food source for higher trophic levels
+2. Regulating water flow and storage: Healthy soil can retain and release water
+effectively. It acts as a sponge, absorbing and holding moisture during wet periods,
+reducing runoff and erosion. During dry periods, it slowly releases stored water, helping
+to maintain a stable moisture supply for plants.
+3. Filtering and buffering potential pollutants: Soil acts as a natural filter, removing and
+immobilizing contaminants from water that percolates through it. It also serves as a
+buffer against the leaching of harmful substances, ensuring that pollutants do not reach
+groundwater or surface water bodies.
+4. Cycling and recycling nutrients: Soil plays a critical role in nutrient cycling,
+transforming organic matter into nutrients that are accessible to plants and other
+organisms. Nutrient cycling ensures that essential elements like nitrogen, phosphorus,
+and carbon are available for plant growth and microbial activity, promoting ecosystem
+productivity.
+5. Providing physical stability and support: Soil structure is essential for plant root
+anchorage and penetration, as well as for allowing air and water to move through the
+soil. Healthy soil maintains good physical structure, preventing compaction and
+promoting aeration, which is crucial for root development and overall plant health.
+Principle of Soil health management:
+The major principles of soil health management are centred on the following key
+practices which are ultimately required for maximizing profitability.
+1Bhumi Publishing, India
+Minimize
+Disturbance
+Principles of
+Maximize Maximize
+Living Roots Soil Health Biodiversity
+Maximize
+Soil Cover
+Fig.1 Principles of Soil Health
+Soil health assessment:
+It is impossible to assess soil health solely by looking at agricultural production, water
+quality, or any other single result. We analyze indications since it is impossible to directly
+measure soil health. Indicators are quantifiable characteristics of soil or plants that offer hints
+about the soil's capacity for function. Physical, chemical, and biological qualities, functions, or
+traits of soils can be indicators. They could also be physical or aesthetic characteristics of plants.
+Suitable indicators
+Different indicators for soil health:
+Organic matter content in the soil: promotes soil fertility, soil structure, soil stability, and
+resistance to soil erosion. Numerous plant nutrients, including nitrogen, phosphorus, and sulfur,
+are stored in soil organic matter. The amount of nitrogen, phosphorous, and sulfur present in an
+acre is approximately 1,000 pounds per percentage point of organic matter in the top 6 inches of
+soil. The majority of nutrients included in organic materials are not, however, readily absorbed
+by plants. Nutrients in organic matter must be transformed into inorganic forms by soil
+organisms through decomposition and mineralization before they can be utilized by plants.
+Physical properties: compaction, plough pan, water movement, porosity, and tilth; bulk density,
+infiltration, soil structure and macropores, soil depth, and water holding capacity => retention
+and transport of water and nutrients; habitat for soil microbes; estimation of crop yield potential.
+Chemical properties: electrical conductivity, reactive carbon, soil nitrate, soil pH, and
+extractable phosphorus and potassium => biological and chemical activity thresholds; plant and
+microbial activity thresholds; and nutrient availability and potential N and P loss in plants
+Biological properties: Earthworms, microbial biomass C and N, particulate organic matter,
+possibly mineralizable N, soil enzymes, soil respiration, and total organic carbon are biological
+factors that result in microbial catalysis and a C and N repository, soil productivity, and the
+ability to supply N.
+2Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+Soil assessment using modern tools and models:
+Diffuse reflectance spectroscopy (DRS) in the visible to near-infrared (wavelength range:
+350-2500 nm) region (VNIR) is emerging as a viable alternative to traditional laboratory
+methods for evaluating a variety of soil parameters (Van der Meer, 2018). The DRS approach is
+appealing since it is quick, environmentally benign, and non-invasive, and DRS data may be
+acquired using both proximal sensors and onboard remote sensing systems. Singh et al. (2019)
+have demonstrated that the DRS-and wet chemistry-based soil testing techniques yield
+equivalent nutrient recommendations for cocoa growing. This is a crucial conclusion in favour of
+supplementing the wet chemistry approach with the DRS approach of soil testing, yet studies
+also indicate that the accuracy of the DRS approach is questionable and needs constant
+modification. The potential to use remote sensing to deploy these sensors on aircraft and satellite
+platforms and capture hyperspectral data for quantitative soil surface property mapping is
+another benefit of VNIR technology (Sahoo, 2022).
+Soil health issues in India:
+According to the New Delhi-based National Academy of Agricultural Sciences
+(NAAS), the annual soil loss rate in our country is about 15.35 tonnes per ha, resulting in a loss
+of 5.37 to 8.4 million tonnes of nutrients.
+• Soil erosion: It is the removal of soil by natural factors, primarily water and wind, more
+quickly than its replacement can occur. It has an impact on the nation's overall economy
+and agricultural productivity.
+• Stream erosion: It involves the separation and removal of soil components using water.
+It shows up as rilling, gullying, sheetwashing, and the rain-peeling process. The slope,
+vegetation cover, and soil characteristics all affect erosion rate.
+• Erosion by wind: The top soil layer is removed by the wind, and wind erosion is
+worsened when the soil is dry, poorly aggregated, and vegetated.
+• Human-made causes of soil erosion are Deforestation, which depletes the soil of its
+organic matter, Overgrazing weakens the structure of the soil incorrect agricultural
+practices, including plowing, a lack of crop rotation, and shifting cultivation
+Indian soils often have high potassium levels but low levels of nitrogen and phosphorus.
+The Indo-Gangetic plains, Central India, and North East India have low phosphorus levels.
+Additionally, there is a national shortage of nitrogen; however, it is greater in central and
+southern India than in the Gangetic plains. Long-term unbalanced fertilizer nutrient use has also
+been reported to have a negative impact on soil health. According to a 2017 analysis by the
+Fertilizer Association of India, the optimal n-p-k utilization ratio is 4:1; however, from 6:2.4:1 in
+1990 to 6.7:2.7:1 in 2016, this ratio has decreased. According to the 54th report of the
+Parliamentary Standing Committee on Agriculture (2017–18), the imbalance in the usage of
+fertilizers is caused by a biased subsidy policy in favor of urea and excessive prices for other
+fertilisers. Indian soil is becoming less fertile as a result of extractive farming methods such as
+crop waste clearance and in-field burning (common in north-west India). In India, 55% of the
+3Bhumi Publishing, India
+soil has always been nitrogen deficient. Then, 42% are phosphorus-poor, and 44% are organic
+carbon deficient.
+Soil health components for sustainable agriculture:
+Physical
+Properties
+Soil
+Sustainable Chemical
+Organic
+Agriculture Properties
+Carbon
+Biological
+Properties
+In the scientific literature, the phrases "soil health" and "soil quality" are frequently used
+interchangeably, and some people think that they are functionally equivalent. Scientists favor the
+phrase "soil quality," whereas farmers prefer "soil health" (Karlen et al., 2003). For, the purpose
+of monitoring soils, (Ritz et al. 2009) identified and tested 183 biotic markers. The most
+prevalent parameters for biological indicators were: (1) soil microbial taxa and terminal
+restriction fragment length polymorphism; (2) soil microbial community structure and biomass
+using extracted lipids, particularly phospholipid fatty acids, as signature lipid biomarkers; and (3)
+soil microbial biomass. (3) Multiple substrate-induced respiration of soil, (4) multi-enzyme
+profiling of biochemical processes, (5) worms, including maturity index (the distribution of
+nematodes across functional groups), taxonomic number, and abundance of individual functional
+groups (6) Microarthropod, (7) on-site visual observation of soil fauna and flora, (8) pitfall traps
+for ground-dwelling and soil invertebrates, and (9) microbial biomass, the total amount of life
+belowground. However, they came to the conclusion that more research is needed to ascertain
+how these biological indicators are responsive to changes in management, how they are
+connected to soil functions, and how they might be used to shed light on certain ecological
+processes. Determining the components of soil health is crucial for the effective use of global
+and national agricultural monitoring systems and therefore for the long-term sustainability of our
+agricultural systems. According to research, healthy soil inhibits pathogens, supports biological
+processes, breaks down organic matter, inactivates harmful substances, and recycles nutrients,
+energy, and water [Sahu et al., 2017]. The definition of soil quality given by Karlen et al. [2003]
+was "the capacity of specific kind of soil to function, within natural or managed ecosystem
+boundaries, to sustain plant and animal productivity, maintain or enhance water and air quality,
+4Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+and support human health and habitation." Additionally, Bouma et al. (2017) gave a broader
+definition of soil quality as "the intrinsic capacity of a soil to contribute to ecosystem services,
+including biomass production." Regarding specific ecosystem services, the idea of soil quality
+provides useful applications [Toth, 2008]. "Soil quality," refers to the biological qualities and
+functions of soil that interact closely with its chemical and physical aspects. As was already
+mentioned, "soil quality" and "soil health" are used interchangeably in the literature. In terms of
+timeline, they can be distinguished; "soil health" refers to the state of the soil over a short period
+of time, while "soil quality" refers to the state of the soil over a longer period of time, very
+similar to the state of a person at a certain time (health) and over a long period of time (quality of
+life) [Acton et al., 1995]. In order to test soil status and track the impact of past, present, and
+future land usage on agricultural sustainability, the phrases "soil health" and "soil quality" were
+utilized. Soil salinization, acidification, compaction, crusting, nutrient shortage, decrease in soil
+biota biodiversity and biomass, water imbalance, and disruption of the elemental cycle are
+unsuitable agricultural practices that degrade soil quality [Lal, 2015]. In a nutshell, preserving
+and restoring soil health enables producers to work in synchronous with the land – not against
+which will not only pave the way to reduce erosion, maximize water infiltration, enhance
+nutrient cycling, and save money on inputs but also ultimately improve the resiliency of their
+farm.
+Government initiatives for soil health management:
+The Government of India has also launched several programmes for the welfare of
+farmers like distribution of Soil Health Cards, the selling of neem oil-coated urea, a nutrient-
+based subsidy policy for P and K fertilizers, organic farming, Paramparagat Krishi Vikas Yojna,
+National Mission on Sustainable Agriculture, National Action Plan for Climate Change
+(NAPCC), National Water Mission, National Mission for a Green India under NAPCC, Mission
+for Integrated Development of Horticulture, and National Mission on Oilseeds & Oil Palm etc.
+Conclusion:
+The practice of intensive agriculture, which is used to supply the food needs of an ever-
+growing population, has a severe impact on the health of the soil. Plant productivity and soil
+health are both supported by a balanced microbiome. The interaction between soil-dwelling
+microorganisms and plants is intricate. In this discourse, which is mediated by root exudates,
+there is still a lot more translating needed. In order to enhance the nutrient status of the soil and
+agricultural productivity, biofertilizers are an economical and environmentally friendly
+component of the plant and soil. To summarize, different practices which may include efficient
+utilization of soil macro and micro-organisms as well as bioengineered micro-organisms,
+Climate-smart diversified cropping system, Use of Integrated nutrient management in initial
+years and slowly moving towards harnessing the full potential of Organic manure along with
+compost, application of biochar as well as adopting IFS and integrating nano technology into all
+of these can unquestionably achieve sustainable soil health management. It can be achieved
+through conservation and restoration of soil organic matter, sequestering more carbon, enhancing
+5Bhumi Publishing, India
+water infiltration, and improving wildlife and pollinator habitat as a result, all while reaping
+more revenues and, in some cases, higher yields in a sustainable way
+References:
+Acton, D., & Gregorich, L. (1995). Understanding soil health. In D.F. Acton & L.J. Gregorich
+(Eds.), The Health of Our Soil; towards sustainable agriculture in Canada (p. 138). Centre
+for Land and Biological Resources Research Branch, Agriculture and Agri-Food Canada:
+Ottawa, ON, Canada.
+Bouma, J., van Ittersum, M., Stoorvogel, J., Batjes, N., Droogers, P., & Pulleman, M. (2017).
+Soil capability: Exploring the functional potentials of soil. In Global Soil Security (pp. 27–
+44). Springer: Cham, Switzerland.
+Chaussod, R. (2002). La qualité biologique des sols: Des concepts aux applications. Comptes
+Rendus de l’Académie d’Agriculture de France, 88, 61–68.
+Karlen, D.L., Ditzler, C., & Andrews, S.S. (2003). Soil quality: Why and how? Geoderma, 114,
+145–156.
+Lal, R. (2015). Restoring soil quality to mitigate soil degradation. Sustainability, 7, 5875–5895.
+Ritz, K., Black, H.I.J., Campbell, C.D., Harris, J.A., & Wood, C. (2009). Selecting the biological
+indicators for monitoring soils: A framework for balancing scientific and technical opinion
+to assist policy development. Ecological Indicators, 9, 1212–1221.
+Sahoo, R.N. (2022). Sensor-Based Monitoring of Soil and Crop Health for Enhancing Input Use
+Efficiency. In Food, Energy, and Water Nexus (pp. 129-147). Springer, Cham.
+Sahu, N., Vasu, D., Sahu, A., Lal, N., & Singh, S.K. (2017). Strength of Microbes in Nutrient
+Cycling: A Key to Soil Health. In V. Meena, P. Mishra, J. Bisht, & A. Pattanayak (Eds.),
+Agriculturally Important Microbes for Sustainable Agriculture (pp. 69–86). Springer:
+Singapore.
+Timsina, J. (2018). Can organic sources of nutrients increase crop yields to meet global food
+demand? Agronomy, 8, 214.
+Tóth, G. (2008). Agri-Environmental Soil Quality Indicator in the European Perspective (p. 12).
+European Commission Joint Research Centre, OECD: Ispra, Italy.
+van der Meer, F. (2018). Near-infrared laboratory spectroscopy of mineral chemistry: a review.
+International Journal of Applied Earth Observation and Geoinformation, 65, 71-78.
+6Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+CHAPTER 2
+ROLE OF MICRO-ORGANISM FOR IMPROVING SOIL HEALTH
+Manoharmayum Monica Devi*1 and Keisham Dony Devi2
+1Department of Soil Science & Agricultural Chemistry,
+2Department of Agronomy,
+Central Agricultural University, Imphal, Manipur
+*Corresponding author: manoharmonica17@gmail.com
+Introduction:
+Soil is the three-dimensional body that supports the life system on earth. It helps in
+maintaining ecosystem balance which plays a crucial role in peaceful coexistence. Besides these,
+soil is formed by the chemical and biological weathering of underlying rocks. Generally, the soil
+is a reservoir that supplies a greater part of the world’s biodiversity reserve, subjugated by
+microorganisms, viz. bacteria, fungi, actinomycetes, and algae. Besides these organisms, soil
+biota contains a large variety of animals like nematodes, protozoans, macro and micro-
+arthropods and earthworms. Moreover, a large population of macro fauna species are inhabiting
+in the uppermost layers of soili.e., the soil surface and the litter layer (Beck et al., 2005). Even
+soil biota is involved in the cycling of nutrient residues, organic matter and energy. Thus, soil
+organisms are an integral part of soil including plants, animals, microorganisms and their
+interactions. They are responsible for supporting ecological balance in ecosystems, plant
+metabolism and their nutrient uptake, crop yield and productivity, water cycling and soil
+formation process, thereby regulating soil erosion and water purification (Mendes et al., 2016).
+The growing population demands higher food production which is mainly met through the use of
+chemical inputs viz. fertilizers, insecticides, pesticides, growth hormones, etc. which have served
+as mandatory needs. Haphazard application of such chemicals can cause detrimental effects on
+crop as well as soil health. There was a need to consider soil health status while incorporating
+such synthetic sources otherwise we might face indiscriminate problems and hurdles in the
+future. In order to mend these discrepancies, we should think of a holistic approach so that
+amelioration of soil health status can meet the current soil health. So, the production of better
+crop yield, quality products and expression of better crops need compatible relations between
+soil fertility and microorganisms. Therefore, the protection of soil microorganism population in
+their niche in association with soil health is of utmost important in this pretext. Soil health is
+defined as the ability of soil to function within the environment and network, to withstand
+biological productivity according to Doran et al., 1994, maximize environmental quality, and
+endorse plant and animal health. The dynamics of microorganisms uphold ecosystem balance in
+agriculture. These microorganisms exist in rhizospheres which constitute a complex group of
+saprophytes, endophytes and actinomycetes both beneficial and harmful ones.
+7Bhumi Publishing, India
+Re-evaluating the physical and practical assortment of soil microorganisms
+Microorganisms play a significant role in assisting all floras in their environments. Soils
+act as residence to thousands of diverse species of bacteria and soil itself can be viewed as a
+living organism. It was found that one cubic foot of soil contains over 10,000 species of bacteria,
+100 species of protozoa, 10,000 nematodes, 100 species of algae and over 5000 individual
+insects. Overall soils contain valuable bacteria, fungi, algae, protozoa, nematodes, cyanobacteria
+as well as earthworms. So, living organisms are a vital component in maintaining soil physical,
+chemical and biological equilibrium thereby sustaining their health status. Besides affecting soil
+structure and fertility, plants and soil microorganisms attain their nutrients from soil and in turn
+change soil properties by organic litter deposition and metabolic activities of microorganisms.
+They affect plant growth directly through the management of hormone signaling, speeding up the
+decomposition of organic matter, regulating deliverance of nutrients in the form of nitrogen,
+phosphorous, potassium, hydrogen and carbon in soil and protection against pathogens.
+Importance of microorganism
+Soil microorganisms play chief roles as chemical engineers, through the cycling of
+carbon and decomposition of organic matter; impelling soil pH by nitrification and
+denitrification; anthropogenic complexes’ degradation, fixation of nitrogen and phosphorus
+solubilization making it available for plants; and influencing mobility of heavy metals. Soil
+microorganisms have a direct impact on human health since they form the basis for those
+antibiotics administered to control diseases (Mendes et al., 2016). Not all forms of elements
+added into the soil are directly taken up by the plants. Initially, they are converted into inorganic
+form by the microorganisms through mineralization which can be easily taken up by the plants
+for their metabolisms. The nitrogen need by the plants is available in the form of organic
+nitrogen which is first converted into amino acid and then to ammonia which then thereby
+undergoes a nitrification process through different nitrifying bacteria viz. Nitrosomonas and
+Nitrobacter through different biochemical processes. Thus, a healthy population of soil microbes
+can enhance the efficiency of fertilizer for plant uptake. It also affects the structure and fertility
+of different soils thereby responsible for maintaining soil quality and health. It also helps in
+increasing soil aeration and penetrability.
+Carbons promote the populations of soil microbes. One of the carbon sources is humus
+(Humic acid) which plays many roles in the soil profile. Besides its role in helping plants uptake
+most of the difficult elements namely primarily metals through the natural chelation process,
+humus also helps in maintaining moisture on sandy soils. A good level of humus in the soil will
+help to retain soil moisture as well as improve the soil structure (drainage/pore space). Apart
+from these, the soil microorganism has diseases controlling mechanism against several pests and
+diseases.
+Types of soil organisms
+Soil organisms are classified into two types – macro-organisms and micro-organisms.
+Macro-organisms are those which can be seen with our naked eye while micro-organisms are
+those which are not visible but can be observed under microscope
+8Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+Ants
+Macroorganisms Rodents
+Earthworms
+Bacteria
+Soil organisms
+Fungi
+Actimonycetes
+Microorganisms Algae
+Protozoa
+Nematodes
+Fig. 1: Diagrammatic representation for classification of microorganisms in soil
+A relative study has shown that proportion/percentage of various soils micro-organism
+can be briefly summarized as: aerobic bacteria (70%) and anaerobic bacteria (13%),
+actinomycetes (13%), fungi (3%) while algae, protozoa and viruses constitute0.2-0.8%.
+However, the main role of soil organisms is in nutrient transformation. It was recorded that one
+gram of topsoil may comprise-of one billion bacteria which then can reach up to 100 million
+actinomycetes, one million fungi and 100 nematodes.
+Soil micro-organisms
+Soil microorganisms are classified into different types viz. bacteria, fungi, actinomycetes,
+algae, protozoa, nematodes, etc.
+A. Bacteria
+Bacteria are the smallest freely living prokaryotes and single-celled organisms. Typically,
+the size of bacterial cells ranges from 0.5 to 1.0 μm in diameter. The majority of bacterial species
+exist as single forms but some occur as filaments of loosely joint cells. Because of their small
+size and general similarity of structure, the classification of bacteria usually depends on
+physiologic and biochemical characters rather than the morphogenetic ones. They may be rod-
+like bacilli, spherical cocci and spiral forms. Bacteria are microscopic single-celled organisms.
+They are the most abundant microbes in the soil. Soil bacteria are involved in numerous
+biogeochemical cycles and play a distinctive role in crop production. Soil rhizosphere contains
+distinguishing types of bacteria that interact with plants and increase soil fertility and health.
+Free- living bacteria beneficial also known as PGPR promotes plant growth (Hayat et al., 2010)
+which has been reported in sugarcane crops (Kushwahaet al., 2020). So, plant growth promotion
+(PGPR) mechanisms by bacterial endophytes are quite comparable to the activity of rhizospheric
+bacteria. Since most of the PGPR bacteria were sequestered from stems, roots and soils. Those
+PGPR bacteria belong to the genera of Enterobacter, Pseudomonas, Kleibsiella, Azospirillum,
+Rhizobium, Rahnella, Delflia, Caulobacter, Xanthomonas, Achromobacter, Agrobacterium,
+Burkholderia, Gluconacetobacyer, etc (Ghevariya and Desai, 2014).
+9Bhumi Publishing, India
+Even there are weak bacterial species that can be wiped off by slight alternation in the
+soil setting. In retorting to variations in temperatures and soil moisture, bacterial populations can
+shatter in just a few days. On the contrary, some of the bacteria can withstand a wide range of
+variability such as severe heat, cold, or drying. Moreover, there are some bacterial species that
+are plant-specific dependent.
+Bacterial classification
+Bacteria species can be categorized into four groups as follows:
+1. Decomposers:
+Decomposers are those bacteria present in the soil that eat dead and decaying plant
+residues, organic matter and waste which then release nutrients that are needed by living
+organisms. They are the essential component for various life forms in the early stages of most of
+the nutrient cycles whether nitrogen, carbon, or sulphur cycles. Even some of the decomposers
+can break down pesticides and hazardous pollutants present in the soil and the surrounding
+environment. These decomposers play a special role in immobilizing nutrients in their cells, thus
+inhibiting nutrient loss from the root zone such as nitrogen.
+Nitrogen fixers
+Bacteria
+Nitrifiers Denitrifiers
+Fig. 2: Classification of different mutualist bacteria
+1. Nitrogen fixer bacteria: These microorganisms convert nitrogen gas from the
+atmosphere and convert it into a form that can be used by plants for their metabolic
+activities. Visibleroot nodules are created when bacteria infect a growing root hair.
+Through this association, the plant supplies carbon to the bacteria for their cycles, and the
+bacteria which in turn convert nitrogen gas (N ) from the atmosphere into a usable form
+2
+for plant uptakes.
+2. These nitrogen-fixing organisms are of different types. They include – Free-living
+nitrogen-fixing organisms, associative symbiotic organisms and Symbiotic fixation
+microorganisms. The free-living nitrogen-fixing microorganisms are again subdivided
+into Aerobic bacteria which include Azotobacterchroccum fixed commonly in crops like
+10Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+wheat, rice, cotton and sugarcane while anaerobic bacteria include Clostridium. The
+associative symbiontbacteriaincludeAzospirillum which are associated with roots of
+grasses inside roots symbiosis. It is used for sorghum and pearl millet. The symbiotic
+fixation microorganisms include nodule-forming bacteria viz. Rhizobium is an aerobic
+and heterotrophic bacteria that symbiotically fixed atmospheric nitrogen with the
+presence of leghaemoglobin in nodules of legume roots. When leaves or roots from the
+host plant decompose, soil nitrogen increases in the surrounding area.
+3. Nitrifyingbacteria: This is the microbial conversion of ammonium (NH +) to nitrite
+4
+(NO -) then to nitrate (NO -) mediated by microbes known as nitrifiers which is a
+2 3
+preferred form of nitrogen for grasses and most row crops. At first, ammonium undergoes
+microbial oxidation by Nitrosomonas and is converted into nitrite (NO -) which is then
+2
+converted into nitrate (NO -) by Nitrobacter. Nitrifying bacteria required an optimum
+3
+temperature of 30 to 35˚C with an optimum pH of 6.5 to 7.5. However, nitrate can be
+leached easily from the soil, so some farmers prefer to use nitrification inhibitors instead
+of conventional fertilizers to reduce the activity of one type of nitrifying bacteria.
+Nitrifying bacteria are suppressed in forest soils so that most of the nitrogen remains as
+ammonium.
+4. Denitrifying bacteria: Denitrifying bacteria are anaerobic micro-organisms that are
+active when oxygen is absent, such as in saturated soils. These are the micro-organisms
+that help in the formation of N or elemental nitrogen or loss of gaseous nitrogen form of
+2
+nitrogen by biological reduction of NO - and NO -. They convert nitrate to nitrogen (N )
+3 2 2
+or nitrous oxide (N O) gas. Denitrifying bacteria include Pseudomonas and Bacillus.
+2
+Role of bacteria in soil:
+Bacteria play a crucial role in the agricultural perspective as most of the soil needs an
+optimum population of soil bacteria to maintain and perform most of the plant's morphological
+functions. It also regulates soil equilibrium for crop growth as they contribute to the carbon cycle
+through fixation and decomposition, mineralization of nitrogen through various microbial
+bacteria, denitrification of the nitrogen under saturated conditions. Many types of beneficial
+bacteria are important for agricultural prospects, e.g., Rhizobium, Azospirillum, Azotobacter,
+Pseudomonas, Bacillus and Clostridium.
+Biochemical process of bacteria
+Some of the brief biochemical mechanism upheld by bacteria includes-
+a) Nitrogen fixers (Nitrobactersp.)
+b) Degradation of sulphur (sulphur degradation and hydrocarbon degradation) by
+Thiobacillusferroxodans, DesulphovibrioandDesulphomaculatum
+c) Used for remediation (Pseudomonas sp.)
+B. Fungi
+The fungi constitute a large and diverse group of plant kingdoms. They are eukaryotic,
+plantlike, spore-bearing organisms that lack chlorophyll and other photosynthetic pigments.
+Consequently, they depend on the other organisms for their nutrition. They have a network of
+11Bhumi Publishing, India
+branched filament structures called hyphae and the tangled mass of hyphae is the mycelium. The
+fungi secreted enzymes that act on starch, cellulose, pectin, lignin, sugars, etc. The enzyme
+includes amylase, cellulose, pectinase, ligninase, invertase, maltase, etc. Fungi also have a cell
+wall composed of chitin and glucans.
+Fungi in soils
+Fungi are well-established soil residents, because of their wide flexibility and adaptability
+to various environments in response to hostile conditions (Singh et al., 2023). Due to Their
+different ability to exudate extracellular enzymes results in aggravating different types of organic
+matter, components of soil decomposers and thereby amending carbon and nutrients balance
+(Žifˇcáková et al., 2016). The dead and decayed organic matter is converted into biomass, carbon
+dioxide, and organic acids by fungi. In addition to this, numerous fungi species have the
+capability to bio-sorbstoxic metals viz. zinc, mercury, copper, and cadmium (Frac et al., 2018)
+that might affect their reproduction and inhibit their growth (Baldrian, 2003). The activity and
+fungi miscellany is measured by various plants and other living organisms(biotic), soil pH,
+structure, moisture, salinity and temperature (abiotic factors) (Rouphael et al., 2015).
+Fungi can be established in almost every environment and can survive in a wide range of
+pH and soil temperature. Soil fungi can be categorized into three efficient groups as follows:
+(1) biological controllers
+(2) ecosystem regulators and
+(3) species participating in organic matter decomposition and compound transformations (Gardi
+and Jeffery, 2009).
+Biological
+Controllers
+Ecosystem
+regulators
+OM
+decomposers&
+transformers
+Fig. 3: Diagrammatic representation of fungal classification in soil
+Among the different fungi classes, biological controllers are those that can regulate pest,
+diseases, and the growth of disease incidence in other living organisms (Bagyaraj and Ashwin,
+2017). In support of the above criteria, it was found that mycorrhizal fungi mend plant growth
+12Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+and development by enhancing nutrient uptakes and fortification against pathogens (Bagyaraj
+and Ashwin, 2017). The ecosystem regulators are accountable for the formation of soil structure
+and modification of other organism habitats thereby amending the physiological dynamics in the
+soil environment
+Role of fungi in soil
+➢ Fungi also contribute to the fixation of nitrogen, production of bio control agents against
+root pathogens, hormone production and drought protection (El-Komy et al., 2015). They
+also play an important role in the decomposition of residues and stabilization of soil
+organic matter (Treseder and Lennon, 2015) and release of nutrients from soil minerals.
+Saprotrophic fungi also play a precarious role in the carbon cycle.
+➢ They also help trap nematodes that are harmful to plants through the production of plant
+hormones which may be harmful to nematodes.
+➢ Since fungi dominate the soil biomass production, they also help in root water and
+nutrient uptake through Mycorrhizae - which live in or on plant roots.
+➢ Fungi also produce hormones and antibiotics that help plant growth and prevent diseases
+which benefit them by taking in the nutrients from the roots they live in.
+➢ Saprotrophic fungi are also involved in the global carbon cycle. Arbuscular Mycorrhiza
+(AM) and Ecto Mycorrhizal (EM) fungi form symbioses with the prevalent host plants.
+Even lichens show symbiotic associations between a fungus and green algae which are
+bipartite symbiosis, and even with cyanobacteria of tripartite symbiosis.
+Biodiversity of fungus population in soils and its impact on soil health status for
+agricultural and horticultural crops
+Fungi play an important role in plant defense against pathogenic microorganisms. It also
+acts as a biological agent, which influences soil health. It also contributes in decomposition of
+organic matter and provides nutrients for plant growth (Frac et al., 2015). The assessment of
+fungal biodiversity involves determination of biodiversity indexes and structure analysis of
+fungal population. It helps in determination of the functions aspects fungi play in affecting soil
+quality and plant health as quality indicators. Application of dissimilar types of organic manure
+has a significant impact on soil health, through direct and indirect effects (i.e. via
+physicochemical alternation) on soil fungal communities present in soil. Some of the agronomic
+and cultural practices, such as the use of cover and rotational crops, mulching, strip cropping,
+composts and tillage practices are expected to affect the other groups of soil fungi, exclusively
+beneficial micro-fungal populations (Abawi and Widmer, 2000).
+It has been observed that reduced tillage operation might decrease the breakdown of
+hyphae creating stable fungal populations, recollecting more nutrients and providing more rigid
+effects against pathogenic microorganisms (Gross and deVarennes,2002). It should be
+considered that fungal diversity determines ecosystem variability, plant biodiversity and crop
+productivity (Wagg et al., 2014). Among the different fungal populations, arbuscular
+mycorrhizal fungi also known as (AMF) are the most important beneficial microorganisms in
+agricultural and horticultural aspects (Smith and Read, 2008).
+13Bhumi Publishing, India
+The significant effects of arbuscular mycorrhizal fungi (AMF) symbiosis include:
+stimulation of nutrient cycles, improvement of plant rooting and their establishment,
+enhancement of soil structure, augmented uptake of less mobileions, boost plant tolerance to
+stresses, and enrichment of plant diversity (Azcón-Aguilar and Barea, 1997). In the case of
+disease control systems, most of the diseases of crop plants can be controlled by some
+antagonistic fungi such as Glomus sp. or Trichoderma sp. suppressing fungal pathogens
+(Dawidziuk et al., 2016). Species of Trichoderma viz. Trichoderma asperellum, Trichoderma
+atroviride, Trichoderma harzianum, Trichoderma virens, and Trichoderma viride are frequently
+used a biocontrol agents and are known as horticultural bio stimulants (López-Bucio et al.,
+2015). Even De Connick et al., 2015 reported synergistic impact of Arbuscular Micorrhizal
+Fungi (AMFs) and Plant Growth Promoting Rhizobium (PGPRs) on growth of horticultural plant
+and microbial diversity of soil.
+C. Actinomycetes
+Actinomycetes are microorganisms that belong to order Actinomycetes which are gram-
+positive and aerobic. They are known for their substrate and floating mycelium production. They
+belong to bacterial kingdom but share some features with fungi such as shape and branching
+properties, reproductive spore formation and production of metabolites. Actinomycetes form
+filaments which are thread-like in the soil. They exhibit a distinctive scent from freshly exposed
+moist soil that results from metabolic release of the nutrients. They also fix nitrogen in the soils
+which are then made available near vicinity of host and other plants through formation of
+associations with non-leguminous plants. Actinomycetes show optimal growth in alkaline pH.
+Actinomycetes are known for decomposing the more resistant organic substances, such as
+polysaccharides, cellulose, fats, organic acid and protein. They are vibrant in breaking down
+different sources of humic acids in soils to form stable humus which then improve soil structure
+and upsurge soilwater retention capacity. Actinomycetes are those micro-organisms that exhibit
+freshly moist soil and its distinguishing “earthy” odour.
+Role of Actinomycetes in soil
+The rhizosphere of crop plants and enhances soil fertility and their health through
+solubilizing phosphate and salvaging organic matter. They form associations with non-
+leguminous plants and fix nitrogen, which is then available in close vicinity of the host and other
+plants.
+D. Algae
+Algae are defined as a large collection of photosynthetic, eukaryotic organisms. They are
+of varied groups of simple, usually autotrophic organisms. Algae can make their own nutrient
+through a process known as photosynthesis which converts light energy to chemical energy that
+can be stored as nutrients. For algae to grow, they must be exposed to light because
+photosynthesis requires light, so algae are typically distributed evenly wherever sunlight and
+moderate moisture is available. Reproduction in algae occurs in both asexual and sexual forms.
+Asexual reproduction occurs by spore formation. Algae do not need direct exposure to sunlight
+but can live below the soil surface under uniform temperature and moisture conditions. Algae are
+also capable of performing nitrogen fixation.
+14Sustainable Management of Soil Health
+(ISBN: 978-93-88901-98-7)
+Types of algae
+Algae can be divided into three groups as follows: the Cyanophyceae, the Chlorophyceae
+and the Bacillariaceae (Masbau and Ayindi, 2021). The Cyanophyceae also known as blue-green
+algae are chlorophyll-containing algae that absorb sunlight and uses that energy to synthesize
+carbohydrates from carbon dioxide and water. The Chlorophyceae usually have green colour
+pigment also known as chlorophyll and the Bacillariaceae contain chlorophyll and other
+pigments such as algal brown colour pigment. Cyanophyceae (Blue-green algae) are responsible
+for nitrogen fixation that depends on environmental and physiological factors. They include
+sunlight intensity, inorganic and organic nitrogen concentration, favorable temperature and soil
+stability.
+Role of algae in soil
+Algae also play a significant role in the soil. They are considered bio-fertilizers. They
+also help maintain the fertility of soil in tropical regions. Besides its role in controlling soil
+erosion, algae aid to recover the water potential in soils.
+E. Protozoa
+Protozoa are single-celled, eukaryotic microorganisms. They are grander than bacteria
+which differ from a few microns to millimetres and reproduce sexually with a unique
+evolutionary step from reduplication of spores. Protozoa can be classified into three categories
+viz. flagellates, amoebae and ciliates (Masbau and Ayindi, 2021).
+a. Flagellates
+Flagellates are non-chlorophyll-containing protozoa that are not capable of performing
+photosynthesis due to a lack of chlorophyll. They occur mostly in the soil. However, the
+chlorophyll-containing flagellates normally occur in aquatic environments. The chlorophyll-
+containing protozoa can be illustrated by their flagella, which are their locomotor organs (Stuart
+and Chapin, 2002). Some of the protozoa species bear numerous flagella, while the others only
+have a similitude of appendage.
+b. Amoebae
+Amoebae are protozoan classes that are bigger than flagellates with different locomotors
+mechanisms. They possess pseudopodia or ‘false foot’ which is a distinguishing feature of
+amoeba from the rest of the protozoan species. The pseudopodia are more of a slime-like
+dependability than a flagellum (Stuart and Chapin, 2002). It helps in the movement of food.
+However, amoeba bears temporary appendages.
+c. Ciliates
+Ciliates are the largest protozoa group which locomote through cilia, a short and
+numerous structures. They produce whipping reactions and resemble small and short hairs. Cilia
+can move in different directions, enhancing its mobility more than flagellates or amoebae (Stuart
+and Chapin, 2002).
+Role of protozoa in soil
+It is quite evident that the role of protozoan in regulating soil health is not that significant.
+However, more or less the yard sustains soil microbial equilibrium by feeding on bacteria. They
+grow profusely in surface soil. They are also found to employ in controlling diseases against
+15Bhumi Publishing, India
+various pathogenic species as biological control agents. Protozoa population in arable soil ranges
+from 10,000 to 100,000 per gram of soil.
+F. Nematodes
+Nematodes are tiny filiform roundworms also known as roundworms. They are phyto-
+parasites and reside at the surface of the living roots. These free-living nematodes feed on
+bacteria and fungi thereby control harmful microbial populations. They are bilaterally
+symmetrical and elongate with tapering ends. Nematodes range in size from microscopic to 7
+meters. The average nematodes vary in size range of 0.15-5 mm long and 2-100 mm except
+mermithidae nematodes (20 cm) long commonly found in tropical soils (Musbau and Ayinde,
+2021). The population of nematode species is about 20,000. Nematodes can only move through a
+film of soil moisture that surrounds the soil particles. Nematodes act as hydrobiont that fills
+spaces between soil particles and roots covers. They enter a dormant stage in hot and dry
+conditions. When the monsoons proceed, they return back to activity.
+Nematodes are documented as key microbial feeder in soils. They are mostly assembled
+into four to five trophic classes based on their food habit, oesophagus and stomata structure and
+nutritional mechanism (Kiflu and Beyene, 2013): as bacterial feeders, fungal feeders, predatory
+feeders, omnivores, and plant feeders. The bacterial feeder’s feed on bacteria i.e., bacterivores
+which can invest up to 5000 cells/minute or 6.5 times their own weight daily. These activities
+help both the organic matter and the decomposers to disperse in the soil. Fungal and bacterial-
+feeding nematodes release a substantial amount of nitrogen while feeding on their prey and are
+accountable for most of the plant available nitrogen in the soils (Grayston et al., 2004). The
+overall annual nematodes consumption may reach up to 800 kg of bacteria per hectare while the
+nitrogen turned over may be as high as 20-130 kg (Kiflu and Beyene, 2013). However,
+phytophagous nematodes impair plant roots which might affect economic returns in the future.
+They also possess a wide range of sizes and structure of styles. In fact, phytophagous nematodes
+are the most extensively studied group of soil nematodes. However, they hamper crop yield due
+to their pathogenic effect.
+Role of nematod

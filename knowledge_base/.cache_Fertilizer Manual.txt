@@ -1,0 +1,608 @@
+Fertilizer ManualAmitava Rakshit
+Assistant Professor
+Department of Soil Science and Agricultural Chemistry,
+Institute of Agricultural Science
+BHU, Varanasi, 221005, IndiaContents
+S No Chapter Page No.
+Foreword
+Preface
+Acknowledgement
+1 Introduction
+2 History of fertilizers
+3 Mineral and organic fertilizer
+4 Physical properties of fertilizer
+5 Chemical Analysis of Mineral and organic fertilizer
+6 Customized fertilizers
+7 Fertilizer mixing
+8 Quality control of fertiliser
+9 Fertilizer control order
+AppendixForeword by DG, ICARFOREWORDForeword by Director, IAS, BHUPreface
+The proper feeding of the rapidly growing populations in countries like India is the most important challenge for us. Presently, about
+200 million people in India are suffering from chronic malnutrition due to shortage of suitable foods. The successful production of
+crops requires a farmer to make maximum use of all available resources. One of the most important and necessary resources is
+fertilizer, which provides the nutrients needed by plants to grow properly and yield a quality product. The use of fertilizers has become
+an essential and routine part of many crop production systems. Farmers do not use fertilizers just to grow big crops or to increase
+the nutrient content of their soils. They do so to make a living. As a result, any fertilizer practice must be technically correct to ensure
+it gives a fair economic return to the farmers. When fertilizers are applied to crops care must be taken to ensure that the fertilizers
+are placed near enough to the roots for absorption. Further, concentrations of fertilizers in the root zone must not be high enough to
+cause injury to the roots. The three general methods used for fertilizer application are broadcast, placement and foliar. Efficiency of
+fertilizer use by crops is of major agronomic interest. There is growing concern that fertilizers be used as efficiently as possible to
+minimize losses and environmental pollution. Nutrients are lost to the environment through crop removal, leaching, denitrification,
+volatilization and erosion. The inefficient use of fertilizers can also result in environmental pollution. The ways through which pollution
+occur are eutrophication, high nitrate levels in water, soil acidification and greenhouse gas emissions. Fertilizers pose little danger to
+the environment particularly groundwater once stored and applied properly. The storage, quality control and handling of fertilizers is
+also a serious issue that needs due attention for efficiency and sustainability point of view. I am confident that this manual is useful for
+students in undergraduate and post graduate level as well as the extension of fertilizer usage to a large number of farmers for
+improvement of crop yield and other benefits, while minimizing impairments on the resource base.
+Amitava RakshitAcknowledgments
+Prima facea, I am grateful to the God for the good health and wellbeing that were necessary to complete this manual. This manual is
+written for academics, researcher, technicians and extension workers who are involved in fertilizer research, production and
+application. I would like to thank the Indian Council of Agriculture Research for the sponsorship. The publication of the manual would
+not be possible without the efforts and assistance of our supporting staff in the Department of Soil Science & Agricultural Chemistry. I
+am grateful to all the faculty members of Soil Science & Agricultural Chemistry for their cooperation. Thanks are also extended to my
+undergraduate and post graduate students for sharing their requirements and inputs. Special thanks to Prof. R. P. Singh, Director,
+Institute of Agricultural Sciences, BHU for his advice on the publication of the manual.I would like to thank colleagues and organizations
+for sharing their resources that have been utilized to write this manual. The organizations whose resources I have used in writing this
+manual are: IFDC—An International Center for Soil Fertility and Agricultural Development, P.O. Box 2040,Muscle Shoals, AL 35662
+(U.S.A.); Yara Fertiliser Industry, Norway; Central Fertilizer Quality Control & Training Institute, Faridabad, India and IFA,28, rue
+Marbeuf, 75008 Paris, France. Finally, I would thank my family, immediate and extended for their untiring effort, unconditional support,
+unflagging love in putting everything together and inspiration to complete the manual. I welcome any suggestions for improvements in
+the content of the manual, as well as notification of any errors.Chapter – 1
+Introduction
+1. The Fertilizer Manual
+The successful production of crops requires a farmer to make maximum use of all available resources. One of the most important and
+necessary resource is fertilizer, which provides the nutrients needed by plants to grow properly and yield a quality product. Fertilizers
+account for one-third or more of crop yields. Inadequate fertility starves plants. Excess fertility is wasted and can cause physical
+injury and death to plants as well as pollution to the environment. It is necessary therefore to supply plants with precise and balanced
+amounts of nutrients needed for their optimal growth and development but avoiding excessive amounts that can be eventually lost to
+the environment. This manual has the following chapters: 1) Introduction, 2), 3), 4), and 5), from advanced basic information to
+practical methods in each participating country.We try to write as easy as possible for scientists and technicians involved in
+biofertilizers in India.However, we admit that this manual may be quite difficult for farmers. It is our hope that scientists and
+technicians will translate some part of this manual into the respective mother language in some brochures or pamphlets for farmers.
+The basic concepts related to fertilizer use, types of fertilizers, methods of application, efficient use of fertilizers, storage, handling
+and environmental hazards are given prominence.
+PLANT NUTRIENTS
+Some soils are naturally low in nutrients whilst others become depleted due to continuous cropping. Farmers are generally aware
+when this condition arises. They usually refer to their soils in this state as being ‘run down’. Farmers invariably use fertilizers and
+manures to correct this problem. A fertilizer is a material that provides one or more elements (nutrients or plant food) for the growth
+and development of plant. The use of fertilizers has become an essential and routine part of many crop production systems. Farmers
+do not use fertilizers just to grow big crops or to increase the nutrient content of their soils. They do so to make a living. As a result,
+any fertilizer practice must be technically correct to ensure it gives a fair economic return to the farmers.
+Plant nutrients are chemical elements that are essential for the growth and development of plants.
+Classification
+There are 17 nutrients that are required for the growth and development of plants (Table 1). Additionally, some nutrients such as silicon
+(Si) are also necessary for successful rice production.
+Classification Elements
+Table 1: Classification of Elements Essentials for Plant Growth
+Classification Elements
+Macronutrients Available from air or water Carbon, Hydrogen, Oxygen
+Primary Nutrients Nitrogen, Phosphorus, Potassium
+Secondary Nutrients Calcium, Magnesium, Sulphur
+Micronutrients Boron, Cobalt, Chlorine, Copper,
+Iron, Manganese, Molybdenum,Zinc
+Nine plant nutrients are required in relatively large amounts. These are referred to as the major elements or macronutrients. Of
+these, carbon, hydrogen and oxygen, (make up 90-95% of the dry matter of plants) are obtained from carbon dioxide and water. These
+nutrients are therefore not regarded as components of fertilizers. The other major elements are divided into primary nutrients
+(nitrogen, potassium and phosphorus) and secondary nutrients (calcium, magnesium and surplus). The remaining eight plant nutrients
+are required in much smaller quantities are known as micronutrients or minor elements.
+Roles and functions of plant nutrients
+Plant nutrients obtained from the soil are essential for the growth of healthy plants. Sixteen plant food nutrients are essential for
+proper crop development. Each is equally important to the plant, yet each is required in vastly different amounts. These differences
+have led to the grouping of these essential elements into three categories; primary (macro) nutrients, secondary nutrients, and
+micronutrients. Rrequirements of these diversified nutrients is essential for a plant to complete its life cycle and are utilized by plants
+during the basic metabolic processes which are absolutely essential for the continued life of all plants. For plants to utilize these
+nutrients efficiently, light, heat, and water must be adequately supplied. Cultural practices and control of diseases and insects also
+play important roles in crop production. Each type of plant is unique and has an optimum nutrient range as well as a minimum
+requirement level. Below this minimum level, plants start to show nutrient deficiency symptoms. Excessive nutrient uptake can also
+cause poor growth because of toxicity. Adequate provision of nutrients impacts greatly on plant growth and as such is of crucial
+importance in the context of agriculture.
+Plant concentrations of essential elements may exceed the critical concentrations, the minimum concentrations required
+for growth, and may vary somewhat from species to species(Table 2). Nonetheless, the following table gives the general
+requirements of plants:
+Table 2: Typical concentrations sufficient for plant growth (After E. Epstein. 1965. "Mineral metabolism" pp. 438-466. in: Plant
+Biochemistry (J.Bonner and J.E. Varner, eds.) Academic Press, London.)
+Relative number
+Element Criteria of essentiality Symbol mg/kg Percent
+of atoms
+Nitrogen Theodore de Sassure(1804) N 15,000 1.5 1,000,000
+Potassium Sprengel(1839) K 10,000 1.0 250,000
+Calcium Sprengel(1839) Ca 5,000 0.5 125,000
+Magnesium Sprengel(1839) Mg 2,000 0.2 80,000
+Phosphorus Sprengel(1839) P 2,000 0.2 60,000
+Sulfur Salm-Horstman(1851) S 1,000 0.1 30,000
+Chlorine Broyer et al(1954) Cl 100 -- 3,000
+Iron Gris(1943) Fe 100 -- 2,000
+Boron Warington(1923) B 20 -- 2,000
+Manganese Mcttargne(1922) Mn 50 -- 1,000
+Zinc Sommer & Lipman(1931) Zn 20 -- 300
+Copper Sommer & Lipman(1931 Cu 6 -- 100
+Molybdenum Arnon & Stout(1939) Mo 0.1 -- 1
+Nickel Brown et al(1987) Ni 0.1 -- 1
+PRIMARY (MACRO) NUTRIENTSPrimary (macro) nutrients are nitrogen, phosphorus, and potassium. They are the most frequently required in a crop fertilization
+program. Also, they are need in the greatest total quantity by plants as fertilizer.
+NITROGEN
+· Necessary for formation of amino acids, the building blocks of protein
+· Essential for plant cell division, vital for plant growth
+· Directly involved in photosynthesis
+· Necessary component of vitamins
+· Aids in production and use of carbohydrates
+· Affects energy reactions in the plant
+PHOSPHORUS
+· Involved in photosynthesis, respiration, energy storage and transfer, cell division, and
+enlargement
+· Promotes early root formation and growth
+· Improves quality of fruits, vegetables, and grains
+· Vital to seed formation
+· Helps plants survive harsh winter conditions
+· Increases water-use efficiency
+· Hastens maturity
+POTASSIUM
+· Carbohydrate metabolism and the break down and translocation of starches
+· Increases photosynthesis
+· Increases water-use efficiency
+· Essential to protein synthesis
+· Important in fruit formation
+· Activates enzymes and controls their reaction rates
+· Improves quality of seeds and fruit
+· Improves winter hardiness
+· Increases disease resistance
+SECONDARY NUTRIENTS
+The secondary nutrients are calcium, magnesium, and sulphur. For most crops, these three are needed in lesser amounts that the
+primary nutrients. They are growing in importance in crop fertilization programs due to more stringent clean air standards and
+efforts to improve the environment.
+CALCIUM
+· Utilized for Continuous cell division and formation
+· Involved in nitrogen metabolism
+· Reduces plant respiration
+· Aids translocation of photosynthesis from leaves to fruiting organs
+· Increases fruit set
+· Essential for nut development in peanuts
+· Stimulates microbial activity
+MAGNESIUM· Key element of chlorophyll production
+· Improves utilization and mobility of phosphorus
+· Activator and component of many plant enzymes
+· Directly related to grass tetany
+· Increases iron utilization in plants
+· Influences earliness and uniformity of maturity
+SULPHUR
+· Integral part of amino acids
+· Helps develop enzymes and vitamins
+· Promotes nodule formation on legumes
+· Aids in seed production
+· Necessary in chlorophyll formation (though it isn’t one of the constituents)
+MICRONUTRIENTS
+The micronutrients are boron, chlorine, cooper, iron, manganese, molybdenum, and zinc. These plant food elements are used in very
+small amounts, but they are just as important to plant development and profitable crop production as the major nutrients. Especially,
+they work "behind the scene" as activators of many plant functions.
+BORON
+· Essential of germination of pollon grains and growth of pollen tubes
+· Essential for seed and cell wall formation
+· Promotes maturity
+· Necessary for sugar translocation
+· Affects nitrogen and carbohydrate
+CHLORINE
+· Not much information about its functions
+· Interferes with P uptake
+· Enhances maturity of small grains on some soils
+COPPER
+· Catalyzes several plant processes
+· Major function in photosynthesis
+· Major function in reproductive stages
+· Indirect role in chlorophyll production
+· Increases sugar content
+· Intensifies color
+· Improves flavor of fruits and vegetables
+IRON
+· Promotes formation of chlorophyll
+· Acts as an oxygen carrier
+· Reactions involving cell division and growth
+MAGANESE
+· Functions as a part of certain enzyme systems
+· Aids in chlorophyll synthesis
+· Increases the availability of P and CA
+MOLYBDENUM· Required to form the enzyme "nitrate reductas" which reduces nitrates to ammonium in
+plant
+· Aids in the formation of legume nodules
+· Needed to convert inorganic phosphates to organic forms in the plant
+ZINC
+· Aids plant growth hormones and enzyme system
+· Necessary for chlorophyll production
+· Necessary for carbohydrate formation
+· Necessary for starch formation
+· Aids in seed formation
+In addition to the 13 nutrients listed above, plants require carbon, hydrogen, and oxygen, which are extracted from air and water to
+make up the bulk of plant weight.
+Visual nutrient deficiency symptoms can be a very powerful diagnostic tool for evaluating the nutrient status of plants. One should
+keep in mind, however, that a given individual visual symptom is seldom sufficient to make a definitive diagnosis of a plant’s nutrient
+status. Many of the classic deficiency symptoms such as tip burn, chlorosis and necrosis are characteristically associated with more
+than one mineral deficiency and also with other stresses that by themselves are not diagnostic for any specific nutrient stress.
+However, their detection is extremely useful in making an evaluation of nutrient status.In the following table (Table 3 and 4) deficiency
+symptoms and probable cause have been presented for macro and micro nutrients which can be used to evaluate the qualitative
+status of plant nutrient status with a relatively high degree of confidence.
+Table 3: Primary and secondary nutrient deficiency symptoms, the cause and method of correction
+Element General deficiency symptoms Probable cause of deficiency Method of correction
+Nitrogen (N) yellow leaves, stunted growth lower leaves turn brown, low soil N, leaching from the soil, apply N fertilizer
+leaves abort inadequate N applied
+Phosphorus (P) small plants, reddish-purple leaves, slow growth, loss of low soil P; cool, wet soils, apply P fertilizer
+plant vigor inadequate P applied
+Potassium (K) small plants, brown margins on lower leaves, small Low soil K, leaching from the apply K fertilizer
+stems, lodging of plants, poor yield and quality apply K fertilizer ,weak soil,
+inadequate K applied
+Calcium (Ca) small plants, deformed buds distorted leaves, failure to low soil pH, leaching from the apply lime or, Ca
+grow poor fruit development soil, inadequate lime applied fertilizer
+Magnesium (Mg) lower leaves—in severe cases entire plants—turn low soil pH, leaching from the apply dolomitic lime or
+yellow with green interveinal areas soil, no Mg applied fertilizer Mg fertilizer
+Sulfur (S) yellow plants, slow growth low vigor ,no response to low soil S, leaching from soil, low apply S fertilizer
+applied nitrogen ,low crop yield and quality organic matter content ,no S
+fertilizer applied
+Table 4: Micronutrient deficiency symptoms, the probable cause and method of correction
+Element General deficiency symptoms Probable cause of deficiency Method of correction
+, interveinal chlorosis of leaves, stunted plants, yellow low soil Mn, high soil pH lower apply foliar or add Mn to
+Manganese(Mn) cast over due to over liming spray, reduced yield & soil pH soil deficient areas
+qualityZinc (Zn) chlorotic leaves, slow growth reduced vigor, white low Zn in soil, high soil pH, lower apply foliar spray or add Zn
+streaks parallel to leaf blade soil pH high soil P to soil
+Copper (Cu) reduced growth, leaf-tip dies back, leaf tip breaks down low soil Cu, high organic matter apply foliar spray or add Cu
+leaves ragged to soil
+Boron (B) terminal bud dies, multiple lateral branches (rosette low soil B, esp. on sandy apply foliar spray or add B
+with short internodes, older leaves thick and leathery, soils to soil
+petioles short, twisted, and ruptured), hollow heart (in
+vegetables), small deformed fruit (in grapes), cork spot
+(in apples)
+Molybdenum(Mo) reduced growth; pale green color; necrotic areas low soil pH, low Mo content apply in soil foliar spray, or
+adjacent to midrib between veins and along leaf add Mo to soil, inoculate
+edges; twisted stems seed with Mo
+Chlorine (Cl) reduced growth; stubby roots; interveinal chlorosis; low soil Cl, esp. in soils subject to apply Cl-containing
+nonsucculent tissue (in leafy vegetables) leaching fertilizer
+Nutrient deficiencies can be identified in field through visual observations(Fig 1). However, additional analysis, either plant or soil
+testing is often necessary to confirm nutrient stress. The following is a quick-reference flow chart that can be used in field to identify
+potential nutrient deficiencies. Each nutrient has unique deficiency symptoms. Deficiencies will appear in many ways. It can be
+confused with other plant problems like pathogens or spray damage. But nutrient deficiencies can often be recognized because they
+tend to form symmetrical patterns, where both sides of leaf or plant parts show the same pattern.
+Fig 1: A visual aid to help identify nutrient deficiencyChapter – 2
+History of Fertilizers
+When humans began to make stone tools, grow their food, and live in permanent communities from then onwards they probably used
+fertilizers. Over time, fertilizer technology became more refined. New substances that improved the growth of plants were discovered.
+The Egyptians are known to have added ashes from burned weeds to soil. Ancient Greek and Roman writings indicate that various
+animal excrements were used, depending on the type of soil or plant grown. It was also known by this time that growing leguminous
+plants on plots prior to growing wheat was beneficial. Other types of materials added include sea-shells, clay, vegetable waste, waste
+from different manufacturing processes, and other assorted trash. But the history of modern chemical fertilizers begins in 18th
+century whenfirst fertilizer produced by chemical processes was ordinary superphosphate, made early in the 19th century by treating
+bones with sulfuric acid. Coprolites and phosphate rock soon replaced bones as the P source. The K fertilizer industry started in
+Germany in 1861.In North America the K industry started during World War I and expanded with development of the New Mexico
+deposits in 1931 and the Saskatchewan deposits in 1958. Modern K fertilizers are more the product of physical than of chemical
+processes.The first synthetic N fertilizer was calcium nitrate, made in 1903 from nitric acid produced by the electric arc process. The
+availability of synthetic ammonia after 1913 led to manynew N fertilizers, but physical quality was poor.
+The major contributions were those of Liebig, Lawes, Haber, Bosch, Wohler, Johansen and Frasch(Fig 2). Foundations of the fertilizer
+industry were laid primarily in Europe and part of America. In the 1730s, Viscount Charles Townshend (1674–1738) first studied the
+improving effects of the four crop rotation system that he had observed in use in Holland. He noticed that the farms where this was
+employed was more fertile than what it would be with a single crop. He started to research soil nutrition cycles. Johann Friedrich
+Mayer (1719-1798) was the first to present to the public a series of experiments upon it the relation of gypsum to agriculture, and many
+chemists have followed him in the 19th century.
+Chemist Justus von Liebig (1803–1883) contributed greatly to the advancement in the understanding of plant nutrition. His influential
+works first denounced the vitalist theory of humus – which claimed that inorganic chemicals had no part in creating or sustaining
+plant life – arguing first the importance of ammonia, and later the importance of inorganic minerals. He is known as the "father of the
+fertilizer industry" for his discovery of nitrogen as an essential plant nutrient, and his formulation of the Law of the Minimum which
+described the effect of individual nutrients on crops. The Law of the Minimum states that growth is controlled not by the total of
+resources available, but by the scarcest resource . This concept was originally applied to plant or crop growth, where it was found
+that increasing the amount of plentiful nutrients did not increase plant growth. Only by increasing the amount of the limiting nutrient
+was the growth of a plant or crop improved. Primarily his work succeeded in setting out questions for agricultural science to address
+over the next 50 years. In England he attempted to implement his theories commercially through a fertilizer created by treating
+phosphate of lime in bone meal with sulfuric acid. Although it was much less expensive than the guano (bird droppings) that was used
+at the time, it failed because it was not able to be properly absorbed by crops. At that time in England, Sir John Bennet Lawes (1814–
+1900) was experimenting with crops and manures at his farm at Harpenden (in the county of Hertfordshire) and was able to produce a
+practical superphosphate in 1842 from the phosphates in rock and coprolites. Lawes had begun to interest himself in growing various
+medicinal plants on the Rothamsted estates, which he inherited on his father's death in 1822. About 1837 he began to experiment on the
+effects of various manures on plants growing in pots, and a year or two later the experiments were extended to crops in the field. Oneimmediate consequence was that in 1842 he patented a manure formed by treating phosphates with sulphuric acid, and thus initiated
+the artificial manure industry. Encouraged, he employed Sir Joseph Henry Gilbert, who had studied under Liebig at the University of
+Giessen, as director of research. To this day, the Rothamsted research station that they founded still investigates the impact of
+inorganic and organic fertilizers on crop yields.
+Fig2: Major contributors in Fertilizer
+Justus von Liebig Sir John Bennet Lawes Sir Joseph Henry Gilbert Friedrich Wohler
+Jean Baptiste Boussingault Fritz Haber Carl Bosch Johann Friedrich Mayer
+Erling Johnson Johann Friedrich Mayer Viscount Charles Townshend Borlaug
+In France, Jean Baptiste Boussingault (1802–1887) was instrumental in understanding the importance of Nitrogen fixing on
+plants. A chemist, who started out in the mining industry, he was appointed to the chair of agricultural and analytical
+chemistry at the Conservatoire des Arts et Metiers in Paris in 1839 and then he devoted himself mainly to agricultural
+chemistry and animal and vegetable physiology, with occasional excursions into mineral chemistry. The breakthrough came in
+1828 when Friedrich Wohler (1800-1882) of Germany wanted to make ammonium cyanate by mixing ammonium chloride with silver
+cyanate. And like many major discoveries in science, it was accidental which yield urea. It was not the first organic compound to be
+made in the lab. In fact Wohler himself had made oxalic acid from an inorganic compound called cyanogens.In the early decades of
+the 20th Century, Nobel prize-winning chemists Carl Bosch of IG Farben and Fritz Haber developed the process that enabled
+nitrogen to be cheaply synthesized into ammonia, for subsequent oxidization into nitrates and nitrites. Both scientists were
+working for the German company BASF. This was an extremely important development as until then, there was no method
+to synthesize Nitrogen to a form that plants could take in. However this discovery was first used in manufacture of
+explosives and chemical weapons for World War I (1914-1919). Agriculture was not given much importance at that time. Post
+war (after 1920), this development enabled industrial production of Nitrogen fertilizers. It is now widely believed that this
+process enabled an increase in food production which in turn has caused the World's population to go from 1.6 billion in1948 to the current 6 billion. The earliest fertilizer companies were established in England in the early 1800s and processed
+naturally available sources such as fossilized bones to obtain fertilizers – primarily phosphate fertilizers. By the end of the
+century, this had become a major industry on the east coast of England. As the industry grew, so did the variety of
+fertilizers. Colonization mean access to natural resources from around the world which enabled supply of different
+sources. After World War I these businesses came under financial pressure through new competition from guano (bird
+excreta), primarily found on the Pacific islands, as their extraction and distribution had become economically attractive.The
+inter-war period (1919-1938), with the application of the Haber-Bosch process, saw innovative competition from Imperial
+Chemical Industries (ICI) who developed synthetic ammonium sulfate in 1923, Nitro-chalk in 1927, and a more concentrated
+and economical fertilizer called CCF based on ammonium phosphate in 1931. In 1927 Erling Johnson developed an industrial
+method for producing nitrophosphate, also known as the Odda process after his Odda Smelteverk of Norway. Among the
+advocators of fertilizer the contribution of Borlaug cannot be overlooked. The late Nobel Laureate Dr. Norman Borlaug,
+often called the “father of the Green Revolution,” has called improved seeds the “catalysts that ignited the Green
+Revolution” and mineral fertilizer the “fuel” that powers it.Chapter – 3
+Mineral and Organic Fertilizer
+Plants need adequate supplies of nutrients for good growth and high yields. When the soil itself cannot supply the quantities
+of nutrients needed by the plant, best yields would not be obtained unless the shortage of plant nutrients is made up by applying the
+missing substances as fertilizers. A fertilizer is a material of natural or synthetic origin, the main function of which is to provide plant
+nutrients. By legal definition, the term fertilizer refers to a soil amendment that guarantees the minimum percentages of nutrients (at
+least the minimum percentage of nitrogen, phosphate, and potash).
+An organic fertilizer refers to a soil amendment derived from natural sources that guarantees the minimum percentages of nitrogen,
+phosphate, and potash. The term soil amendment refers to any material mixed into a soil. Mulch refers to a material placed on the soil
+surface. By legal definition, soil amendments make no legal claims about nutrient content or other helpful (or harmful) effects they will
+have on the soil and plant growth.
+The purpose of fertilizer use, especially for higher yields, is identical in temperate and tropical climates:
+ to supplement the natural soil nutrient supply and build up soil fertility in order to satisfy the demand of crops with
+a high yield potential;
+ to compensate for the nutrients exported by the harvested products or lost by unavoidable leakages to the
+environment in order to maintain good soil conditions for cropping.
+Kinds of Fertilizers
+Fertilizers are classified into two categories – inorganic and organic. The inorganic (mineral) fertilizer is a substance in which the
+declared nutrients are in the form of inorganic salts obtained by extraction and/or by physical and/or chemical industrial processes.
+Organic fertilizers are carbonaceous materials mainly of vegetable and/ or animal origin added to the soil specifically for the nutrition
+of plants.
+Fertilizer can be classified based on the number of plant nutrients they supply to the soil.
+Straight fertilizers : Straight fertilizers are those which supply only one primary plant nutrient, namely nitrogen or phosphorus or
+potassium. E.g. Urea, ammonium sulphate, potassium chloride and potassium sulphate.
+Complex fertilizers : Complex fertilizers contain two or three primary plant nutrients of which two primary nutrients are in chemical
+combination. These fertilizers are usually produced in granular form e.g. Diammonium phosphate, nitrophosphates and ammonium
+phosphate.Mixed fertilizers: Physical mixtures are straight fertilizers. They contain two or three primary plant nutrients. Mixed fertilizers are
+made by thoroughly mixing the ingredients either mechanically or manually.
+Fertilizers can also be classified based on physical form: Solid fertilisers and liquid fertiliser.
+Solid fertilizers are in several forms:
+• Powder (single superphosphate)
+• Crystals (ammonium sulphate)
+• Prills (urea, diammonium phosphate, superphosphate),
+• Granules (Holland granules)
+• Supergranules (urea supergranules)
+• Briquettes (urea briquettes).
+Liquid form fertilizers are applied with irrigation water or for application. Ease of handling, less labour requirement and
+possibility of mixing with herbicides has made the liquid fertilizers more acceptable to farmers.
+Nitrogenous fertilizers
+More than 80 per cent of the fertilizers used in this country are made up of nitrogenous fertilizers (Fig 3), particularly
+urea.
+Ammoniacal : Ammoniacal fertilizers contain the nutrient nitrogen in the form of ammonium or ammonia.Except rice, all
+crops absorb nitrogen in nitrate form. These fertilizers are resistant to leaching loss, as the ammonium ions get readily
+absorbed on the colloidal complex of the soil. Example: Ammoniumm Sulphate, Ammonium chloride,Anhydrous ammonia
+Nitrate: Nitrate fertilizers contain the nitrogen in the form of NO . These ions are easily lost by leaching because of the
+3
+greater mobility of nitrate ions in the soil. Continuous use of these fertilizers may reduce the soil acidity as these
+nitrogenous fertilizers are basic in their residual effect on soils. Example: Sodium Nitrate,Calcium Nitrate,Potassium Nitrate
+Urea prills Ammonium sulphate Urea grannules CAN grannules
+Fig3: Nitrogenous fertilizersAmmoniacal and Nitrate: These fertilizers contain nitrogen in both ammonium and nitrate forms. The nitrates are useful
+for rapid utilization by crops and the ammonical is gradually available. Example: Ammonium Nitrate,Calcium Ammonium
+Nitrate,Ammonium Sulphate Nitrate
+Amide: Amide fertilizers are readily soluble in water and easily decomposable in the soil. Example: Urea, Calcium Cynamide
+Phosphatic fertilizers
+Phosphatic fertilizers(Fig 4) are chemical substances that contain the nutrient phosphorus in absorbable form (Phosphate
+anions) or that yield after conversion in the soil.
+Rock Phosphate Single Super Phosphate Diammonium Phosphate Tripple Super Phosphate
+Fig4: Nitrogenous fertilizers
+Potassic fertilizers
+There are a limited number of fertilizer materials(Fig 5) that can be used to supply K when needed. Example: Potassium
+chloride,Potassium-magnesium sulfate , Potassium nitrate, Potassium sulfate.
+Common fertilizer sources of K
+Material Chemical formula KO content
+2
+Potassium chloride KCl 60
+Potassium-magnesium sulfate KSO-2MgSO 20
+2 4 4
+Potassium nitrate KNO 44
+3
+Potassium sulfate KSO 50
+2 4Muriate of Potash Potassium Sulphate Potassium Nitrate
+Fig 5:Potassic fertilizers
+Multinutrient Fertilizers
+Fertilizers having a declarable content of at least two of the primary plant nutrients (NP, NPK, PK, or NK) are classified as multinutrient
+fertilizers (Fig 6). They can also often contain one or more of the secondary nutrients and/or micronutrients. Multinutrient fertilizers,
+also often referred to as compound fertilizers, are available in an almost infinite number of grades. Multinutrient Fertilizers are
+produced by either physical blending or by one of several different chemical processes and are mostly in granular form. The chemical
+formula depends on raw materials used and grade produced; numerous grades are available.
+Fig 6:Multinutrient Fertilizers
+Monoammonium Phosphate(12:52:0) NPK fertilizer(Chemical NPK fertilizer(Physical mixing)
+mixing)Secondary major-nutrient fertilizers
+Magnesium fertilizers: These are chemical substances containing the nutrient magnesium in the form of magnesium cations
+(Mg2+). Example: Magnesium Sulphate (MgSO).The utilization rate of magnesium fertilizers decreases with increasing potassium
+4
+supplies.
+Calcium fertilizers: These are the chemical substances containing the nutrient calcium in absorbable calcium cations ('Ca2+)
+form. The raw material of calcium fertilizers is lime found in nature.
+Sulphate Fertilizers:These are chemical substances containing the nutrient sulphur in the form of absorbable sulphate anions
+(SO2-). The sulphur requirements of plants are about two third of their phosphorus requirements. Substantial sulphur supplies
+4
+occur as minor constituents of various N, P and K fertilizers.
+Micronutrient Fertilizers
+The importance of fertilization of crops with micro-nutrients is increasing mainly because of greater removal from the soil,
+intensive liming of soil, intensive drainage of soil, higher use of nitrogenous, phosphatic and potassic fertilizers etc.
+a. There are seven essential micronutrients required by plants.
+b. These are iron, manganese, zinc, copper, chlorine, boron and molybdenum.
+Fig 7: Secondary and micro nutrient fertilizers
+Secondary nutrient fertilizer Micronutrient fertilizer
+Sulphur Lime Boron Zinc
+Fertiliser can also be classified based on the residual effect (Table 5) it exterts on soil. There are three types of fertilizers i.e.,
+Physiological acidic fertilizer, Physiological basic fertilizer and Physiological neutral fertilizer.Equivalent Acidity: The amount of CaCO required to neutralise the acid residues caused by acidic fertilizers in the soil e.g. 100 kg
+3
+(NH)SO produces acidity which needs 110 kg of CaCO to neutralise it. Therefore equivalent acidity of (NH)SO is 110; Anhydrous NH
+42 4 3 42 4 3
+has more equivalent acidity than other fertilizers.
+Equivalent Basicity: Residual basicity caused by application of basic fertilizers, expressed in terms of CaCO equivalent of basic
+3
+residues left by a fertilizer material (in kg/100 kg of fertilizer salt).
+Table 5: Residual effect of Fertilizer
+S. No. Fertilizer Equivalent Acidity Equivalent Basicity Physiological
+neutral
+1. CaCN - 63
+2. NaNO - 29
+3
+3. KNO - 29
+3
+4. Ca(NO ) - 21
+32
+5. Nitrate of Soda Potash - 26
+6. Anhydrous Ammonia 148 -
+7. NHCl 128 -
+4
+8. (NH)SO 110 -
+42 4
+9. (NH4)SO.NH NO 93 -
+2 4 4 3
+10. Urea 80-84 -
+11. DAP 77 -
+12. Ammonium Nitrate 60 -
+13. Mono-ammonium Phosphate 55
+14. Calcium Ammonium Nitrate 0
+Fertilisers can also be classified as natural fertilisers and synthetic fertilisers. Natural fertilisers are products that have been
+extracted from living things or from the earth. On the other hand synthetic fertilizers are those composed of the synthesized
+chemicals of nitrogen, phosphorus and potassium. In general, natural fertilizers contain lesser amounts of N-P-K than their
+synthesized counterparts, so one need to use more of them to supply the plant with the required amount of nitrogen, phosphorus or
+potassium.
+Fertiliser can be also be classified based on physical condition. They are solid (crystalline, powdered, prilled or granular) of various
+size ranges;liquid (solutions and suspensions) and gaseous (liquid under pressure, e.g. ammonia).
+Liquid fertilizers
+Liquid form fertilizers are applied with irrigation water or for application. Liquid chemical fertilizers have a number of benefits for
+soil, plants and users. Ease of handling, less labour requirement and possibility of mixing with herbicides has made the liquid fertilizersmore acceptable to farmers.These products are easy to apply and provide quick results. More than just bottles of specified plant food,
+liquid fertilizers also balance the chemicals that naturally occur in soil and create an ideal growing environment for plants.Liquid
+fertilizers are easy to apply at varied stages of plant growth. They can encourage seeds to sprout and take root and later help the
+development of fruit and flowers. If a plant needs to be transplanted, liquid fertilizer can be appled directly to the root to encourage
+the plant to settle into its new home.When using irrigation solutions like in a drip system, liquid fertilizer is an ideal companion. Drip
+irrigation relies on specialized hoses that allow water to seep out into the soil at the base of a plant, where it is most needed. By
+adding the liquid fertilizers at the source of the water supply, each plant receives equal fertilization. Once the fertilizer is used up, the
+container can be removed from the supply until it is time to fertilize again.
+Liquid fertilizers comprise anhydrous ammonia, aqueous solutions of ammonia, aqueous solutions of ammonium nitrate and or urea.
+These concentrated products may be diluted with water to form a concentrated liquid fertilizer (e.g. UAN).
+Based on nutrient release it can be grouped as quick-acting (water-soluble and immediately available); slow-acting
+(transformation into soluble form required, e.g. direct application of phosphate rock); controlled-release by coating and
+stabilized by inhibitors.Chapter – 4
+Physical Properties of Fertilizer
+Physical properties of fertilizers are important in processing, handling, transportation, bagging, storage, and application. The physical
+properties of fertilizer which are included in ascertaining physical properties of fertilizers(Table 6) are critical relative
+humidity, moisture absorption-penetration characteristics, flowability, caking tendency, size analysis, angle of repose, bulk
+density, apparent density, true density of solids and liquids viscocity, granule crusning strength, abrasion resistance, impact
+resistance, handling strength, sphericity, conditioner adherence, dustiness, surface area, disintegration rate, and porosity.
+Critical Relative Humidity
+Critical relative humidity (CRH) is that humidity of the atmosphere above which a material will absorb a significant amount of moisture
+and below which it will not. For each fertilizer compound or mixture, there is a maximum relative humidity to which the fertilizer can be
+exposed without absorbing moisture from the air. Determination of this value is necessary when controlled-humidity storage areas
+are being designed for a material. Ti e value is of interest also as an indication of the degree of protection that is likely to be required
+during handling. In the case of mixtures, determination of CRH is one check on compatibility; some mixtures have an intolerably low
+CRH, much lower than the CRH of either component alone. The procedure for determination of CRH involves exposure of small fertilizer
+samples to progressively higher relative humidities in a variable-humidity chamber. The lowest homidity that initiates significant
+absorption of moisture is determined by frequent weighings of the sample; this is taken to be the CRH.
+Table 6: Physical properties of different fertilizer
+Fertiliser Critical Flowability Angle of Bulk density Apparent Granule
+Relative (Minutes at repose (gcc-1) density crushing
+Humidity 30⁰C and (⁰) (gcc-1) strength
+at 30 0 C 90% RH) (kg/granule)
+75% non
+flowable
+Prilled urea 70-75 15 28 0.76 1.32 1.0
+Ammonium sulfate 70-75 280 38 0.78 1.59 2.5
+Ammonium nitrate 60-65 16 32 0.83 1.67 1.7
+Diammonium phosphate 70-75 180 37 1.00 1.65 3.9
+Monoammonium phosphate 70-80 190 37 1.00 1.72 2.5
+Potassium chloride 70-80 37 1.02 1.95 4.0
+Potassium sulfate 80-85 41 1.04 1.99 3.0
+Flowability
+Flowability is the ability of a material to remain flowable under humid conditions. Flowability is important when considering the
+movement of material in conveyor systems and fertilizer applicators.
+Caking TendencyCaking tendency is the tendency of a fertilizer to agglomerate or lump in either bulk or bag storage and is affected by one or more of
+the following: (1)moisture content, (2) particle size, (3) particle hardness, (4) presence of conditioners, (5) storage temperature, (6)
+storage pressure, (7) storage time, (8)curing time, and (9)material composition. Excessive caking can cause problems in handling and
+field application.
+Bulk Density
+Bulk density is the weight per unit volume of a material, including voids between particles and is a measure of the density of the
+material, its porosity, and the voids between the particles of the material. Loose-pour bulk density represents the minimum density
+(greatest volume occupancy) that would be expected from a given material. Bulk density is of interest in bag sizing, in calibration of
+calibration of volumetric feeders, and when considering capacity of storage bins and transport vehicles. For the
+volumetric feeders
+fertilizer dealer, bulk density is of interest in bag sizing and when considering the capacity of storage spaces and transport vehicles.
+Less dense materials such as urea will require a larger bag than more dense materials like potassium chloride. Additionally, you can
+get more of a denser material in a given storage space than a less dense material.
+.
+Size Analysis (Sieve Method)
+Particle size of fertilizer products and/or fertilizer raw materials is defined as the particle diameter ranges of the test material.
+Particle size affects agronomic response; granulation techniques; and storage, handling, and blending properties. These procedures
+can be used to determine size distributions of materials ranging in size from 25.0 mm to 38 pm.
+Angle of Repose
+The angle of repose is the angle at the base of the cone of fertilizer obtained by allowing a sample to fall onto a horizontal base plate
+or dropped into a pile from a fixed overhead point. It is of interest when considering storage capacity and the design of hoppers,
+chutes, conveyors, and sloped roofs of bulk-storage buildings. Knowing the angle of repose of a fertilizer material is essential when
+determining the capacity of a bulk storage building or bin. The angle of repose of fertilizers is influenced mostly by particle shape, size,
+and surface texture. Angle of repose values for fertilizers normally range from about 25° to about 40°. Spherical products, such as
+prilled urea, usually have lower angle of repose values (<30°). Irregularly shaped products, such as granular potassium chloride,
+usually have higher angle of repose values (>35°).
+Apparent Density
+Apparent density is the weight per unit volume of a material, excluding voids between particles. The apparent density of individual
+granules often is of interest in connection with development of new fertilizer processes; for a given product, variations in granule
+density can result in variations in hardness, moisture-holding capacity, and storage properties. Determinations of granule density are
+made in a special apparatus by measuring the volume of mercury that is displaced by submerging a known weight of granules.
+Granule Crushing Strength
+Crushing strength is a measure of the resistance of granules to deformation or fracture under pressure. Crushing strength is of
+interest in estimating the expected handling and storage properties of agranular material and determining the pressure limits applied
+during bag and bulk storage. This mechanical strength, of a fertilizer particle is influenced by its chemical composition, method of
+production, particle porosity, particle shape, surface crystals, and moisture content. Fertilizers should be strong enough to withstand
+normal handling and storage without significant fracturing of particles and creation of excessive dust. A fertilizer particle can be
+subjected to static and/or dynamic mechanical stresses. Static stress results from pressures exerted on particles at the bottom of abulk pile or stack of bags. Dynamic stress results from abrasion (creation of dusts and fines) or fracturing of particles as a result of
+particle-to-particle and particle-to equipment contact during handling. A “finger test” is a reasonably good, simple field method for
+evaluating the mechanical strength of fertilizer particles. In this test, a particle/granule that can be crushed between the thumb and
+forefinger can be classified as “soft/weak.” If it is not classified as soft/ weak, but can be crushed between the forefinger and a hard
+surface, it can be regarded as being of “medium hardness.” If it remains intact when subjected to pressure by the forefinger against a
+hard surface, it can be classified as “hard/strong.
+Dustiness
+This can be a problem with some fertilizers. Excessive dust can result in significant losses during handling, resulting in lost revenue. It
+can also possibly create environmental problems as well as expose employees to unhealthy levels of dust.
+Protocols for Physical Parameters Estimation
+1. Moisture
+Two important forms of water present in fertilizers are: (i) absorbed/adsorbed water; and (ii) free water. They are interchangeable
+depending on the degree of moisture saturation and temperature. Some fertilizers also contain water as an integral part of their
+composition, which is referred to as water of crystallization, as in the case of ZnSO4.7H2O and CuSO4.5H2O. As fertilizers aregenerally hygroscopic in nature, they tend to absorb moisture from the atmosphere (depending on the relative humidity and their
+packing and storage conditions).
+Excessive moisture may damage the granular structure of fertilizers, affect their quality and influence their nutrient content by
+increasing the weight of fertilizers in a given container.
+Therefore, moisture estimation is critical to determining the quality of a fertilizer. The method used depends on the type of fertilizer
+and the nature of moisture held by it. Some common methods are:
+i. gravimetric method;
+ii. vacuum desiccator method;
+iii. Karl Fischer titration method.
+Gravimetric method
+With the gravimetric or oven-drying method, the loss of water on heating fertilizer samples at a certain temperature is estimated. This
+method is suitable for fertilizers such as ammonium sulphate, sodium nitrate, superphosphates, muriate of potash (MOP) and sulphate
+of potash (SOP). It is not suitable for fertilizers that yield volatile substances (such as NH) other than moisture on drying at a
+4
+specified temperature, e.g. calcium ammonium nitrate and di-ammonium phosphate (DAP).
+Moisture is estimated by the gravimetric method where the loss in weight at a constant temperature of 100 °C ± 1 °C for 5 hours is
+measured, e.g. zinc sulphate, and copper sulphate. In the case of sodium nitrate, superphosphates, ammonium sulphate, SOP and MOP,
+the heating is at 130 °C ± 1 °C. For urea and urea-based fertilizers, the heating is at 70 °C. However, heating at 70 °C does not reflect
+full moisture content. Therefore, another method such as the Karl Fischer method is preferred.
+The apparatus required consists of: a glass weighing bottle;an electronic balance; a temperature-controlled oven.
+The procedure:
+1. Weigh 2.0 g of fertilizer sample in a pre-weighed glass weighing bottle.
+2. Heat in a temperature-controlled oven for about 5 hours at the specified temperature, as given above for different types of
+fertilizers.
+3. Cool in a desiccator, and weigh.
+The relevant calculation is: Moisture % by weight=(B-C)/(B-A)*100
+where:
+A = weight in grams of the empty sample bottle; B = weight in grams of the bottle plus material before drying and C = weight in grams
+of the bottle plus material after drying.
+Vacuum desiccator method
+With the vacuum desiccator method, the free moisture present in the fertilizer is absorbed by the desiccant (sulphuric acid), and the
+loss in weight is reported as moisture. This method is suitable for fertilizers such as calcium ammonium nitrate, DAP, and NPK
+complexes.
+In this method, the sample is kept in a vacuum desiccator over sulphuric acid. Free moisture present in fertilizers is absorbed by the
+acid, and the loss in weight of the sample is recorded as the moisture content in the sample.
+The apparatus required consists of: a vacuum desiccator;a porcelain dish;a balance.
+The procedure is:
+1. Weigh (accurately) 5 g of sample in a porcelain dish, and keep it in a desiccator for 24 hours.
+2. Take the weight again after 24 hours. The loss in weight is equal to moisture content in the sample.
+The relevant calculation is:% moisture=(B-C)/(B-A)*100
+where: A = weight in grams of the porcelain dish; B = weight in grams of the porcelain dish plus the fertilizer sample and and C =
+weight in grams of the porcelain dish plus the fertilizer sample after desiccation for 24 hours.
+Karl Fischer method
+The Karl Fischer titration method is suitable for fertilizers such as nitrophosphates, urea, and urea-based fertilizers, which do not
+withstand high temperatures.
+The apparatus required consists of: a Karl Fischer titrator; a bal

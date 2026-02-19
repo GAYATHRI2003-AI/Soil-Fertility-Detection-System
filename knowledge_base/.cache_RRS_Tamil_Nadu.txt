@@ -1,0 +1,789 @@
+RAPID RECONNAISSANCE SOIL & LAND DATABASE OF TAMIL NADU
+STATE
+SOIL & LAND USE SURVEY OF INDIA
+(DEPARTMENT OF AGRICULTURE, CO-OPERATION & FARMERS WELFARE)
+MINISTRY OF AGRICULTURE & FARMERS WELFARE
+GOVERNMENT OF INDIA
+IARI Buildings, PUSA
+NEW DELHI-110 012Most of the content of the publication
+are in-house data of the organization available in
+published RRS reports by SLUSI and on https://slusi.dacnet.nic.in/
+ISBN:
+TO OBTAIN COPIES OF THIS
+Chief Soil Survey officer,
+Soil and Land use Survey of India,
+Department of Agriculture, Cooperation and Farmers Welfare,
+Ministry of Agriculture and Farmers Welfare,
+Government of India,
+IARI Buildings, Pusa, New Delhi-110012
+Phone: +9111-25841263, 25849486
+Telefax: +9111-25843811
+E-mail: csso-slusi@nic.inPREFACE
+Soil is a key part of our natural environment and is a non-renewable resource. Soil loss due to erosion can have
+major implications not just for soils and the benefits they provide but also for air and water quality as well as our climate,
+biodiversity and economy. The acquisition of adequate information on soil and land characteristics is thus essential to
+formulate a viable strategy to check the degradation of soil and land resources Proper consideration of soils through the
+planning system is needed to make sure that soils can deliver essential functions vital for the sustainability of Indian
+environment and economy.
+Soil and Land Use survey of India (SLUSI), Department of Agriculture, Cooperation and Farmers’ Welfare,
+Ministry of Agriculture and Farmers’ Welfare carried out Rapid Reconnaissance Survey (RRS) to identify & demarcate
+the potential soil erosion in river catchment of different river basins using extensive ground truthing. The details on
+various facets of soil & land have been assessed to fix sub /micro watershed wise priority in catchments based on the
+assessed runoff using SYI/RPI index. The work for data acquisition on RRS has been completed by organization in 2010.
+Subsequently SLUSI took up a national initiative to digitize the RRS maps and data on soils of the country at 1:50, 000
+in different states.
+With a view to provide details to users in various states, SLUSI took up the initiative to seamlessly compile the
+digital soil & land character data base acquired on 1:50 scale during the decades. This state-level RRS guide contains
+agro-climatic sub-zone wise information on various soil parameters such as landscape, physiography, slope, depth,
+texture and erosion status.
+The digital soil database can be vital input as considered in the National Disaster Management Plan and State
+Disaster Management plan of Tamil Nadu, which recognizes soil as a physical asset and highlight the need to manage
+our finite soil resource by maintaining and improving its condition.
+The spatial database would play an effective role to support the decision makers to achieve the right development
+in the right place and identifies the need to consider the implications of development on soil quality as one of its guiding
+principles.
+This enormous task is accomplished by officers and officials of Soil and Land Use Survey of India. I hope that
+the RRS guide may serve as a guiding tool for user’s departments /agencies of the state.
+Date: Rajni Taneja
+Place: New Delhi Chief Soil Survey OfficerCONTENT
+Sl. No. Particulars Page No.
+Overview
+1. Prelude 1
+2. Introduction 1
+2.1 Objective 2
+2.2 Background 2
+2.3 Data Source 3
+2.4 Methodology 3
+2.5 Output 4
+Hydrologic Frame Work of Watershed 5
+Agro climatic Sub zones of Tamil Nadu 7
+Outcomes of soil and Land Database 9
+I. Landscape/ Parent material 9
+II Soil Erosion 13
+III Soil Depth 17
+IV Soil Slope 19
+V Land Use 21
+VI Soil Texture 24
+District-wise Categorization of Priority Class 261
+OVERVIEW
+1. Prelude
+The purpose of planning is to manage the development and use of land in long term public interest. Soil is a key part of
+our environment and is effectively a non-renewable resource. Soil loss due to erosion can have major implications not just for
+soils and the benefits they provide but also for air and water quality as well as our climate, biodiversity and economy. Proper
+consideration of soils through the planning system is needed to make sure that soils can deliver essential functions vital for the
+sustainability of Indian environment and economy.
+The National disaster management plan (NPF) and Disaster Management plan of Tamil Nadu state recognize soil as a
+physical asset and highlight the need to manage our finite soil resource by maintaining and improving its condition.
+The acquisition of adequate information on soil and land characteristics is thus essential to formulate a viable strategy to
+check the degradation of soil and land resources. To combat the situation development of spatial database would play an
+effective role to support the decision makers to achieve the right development in the right place and identifies the need to
+consider the implications of development on soil quality as one of its guiding principles.
+2. Introduction
+Soil and Land are important natural resources on the surface of the earth. The biomass covers the surface and act as
+natural protector of soil in the area. But due to variety of reasons the vegetative cover distribution varies at various location in
+the state. The area in state suffers from a variety of problems of soil erosion, soil salinity, sodicity/ alkalinity, shallow depth,
+unfavorable texture responsible for increased land degradation. Tamil Nadu homes over 16% of countries population in an area,
+which is 3.96% of TGA of the country. Per Capita arable land in state is around 0.15 ha at present.
+There is ever growing need to new Watersheds technology in an integrated watershed management-tool for climate smart
+solution in the entire river basin to treat the abiotic or physical component of a river basin including soil and water, and mineral
+deposits and other compounds bound up with them. Water is a dynamic resource variable in time and space from season to
+season in year, as the status of surface and ground water in a basin area follows a cyclic mode for replenishment and losses. But
+in contrast to water, soils formation and development –take place from the physical weathering of parent material (rocks) to
+chemical decomposition and biological transformation – is a drawn-out process that may take hundreds or thousands of years
+[Jenny, 1994]; and taking into account of time required in the soil development, once formed, soils may be fairly durable if not
+conserve it, once it protect from runoff due to precipitation and reduce the severity of related erosion. Thus, changes in a basin’s
+water resource status is relatively fast and easily identified, while the soils those changes naturally slow and unnoticed with
+significant human activity in many ecosystems (example, in agro-ecosystems and urban ecosystems), and climate change
+phenomenon the complexity of human-technology-environment systems has increased manifold [Pahl-Wostl, 2006] resulted in
+drastic change in soil quality status that has under gone degradation drastically. Now a days many land degradation problems
+are being faced in our country such as salinity / alkalinity and waterlogging in command areas, severe erosion in catchments
+leading to siltation of reservoirs, decrease in productivity of crops etc. As both soil and water are operating in ecosystem
+synergistically to one another through many biotic and abiotic processes. Being thus interrelated, degradation of either soil or
+water has a concurrent effect on the other; hence neither can be considered in isolation
+Therefore, in recent years’ emphasis is laid on the information on the nature, extent, spatial distribution and magnitude of
+land degradation which plays a vital role in planning the strategies for reclamation /conservation of degrade soil and land
+characteristics.
+Management of soil and water resources conservation under RVP/FPR catchments is completed by SLUSI to assess the
+priority sub/ micro watersheds / Hydrologic unit’s area under various catchments of the state in last three decades on 1: 50,000
+scale. In this context mapping of soil and land features as well as land use/cover information, adequate field visit/survey were
+carried out for mapping.2
+2.1 Objective
+The basic objective of the Rapid reconnaissance mapping is to calculate the sediment yield of the catchment and
+determine the status of runoff and soil loss in the country on 1:50,000 scale. Generating priority hydrologic units (sub/micro)
+level spatial maps based on its assessed erosion through sediment yield potential and generating soil & land information with its
+spatial distribution components helps to check soil erosion using conservation measures.
+2.2 Background
+A national policy was adopted to use watersheds for the development of land and water resources for conservation in all
+possible river basins. The selection of watersheds in catchment areas of different river basin for development of water and soil
+resources was done on the basis vulnerability assessment of soils for erosion, demographic setting of the area by prioritizing on
+problem’s severity. Each priority watershed was surveyed and studied morphologically and topographically to generate
+database. The development of Watersheds is applied not only to the geo-physical situation but also to the people’s need.
+Watersheds are natural hydrological entities that cover a specific areal expanse of land surface form which the rain fall
+runoff flows to a defined drain of channel, stream or river of any particular point. The size of watershed is governed by the size
+of the stream/river or the point of intersection on the stream/river like dam/barrage etc. A workable size of watershed is defined
+by aims and objectives of the development programs. The size of watersheds will also differ with the different stages between
+macro to micro level of planning and implementation of watershed programs. (AIS&LUS, 1990).
+The concept of a watershed as the planning unit for the development of land and water resources has been available for
+long, but the watershed approach has gained importance since 1974.
+The Soil and Land Use Survey of India (SLUSI erstwhile AIS&LUS) has initiated delineation and codification of
+hydrologic units in the country, since launching of Centrally Sponsored Scheme on Soil and Water Conservation in the
+catchments of River Valley Project during III Five-Year Plan. The delineation of a hydrologic unit is carried out following
+hierarchical system of rivers/streams based on drainage network. The codification of hydrologic unit is made to assign a unique
+code to all hydrologic units following Alfa-numeric Codification System. The drainage network helps in the delineation of a
+watershed for a particular river system.
+In an attempt to acquire soil and land resource information at reconnaissance level survey, SLUSI (1991) has developed
+and published a methodology to map the potential soil erosion in different river catchment area using extensive ground truthing
+method. The organization has carried out Rapid Reconnaissance soil survey to map various facets of soil and land to assess sub
+/micro watershed wise priority in catchments of the states based on the assessed runoff using SYI/RPI index and plan to
+complete the work of data acquisition by 2012. Subsequently SLUSI (2010) took up a national initiative to digitize the RRS
+maps and data on soils of the country at 1:50, 000 in different states.
+In recent times, SLUSI took up the initiative to seamlessly compile the digital national soil and land character data base
+acquired on 1:50 scale during last three decades. Mapping of natural resources has been an on-going activity for more than
+three decades.
+2.3 Data Source
+2.3.1 Acquisition of soil and land data
+The work of mapping of areas in catchment areas was stared in 1985 in the state. The initial mapping of soil and land
+characteristics was carried out using Survey of India topographic maps with extensive field ground truthing involving study of
+profile/ mini pits and auguring at regular interval.3
+The digitalization drive was undertaken by SLUSI in 2010 with NIC to place the soil and land character data on SLUSI
+geo portal with Universal Traverse Mercator l (UTM 43 and 44 N) projection. The final outputs were later converted Albers
+equal area with following parameters.
+2.3.2 Specifications Table
+Subject: Geographic Information System (GIS), Soil Mapping
+Type of data: Image Figure Digital maps (quantitative), Metadata (Attributes)
+How data were acquired: GIS digitization, raster to vector conversion ESRI ArcGIS 10.3.1
+Data format: Raw Vector shape files (.shp); Soil database, Raster images (Tiff, JPEG)
+Data Accessibility: Only the static graphic maps are included in this article. The main digital data are hosted on
+https://slusi.dacnet.nic.in
+Projection:
+Universal Traverse Mercator Projection
+Spheroid: WGS84
+Datum: WGS1984
+False _Easting: 500000.0
+False _Easting: 0.0
+Central Meridian: 81.0
+Scale _Factor: 0.9996
+Linear Unit Meter (1.0 Legacy/ancillary data)
+For mapping of soil and land characteristics on 1: 50,000 scale, land use/land cover, wetland and wastelands thematic
+information’s taken from SOI toposheets was used as base map. Besides this, forest cover map generated by Forest Survey of
+India (FSI) was also referred.
+The tabular distribution of area details of Geographic / landscape (parent material) and climate data acquired from district
+level state government records/ district gazetteer used as reference information while mapping. Apart from this, district
+boundary taken from Survey of India topographical maps, meteorological data use to assess the soil loss especially while
+mapping of water erosion categories.
+2.4 Methodology
+The various steps followed in the methodology for mapping RRS on 1:50,000 scale. First of all, we select the area and
+estimate the erosion intensity mapping units for Hydrologic unit’s delineation up to sub / micro watersheds and codification
+done using Survey of India toposheets. This information was converted to digital layer using DEM downloaded from
+BHUVAN. The steps includes were:
+ Delineation of catchment areas / bigger hydrologic unit into small watersheds (hereinafter will be called as Sub
+watersheds) on 1:50,000 scale topographic maps of Survey of India.
+ Codification of different stages of delineation by using Alpha-numeric symbolic code.
+ Rapid Reconnaissance survey using 1:50,000 scale topo-maps, satellite imagery/aerial photographs and other basic
+material leading to the generation of a map indicating erosion intensity/ runoff potential mapping units.
+ Assignment of weightage values to various Erosion Intensity Mapping Units (EIMU) or Run-off Potential Mapping Units
+(RPMU) based on their relative Sediment Yield/ Run-off Potential.4
+ Assignment of maximum delivery ratios to various Erosion Intensity Mapping Units and assessment of adjusted delivery
+ratio for different sub/micro watersheds.
+ Computation of Sediment Yield Index / Run off potential Index for individual sub/micro watersheds.
+ Grading of sub/micro watersheds into very high, high, medium, low and very low Priority categories.
+(Steps sourced from: Methodology of Priority Delineation survey manual published by erstwhile AISLUS in 1991)
+2.5 Output
+SLUSI carried out detailed study of soils and generate soil database for watershed management and other developmental
+aspects in priority areas. The Rapid Reconnaissance survey helps in categorization of the areas in different classes on priority
+basis such as very high, high, medium, low and very low. The areas which comes under very high and high priority classes
+needs to check the runoff water through applying watershed approach.
+SLUSI successfully completed development of state-wise Micro Watershed Atlas of India using 1:50 k scale drainage
+map. The organization has also developed Web-enabled Micro Watershed Information system which is in public domain since
+December, 2010 (https://slusi.dacnet.nic.in). It provides Micro watershed data & information in a national standardized format
+that allows users to search, access, and visualize data and information for planning development of water resource
+The reconnaissance level maps at their original scale showing spatial distribution of site features such as land scape,
+physiography, slope, land use and soil characteristics namely colour, texture class, soil erosion status for indicating soil loss,
+surface conditions and management also provided as thematic service available on https://slusi.dacnet.nic.in
+The Tamil Nadu soil attribute and priority survey maps provide useful background information on the types and
+properties of soils at regional scales. The more detailed Soil map of area can be accessed from detailed Soil Survey data.5
+HYDROLOGIC FRAMEWORK OF WATERSHED
+The digital spatial distribution land features such as landscape/parent material, physiography, slope, land use prevalent
+during the time mapped with soil morphological characteristics such as soil depth, texture, erosion are the most important
+physical health status indicators required in planning of area, hydrologically or district wise.
+SLUSI has developed the model for fixing priority areas based on relative assessment of vulnerability of soils to erosion.
+This has been done on sub/micro watershed wise in different catchments of the state. The Region, Basin, Catchment and Sub-
+catchment wise distribution with number of Watersheds, Sub-watersheds and Micro-watersheds and their total area presented in
+table given below. Catchment wise area of Watershed is given below in the table and in thematic map as figure no. 1.
+S.No. Region Basin Catchment Sub-catchment Total No. of Watershed Total No. of Sub-watershed Total No. of Micro-watershed
+4A1A 3 25 145
+4A1B 5 73 369
+4A1
+4A1C 8 72 449
+4A 4A1D 7 62 365
+4A2A 9 84 477
+4A2 4A2B 6 77 399
+4A2C 6 65 340
+4B1A 8 80 488
+4B1 4B1B 4 52 264
+4B1C 7 65 392
+4B2A 8 87 434
+4B2B 4 31 157
+4B2C 6 65 307
+4B2
+4B 4B2D 5 60 306
+4B2E 4 40 195
+1 4 4B2F 6 64 272
+4B3A 7 43 178
+4B3B 5 56 249
+4B3
+4B3C 1 6 18
+4B3F 2 10 32
+4C1A 5 52 281
+4C1B 6 54 301
+4C1C 6 54 289
+4C1
+4C1D 6 70 394
+4C1E 5 33 143
+4C 4C1F 6 77 339
+4C2A 8 83 450
+4C2B 3 23 123
+4C2 4C2C 6 40 164
+4C2D 8 83 448
+4C2E 2 11 52
+5A1A 3 24 122
+5A1
+5A1D 2 12 57
+2 5 5A
+5A2B 5 43 180
+5A2
+5A2C 2 11 32
+Total 2 4 9 35 184 1787 9212
+The state comes under two water resource regions, i.e. Region no. 4 (All drainage flowing into Bay of Bengal) and
+Region no. 5 (All drainage flowing into Arabian sea). Further, the state comes under 04 basins, 09 Catchments, 35 Sub
+catchments, 184 Watersheds, 1,787 Sub watersheds and 9,212 Micro watersheds as depicted in the above table. Out of the total
+catchment area, maximum area comes under catchment 4C2 having 31,82,332 ha. followed by 4C1 (28,32,543 ha.), 4B2
+5,17,782 ha.), 4B3 (22,05,837 ha.), 4A1 (20,28,840 ha.), 4A2 (17,72,416 ha.), 4B1 (17,16,302 ha.), 5A1 (13,17,194 ha.) and
+5A2 (10,17,440 ha.).67
+AGRO CLIMATIC SUB-ZONES OF TAMIL NADU
+Out of 15 agro climatic zones of country identified by Planning commission of India, two namely ACZ 10-southern
+plateau and hill region and ACZ 11 east coast and hill region comes under Tamil Nadu state. The specific constraints in those 2
+regions are poor water management, poor nutritional status of soils and saline lands. The state under National Agriculture
+Research Program subdivided under seven agro climatic sub- zone, i.e. Cauvery delta zone, high altitude and hilly zone, high
+rainfall zone, northeastern zone, northwestern zone, southern zone and western zone. The distribution of distrctwise catchment
+shows the Cauvery delta area forms part of 4A2, 4B1, 4B2, 4C1 catchment area of rivers, covered under Trichirapalloi,
+Perramballur, Arialur, Tanjavur, Puddukotai, Karur, Nagapattanam, Thiruvarur,
+The major agro climatic features are:
+I. Southern Plateau & Hills Region-X
+(1) Features:
+Large rainfed area;
+Large scale cultivation of low value cereals; and
+Tank led irrigation.
+(2) Potential crops, fruits & Livestock:
+(2.1) Agriculture crops: Rice, sweet sorghum, foxtail millet, maize, horse gram, green gram, sunflower, safflower, cotton &
+groundnut.
+(2.2) Horticulture crops: Tapioca, gherkins, onion, okra, chilies, brinjal, tomato, flowers (Gomphrena, crossandra & Jasmine),
+garlic, ginger and medicinal & aromatic (Sandal wood, glory, Lilly, Senna, ashok, cinchona).
+(2.3) Fruit crops: Mango, banana, grapes, guava, sapota, & citrus.
+(2.4) Plantation crops: Rubber, coconut, mulberry, cashew nut, areca nut & cocoa.
+(2.5) Livestock & others: Cattle, buffaloes, sheep, goat, poultry, piggery, fishery, beekeeping & Seri-culture.
+(3) Farming systems:
+Rice and Coarse cereals based cropping systems;
+Piggery; and Marine fisheries.
+(4) Cropping sequences:
+(a) Rainfed Areas:
+Sweet sorghum – cotton - groundnut; and
+Sweet sorghum – green gram – fodder;
+(b) Irrigated Areas:
+Rice – Rabi maize – green gram; and
+Cotton – Rabi maize – fodder.
+(5) Sub-region specific development related priorities (all the 6 sub-regions):
+Creation additional irrigation potential to harness full potential of agriculture;
+In-situ water harvesting/conservation through adoption of cultural practices like ridge and furrow planting, inter-cropping
+of legumes in uplands, planting against slope in undulating terrain/hilly tract;
+Inter-culture in between rows to create soil mulch and vegetative/bio-mulching;
+Reclamation of saline/alkaline/acidic/water logged/ill drained soils;
+Productive use of barren and un-cultivated lands, cultivation of waste and permanent fallows through afforestation;
+Diversification of crops to high value crops;
+Diversification of sugarcane area by Cotton;
+Adoption of Integrated farming system with a component of crops, livestock, silvipastoral system and agri-horticulture;
+Promotion of Rice hybrids in conjunction with SRI method of cultivation;
+Promotion of hybrids of maize, cotton, sorghum, sunflower; and ƒ Adoption of improved rainfed farming system.
+(6) Research priorities:8
+Development of salt tolerant varieties of rice;
+Delineation & mapping of multi-nutrient deficiency;
+Water harvesting and recycling; and
+Soil & water salinity management.
+II. East Coast Plains & Hills Region-XI
+(1) Features:
+Rich water resources with relatively unfertile land;
+Fragile ecology due to water logging, soil salinity/acidity and soil erosion; and
+Tank led irrigation.
+(2) Potential crops, fruits & Livestock:
+(2.1) Agriculture crops: Rice, sweet sorghum, maize, sugarcane, black gram, green gram, groundnut, Niger, sunflower, cotton,
+Jute & Mesta.
+(2.2) Horticulture crops: Black pepper, turmeric, brinjal, okra, tapioca, chilies, onion, sweet potato, flowers (Tube rose,
+Enthurium & Gompherina), medicinal & aromatics (Coleus & scented geranium).
+(2.3) Fruit crops: Cashew nut, mango, sapota, banana, custard apple and pine- apple.
+(2.4) Plantation crops: Cashew nut & coconut.
+(2.5) Livestock & others: Cattle, buffalo, sheep, goat, poultry, duck & fishery.
+(3) Farming systems:
+▪ Rice based cropping systems;
+▪ Fish and Prawn culture;
+▪ Piggery; and
+▪ Poultry.
+(4) Cropping sequences:
+(a) Rainfed Areas:
+Sweet sorghum – cotton - groundnut; and
+Sweet sorghum – green gram – fodder;
+(b) Irrigated Areas:
+Rice – groundnut - green gram;
+Rice – green gram /black gram;
+Cotton- green gram – green manure; and
+Soybean – sunflower – green gram.
+(5) Sub-region specific development related priorities (all the 6 sub-regions):
+Productive use of barren and uncultivated lands, cultivable waste and permanent fallows through afforestation;
+Reclamation soil salinity/alkalinity through use of Gypsum/Pyrites;
+Reclamation of acidic soil through liming/mills sludge;
+In-situ water harvesting/conservation through adoption of cultural practices like bed furrow in deep black cotton, uplands
+and flat sowing and ridging later in red soils;
+Diversification of the area of low value crops to high value crops;
+Promotion of hybrid rice in conjunction with SRI method of cultivation; and
+Development of Tribal agriculture.
+(6) Research priorities:
+Development of salt tolerant cultivars of rice;
+Delineation & mapping of multi-nutrient deficiency;
+Farming systems and
+Crop management in flood prone areas.9
+OUTCOMES OF SOIL AND LAND DATABASE
+The management of sub/micro watersheds on priority wise in phased manner have been taken up on the analysis of
+acquired soil and land parameters collected through Rapid Reconnaissance Soil Survey of the state. The outcomes such as
+Landscape/parent material, Soil erosion, Depth, Slope class, Land use and Soil texture brought out during the survey. These
+database can be used as a baseline for the development of soil and land quality in the state.
+I. Landscape/ Parent Material
+The geological formation of India is diverse, ranges from oldest Archean rocks to the recent Alluvium. The major
+geological formation in the peninsula consists of Archean rocks comprising Gneiss, Schist, Igneous and Metamorphic rocks.
+Western and Central India are covered by lava flows of the Deccan trap. A close relation exists between soil and physiography,
+the diversities in physiography, climate and landscapes have enhanced the formation of widely diverse soils in India.
+The tabular distribution of landscapes in the state are furnished gives account of landscape in different agro climatic sub zones.
+These are seven subzones and it is observed that the effect of these zones on the soil development having identical landscape is
+varying as every zone is having unique climatic features with respect to total rainfall, temperatures, and vegetation which
+directly governs the soil development. This grouping not only helps in identifying the natures of soil type in different zones
+under same landscape/parent material but its capacity to grow different crops/orchards etc.
+Based on soil conditions, irrigation, cropping pattern, rainfall distribution and other ecological & social characteristics,
+the state is falling under 7 agro-climatic sub zones exhibiting different geological formations namely, Aeolian, Alluvium,
+Charnokite, Coastal Alluvium, Granite, Granite Gneiss, Laterite, Limestone and Sandstone. Out of these Seven (07) sub-zones,
+maximum area of 33,26,724 ha. is under Southern zone covering districts Dindigul, Kaniyakumari, Madurai, Ramanathapuram,
+Sivaganga, Teni, Triunelveli, Tuticorin and Virudhnagar followed by Northeatsern zone with an area of 30,77,652 ha covering
+districts Cuddalore, Kanchipuram, Tiruvannamala, Vellore, Villupuram, Chennai and Trivallur. Third highest area is under
+Cauvery Delta zone with an area of 23,84,060 ha. covering districts Pudukkotai, Thanjavur, Tiruchchirappli, Ariyalur, Karur,
+Nagapattinum, Peramballur and Thiruvarur. Then under Northwestern zone having 18,30,759 ha area covering under Namakal,
+Salem, Dharampuri and Krishnagiri districts; Western zone with an area of 12,92,614 ha covering districts Coimbatore,
+Dindigul, Erode and Karur; High altitude and hilly zone with an area of 9,97,039 ha covering districts Kaniyakumari, Madurai,
+Teni, Triunelveli, Virudhnagar, Dindigul, Coimbatore, Niligiri, Trivallur and Vellore. Least area of 1,08,495 ha is under high
+rainfall area covering only one district Kaniyakumari.
+Agro-climatic sub-zones/ district wise tabular distribution of area and thematic maps of geology shown in table: 1 and figure
+no. 2.
+Table: 1 Agro-climatic sub-zone/ Catchment wise tabular distribution of area under different landscapes in districts of
+Tamil Nadu state
+Agro climatic sub- Landscape Total
+Catchment District Miscellaneous
+zone Alluvium Coastal Alluvium Granite Laterite Limestone Area
+Pudukkotai 17253 7687 284806 22635 58586 390968
+4A2 Thanjavur 5573 10309 93236 9515 12080 130712
+Tiruchchirappli 78 34662 2658 37398
+Total 22904 17996 412704 32149 73325 559077
+Ariyalur 22011 102493 20973 10439 155917
+Karur 127 142642 7692 150461
+Nagapattinum 163104 49516 44010 256631
+Peramballur 1730 55791 3289 60810
+4B1
+Pudukkotai 2105 48659 12787 10632 74183
+Thanjavur 117871 1900 39384 25206 26395 210757
+Cauvery Delta
+Thiruvarur 126793 54550 22022 8264 211629
+Zone
+Tiruchchirappli 25342 320500 9034 42240 397116
+Total 459084 105967 731490 68001 152961 1517503
+Karur 1975 131267 7043 140285
+4B2
+Tiruchchirappli 429 980 181 1591
+Total 2404 132248 7224 141876
+Ariyalur 616 19417 15925 2045 38003
+4C1 Peramballur 1515 106471 337 5537 113861
+Tiruchchirappli 13616 123 13740
+Total 2131 139505 15925 337 7706 165604
+Grand Total 486523 123963 1415946 116075 337 241216 2384060
+Sub-zone-I:- Cauvery Delta zone : This zone accounts for 2384060 ha in state and five landscape classes such as
+Alluvium, Coastal Alluvium, Granite, Laterite and Limestone have been identified. Among the landscape mapped major part of10
+zone comes under Granite landscape (14,15,946 ha) followed by Alluvium landscape (4,86,523 ha) then Coastal alluvium,
+Laterite and Limestone having 1,23,963 ha, 1,16,075 ha and 337 ha area, respectively.
+The depth is main characteristics of soils in this zone where majority of area having shallow to moderately deep soils followed
+by very shallow soil depth and good soil depth (moderately deep to deep), fine loamy to fine textured having medium to high
+moisture and nutrient holding capacity and suited for most of crops/orchards. The soils of coastal alluvium are of sandy to
+coarse textured subject to flooding.
+Agro climatic Landscape Total
+Catchment District Miscellaneous
+sub-zone Alluvium Charnokite Granite Granite Gneiss Laterite Limestone Area
+Kaniyakumari 333 21 354
+Madurai 68 11 80
+4A1 Teni 0 0
+Triunelveli 140967 9960 150927
+Virudhunagar 21865 17 620 22501
+Total 163233 28 10601 173862
+Dindigul 11 346 357
+Madurai 33 33
+4A2
+Teni 6501 1569 143282 2621 153973
+Virudhunagar 9 273 2 284
+Total 6501 1589 143934 2622 154647
+Coimbatore 1414 1132 94887 15970 731 5776 119910
+Dindigul 16421 47 575 17043
+4B2
+Nilgiri 119335 36592 38677 4309 198913
+High Altitude
+Teni 74 24 98
+and Hilly Zone
+Total 1414 120467 147974 54718 731 10660 335964
+4B3 Nilgiri 35 359 23415 103 23912
+Total 35 359 23415 103 23912
+Trivallur 7187 5720 11802 3598 28307
+4C2
+Vellore 892 21592 3615 26099
+Total 8078 27312 11802 7213 54405
+Coimbatore 42984 1495 44479
+5A1
+Kaniyakumari 4714 52149 3084 59947
+Triunelveli 0 0
+Total 4714 95132 4580 104426
+Coimbatore 104368 4383 6383 115134
+5A2
+Nilgiri 187 34373 62 65 34687
+Total 187 138741 62 4383 6448 149822
+Grand Total 20708 120689 574341 222158 11802 5114 42227 997039
+Sub-zone-II: -High Altitude and Hilly Zone: By and large this zone spreads out in Nilgiri and smaller extent in eastern ghat.
+The High Altitude and Hilly Zone covers 9,97,039 ha total geographical area of the Tamil Nadu state and six landscapes such as
+Alluvium, Charnokite, Granite, Granite Gneiss, Laterite and Limestone have been identified and mapped. Granite is the major
+landscape having 5,74,341 ha area followed by Granite gneiss (2,22,158 ha) then Charnokite (1,20,689 ha), Alluvium (20,708
+ha), Laterite (11,802 ha) and Lime stone (5,114 ha).
+Maximum area are under shallow to moderately deep soil depth followed by very shallow to shallow soil depth, moderately
+deep soil depth, shallow soil depth and deep soil depth with medium texture. The soils are distinctively different from that
+observed in rest of the state. Agriculture and forestry/plantation are the major land use/cover reported.
+Agro climatic Landscape
+Catchment District Miscellaneous Total Area
+sub-zone Aeolian Alluvium Coastal Alluvium Granite
+4A1 Kaniyakumari 243 24 8181 1226 9675
+Total 243 24 8181 1226 9675
+High Rainfall
+5A1 Kaniyakumari 1482 5311 83573 8455 98820
+Zone
+Total 1482 5311 83573 8455 98820
+Grand Total 243 1482 5335 91754 9681 108495
+Sub-zone-III: -High Rainfall Zone: High Rainfall Zone covers 1,08,495 ha total geographical area of the state in which
+four landscapes have been identified such as Aeolian, Alluvium, Coastal Alluvium and Granite. Granite is the major landscape
+covering 91,754 ha area followed by Coastal Alluvium having 5,335 ha, Alluvium and Aeolian landscapes having 1,482 ha and
+243 ha area, respectively.
+These areas received rains from both south-west to lesser extent and northeast in winter season. These areas are mostly under
+orchard’s plantation. The soils are having shallow to moderately deep soil depth area with medium water & nutrient holding
+capacity.
+Agro climatic Landscape Total
+Catchment District Miscellaneous
+sub-zone Alluvium Coastal Alluvium Granite Laterite Sandstone Area
+4B1 Cuddalore 43772 1858 9379 880 6331 62220
+Total 43772 1858 9379 880 6331 62220
+Cuddalore 19277 20643 191992 45064 32553 309529
+Northeastern Kanchipuram 683 1694 59093 4779 10403 76652
+Zone 4C1 Tiruvannamala 47 198450 16716 215213
+Vellore 87859 2372 90232
+Villupuram 19608 2435 602403 10944 2244 91526 729160
+Total 39616 24771 1139797 56008 7023 153571 142078611
+Chennai 17517 17517
+Kanchipuram 15129 20501 218844 13515 102946 370935
+Tiruvannamala 7777 348761 47353 403891
+4C2
+Trivallur 24468 22009 155333 28022 734 80358 310925
+Vellore 23259 426188 41821 491268
+Villupuram 110 110
+Total 70633 42510 1149236 41537 734 289996 1594646
+Grand Total 154021 69139 2298412 98425 7758 449897 3077652
+Sub zone IV: -North eastern zone: North eastern zone covers 30,77,652 ha area of the state which distributed in five
+landscapes such as Alluvium, Coastal alluvium, Granite, Laterite and Sandstone. Granite is the major landscape identified in the
+state having 22,98,412 ha area followed by Alluvium covering 1,54,021 ha area, Laterite landscape covering 98,425 ha area,
+Coastal alluvium and Sandstone having 69,139 ha and 7,758 ha area, respectively.
+The soils are distinctively different from sub zone I and utilized for growing different planation /forest etc. The major part of
+area is having shallow to moderately deep depth soils followed by very shallow to shallow depth soils, deep depth soils and
+moderately deep depth soils. The soils are fine loamy to coarse loamy texture, low to medium in nutrient and moisture holding
+capacity.
+Agro climatic Landscape
+Catchment District Miscellaneous Total Area
+sub-zone Alluvium Granite Limestone
+Namakal 77260 3440 80700
+4B1
+Salem 1224 68 1292
+Total 78484 3508 81991
+Dharampuri 287 19 305
+4B2 Namakal 4295 207193 3522 10546 225556
+Salem 1231 224678 2607 13916 242432
+Total 5527 432157 6129 24480 468293
+Dharampuri 2416 178540 7492 188448
+Northwestern
+4B3 Krishnagiri 187429 3317 190746
+Zone
+Salem 1531 46344 10188 58063
+Total 3946 412313 20997 437256
+Dharampuri 3834 248984 214 8376 261408
+Krishnagiri 955 305871 298 15829 322954
+4C1
+Namakal 35906 267 36172
+Salem 2532 213802 6350 222684
+Total 7321 804563 513 30822 843218
+Grand Total 16794 1727517 6642 79807 1830759
+Sub zone V: -North western zone: North western zone covers 18,30,759 ha geographical area of the state. Three landscapes
+have been identified in the zone where Granite is the major landscape covering 17,25,517 ha area followed by Alluvium and
+Limestone which covering 16,794 ha and 6,642 ha area, respectively.
+Major part of the area covered under shallow to moderately deep depth soils followed by very shallow depth soils and
+moderately deep depth soils.
+Agro Landscape
+Total
+climatic Catchment District Coastal Miscellaneous
+Aeolian Alluvium Granite Granite Gneiss Laterite Limestone Sandstone Area
+sub-zone Alluvium
+Dindigul 12 12
+Kaniyakumari 9 9
+Madurai 284 181368 193 18461 200306
+Ramanathapuram 7497 27260 147949 11153 30275 224134
+4A1 Sivaganga 1118 18278 3822 23217
+Teni 229 3 232
+Triunelveli 5870 6111 297 461336 6367 50872 530854
+Tuticorin 38657 14818 32263 336142 903 2992 37683 463459
+Virudhunagar 18091 338840 13021 32511 402463
+Total 44527 47919 59820 1484162 196 20292 14145 173624 1844686
+Dindigul 1406 157284 3579 162269
+Madurai 12996 135541 3962 18462 170961
+Southern
+4A2 Ramanathapuram 26104 14205 125500 35324 201132
+Zone
+Sivaganga 18315 263740 42682 63139 387876
+Teni 3782 62770 59040 7525 133116
+Total 62602 14205 744835 63002 42682 128029 1055355
+4B1 Dindigul 18278 787 19064
+Total 18278 787 19064
+Dindigul 6816 379768 20793 407376
+4B2
+Madurai 222 222
+Total 6816 379990 20793 407598
+Kaniyakumari 4 4
+5A1
+Triunelveli 17 17
+Total 21 21
+Grand Total 44527 117337 74025 2627286 63198 42682 20292 14145 323234 3326724
+Sub zone VI: -Southern zone: Southern zone covers 33,26,724 ha geographical area of the state wherein eight landscape
+have been identified and mapped. Granite is the major landscape which covers 26,27,286 ha area followed by Alluvium
+landscape covering 1,17,337 ha area then Coastal-alluvium covering 74,025 ha area, Granite gneiss covers 63,198 ha area,12
+Aeolian covering 44,527 ha area, Laterite covering 42,682 ha area, Limestone covering 20,292 ha area and Sandstone covering
+14,145 ha area of the state.
+Major part of the area having shallow to moderately deep depth soils followed by very shallow depth soils, moderately
+deep depth soils and shallow soils depth soils.
+Agro climatic Landscape Miscellaneous Total Area
+Catchment District
+sub-zone Alluvium Charnokite Granite Limestone
+Coimbatore 18187 7254 314919 25719 22117 388196
+Dindigul 21 21 42
+4B2
+Erode 32245 16163 571096 11328 24483 655316
+Karur 256 256
+Total 50688 23417 886036 37048 46620 1043809
+Western Zone
+4B3 Erode 289 50 164233 1994 166565
+Total 289 50 164233 1994 166565
+5A2 Coimbatore 53354 22314 6571 82239
+Total 53354 22314 6571 82239
+Grand Total 50977 23467 1103623 59362 55185 1292614
+Sub zone VII:-Western Zone: Western Zone covers 12,92,614 ha geographical area of the state in which four landscapes
+have been identified and mapped wherein Granite is the major land scape which covers 11,03,623 ha area followed by
+Limestone covering 59,362 ha area then Alluvium and Charnokite having 50,977 ha and 23,467 ha area, respectively. Major
+part of the zone is having shallow to moderately deep depth soils followed by very shallow soils depth soils and shallow depth
+soils.1314
+II. Soil Erosion
+Two types of erosion occur in nature which as follows. Most part of the state suffers from (i) water erosion, whereas (ii)
+wind erosion noticed in Coastal-Aeolian landscape, Water erosion on agricultural lands takes place through rain water. Intensity
+of rainfall by rain drops create a pressure and finally make an impact on the surface soil. Soil surface condition and water
+infiltration depends on the properties of soil surface, part of the water received as precipitation percolate into the soil and
+remaining water lost by runoff. Evidently surface runoff is negligible wherever water infiltration. On the basis of soil particles
+disintegration from soil surface water erosion classified as splash, sheet, rill and gully erosion.
+The effects of water erosion which are interrelated are briefly as follows (i) loss of surface soil (ii) loss of rain water (iii)
+loss of soil nutrients and (iv) exposure of less fertile sub soil. A time period an extreme situation create ultimately soil become
+unproductive.
+Wind Erosion is also a serious problem which adversely affect the soil productivity of agricultural lands. It is responsible
+for removal of the top fertile soil and depletion in the soil water content. There are three types which affect the soil movement
+viz. saltation surface creep and suspension. Thematic map of spatial distribution of soil erosion and their area shown in figure
+no. 3 and table. 2.
+Table: 2 Agro climatic sub-zone/ Land use class wise tabular distribution of area under different erosion classes in Tamil
+Nadu state
+Erosion class
+Agro climatic Total Area
+Land use None to slight Slight to moderate Moderate Moderate to severe Severe Severe to very
+sub-zone
+erosion erosion erosion erosion erosion severe erosion
+Deciduous forest (10-40% canopy cover) 8088 4979 3731 16798
+Plantation-forest 2798 320 10538 13655
+Forest(teak,eucalyptus,casuarina,etc) 101 34208 34310
+Estates(tea,coffe,rubber,cashew) 38 39109 39147
+Orchards(coconut,citrus,mango,arecanut) 79 79
+Single crop cultivation (rf/single crop) 289467 193842 409875 869 2959 897012
+Multiple crop cultivation(ir/multi crop) 881420 1949 883369
+Cauvery delta zone Terraced cultivation (ir/multiple crop) 1086 1086
+Grasslands/pasture (<10% canopy) 281 71678 105744 10404 2700 190809
+Unculturable wastelands 1135 199 124 1457
+Barren lands and scrub lands 18 30290 34447 155 64910
+Brick kilns/quarries 71 142 213
+Salt pan 9155
+Miscellaneous 232060
+total 1183308 304460 637847 11273 5801 155 2384060
+Sub zone I: -Cauvery Delta Zone: Erosion is the process that transforms soil into sediment and its deposited into coastal
+areas where lands of plain to nearly level slope class are dominant. The severity of erosion got reduced in these plain areas
+known as River Delta. In Cauvery delta zone, six erosion classes have identified in state. Majority of the area comes under none
+to slight sheet erosion followed by moderate intensity sheet and rill erosion. Whereas moderate to severe erosion, and severe
+rills and gully erosion noticed in stream and river banks affecting about 7 % area of zone. It is mainly ascribed to fact that speed
+of water flux is reduced due to reducing the slope in delta region which increase sediment deposition. The density of forest
+vegetation also affects the severity of erosion. In deciduous dense forest none to slight erosion covers maximum area followed
+by slight to moderate and moderate sheet & rill erosion.
+Erosion Class
+Severe water
+Agro climatic None to Slight to Moderate to Severe to Total Area
+Land use Moderate Severe erosion to
+sub-zone slight moderate severe Very severe
+erosion erosion Severe wind
+erosion erosion erosion erosion
+erosion
+Deciduous forest (10-40% canopy cover) 162547 69715 34493 13050 14546 294351
+Deciduous forest (>40% canopy cover) 55544 29760 16733 161 4245 106443
+Plantation-Forest 3756 585 4410 8752
+Forest(Teak,Eucalyptus,Casuarina,etc) 672 6717 970 8359
+Estates(Tea,Coffe,Rubber,Cashew) 42689 50545 25943 6917 1654 127748
+Orchards(Coconut,Citrus,Mango,Arecanut) 46893 20350 10383 1275 78901
+Single crop cultivation (RF/Single Crop) 39412 13614 27927 18000 1404 19 100376
+High Altitude and Hilly Zone Multiple crop cultivation(IR/Multi Crop) 92018 5476 3526 101021
+Terraced cultivation (IR/Multiple Crop) 8631 10750 3664 5835 1538 30418
+Grasslands/Pasture (<10% canopy) 4324 18330 44866 14792 3721 669 86701
+Open scrub lands (when canopy is <10 %) 2833 869 1429 133 5264
+Unculturable wastelands 5368 756 6124
+Culturable wastelands 353 353
+Miscellaneous 42227
+Total 464688 219125 176231 65869 23833 4397 669 99703915
+Sub zone II: -High Altitude and hilly zone: Seven erosion classes were found in the area in which none to slight sheet
+erosion class covers maximum area, followed by slight to moderate sheet and rills erosion, Moderate rills erosion, moderate to
+severe rills and gully erosion, severe gully erosion, severe to very severe gully and ravines erosion. The area also witnessed
+severe water erosion to severe wind erosion respectively. Altitude is directly associated with the slope, type of vegetation and
+depth of soils, if altitude is high the slope also increases and depth of the soil get reduced. This study confirms that deep to very
+deep soils covers largest area due to tropical climatic conditions. The temperature is very high and the range of annual
+temperature is minimum. These conditions enhance the weathering of rocks. Type and density of vegetation also controls soil
+erosion. In Tamil Nadu state mainly broad leaves forest vegetation are observed in the zone, which forms a dense cover on the
+soil surface and protect soils from erosion hazards. The vegetation reduces the intensity of gravitation force which creates by
+rain drops.
+Agro climatic Erosion Class Total Area
+Land use
+sub-zone None to slight erosion Slight to moderate erosion Moderate erosion Moderate to severe erosion
+Deciduous forest (10-40% canopy cover) 4397 2755 7153
+Deciduous forest (>40% canopy cover) 2714 16194 18908
+Estates(Tea,Coffe,Rubber,Cashew) 129 4145 4275
+Orchards(Coconut,Citrus,Mango,Arecanut) 5335 24250 8336 37921
+Single crop cultivation (RF/Single Crop) 920 1296 914 3130
+Multiple crop cultivation(IR/Multi Crop) 1482 13446 14928
+High Rainfall Zone
+Grasslands/Pasture (<10% canopy) 115 47 161
+Open scrub lands (when canopy cover is <10 %) 12338 12338
+Barren lands and Scrub lands 0 0
+Salt Pan 9
+Miscellaneous 9672
+Total 12133 41951 29636 15094 108495
+Sub zone III: -High rainfall zone: Intensity and amount of rainfall directly affect to the soil erosion and vegetation, if
+intensity of rainfall is high the severity of erosion also high. The zone area experiencing high rainfall where amount & intensity
+of rainfall are more. But due to occurrence of high canopy vegetation and less (Shallow/very shallow) soil depth or thickness on
+sloping lands, moderate loss of soil through soil erosion reported in the zonal area. Four major erosion classes have been
+identified in high rainfall zone in which slight to moderate erosion class covers maximum area followed by moderate erosion,
+moderate to severe erosion and none to slight erosion classes.
+Erosion Class
+Agro climatic Total Area
+Land use None to slight Slight to Moderate Moderate to Severe Severe to Very
+sub-zone
+erosion moderate erosion erosion severe erosion erosion severe erosion
+Deciduous forest (10-40% canopy cover) 67100 16524 126953 7893 218470
+Deciduous forest (>40% canopy cover) 5893 14189 20081
+Plantation-Forest 23051 588 1180 24818
+Forest(Teak,Eucalyptus,Casuarina,etc) 15927 35971 357 52255
+Estates(Tea,Coffe,Rubber,Cashew) 11 85164 85175
+Orchards(Coconut,Citrus,Mango,Arecanut) 5133 977 22622 28733
+Single crop cultivation (RF/Single Crop) 23539 69007 311885 59606 12364 1186 477587
+Multiple crop cultivation(IR/Multi Crop) 1404823 30409 82 1435314
+Northeastern Zone Grasslands/Pasture (<10% canopy) 4429 71689 130566 20403 3074 3097 233259
+Open scrub lands (when canopy cover is <10 %) 2338 10378 4685 996 18398
+Culturable wastelands 2187 4217 1705 8110
+Unculturable wastelands 13702 13702
+Barren lands and Scrub lands 11311 11311
+Rock outcrop 543 543
+Salt Pan 1816
+Miscellaneous 448082
+Total 1565935 191392 754518 94292 15981 5636 3077652
+Sub zone IV: -North-eastern Zone: North Eastern zone of Tamil Nadu state are under five type of landscapes, these are
+Granite, Alluvium, Laterite, Coastal-alluvium and Sandstone. Among the different land uses, none to slight erosion covers
+major part of the zone whereas moderate erosion is second most dominant erosion class followed by slight to moderate erosion,
+moderate to severe erosion, severe erosion and severe to very severe erosion class.
+Erosion Class
+Agro climatic
+Land use None to slight Slight to moderate Moderate Moderate to severe Severe Severe to Very Total Area
+sub-zone
+erosion erosion erosion erosion erosion severe erosion
+Deciduous forest (10-40% canopy cover) 103540 5034 70864 179438
+Deciduous forest (>40% canopy cover) 33007 8153 41160
+Plantation-Forest 20 20
+Forest(Teak,Eucalyptus,Casuarina,etc) 6316 134398 71 140785
+Estates(Tea,Coffe,Rubber,Cashew) 3067 6794 1363 45 11269
+Orchards(Coconut,Citrus,Mango,Arecanut) 658 46447 602 47707
+Single crop cultivation (RF/Single Crop) 114484 108178 478816 32664 10357 744498
+Northwestern Zone
+Multiple crop cultivation(IR/Multi Crop) 367148 4885 372033
+Grasslands/Pasture (<10% canopy) 40512 152565 14787 239 457 208560
+Unculturable wastelands 204 204
+Barren lands and Scrub lands 1241 3446 4686
+Brick kilns/Quarries 245 347 591
+Miscellaneous 79807
+Total 627562 167321 896500 48098 10943 528 183075916
+Sub zone V: -North-western Zone: Amongst the various landscapes, the erosion classes identified and mapped are slight
+erosion, slight to moderate erosion, moderate erosion, moderate to severe erosion, severe erosion and severe to very severe
+erosion. Moderate erosion covers maximum area of the zone where as none to slight erosion is second most dominant erosion
+class followed by slight to moderate erosion, moderate to severe erosion, severe erosion and severe to very severe erosion,
+respectively.
+Erosion Class
+Agro climatic
+Land use None to slight Slight to moderate Moderate Moderate to severe Severe Total Area
+sub-zone
+erosion erosion erosion erosion erosion
+Deciduous forest (10-40% canopy cover) 86181 90983 2578 15 5690 185447
+Deciduous forest (>40% canopy cover) 33 167 201
+Plantation-Forest 2726 87 12633 15446
+Forest(Teak,Eucalyptus,Casuarina,etc) 3266 1370 146 4782
+Estates(Tea,Coffe,Rubber,Cashew) 7660 26730 8483 42873
+Orchards(Coconut,Citrus,Mango,Arecanut) 11081 3211 7155 967 22415
+Single crop cultivation (RF/Single Crop) 1059177 230222 458497 8023 1759 1757677
+Multiple crop cultivation(IR/Multi Crop) 349892 66 349958
+Terraced cultivation (IR/Multiple Crop) 2986 8974 6796 1611 20368
+Southern Zone
+Grasslands/Pasture (<10% canopy) 71399 142344 223087 2963 941 440734
+Open scrub lands (when canopy cover is <10 %) 3 3
+Culturable wastelands 1205 2531 2346 6082
+Unculturable wastelands 1932 2685 887 5504
+Barren lands and Scrub lands 882 37868 111763 150513
+Brick kilns/Quarries 1488 1488
+Salt Pan 7474
+Miscellaneous 315760
+Total 1597182 544343 830706 21112 10148 3326724
+Sub zone VI: -Southern Zone: Southern zone have dominated by laterite landscape, whereas majority of soils comes under
+deep to very deep soil class followed by moderately deep soils which are moderately fine to moderately coarse in texture. The
+moderately coarse texture enhances the infiltration rate which reduces the overflow of surface water. Due to decreasing the
+overflow water flux intensity also slow which reduce the soil erosion. The southern zone affected by none to slight erosion
+which covers highest area followed by slight to moderate erosion, moderate erosion moderate to severe erosion and severe
+erosion.
+Erosion Class
+Agro climatic None to Slight to Severe water
+Land use Moderate Moderate to Severe Severe to Very Total Area
+sub-zone slight moderate erosion to Severe
+erosion severe erosion erosion severe erosion
+erosion erosion wind erosion
+Deciduous forest (10-40% canopy cover) 94788 17546 30928 1514 144776
+Deciduous forest (>40% canopy cove

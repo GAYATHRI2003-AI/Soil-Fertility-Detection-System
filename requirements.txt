@@ -1,0 +1,29 @@
+# Core Data Science (Compatible versions)
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+tqdm>=4.60.0
+
+# Vector Search & Embeddings
+chromadb>=0.3.21
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+
+# LLM for Answer Synthesis
+transformers>=4.30.0
+torch>=2.0.0
+
+# Document Processing (Optional for PDF/OCR features)
+# Uncomment these if you need PDF extraction and OCR:
+pdfplumber>=0.10.0
+# PyMuPDF>=1.23.0
+# pytesseract>=0.3.10
+# Pillow>=9.0.0
+# opencv-python-headless>=4.8.0
+
+# Optional: LLM Integration
+# For OpenAI: pip install openai
+# For Anthropic Claude: pip install anthropic
+# For local models: pip install ollama

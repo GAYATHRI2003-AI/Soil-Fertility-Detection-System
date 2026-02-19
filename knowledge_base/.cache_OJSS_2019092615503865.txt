@@ -1,0 +1,694 @@
+Open Journal of Soil Science, 2019, 9, 189-205
+https://www.scirp.org/journal/ojss
+ISSN Online: 2162-5379
+ISSN Print: 2162-5360
+Soil Health Assessment Methods and
+Relationship with Wheat Yield
+Jatish C. Biswas1, Naveen Kalra2, M. Maniruzzaman3, U. A. Naher3, M. M. Haque3*
+1Bangladesh Rice Research Institute & Coordinator, KGF, Dhaka, Bangladesh
+2Indian Agricultural Research Institute, New Delhi, India
+3Bangladesh Rice Research Institute, Gazipur, Bangladesh
+How to cite this paper: Biswas, J.C., Kalra, Abstract
+N., Maniruzzaman, M., Naher, U.A. and
+Haque, M.M. (2019) Soil Health Assess- Soil quality assessment methods, based on different attributes, are available
+ment Methods and Relationship with but not well calibrated/validated for subsequent operational applications. We
+Wheat Yield. Open Journal of Soil Science, have developed a method for soil quality index assessment by considering soil
+9, 189-205.
+texture, organic carbon, pH, available water, cation exchange capacity, bulk
+https://doi.org/10.4236/ojss.2019.99011
+density, total porosity, saturated hydraulic conductivity, salinity, aggregate
+Received: July 18, 2019 stability, slope and soil depth. The scoring was done on 0 - 100 scale and the
+Accepted: September 24, 2019 lowest score was assigned to the most limiting factor of crop growth and de-
+Published: September 27, 2019
+velopment. Attribute-wise rating was made by using Macros developed in
+Copyright © 2019 by author(s) and MS-Excel and IDRISI3.2 was used to delineate the rating maps. About 64.6%
+Scientific Research Publishing Inc. soils scored more than 60 and the best soil group (score > 70) was only about
+This work is licensed under the Creative 15%. Soil health score, as determined through our method, showed good rela-
+Commons Attribution International
+tionship with wheat yield. Multiplicative response function was more sensi-
+License (CC BY 4.0).
+http://creativecommons.org/licenses/by/4.0/ tive than simple regression model. The correlation analyses with one or two
+Open Access attributes with most severe stress and relatively with lower rating values
+showed better predictability of wheat yields. The soil quality index as esti-
+mated from principal component analysis having strongly loaded (>0.75)
+factors showed inferior correlation with grain yields of wheat than geometric
+mean approach. It is concluded that geometric mean approach for soil health
+scoring can be utilized in similar environments around the globe with or
+without further improvement.
+Keywords
+Soil Quality, Additive and Multiplicative Function, PCA, Minimum Data
+1. Introduction
+Soil health is the basic requirement to produce quality food for consumption.
+DOI: 10.4236/ojss.2019.99011 Sep. 27, 2019 189 Open Journal of Soil ScienceJ. C. Biswas et al.
+Different physical, chemical and biological properties are considered either
+quantitatively or qualitatively to determine soil health. Parameters that are easy
+to measure and sensitive to management options indicate good soil quality indi-
+cators. Generally, soil pH, surface hardness, aggregate stability, soil organic car-
+bon (SOC), cation exchange capacity (CEC), crop residues, earthworms, soil
+depth, slope, etc. can be utilized for soil quality index (SQI) determination. It is
+typically achieved using a modeling framework, which can broadly be divided
+into function- and process-based analyses. Many approaches like Cornell’s ap-
+proach [1], Wisconsin Soil Health Score Card, Illinois Soil Quality Initiative,
+Radar Diagram, Ohio Soil Health Card [2], Agroeco-system Performance As-
+sessment Tool, Soil Conditioning Index, Soil Management Assessment Frame-
+work [3], etc. are found in the literature having different complexities and in-
+adequacies. As the steps of mechanistic processes are seldom calibrated and de-
+scribed, the proposal for direct estimates of soil quality from indicator data
+through process-based approach, without the use of empirical weighting factors
+or functional equations, is often very difficult to achieve. Some of the important
+approaches for function-based model are productivity index [4], SQI [5] and
+scoring functions [6].
+Most research on quality assessment are based on surface soil dynamic prop-
+erties data [7] [8] [9] [10] that do not reflect sub-surface characters for proper
+crop production and managements to be adopted [11]. A long list of items has
+been selected to evaluate SQI, but not considered soil depth and slope in many
+cases. Slope plays an important role in degrading soil quality and thus special
+management is needed to recuperate it. Vasu et al. [12] reported a good rela-
+tionship of SQI with soil function when subsurface properties were included
+with surface dynamic ones; but Mukherjee and Lal [13] found no variation with
+sub-surface properties. However, they have not considered whole country, a gi-
+gantic task for a nation to be accomplished.
+Soil amendment in association with crop production is an inevitable part of
+agriculture, and thus changes in its nature take place over time. To utilize soil
+potential sustainably, the determination of SQI, though not simple, is essential.
+Old methods for SQI assessment were mostly based on qualitative and quantita-
+tive parameters [14] [15] [16], but it requires quantitative index for agricultural
+land suitability assessment [12] [17] [18]. Therefore, SQI has a greater signific-
+ance for sustainable use of soil in crop production. One can use simple additive,
+weighted additive and statistically modeled derived SQI, because no standard
+method yet is established. Mukherjee and Lal [13] reported suitability of statis-
+tical based principal component analysis (PCA) for SQI determination. We hy-
+pothesize that a combination of multiplicative model and logic based scoring for
+SQI might be beneficial for soil health quality scoring.
+Bangladesh, a deltaic country, is heavily pressurizing its soil resources for
+more production in one hand and on the other, climate change impacts are
+adding additional burden to natural resources through salinization because of
+sea level rise, reduced upstream flow, increasing acidity through diminishing ba-
+DOI: 10.4236/ojss.2019.99011 190 Open Journal of Soil ScienceJ. C. Biswas et al.
+sic cations, etc. In a small country, like Bangladesh, there are many soils with
+plenty of potentials and limitations; but unfortunately no SQI is available for its
+proper management and sustainable crop production to feed about 160 million
+peoples. This scenario is also true for many developing countries of the world.
+Therefore, we have taken an initiative to develop SQI for Bangladesh, which can
+also be utilized for other similar environments of the globe.
+2. Material and Methods
+In the present investigation, the attributes considered for soil health scoring are
+texture, soil organic carbon (SOC), soil pH, soil available water, cation exchange
+capacity (CEC), bulk density (BD) for clayey and non-clayey soils, porosity, sa-
+turated hydraulic conductivity (Ks), soil salinity, soil aggregate stability
+(WDCS), slope, and soil depth. In selecting data from available sources, expert
+judgement, crop performance, soil complexity and functions were considered
+[10] [12]. Data were collected from Bangladesh Agricultural Research Council,
+Soil Resource Development Institute and published literatures during 2010-2018
+considering 64 districts of Bangladesh. Attribute-wise ratings over different loca-
+tions of Bangladesh were made by using interpolation technique (using
+MS-Excel Macros and IDRISI3.2). Delineation maps of attribute-wise rating
+were prepared by using IDRISI3.2. Development of soil health rating map was
+accomplished by integrating multiplicative, model, and logic and finally follow-
+ing geometric means approach. Direct measured data on soil pH, soil texture,
+CEC (cmol·kg–1), SOC (%), soil depth (cm), slope (%), soil salinity (dS·m–1) and
+c
+drainage were used. Others were computed following standard protocols.
+Field capacity (FC), wilting point and Ks was derived by using decision sup-
+port system for agro-technology transfer (DSSAT) inbuilt transfer functions us-
+ing sand, silt, clay and SOC. Adhikary et al. [19] also used pedo-transfer func-
+tions for predicting hydraulic properties of Indian soils. Computed FC and
+DSSAT inbuilt FC showed very close relationship (y = 0.922x + 0.029; R2 =
+0.922). The permanent wilting point (PWP) was estimated as following equation
+y=−5E−05x2+0.007x+0.019; R2 =0.898 (1)
+where, y is the PWP (vol. fraction) and x is the % clay
+The inter-relationships of BD, FC, wilting point, available water, total porosi-
+ty, macro-porosity, and Ks were established with percent clay contents. Soil
+available water was considered as the difference between FC and PWP. With re-
+gard to computed some of the soil physical constants, pedo-transfer functions as
+developed by Kalra et al. [20] for Indian soils were also evaluated because of its
+similarities with Bangladesh.
+2.1. Water Dispersible Soil Aggregate Stability Index
+From our long term trial at Bangladesh Rice Research Institute, Gazipur, we
+have found 7.02 - 7.66 mean weight diameter (mm) aggregate size from silty clay
+soil (Haque et al., [21]), which was close to the findings (7.41 - 11.28) of Sung,
+DOI: 10.4236/ojss.2019.99011 191 Open Journal of Soil ScienceJ. C. Biswas et al.
+[22] having similar clay fractions. In our case, soil samples were very limited, so
+we have determined WDCS by the following equation adopted from Sung [22]
+as follows:
+y=9.306508+1.157381Silt(%)+0.150741Sand(%); R2 =0.4413 (2)
+where, y is the WDCS index.
+2.2. Bulk Density (Mg·m–3)
+It was determined through pedo-transfer function as
+y=−0.09ln(x)+1.605, R2 =0.502 (3)
+where, y is the bulk density in Mg·m–3, x is the % clay content.
+2.3. Soil Available Water Content (Volume Fraction)
+It was determined by subtracting PWP from FC.
+2.4. Total Porosity (Volume Fraction)
+It was determined as per following equation
+y=0.403x0.066, R2 =0.526 (4)
+where, y is the total porosity and x is the % clay content.
+2.5. Saturated Hydraulic Conductivity (cm·hr–1)
+It was estimated as per following equation
+y=−9E−06x3+0.001x2−0.091x+1.845, R2 =0.784 (5)
+where, y is the saturated Ks in cm·hr−1 and x is the % clay content.
+2.6. Field Capacity (Volume Fraction)
+The FC was determined through DSSAT inbuilt pedo-transfer function, to
+compare it with derived FC, as shown in following equation. It showed very
+good estimation with DSSAT values (R2 = 0.922), which have been used in the
+present investigation.
+FC=0.0818+0.07225∗SOC(%)+0.00525∗Clay(%)+0.00161∗Silt(%)
+(6)
+2.7. Scoring Criteria Used
+Scoring on different attributes was done on 0 - 100 scale. We have allocated the
+score based on sensitivity to growth and development of plants. The criteria
+were fixed based on logic and personal experiences. The most dominant factors
+such as soil salinity, pH, and drainage play an important role in deciding soil
+health and crop growth and development. The scoring values were 25, 40, 60,
+100, 90, 85, 80, 80, 75, 70, 60 and 60 for sand, loamy sand, sandy loam, loam, silt
+loam, silt, sandy clay, clay loam, silty clay loam, sandy clay, silty clay and clay
+respectively. Scores assigned for well drained, medium well drained to well
+drained but surface imperfect drainage, imperfectly drained, poorly drain early,
+DOI: 10.4236/ojss.2019.99011 192 Open Journal of Soil ScienceJ. C. Biswas et al.
+poorly drain late and very poorly drain were 100, 75, 50, 30, 20 and 5, respec-
+tively. The scoring criteria for other attributes are shown in Table 1 and Figures
+1(a)-(d).
+100
+80
+60
+40
+20
+0
+0.6 0.8 1 1.2 1.4 1.6 1.8 2
+(a)
+(b)
+(c)
+(d)
+Figure 1. Scoring criteria for (a) bulk density, (b) available soil water and
+porosity, (c) saturated hydraulic conductivity and (d) salinity.
+DOI: 10.4236/ojss.2019.99011 193 Open Journal of Soil Science
+erocS
+Clayee Non-clayee
+Bulk density (Mg m-3)
+120
+100
+80
+60
+40
+20
+0
+erocS
+50.0 01.0 51.0 02.0 52.0 13.0 14.0 24.0 54.0 25.0 55.0 16.0 46.0 17.0
+Available water Porosity
+Volume fraction
+100
+75
+50
+25
+0
+0 0.5 1 1.5 2 2.5 3
+erocS
+Ks (cm hr-1)
+100
+75
+50
+25
+0
+erocS
+Salinity (dS m–1)J. C. Biswas et al.
+Table 1. Scoring criteria for different soil attributes.
+Soil depth CEC WDCS
+Soil pH SOC (%) Slope (%)
+(cm) (cmol·kg−1) (Index)
+Range Score Range Score Range Score Range Score Range Score Range Score
+<30 5 <4.5 10 <0.1 10 <5 25 <20 100 <3 100
+30 - 50 10 4.5 - 5.0 25 0.1 - 0.3 25 5 - 10 40 20 - 25 90 3 - 8 80
+50 - 70 30 5.0 - 5.5 40 0.3 - 0.5 50 10 - 20 65 25 - 30 80 8 - 16 60
+70 - 80 60 5.5 - 6.0 60 0.5 - 0.8 75 20 - 30 75 30 - 35 60 16 - 30 40
+80 - 115 75 6.0 - 6.7 75 0.8 - 1.2 90 30 - 40 80 35 - 40 50 30 - 45 10
+115 - 130 80 6.7 - 7.3 100 >1.2 100 40 - 50 85 40 - 45 40 >45 5
+>130 100 7.3 - 8.0 70 >50 100 45 - 50 30
+8.0 - 8.5 25 >50 20
+>8.5 5
+2.8. Relationship of SQI with Crop Production
+2.8.1. Production Function (Additive)
+On the basis of 13 attributes, chosen for defining the soil health, additive func-
+tion was generated to compute wheat yield (five years average over the districts,
+taken from Bangladesh Bureau of Statistics). The function was generated
+through multiple regression approach as shown below in which the regression
+coefficients indicated the sensitivity of each attribute.
+Y =∑13 a ∗Att +A (7)
+i=1 i i
+where, Y is the computed yield (t·ha–1)
+a is the regression coefficient (for ith attribute)
+i
+Att is the attribute (ith)
+i
+i = 1 - 13 (attribute number) and A is the constant
+2.8.2. Production Function (Multiplicative)
+Crop growth and development are influenced by different stress factors in di-
+verse ways having variable severity potential. One attribute might be very in-
+fluential than the others. So, additive function might not be effective in predict-
+ing the productivity of a test crop. Thereby, it was thought to deal the in-
+ter-attributes stresses in a multiplicative procedure, as given in the equation be-
+low:
+Y = A∗π13 (Att )λi (8)
+r i=1 i
+where, Y is the relative yield (ratio of actual yield to attainable yield)
+r
+λ is the power weighted function of ith attribute, i=1,2,3,,13
+i
+Att is the attribute (ith)
+i
+and A is the constant
+Weighted power coefficients (λ) were computed based on Equation (7) by
+i
+taking logarithm.
+DOI: 10.4236/ojss.2019.99011 194 Open Journal of Soil ScienceJ. C. Biswas et al.
+log Y =log A+∑13λ∗log Att (9)
+10 r 10 i=1 i 10 i
+Through multiple regression analysis, the values of λ and A were determined.
+I
+The values of λ can indicate the relative sensitivity of each attributes towards
+I
+computation of the productivity.
+2.9. Soil Quality Index Determination
+Soil health rating indices were computed through geometric mean calculation in
+six approaches (discussed later) and compared with PCA using SPSS (version
+16). Weightage factor for each principal component (PC) was calculated based
+on total percentage of variance divided by percentage of cumulative variance [9].
+Minimum soil attributes were selected at per Vasu et al. [12], by considering
+moderate (0.5 - 0.75) and strong (>0.75) varimax factor loads. However, soil pa-
+rameters having strong factor loads were considered for establishing relationship
+with attained SQI score and grain yields of wheat.
+All 13 attributes were considered for geometric means calculation in approach
+one, as the stress of one attribute influences the others. Since the living system
+productivity is primarily driven by the most stressed biotic/abiotic factor, the
+attribute with the lowest rating was considered in approach two. In other ap-
+proaches, the soil health rating indices were developed by evaluating the geome-
+tric means of the lowest rated two, three, four and five attributes for each dis-
+trict.
+Geometric mean (GM) score was calculated as follows:
+GM=([Parameter1]∗[Parameter2]∗[Parameter3]∗∗[Parameter13])113
+3. Results
+In terms of texture, the SQI of 50 - 70 group was clay, silty clay and sandy clay
+dominated soils (35%). Sandy loam, sandy clay loam, clay loam and silty clay
+loam represented about 30% areas of the country (Figure 2(a)). The top scoring
+group (SQI > 90) was loam in texture that covered about 8.6% areas. About 21%
+soils were with good aggregate stability, but 24% soils belong to very low aggre-
+gate stability group (Figure 2(b)) because of higher silt and sand contents. Al-
+most 21% soils showed less than 50% porosity (Figure 2(c)). In terms of BD,
+nearly 38% soils belong to 1.5 - 1.6 Mg·m–3 category (Figure 2(d)) and the rest
+in several other groups. In most soils (about 50%), available water was high
+(Figure 2(e)) and about 15% had the least water availability. About 41% soils
+showed Ks of 0.5 - 1.5 cm·hr–1 and the others were 0.1 - 0.4 cm·hr–1 (Figure
+2(f)). The CEC score was <20 in less than one percent area of Bangladesh; 20 -
+50, 50 - 70 and >70 scores in about 40%, 36% and 22% soils, respectively (Figure
+2(g)). Soil depths in most cases (~71%) were high and only 10% of them belong
+to shallow depth category (Figure 2(h)). Fifty percent soils scored > 85 for SOC
+contents that had more than 1.2% organic C (Figure 3(a)), others were poor in
+SOC. Almost 40% soils belong to good soil pH ranges (Figure 3(b)), although
+DOI: 10.4236/ojss.2019.99011 195 Open Journal of Soil ScienceJ. C. Biswas et al.
+critical soil pH in the lower range covers about 26% areas in Bangladesh. There
+are very strongly acid soils in about 15% areas, pH 4.0 - 5.5 in 22.3%, pH 7.5 -
+8.25 in 34.2% and >8.25 pH in 28.1% areas of Bangladesh.
+Figure 2. Spatial distribution of scoring for (a) soil texture, (b) aggregate stability, (c)
+porosity, (d) bulk density, (e) available water, (f) saturated hydraulic conductivity, (g)
+CEC and (h) depth in Bangladesh; figures in the parentheses indicate percent of total
+13.83 million ha.
+DOI: 10.4236/ojss.2019.99011 196 Open Journal of Soil ScienceJ. C. Biswas et al.
+Figure 3. Spatial distribution of scoring for (a) SOC, (b) soil pH, (c) slope, (d) drainage, (e)
+salinity and (f) soil health quality index in Bangladesh; figures in the parentheses indicate
+percent of total 13.83 million ha.
+More than 80% soils are flat in Bangladesh (Figure 3(c)) and only 6% belong
+to steep slope areas. Well drained soils comprised only about 10% in Bangladesh
+that scored >70% (Figure 3(d)). Most soils suffer from drainage problems de-
+pending on crop growing season and rainfall patterns. Major soils (83%) are
+non-saline (0 - 1.0 dS·m–1 in Bangladesh (Figure 3(e)) and about 4.8% face sa-
+linity problem of >6.0 dS·m–1.
+Considering all tested soil quality parameters, about 64.6% soils scored more
+than 60% and 23.2% in the category of 50 - 60 and about 12.3% in the least
+scoring groups (Figure 3(f)). When the relationship of SQI was done with
+productivity, the predictability was relatively lower. Considering all the test
+attributes, soil health in relation to crop’s response was not satisfactory. The least
+scoring range was increasing with time due to enhanced industrial pollution, sa-
+DOI: 10.4236/ojss.2019.99011 197 Open Journal of Soil ScienceJ. C. Biswas et al.
+linity rise and urbanization (data not reported). The best soil group (scored >
+70) covers only about 15% areas in the country having potential for growing
+high value crops.
+The attained scores were evaluated against average wheat grain yields of
+2011-2015, considering all soil tested attributes, two most minimum scoring
+attributes and one most minimum scoring attribute (Figures 4(a)-(c)) and it
+could be concluded that predictability increased when we take the attribute that
+highly impair crop growth and development.
+Grain yields of wheat as estimated from multiple regressions considering all
+tested attributes (Equation # 10) can explain about 44% of its yield variability.
+Computed and observed grain yields of wheat showed good relationship with
+soil health score (Figure 5(a)).
+Y =1.617773+0.000154*Salinity−0.0016*Available water
++0.000175*BD+0.001043*CEC−0.0182*Soil depth
+−0.0179*SOC+0.001095*pH−0.00708*Porosity (10)
+−0.00432*Ks+0.039457*Slope−0.00531*Texture
++0.001784*WDCS+0.0324688*Drainage; R2 =0.4385** (P )
+0.001
+Additive multiplicative response function, as established from the equation
+number 10, is more sensitive and showed better relationship between estimated
+and observed wheat yields (Figure 5(b) when compared to multiple regression
+approach.
+Y =99.13*Salinity−0.15233*Available water0.1436*BD−0.02492
+*CEC0.093307*Soildepth−1.37645*SOC−0.64887*pH0.013339
+(11)
+*Porosity−0.16367*Ks−0.15728*Slope1.6413459*Texture−0.11644
+*WDCS−0.02297*Drainage0.831774; R2 =0.62** (P )
+0.001
+For comparative evaluation of six soil health rating indices, the values derived
+in each district was evaluated against wheat yields (average over five years), and
+the correlation matrix was drawn. From the correlation matrix, it could be con-
+cluded that if we take one or two attributes with most limiting factor for crop
+growth and development, the coefficient of predictability of wheat yields im-
+proves (Table 2).
+We also employed PCA to find out minimum soil attributes that effectively
+influence soil health scoring index. It was found that about 45.5% of variations
+in soil health rating could be explained if PC1 and PC2 are considered (Table 3).
+Considering strongly loaded factors, the SOC (0.78), WDCS (0.868), Ks (0.926),
+BD (0.754), drainage (0.823) and slope (−0.904) were the important attributes
+for soil health determination of which BD and WDCS represented PC1, slope
+and drainage PC2 and Ks and SOC represented PC3. However, the PCA based
+selected six attributes were able to explain about 36% yield variability of wheat
+crop in Bangladesh (y = −0.4754 + 0.0024*BD − 0.0103*SOC − 0.0061*Ks +
+0.0304*Slope + 0.0061*WDCS + 0.0208*Drainage; R2 = 0.3634**; P ).
+0.001
+DOI: 10.4236/ojss.2019.99011 198 Open Journal of Soil ScienceJ. C. Biswas et al.
+4 y = 0.016x + 1.371, R2= 0.26ns
+3
+2
+1
+0
+40 50 60 70 80
+(a)
+(b)
+(c)
+Figure 4. Relationships of wheat yield with (a) all soil tested attributes, (b) two most
+minimum attributes and (c) one most minimum attribute for wheat growing districts in
+Bangladesh (ns = non-significant).
+(a)
+(b)
+Figure 5. Relationship of computed verses observed grain yield of wheat, as determined
+by integrating all attributes through (a) multiple regression and (b) additive multiple re-
+gression approaches (ns = non-significant; * = significant at 5% level of probability).
+DOI: 10.4236/ojss.2019.99011 199 Open Journal of Soil Science
+)1–ah
+t(
+dleiY
+4 y = 0.018x + 1.819, R2= 0.37ns
+3
+2
+1
+0
+10 20 30 40 50 60
+)1–ah
+t(
+dleiY
+(b)
+4.0 y = 0.02x + 1.637, R2= 0.32ns
+3.0
+2.0
+1.0
+0.0
+10 20 30 40 50 60
+)1–ah
+t(
+dleiY
+(c)
+Score
+3.5
+3.0
+2.5
+2.0
+1.5
+y = 0.386x + 1.424, R2= 0.54ns
+1.0
+1.0 1.5 2.0 2.5 3.0 3.5
+)1–ah
+t(
+dleiy
+detupmoC
+Observed yield (t ha–1)
+2.1
+2.0
+1.9
+1.8
+1.7
+y = 0.426x + 1.059, R² = 0.62*
+1.6
+1.6 1.7 1.8 1.9 2.0 2.1
+)1–ah
+t(
+dleiy
+detupmoC
+1:1 line
+Observed yield (t ha–1)J. C. Biswas et al.
+Table 2. Correlation matrix showing relationships of soil health score with wheat yield.
+Approach 1 Approach 2 Approach 3 Approach 4 Approach 5 Approach 6 Yield
+Approach 1 1
+Approach 2 0.512853 ns 1
+Approach 3 0.657342* 0.838989** 1
+Approach 4 0.679636* 0.668905* 0.946657** 1
+Approach 5 0.668994* 0.553923 ns 0.874866** 0.979727** 1
+Approach 6 0.665833* 0.482331 ns 0.816641** 0.949475** 0.990784** 1
+Yield 0.266267 ns 0.373025 ns 0.318145 ns 0.271349 ns 0.246809 ns 0.230201 ns 1
+*, ** = Significant at 5% and 1% level of probability; ns = Non-significant.
+Table 3. Principal components, Eigenvalues and variances.
+PC1 PC2 PC3 PC4 PC5
+Eigenvalue 3.909 2.006 1.400 1.119 1.055
+% Variance 30.069 15.430 10.770 8.608 8.112
+% Cumulative variance 30.069 45.499 56.269 64.877 72.988
+Weightage factor 0.412 0.211 0.146 0.118 0.111
+4. Discussion
+We have chosen 13 attributes for SQI development of which soil salinity and
+drainage play a pivotal role for arable crop production in Bangladesh; but Ve-
+lasquez et al. [23] used 50 soils properties, the highest number of soil attributes,
+to develop a general SQI that might not be suitable for many researchers in de-
+veloping countries. However, reports on SQI with fewer attributes are also
+available. The soil management frame work based on SQI considered 13 para-
+meters from physical, chemical and biological factors [24], but they ignored soil
+depth, which is important for many regions of the world. Laishram et al. [25]
+reported 12 soil indicators for soil health assessment. They have included sus-
+pected pollutants and soil respiration– important points, but not easily available
+in many developing countries. Though works on soil pollutions are on-going
+sporadically, adequate data on soil biology are not available in this part of the
+world. So, we were unable to include those factors. We have considered SOC
+that actually dictates microbial activities [26] [27] and acts as a source of plant
+nutrients [28] [29]. Loganathan and Narendiran [29] also reported that soil or-
+ganic matter and aggregate stability are important indicators for soil quality as-
+sessment. Different statistical tools, such as multiple correlations, PCA, star
+plots, factor and cluster analyses are performed for SQI determination [30] [31].
+We have utilized additive and multiplicative production function through re-
+gression analysis to deal with inter-attributes interactions and six approaches for
+geometric mean score determination and finally correlated with wheat crop
+yields to reveal a new methodology of soil health quality determination.
+Soils of Bangladesh are mostly flat and dominated by silt and clay that influ-
+DOI: 10.4236/ojss.2019.99011 200 Open Journal of Soil ScienceJ. C. Biswas et al.
+ence porosity, BD, CEC, water holding capacity, drainage, nutrient availability,
+pH, etc. These are also important soil health determinants [32]. Effective soil
+depth is a good indicator of soil available water and nutrients, but not much is
+known for its long term benefit [31]. Our top scoring soil was loamy in texture
+(Figure 2(a)), having good depth with 18% - 25% clay, 5% - 40% sand and 5.6 -
+6.5 pH. These properties are not universal and vary depending on scoring me-
+thods and regions of the world. Gruver and Weil [33] found good soil rating
+with 10.5% clay and 45% sand having a pH of 6.5. Soil pH greatly influences sa-
+linization, electrical conductivity, exchangeable sodium (Na) and structural sta-
+bility [34], nutrient availability [31]. In general, SOC, porosity and aggregate
+stability influence SQI values [35]. We have also found good soil aggregate sta-
+bility score with higher SOC that ultimately govern soil erosion, surface crapping
+and directly or indirectly soil fertility and crop productivity [36].
+Final soil health score was divided into eight groups (Figure 3(f)), to be used
+effectively as a benchmark for growing different crops. In literature we have
+found less grouping viz. five for Cornel Soil Health Assessment [1] that might be
+suitable in the USA because of climate and edaphic factors. Since soil quality
+rating varies depending on crops to be grown, a good rated soil should have di-
+rect linkages with crop productivity. So, the most sensitive soil parameters need
+to be identified that impairs crop growth and development severely, which has
+been delineated in this report. Similar views were also expressed by Andrews et
+al. [37]. The tolerance ability of a crop to certain stress makes it a better choice
+for consideration to be cultivated in a particular region. For example, rice can
+tolerate salinity of 4 - 6 dS·m–1, water stagnation and even submergence tolerant
+varieties are available [38] indicating that they can be cultivated in most places of
+Bangladesh except in the areas having the least soil health ratings.
+Our efforts to minimize data set requirements for SQI determination though
+PCA analysis and its relationships with grain yields of wheat showed lesser cor-
+relation coefficients for BD (0.10074), SOC (0.09274), Ks (0.17210), slope
+(0.17525), WDCS (0.49144) and drainage (−0.21033) compared to geometric
+mean approach (Table 2). Moreover, wheat grain yields as estimated from PCA
+derived strong loaded factors showed inferior relationships than multiplicative
+regression function response. Similar findings were also reported by Vasu et al.
+[12]. They reported that weighted index SQIs were better correlated with crop
+yields than additive SQIs for PCA.
+The prediction of wheat yield from the soil health rating index appears to be
+low, as we could understand that the yield also depends on other biotic and abi-
+otic stresses such as temperature, insects, diseases, inputs and agronomic man-
+agement practices in different parts of the country. Moreover, all regions are not
+suitable for growing wheat, because of unfavorable ecology and unsuitability of
+land, although efforts are underway to grow wheat in more areas of Bangladesh.
+Besides, dynamic soil properties may change within hours or it may take a pe-
+riod of decades depending on many factors of particular localities and thus good
+relationships between SQI and grain yield might not be established easily in
+DOI: 10.4236/ojss.2019.99011 201 Open Journal of Soil ScienceJ. C. Biswas et al.
+some cases.
+The efficacy of SQI depends on its acceptance by the end users. Far-
+mers/producers generally want a simple technique as was found in the USA,
+where farmers related their scoring with soil carbon and soil structure effectively
+[33]. Soil color, as influenced by organic matter content and texture are also
+good SQI from the farmer’s point of view [39]. In this paper, the aim was pri-
+marily to develop a methodology to derive soil health rating index by including
+physical, chemical and physico-chemical characters of soils. Our efforts clearly
+indicate that SQI developed for Bangladesh can be utilized for proper utilization
+of soil resources in terms of crop zoning and delineation of management options
+for growing different crops.
+5. Conclusion
+A method for soil quality assessment has been developed for Bangladesh, which
+would be applicable for similar environments around the globe. Thirteen soil
+attributes were used in determining SQI. Attribute wise, the lowest score (say 1,
+5, 10, 20, etc.) was assigned for the most adverse soil conditions within the scale
+of 0 - 100 and the gradually higher score was provided for comparatively favora-
+ble crop growing environments. Different approaches for deriving SQI, by deal-
+ing with 13 attributes (altogether, most stressed one, most stressed two
+attributes, six attributes through PCA) by following additive and multiplicative
+regression fits. The indices were related to wheat yields (five years average). It
+was clear that multiplicative approach provides better predictability of yield es-
+timates. Also, if we take all 13 tested attributes, the performance is not satisfac-
+tory, compared to one/two most attributes that severely affect crop growth and
+development. Through PCA, six attributes were identified for soil health assess-
+ment, but their use for yield estimates could not perform better than the multip-
+licative regression approach. In this paper, we have shown the methodology for
+SQI determination and established linkage with wheat yields satisfactorily. This
+methodology could be useful in irrigation scheduling, nutrients management
+options, and resource conservation technologies for sustained agricultural pro-
+duction.
+Acknowledgements
+We greatly acknowledge the financial support for this research activity of Krishi
+Gobeshona Foundation (KGF) through modeling climate change impact as-
+sessment project in Bangladesh (CRP-II).
+Conflicts of Interest
+The authors declare no conflicts of interest regarding the publication of this paper.
+References
+[1] Gugino, B.K., Idowu, O.J., Schindelbeck, R.R., van Es, H.M., Wolfe, D.W., Moe-
+DOI: 10.4236/ojss.2019.99011 202 Open Journal of Soil ScienceJ. C. Biswas et al.
+bius-Clune, B.N., Thies, J.E. and Abawi, G.S. (2009) Cornel Soil Health Assessment
+Manual. 2nd Edition, Cornell University, New York, 1-57.
+[2] Ohio Soil Health Card (OSHC) (2004) Sustainable Agriculture Fact Sheet Series,
+SAG-1. The Ohio State University, ‎Columbus, OH.
+[3] Karlen, D.L., Andrews, S.S., Wienhold, B.J. and Zobek, T.M. (2008) Soil Quality
+Assessment: Past, Present and Future. Journal of Integrative Bioscience, 6, 3-14.
+[4] Larsen, W.E. and Pierce, F.J. (1994) The Dynamics of Soil Quality as a Measure of
+Sustainable Management. In: Doran, J.W., et al., Eds., Defining Soil Quality for a
+Sustainable Environment, SSSA, Madison, WI, 37-52.
+[5] Doran, J.W. and Parkin, T.B. (1994) Defining and Assessing Soil Quality. In: Doran,
+J.W., et al., Eds., Defining Soil Quality for a Sustainable Environment, ASA and
+SSSA, Madison, WI, 2-21. https://doi.org/10.2136/sssaspecpub35.c1
+[6] Karlen, D.L., Wollenhaupt, N.C., Erbach, D.C., Berry, E.C., Swan, J.B., Eashand,
+N.S. and Jordahl, J.L. (1994) Crop Residue Effects on Soil Quality Following 10
+Years of No-Till Corn. Soil Tillage & Research, 31, 149-167.
+https://doi.org/10.1016/0167-1987(94)90077-9
+[7] Andrews, S.S., Karlen, D.L. and Mitchel, J.P. (2002) A Comparison of Soil Quality
+Indexing Methods for Vegetable Production Systems in Northern California. Agri-
+culture, Ecosystems & Environment, 90, 25-45.
+https://doi.org/10.1016/S0167-8809(01)00174-8
+[8] Armenise, E., Redmile, G.M.A., Stellacci, A.M., Ciccarese, A. and Rubino, P. (2013)
+Developing a Soil Quality Index to Compare Soil Fitness for Agricultural Use under
+Different Managements in the Mediterranean Environment. Soil Tillage & Re-
+search, 130, 91-98. https://doi.org/10.1016/j.still.2013.02.013
+[9] Ray, S.K., Bhattacharyya, T., Reddy, K.R., Pal, D.K., Chandran, P., Tiwary, P. and
+Mandal, D.K. (2014) Soil and Land Quality Indicators of the Indo-Gangetic Plain of
+India. Current Science, 107, 1470-1486.
+[10] Moncada, M.P., Gabriel, D. and Comelis, W.M. (2014) Data-Driven Analysis of Soil
+Quality Indicators Using Limited Data. Geoderma, 235-236, 271-278.
+https://doi.org/10.1016/j.geoderma.2014.07.014
+[11] Sparling, G.P., Schipper, L.A., Bettjeman, W. and Hill, R. (2004) Soil Quality Moni-
+toring in New Zealand: Practice Lessons from a 6-Year Trial. Agriculture, Ecosys-
+tems & Environment, 104, 523-534. https://doi.org/10.1016/j.agee.2004.01.021
+[12] Vasu, D, Singh, S.K., Ray, S.K., Duraisami, V.P., Tiwary, P., Chandran, P., Nimkar,
+A.M. and Anantwar, S.G. (2016) Soil Quality Index (SQI) as a Tool as a Tool to
+Evaluate Crop Productivity in Semi-Arid Deccan Plateau, India. Geoderma, 282,
+70-79. https://doi.org/10.1016/j.geoderma.2016.07.010
+[13] Mukherjee, A. and Lal, R. (2014) Comparison of Soil Quality Index Using Three
+Methods. PLoS ONE, 9, e105981. https://doi.org/10.1371/journal.pone.0105981
+[14] Food and Agriculture Organization (FAO) (1976) A Framework for Land Evalua-
+tion. Food and Agriculture Organization of the United States, Soil Bulletin No. 32,
+FAO, Rome.
+[15] Storie, R. (1978) Storie Index Soil Rating. University of California, Special Publica-
+tion 3203, Oakland, CA.
+[16] Sys, C., Ranst, E.V. and Debaveye, J. (1991) Land Evaluation and Crop Production
+Calculations. General Administration for Development Cooperation, Brussels,
+40-80.
+[17] Askari, M.S. and Holden, N.M. (2015) Quantitative Soil Quality Indexing of Tem-
+DOI: 10.4236/ojss.2019.99011 203 Open Journal of Soil ScienceJ. C. Biswas et al.
+perate Arable Management. Soil Tillage & Research, 150, 57-67.
+https://doi.org/10.1016/j.still.2015.01.010
+[18] de Paul Obade, V. and Lal, R. (2016) Towards a Standard Technique for Soil Quality
+Assessment. Geoderma, 265, 96-102.
+https://doi.org/10.1016/j.geoderma.2015.11.023
+[19] Adhikary, P.P., Chakraborty, D., Kalra, N., Sachdev, C.B., Patra, A.K., Kumar, S.,
+Tomar, R.K., Chandna, P., Raghav, D., Agrawal, A. and Sehgal, M. (2008)
+Peo-Transfer Functions for Predicting the Hydraulic Properties of Indian Soils.
+Australian Journal of Soil Research, 46, 476-484. https://doi.org/10.1071/SR07042
+[20] Kalra, N., Aggarwal, P.K., Bandyopadhyay, S.K., Malik, A.K. and Kumar, S. (1994)
+Prediction of Moisture Retention and Transmission Characteristics from Soil Tex-
+ture of Indian Soils. In: Lansigan, F.P., Bouman, B.A.M. and van Laar, H.H., Eds.,
+Agro-Ecological Zonation, Characterization and Optimization of Rice Based Crop-
+ping Systems, SARP Research Proceedings, AB-DLO and TPE, Wageningen, 26-35.
+[21] Haque, M.M., Biswas, J.C., Akter, M., Maniruzzaman, M. and Kabir, M.S. (2019)
+Carbon Budget and Aggregate Stability of Paddy Soil under Continuous Organic
+Amendment. Communications in Soil Science and Plant Analysis, 50, 1829-1837.
+[22] Sung, C.T.B. (2012) Aggregate Stability of Tropical Soils in Relation to Their Or-
+ganic Matter Constituents and Other Soil Properties. Pertanika Journal of Tropical
+Agricultural Science, 35, 135-148.
+[23] Velasquez, E., Lavelle, P. and Andrade, M. (2007) GISW, a Multifunctional Indica-
+tor of Soil Quality. Soil Biology and Biochemistry, 39, 3066-3080.
+https://doi.org/10.1016/j.soilbio.2007.06.013
+[24] Veum, K., Kremer, R. and Goyne, K. (2013) Assessing Soil Health in Missouri
+Agricultural Soils. Soil Health Workshop, Bradford Extension and Research Center.
+[25] Laishram, J., Saxena, K.G., Maikhuri, R.K. and Rao, K.S. (2012) Soil Quality and Soil
+Health: A Review. International Journal of Ecology and Environmental Sciences, 38,
+19-37.
+[26] Gadja, A.M., Doran, J.W., Wienhold, B.J., Kettler, T.A., Pikul, J.L. and Cambardella,
+C.A. (2001) Soil Quality Evaluations of Alternative and Conventional Management
+Systems in the Great Plains. In: Lal, R., Kimble, F.F., Follet, R.F. and Steward, B.A.,
+Eds., Methods of Assessment of Soil Carbon, CRC Press, Boca Raton, FL, 361-400.
+[27] Komatsuzaki, M. and Ohta, H. (2007) Soil Management Practices for Sustainable
+Agro-Ecosystems. Sustainability Science, 2, 103-120.
+https://doi.org/10.1007/s11625-006-0014-5
+[28] Dumaniski, J. and Pieri, C. (2000) Land Quality Indicators: Research Plan. Agricul-
+ture, Ecosystems & Environment, 81, 93-102.
+https://doi.org/10.1016/S0167-8809(00)00183-3
+[29] Loganathan, M. and Narendiran, J. (2014) Characterization of Soil Quality Indica-
+tors: A Study. Journal of Global Biosciences, 3, 586-592.
+[30] Bachmann, G. and Kinzel, H. (1992) Physiological and Ecological Aspects of the
+Interactions between Plant Roots and Rhizosphere Soil. Soil Biology & Biochemi-
+stry, 24, 543-552. https://doi.org/10.1016/0038-0717(92)90079-D
+[31] Doran, J.W. and Parkin, T.B. (1996) Quantitative Indicators of Soil Quality: A
+Minimum Data Set. In: Doran, J.W., Ed., Methods for Assessing Soil Quality, SSSA
+Special Publication No. 49, Soil Science Society of America, Madison, WI, 25-35.
+https://doi.org/10.2136/sssaspecpub49.c2
+[32] Hsiao, C.J., Gretchen, S., Charles, R., Zeglin, L. and Hettiarachchi, G. (2017) Key
+DOI: 10.4236/ojss.2019.99011 204 Open Journal of Soil ScienceJ. C. Biswas et al.
+Components of Healthy Soils and Their Role in Crop Production. Kansas Agricul-
+tural Experiment Station Research Reports, 3, 1-4.
+https://doi.org/10.4148/2378-5977.1385
+[33] Gruver, J.B. and Weil. R.R. (2007) Farmer Perceptions of Soil Quality and Their
+Relationship to Management-Sensitive Soil Parameters. Renewable Agriculture and
+Food Systems, 22, 271-281. https://doi.org/10.1017/S1742170507001834
+[34] Rengasamy, P. and Olsson, K.A. (1991) Sodicity and Soil Structure. Australian
+Journal of Soil Research, 29, 935-952. https://doi.org/10.1071/SR9910935
+[35] Gelaw, A.M., Singh, B.R. and Lal, R. (2015) Soil Quality Indices for Evaluating
+Smallholder Agricultural Land Uses in Northern Ethiopia. Sustainability, 7,
+2322-2337. https://doi.org/10.3390/su7032322
+[36] Cooper, J. (2011) Soil Structure, Management and Effect on Nutrient Availability
+and Crop Production. Organic Producer Conference, Facing Current and Future
+Challenges, Newcastle University, 17 January 2011.
+http://www.ksre.ksu.edu/fieldday/kids/soil_pit/soil_structure.htm
+[37] Andrews, S.S., Karlen, D.L. and Cambardella, C.A. (2004) The Soil Management
+Assessment Framework: A Quantitative Evaluation Using Case Studies. Soil Science
+Society of America Journal, 68, 1945-1962.
+[38] Bangladesh Rice Research Institute (BRRI) (2017) Modern Rice Cultivation. 20th
+Edition, BRRI, Gazipur, 1-88.
+[39] Mairura, F.S., Mugendi, D.N., Mwanje, J.I., Ramisch, J.J., Mbugua, P.K. and Chianu,
+J.N. (2007) Integrating Scientific and Farmer’s Evaluation of Soil Quality Indicators
+in Central Kenya. Geoderma, 139, 134-143.
+https://doi.org/10.1016/j.geoderma.2007.01.019
+DOI: 10.4236/ojss.2019.99011 205 Open Journal of Soil Science

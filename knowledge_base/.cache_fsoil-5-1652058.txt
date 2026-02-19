@@ -1,0 +1,656 @@
+TYPEOriginalResearch
+PUBLISHED31October2025
+DOI10.3389/fsoil.2025.1652058
+Real-time soil fertility analysis,
+crop prediction, and insights
+OPENACCESS
+using machine learning and
+EDITEDBY
+SunitaK.Meena,
+Dr.RajendraPrasadCentralAgricultural
+deep learning algorithms
+University,India
+REVIEWEDBY
+PalanikumarRajendran,
+PSREngineeringCollege,India Kanimozhi Gunasekaran1, Karmel A.2*
+AyhanArisoy,
+and Pemmareddy Sreevardhan2
+MehmetAkifErsoyUniversity,Türkiye
+*CORRESPONDENCE 1CentreforSmartGridTechnologies,VelloreInstituteofTechnology,Chennai,India,2Schoolof
+KarmelA. ComputerScienceandEngineering,VelloreInstituteofTechnology,Chennai,India
+karmel.a@vit.ac.in
+RECEIVED23June2025
+ACCEPTED11September2025 Sustainable agricultural management relies heavily on accurate soil fertility
+PUBLISHED31October2025
+prediction.Traditional assessmenttechniques areoften labour-intensive,time-
+CITATION consuming,andmayinvolvehazardouschemicals.Recentadvancesinmachine
+GunasekaranK,A.KandSreevardhanP
+(2025)Real-timesoilfertilityanalysis,crop learning (ML) and artificial intelligence (AI) offer promising alternatives by
+prediction,andinsights integrating soil metrics, meteorological data, and other environmental factors
+usingmachinelearninganddeep forpreciseandefficientfertilityestimation.Thisstudyinvestigatestheapplication
+learningalgorithms.
+Front.SoilSci.5:1652058. of ML and deep learning algorithms for soil fertility prediction. A hardware
+doi:10.3389/fsoil.2025.1652058 prototype incorporating sensors and a microcontroller was developed to
+COPYRIGHT capture soil parameters, including pH, temperature, humidity, moisture
+©2025Gunasekaran,A.andSreevardhan.This
+content, NPK (nitrogen, phosphorus, potassium), carbon content, and organic
+isanopen-accessarticledistributedunderthe
+termsoftheCreativeCommonsAttribution matter,alongside weatherandclimatic conditions. Real-time sensordatawere
+License(CCBY).Theuse,distributionor comparedagainstpredictionsfromMLmodels.Laboratorysoiltestresultswere
+reproductioninotherforumsispermitted,
+used as ground truth for validation. Ensemble classifiers (Random Forest, Extra
+providedtheoriginalauthor(s)andthe
+copyrightowner(s)arecreditedandthatthe Trees) and deep learning models (Multilayer Perceptron, Long Short-Term
+originalpublicationinthisjournaliscited,in
+Memory networks) were evaluated using accuracy, F1-score, recall, and
+accordancewithacceptedacademic
+practice.Nouse,distributionorreproduction precision metrics. The Random Forest algorithm achieved the highest
+ispermittedwhichdoesnotcomplywith prediction accuracy of approximately 92%, with Extra Trees and other
+theseterms.
+ensemblemethodsalsodemonstratingstrongperformance.Thedeeplearning
+modelsfurtherenhancedpredictivecapabilitiesforcropselection,withMLPand
+LSTMachievinghighaccuracy,recall,andF1-scoreswhilemaintainingconsistent
+precision. The hardware prototype’s real-time measurements closely aligned
+with laboratory results, confirming the reliability of the system. The findings
+highlightthepotentialofMLandAI-basedapproachesinadvancingsoilfertility
+prediction and crop recommendation systems. By combining real-time sensor
+data with predictive models, the proposed system enables rapid, reliable, and
+scalablesoilhealthassessment.Thisintegratedapproachempowersfarmersto
+make data-driven decisions, optimize soil fertility, and improve sustainable
+agriculturalpractices.
+KEYWORDS
+soil fertility, machine learning, deep learning, random forest, decision tree, support
+vectormachine,soilnutrients,cropprediction
+FrontiersinSoilScience 01 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+1 Introduction CationExchangeCapacity(CEC)(4)replicatesthesoil’sability
+to hold and exchange positively charged ions like calcium,
+Agriculture is the backbone of India’s economy, employing a magnesium,andK.SoilswithhighCECaregenerallymorefertile
+significantportionofthepopulationandcontributingsubstantially as they can better retain and supply nutrients. Soil moisture is
+toGDP.However,despiteadvancementsinagriculturaltechnology, another important factor, as it affects plant growth and nutrient
+many Indian farmers continue to rely on traditional farming uptake. Adequate moisture is essential for optimal plant
+methods, often overlooking modern soil analysis techniques. This development. Soil structure, the arrangement of soil particles into
+lackofawarenessleadstoinefficientuseoffertilizers,depletionof aggregates or clumps, influences aeration, drainage, and root
+soilnutrients,anddecliningcropyields. penetration,impactingplanthealth.
+One of the primary challenges is the limited access to reliable Soiltemperature(5)affectstheseedgermination,rootgrowth,
+soil testing facilities, particularly in rural areas. Many farmers are and microbial activity. Proper temperature is crucial for
+unaware of the benefits of soil testing in determining the precise maintainingoptimalconditionsfortheplantgrowth.Soilsalinity,
+nutrientrequirementsoftheirland.Asaresult,theyeitheroveruse thatmeasurestheconcentrationofsolublesalts,canimpedeplant
+or under use fertilizers, leading to soil degradation and reduced growth by affecting water uptake and nutrient availability. This is
+long-termproductivity.Moreover,theabsenceofpropersoilhealth especially important in the arid regions or poorly drained areas.
+managementpracticescontributestodecliningsoilfertility,making Additionally, soil erosion (6)—the removal of the nutrient-rich
+farminglesssustainableovertime.Manyfarmerslackthetechnical
+topsoillayerbywindorwater—cansignificantlydepletesoilfertility
+knowledgetointerpretsoiltestreportsandapplyrecommendations andproductivity.
+effectively. Additionally, financial constraints and skepticism Thus, to assess soil fertility, methods like soil testing provide
+toward new technologies further hinder the widespread quantitative data on pH, nutrient levels, and other parameters,
+implementationofsoilanalysispractices.
+whilefieldobservationsoffervisualinsightsintosoilcolor,texture,
+To address this issue, a comprehensive approach is needed, and plant health. Laboratory analyses further detail physical and
+involvingawarenesscampaigns,accessiblesoiltestingservices,and chemical properties of the soil (7). Applying balanced fertilizer in
+training programs for farmers. Encouraging the adoption of accordance with soil test recommendations, regulating soil pH as
+modern soil analysis techniques can significantly enhance needed, and adding organic matter through compost, manure, or
+agricultural productivity, ensure better resource utilization, and cover crops are all ways to improve soil fertility. Erosion control
+promotesustainablefarmingpracticesinIndia. practices,suchascontourploughingorterracing,arealsocrucialto
+Soil, fertilizers, temperature, climate, flooding, precipitation, preventsoilloss.Bycombiningthesestrategies(8),onecancreatea
+crops, pesticides, and herbs are few highly influential properties balanced and fertile soil environment conducive to optimal
+onwhichagriculturehingeson.Farmershaveinadequatestatistics plantgrowth.
+on soil fertility, how to pick the right plantation to maximize the Adopting sustainable agricultural practices, particularly
+yieldinthatcertainarea.Duetotheirwiderangeofdependence,it utilizing digital technologies such as the Internet of Things (IoT),
+istoughtopredictthesoil’sfertilitywithoutanyvitalinformation. Artificial Intelligence (AI), and diverse Machine Learning (ML)
+Analyzing soil fertility involves evaluating a range of parameters algorithms, to determine soil richness is an important decision to
+thatsignificantlyinfluenceplantgrowthandproductivity.ThePH facilitate efficient solutions and assist farmers and stakeholders in
+of the soil (1) is a measure of acidity or alkalinity, and is equally makinginformeddecisions.Thedatasetiscomparedtopredictthe
+importantasitinfluencesnutrientavailability.Mostcropsflourish soilfertility.Thisstudy’sprimaryobjectiveistouseAItocreatea
+in a pH range of 6.0 to 7.0; soil outside this range may require modelforanalyzingsoilfertility.Thedatasetisputtogetherusing
+changes,suchaslimeforacidicsoilsandacidifyingtreatmentsfor several private online datasets. Following this, these datasets are
+alkalinesoils. separatedintotwocategories:trainingdatasetsandtestingdatasets.
+Soil texture (2) is one key parameter that refers to the Different ML algorithms have been trained using the training
+proportions of sand, silt, and clay, plays a vital role in defining dataset,andthetestdatasetisutilizetoidentifythemosteffective
+howwellthesoilretainswater,drains,andsuppliesnutrients.For system. Numerous characteristics of the dataset include N, K, P,
+instance,thesandysoilstypicallydrainquicklyalthoughitmaybe Iron (Fe), Copper (Cu), Manganese (Mn), Zinc (Zn), Electrical
+deficient in essential nutrients, conversely clay soils retain water Conductivity (EC), soil’s Organic Carbon(OC), Sulphur (S), and
+moreeffectivelyhowevertheycansufferfrompooraeration. Boron(B).
+The amount of organic matter in the soil, that includes The integration of machine learning models into mobile
+decomposedplantandanimaldebris,isanotherimportantfactor. applications has revolutionized soil fertility assessment, providing
+Ahighleveloforganicmattersupportsbeneficialmicrobialactivity farmerswithinstantandaccessibleinsights.Theseappsanalyzesoil
+whilestrengtheningthesoil’sstructure,water-holdingcapacity,and data collected through sensors, user inputs, or satellite
+nutrient availability. Nutrient levels (3), particularly the imagery to generate real-time fertility reports and customized
+concentrations of essential nutrients such as nitrogen (N), recommendations for fertilizers and crop selection. Many mobile
+phosphorus(P),andpotassium(K),arealsovital.Thesenutrients platforms,suchasKrishiMitraandSoilCares,leverageAItoguide
+are crucial for plant growth, and soil tests can guide appropriate
+farmersinoptimizingnutrientuseandimprovingyieldefficiency.
+fertilizationtoaddressthedeficienciesorimbalances. By eliminating the need for manual soil testing and reducing
+FrontiersinSoilScience 02 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+dependency on agricultural experts, mobile-based solutions In this study (10) three different classification algorithms are
+empower farmers, particularly those in remote areas, with data- usednamely,JRip,J48,andNaiveBayestoforecastthesoiltypesof
+drivendecision-makingcapabilities. RedandBlack.JRipconsidersallattributes,whileJ48onlyconsiders
+Governmentsworldwide,includingIndia,haverecognizedthe thepHandECvalues,buildingatreebasedonthesetwoattributes.
+potential of AI in agriculture and have launched initiatives to The results showed that the JRip classifier was the most efficient,
+promotesoilhealthmonitoring.ProgramssuchastheSoilHealth generatingruleseffectivelyandexhibitinggoodperformanceonthe
+CardSchemeintegratemachinelearningalgorithmstoanalyzesoil soildataset.ComparedtoJ48andNaiveBayes, JRiphadahigher
+samples and provide tailored recommendations for improving accuracy. The entire dataset was used as the training set, and the
+fertility. These initiatives help policymakers and agricultural weightedaverageofthetruepositiveratefortheJRipclassifierwas
+agenciesdevelopprecisionfarmingstrategies,ensuringsustainable found to be 0.982, indicating high accuracy. In contrast, J48 and
+soil management at a large scale. By integrating AI-driven soil NaiveBayeshadTPratesof0.97and0.86,respectively,suggesting
+fertility prediction models into government-supported platforms, lowerlevelsofaccuracy.Consequently,theJRipclassifierwasable
+farmers receive credible and structured guidance, improving toclassifythedatasetwithahigherdegreeofaccuracy.
+productivity while reducing the excessive use of fertilizers Thearticle(11)relatesworkwithsoilfertilityandexplainsthe
+andchemicals. modelsthatusePseudo-transferfunctionstopredicttheS-indexof
+The private sector plays a crucial role in advancing machine the soil to identify its quality. This model could replace various
+learning applications in agriculture by developing innovative, laborious experiments just by analyzing the SI index. The PTF is
+scalable, and cost-effective soil testing solutions. Agritech startups usedtoconverttheunprocesseddatatouser-friendlyformatandit
+and companies such as AgroAI and CropIn leverage AI-powered is a predictive function of certain soil properties which are very
+modelstoofferautomatedsoilfertilityassessmentsthroughcloud- difficulttomeasure.Theauthorsnominated15ANNmodelsalong
+based platforms and IoT-enabled sensors. These collaborations withlogisticregressioninthemethodologiessectionofthearticle.
+bring advanced technology directly to farmers, enabling precision Thesemodelswereemployedwitharound300datasamplesunder
+agriculture without requiring extensive technical expertise. By resultsanddiscussionsectionwith4inputattributes;R2,RootMean
+partnering with research institutions and government bodies, SquareError(RMSE),AICandtheRPDaredeterminedtochoose
+private enterprises contribute to the wider adoption of AI in thebestmodelsamongselected.
+farming, ultimately leading to improved soil health management In (12), a study was conducted utilizing 18 different Extreme
+andincreasedcropyields. Learning Machine (ELM) models, in addition to established
+predictive tools such as Multi-Linear Regression (MLR) and
+Random Forest (RF), to evaluate their performance using various
+2 Related work metrics such as RMSE, MAE, ENS (Nash-Sutcliffe efficiency
+coefficient), WI (Willmott’s Index), and ELM (Legates and
+To understand how the process is organized and carried out McCabe’sIndex).ThedatasetusedinthestudywasbasedonSoil
+using different software designs, the contents of a few research OrganicMatter,whichhasthehighestCoefficientofVariance,and
+articles (9) about soil fertility prediction and moisture are briefly was divided into testing and training datasets. The ELM model,
+summarized.Inordertocarryoutprecisionagriculture,researchers whichisanadvancedformofAI,outperformedtheRFandMLR
+(9) conducted a study on the spatial distribution and variation modelswithalowerRMSEscoreof13.6%,whiletheothermodels
+characteristics of soil fertility. Their investigation focused on hadhighervalues.
+developing a basis for decision-making in evaluating the spatial SoilOrganicCarbon(SOC)isacrucialmeasureofsoilquality
+variability of soil fertility by researching Space-Fuzzy Clustering thatdirectlyinfluencessoilfertility.TopredictSOClevels,various
+(FC-S)basedonspecificfertilizationofregionalfertilityspace.To models,suchasMLR,ANN,SVM,DecisionTree,cubistregression,
+analyze the features of soil fertility, authors employed several and RF, were developed and evaluated. The accuracy of the
+techniques, including spatial mutation distribution of soil prediction models was assessed using standard validation indices
+nutrients, GIS technology, decision tree, and weighted FC-S. suchasMeanAbsoluteError(MAE),RMSE,andR2through 10-
+Coefficient of Variation was used to determine the variability of foldCross-Validation(CV)thatwasrepeatedfivetimes.Amongthe
+the attributes. Local Polynomial Interpolation, Global Polynomial models tested, the RF model was found to be the most accurate,
+Interpolation,andordinaryKrigingapproachesareusedtoanalyses followed by cubist regression. To make the model more accurate,
+the fertility data of discrete sampled points and produce spatial twohyperparametersweretunedtodiminishthecomplication.
+distribution maps for available nitrogen, phosphorus, and
+potassium as well as pH in the soil. While estimating the a. Ntree–tooverfitevenifthedecisiontreeishuge.
+geographicaldistributionofsoilnutrients,Space-FuzzyClustering b. Mtyr–Thisillustratesthequantityofindicatorsselectedas
+proved to be the most effective model, followed by the Kriging potentialcandidatesateverynode,chosenatrandom.
+approach and local polynomial interpolation method, which
+exhibitedthehighestprecision.Incontrast, theglobalpolynomial The models’ performance is achieved by adjusting their
+interpolationmethodshowedthelowestprecision. hyperparameters using the grid search technique, along with K-
+FrontiersinSoilScience 03 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+fold cross-validation, where K = 12 is used to avoid biased classification problems, provides the best performance of soil
+outcomes. The RF model was found to be the best performer, fertility classification, while the hyperbolic tangent (tanh)
+withanR2valueof0.68,followedbytheCubistmodelwithanR2 function, which is used to solve one classification problem,
+valueof0.51.TheSupportVectorMachine(SVM),ANN,andMLR providesthebestaccuracy.
+modelshadlowerR2valuesof0.36,0.36,and0.17respectively. Toforecastthesoilfertility,theauthors(16)mainlycastofftwo
+The focus of this research paper (13) is to anticipate soil parameters,soil’spHandOC.Thesetwovariablesprovidedmore
+characteristics and evaluate its fertility. The authors made convincing proof of spatial dependence in the random effect and
+predictions on three soil properties namely organic Carbon, sand providedawayfortheEmpiricalBestLinearUnbiasedPrediction
+content, and Calcium Carbonate Equivalent (CCE), by utilizing (EBLUP)technique.Itisasyntheticregressionpredictionofnon-
+scanned satellite indices and terrain indices dataset. Pearson sampled units that combines direct information and synthetic
+correlation was employed to recognize variables that were regression in a linear fashion. Geostatistical techniques can be
+extremely correlated (r ≥ 0.5), and these attributes were removed used to examine the spatial variation of soil fertility
+until only the relevant ones were carried forward for predictive characteristics. This spatial model is used to make local
+modelling. The use of two models, Cubist and RF, resulted in predictions as a perfect mixture of nearby data that decreases the
+noteworthy improvements in predicting soil properties. krigingvarianceandmeansquarederroroftheforecast.
+Furthermore,itwasobservedthatbothCubistandRFshowedan This article (17) presents a study on the development of a
+increaseinR2valuesforOC,sand,andCCE,withCubisthavinga fertility model using various ML techniques such as KNN, SVM,
+126%and78%rise,andRFwitha110%and54%riseforOC,87% RF-Baggingmethod,andDNN.Theauthorsofthestudyproposed
+and32%forCCE,and25%and12%forsand.Bycomparingitwith asystemwheretheRF-baggingmethodwasused,whichyieldedan
+theterrainindices-onlymodel,theRMSEreducedby34%and27% impressivesoilfertilityratescoreof0.98.Thisscoreindicatesthat
+forOC,25%and12%forsand,and39%and19%forCCE,which theproposedsystemishighlyaccurate,withascoreof1beingthe
+resultedinreducedestimationandmappinguncertainty.Basedon highest possible accuracy. To test the bagging strategy’s accuracy
+these findings, the authors concluded that Cubist is the optimal against other models, the authors developed several different
+model as it simplifies the estimation process and provides models on the same dataset, including KNN, SV regression, and
+straightforward modular level understanding of these DNN. Upon analyzing the results, it was observed that the KNN
+linearequations. modeldisplayedaR2scoreof0.82forfertilitypredictionand0.47
+This article (14) examines several Supervised ML Algorithms, for yield prediction, while other regression models performed
+includingDecisionTree,K-NearestNeighbor(KNN),andSVM,to poorly. Thus, it can be concluded that the RF-Bagging technique
+forecastsoilfertilitybasedonthemacroandmicro-nutrientlevels proved to be the most effective model for this study, yielding the
+containedintheirdataset.TheDecisionTreealgorithmwasfound bestresultsforsoilfertilityrateprediction.
+to be the most effective classifier, outperforming SVM and KNN, Thispaper(18)aimedtoexaminethesoildataobtainedfroma
+which had lower accuracy and higher MSE. There are various soil testing laboratory to forecast fertility based on a collected
+Decision Tree algorithms available, including ID3, CART dataset. Several ensemble ML methods, including bagging,
+(Classification and Regression Trees), Chi-Square, and Reduction boosting, and stacking, are used to achieve this aim in order to
+in Variance. The C5.0 algorithm was utilized to build a perfect produce predictions thataremoreaccurate, consistent, and exact.
+model.Itworksbysplittingthesampledataaccordingtotheregion The study evaluated ten selected attributes to classify soil fertility
+thatyieldsthemostinformationgain.Tillthesamplescouldn’tsplit classes. Several soil parameters were measured to predict soil
+further,theyaresegmentedandseparatedasagroupofobjectslike fertility. The findings indicate that the boosting technique using
+aninverted tree. A fundamental advantage of C5.0 node is that it theC5.0algorithmproducedthebestresults,achievinganaccuracy
+predictsonlyacategoricaltargetandnotanuncertainresult. of98.15%,surpassingtheperformanceofotherensembleclassifiers.
+In this study (15), the model is trained using ANN classifiers Amulti-parameterfluorescencesensorcalledMultiplex(MX3)was
+employing various activation functions and hidden nodes in the tested for its ability to predict the soil characteristics of air-dried
+ANN architecture. Janmejay Pant and Pushpa Pant initially samples.Accordingtotheresults(19),ithadanoverallaccuracyof
+quantified soil nutrients values based on three categories (Low, 0.54,0.78,and0.69forthefertilityclassesof(nitrate)NO-3,SOM,
+Medium,andHigh).Theyalsousedfastlearningalgorithmsofdeep andZn, respectively.Usingayellow filterproduced betterresults,
+learning in python like Keras to classify the soil and utilized two andtheindexNBI_UVmwasthemosteffectiveinclassifyingsoil
+differentmetaparameters; fertility. Induced fluorescence directly predicted N rate with an
+overallaccuracyof78%,makingitpracticalforfarmers.
+a. NumberofEpoch–Itremainsfixedforalltheclassifiers, Recent studies applied ML models (20) such as logistic
+b. ActivationFunction–RectifiedLinearUnitandHyperbolic regression, SVM, decision trees, random forest, and KNN to
+Tangent(Tanh). predict soil fertility using macro/micronutrients and physico-
+chemical properties (pH, OC, EC). Results showed random forest
+Foreachofthefiveclassificationproblems(Mn,B,OC,P,K), achieved the highest accuracy (99%), followed by decision trees
+accuracyisattained.Authorsinferredfromtheplottedgraphthat (98%),confirmingML’seffectivenessincost-efficient,accuratesoil
+the rectified linear unit function, which is used to solve the fertilitypredictionforprecisionfarming.
+FrontiersinSoilScience 04 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+The study in (21) proposes advanced methods for soil health sum squared regression (SSR)
+R2 = 1 −
+evaluation and crop yield forecasting, including IP-EF for feature total sum of squares (SST)
+selection,BPNNforpatternprediction,andMSDF-GISforspatial
+oN (y −y^)2
+dataintegration.Themodelachievedhighperformance(precision = 1 − i=1 i i (1)
+oN (y −y)2
+93%, recall 94%, F1-score 93%), demonstrating its potential to i=1 i
+optimize resources, enhance sustainability, and support data-
+2rs s
+drivenfarmingdecisions. predicted observed
+CCC = (2)
+With all the information collected through the survey, it has s p 2 redicted +s o 2 bserved +(μ predicted −μ observed )2
+beenobservedthatthefollowing(Table1)hasthebestoutputwith
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+excellentaccuracyandvitaladvantages.
+RMSE = 2 oN i=1 (y i −y^ i )2 (3)
+N
+3 Proposed methodology
+where,
+y=ActualValue,
+i
+To assess the significance of the regression model, several y^ =PredictedValue,
+i
+Goodness of Fit (GOOF) parameters are computed, including the y=MeanoftheActualValue,
+r-squared (R2) as shown in Equation 1, Lin’s concordance r=correlationcoefficientbetweenvariablesy^ andy
+i i
+correlation coefficient (CCC) as shown in Equation 2, and RMSE μ , μ arethecorrespondingmeans
+predicted observed
+asshowninEquation3. s ,s arethecorrespondingvariancesofy^ andy
+predicted observed i i
+The degree of variation is described by the coefficient of
+variation, whose size is measured; a coefficient of variation below
+10% is regarded as having mild variability. one greater than 10%
+and less than or equal to 100% is considered to have moderate
+variability; and one greater than 100% is considered to have
+TABLE1 Resultoftheproposedmethods.
+strongvariability.
+Models Accuracy
+References Benefits
+used -model
+3.1 Dataset collection and preprocessing
+Kriging, Fuzzyclusteringisa
+Space-
+Space
+techniqueusedtogroup Basedonthedataset(22),it’sevidentthatthesoilisabundantly
+Fuzzy datapointsthatexistina
+(9) Clustering, Fuzzy multidimensionalspaceinto enrichedwithallthenecessarynutrientsinquantitiesthatsurpass
+LPIand Clustering adefinednumberofdistinct theirrespectivethresholdvalues.Uponexaminingthedata,itcan
+GPI clusters.
+be concluded that the soil contains very little Cu, but adequate
+Itisarule-based amounts of Macro nutrients, along with appropriate pH and EC
+N
+Ba
+a
+y
+iv
+e
+e
+s,JRip 98.2%
+classificationalgorithmthat
+levels.Additionally,theskewnessvaluesofZnandOCindicatethat
+(10) andJ48 JRip offershighaccuracy, thevariables’distributionisasymmetrical,whilethekurtosisvalues
+interpretablerules,andis
+(C4.5) computationallyefficient. of Cu and EC suggest that their distribution is uniform. The
+Standard Deviation of K indicates that its data is distributed
+Itisusedtounderstand
+ANNand complexproblemsandalter throughout. The selected data is a multi-class i.e., three class
+(11) ANN
+LR. themaccordingtothe datasets,whichhasthefollowingproperties(Table2).
+situation.
+Table 3 shows the summary of the soil fertility dataset,
+Ithasabettergeneralization including basic structure, class distribution and preprocessing
+performancewithafaster techniques applied. The dataset comprises 1980 samples with 12
+RF,MLR, learningspeedandis
+(12) ELM features, including pH, N, P, K, EC, Zn, Fe, Cu, Mn, B, S, and
+ELM thousandsoftimesfaster
+thanotherconventional Organic Carbon. The target variable represents soil fertility
+methods. classifiedintothreeclasses:Low(29%),Medium(45%),andHigh
+K-NN, (26%). As the classes were moderately imbalanced, we employed
+TheyusedC5.0(Typeof
+SVM- SMOTE(SyntheticMinorityOversamplingTechnique)tobalance
+DecisionTree)asthemain
+Linear, 98.15%
+(18) Algorithmasitpredictsonly the dataset before training. All models were evaluated using
+Decision DecisionTree
+Tree, acategoricaltargetandnot stratified 5-fold cross-validation to ensure fair representation of
+anuncertainresult.
+SVM-rbf eachclass.
+Thepreprocessingstepsinvolvesloadingthedataintoapanda
+RFoffersgreaterprecision
+RFCubist,
+whenitcomestopredicting DataFrame,checkingforandhandlingmissingvaluesandensuring
+(13) ANN, RF
+MLR,SVM outcomescomparedtoother eachcolumnhasthecorrectdatatype.Duplicatesarecheckedand
+algorithms.
+removedtoavoidredundancy,andnumericalfeaturesarescaled.
+FrontiersinSoilScience 05 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+TABLE2 Datainterpretations.
+Nutrients/ Expected Standard
+Mean Median Minimum Maximum Kurtosis Skewness
+properties value deviation
+N 280-560 246.74 257.00 6.00 383.00 77.39 0.11 -0.63
+P 22.5-55 14.56 8.10 2.90 125.00 21.97 10.46 3.40
+K 140-330 499.98 475.00 11.00 887.00 124.22 0.16 0.43
+S 10-20 7.55 6.64 0.64 31.00 4.42 7.66 2.46
+Zn 0.6-1.5 0.47 0.36 0.07 42.00 1.89 438.19 20.89
+Fe 2.5-4.5 4.14 3.56 0.21 44.00 3.11 38.68 3.59
+Cu 0.2-0.5 0.95 0.93 0.09 3.02 0.47 -0.12 0.43
+Mn 2-4 8.67 8.34 0.11 31.02 4.30 1.09 0.61
+B 0.46-0.67 0.59 0.41 0.06 2.82 0.57 3.92 2.13
+pH 5.5-7.5 7.51 7.50 0.90 11.15 0.46 99.94 -5.11
+EC 2.5-4.0 0.54 0.55 0.10 0.95 0.14 -0.46 0.10
+OC 0.05-12.75 0.62 0.59 0.10 24.00 0.84 675.01 24.32
+were reviewed, but none were removed since all parameters (e.g.,
+TABLE3 Summaryofthesoilfertilitydataset,includingbasicstructure,
+classdistributionandpreprocessingtechniquesapplied.
+N,P,K,pH,OC)hadknownagriculturalsignificance.Nosynthetic
+features were added, but during model interpretation, feature
+Property Description
+importance techniques were applied (as discussed later). This
+Totalsamples 1980 preprocessing pipeline was consistently applied to both classical
+MLmodelsanddeeplearningpipelinestoensurecomparability.
+Numberof
+12(N,P,K,pH,EC,OC,Zn,Fe,Cu,Mn,B,S) TheobservedfeaturerankingsareconsistentwhereN,P,K,and
+features
+pH were highlighted as the top contributors to fertility status in
+Targetvariable SoilFertilityClass(Low,Medium,High)
+Indian agro-climatic zones. However, unlike previous works that
+Numberofclasses 3 used limited ML techniques or lab-processed datasets, our study
+Low(29%),Medium(45%),High(26%)–indicating integrates real-time sensor data, prototype hardware, and deep
+Classlabels
+moderateimbalance learning (LSTM, MLP) for prediction. Furthermore, our analysis
+Missingvalues Handledusingmeanimputationfornumericfields goes beyond prediction by providing field-deployable insights via
+theAI-SISFMAkitandweb/mobiledashboards—bridgingthegap
+Scalingmethod MinMaxScaler(range[0,1]) betweenlabresearchandagriculturalfieldutility.
+Classbalancing SMOTE(SyntheticMinorityOversamplingTechnique)
+method appliedbeforetraining
+Cross-validation Stratified5-foldcross-validationforallmodels 3.2 Models selection
+strategy
+To ensure a comprehensive evaluation and identify the most
+Thepreprocessingstepsforthedatasetincludedseveralstages suitable algorithm for real-time soil fertility prediction, we
+toensuredataqualityandconsistencybeforemodeltraining.First, implemented and compared 13 diverse machine learning and
+the dataset was loaded into a Pandas DataFrame, and all missing deeplearningmodels.Thesealgorithmswereselectedtorepresent
+valueswerechecked.Sinceasmallnumberofentrieshadmissing abroadspectrumoflearningparadigms,including:Ensemble-based
+values, we used mean imputation for numerical fields such as models (Random Forest, XGBoost, Gradient Boosting, AdaBoost)
+nitrogen, phosphorus, and potassium. No categorical features fortheirabilitytohandlecomplexfeatureinteractionsandreduce
+were present in the dataset. Duplicate records were removed to overfitting.Linearmodels(LogisticRegression,RidgeClassifier)for
+prevent redundancy. Allnumericalfeatures werethennormalized their interpretability and baseline comparison. Support Vector
+usingtheMinMaxScaler,transformingvaluestotherange[0,1]to Machines (SVM) for capturing nonlinear relationships with
+improve the convergence speed and stability of machine kernel tricks. K-Nearest Neighbors (KNN) as a non-parametric,
+learningalgorithms. distance-basedmethodsuitableforsmallerdatasets.NaïveBayesfor
+In addition, we performed correlation analysis to detect itsspeedandprobabilisticnature.DecisionTreesforsimplicityand
+multicollinearity. Highly correlated features (correlation > 0.9) interpretability. Multi-Layer Perceptron (MLP) and Long Short-
+FrontiersinSoilScience 06 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+Term Memory (LSTM) (38) networks to assess deep learning bootstrap sampling (random subsets of data with replacement) as
+effectiveness on structured tabular data. This diversity allowed us Random Forest does. It uses the whole dataset for each tree, but
+to benchmark performance across different algorithmic families, addsrandomnessbysplittingthenodes.TheExtraTreesClassifier
+minimizebiasfrommodelselection,andidentifywhichapproaches canbeveryeffectiveinsoilfertilityclassificationtasks.Soildatasets
+generalizebestinthecontextofimbalanced,real-worldagricultural often include numerous features (e.g., nitrogen content, moisture,
+datasets. Ultimately, the top-performing models were retained for pH levels). ExtraTrees handles high-dimensional data well by
+furtheranalysisanddeploymentintheSISFMAsystem. focusingonlyonrandomsubsetsoffeatureswhensplittingnodes.
+Therelationshipbetweensoilpropertiesandfertilityisoftennon-
+3.2.1 Random forest classifier linear. ExtraTrees, like other tree-based algorithms, can capture
+The RF Classifier is an ensemble learning algorithm that is such non-linear interactions between soil properties effectively.
+utilizedforclassificationtasks.Itsbasicideaistobuildacollection ExtraTrees provide a natural way to measure feature
+ofdecisiontrees,eachofthemistrainedusingadifferentsubsetof importance, allowing you to determine which soil characteristics
+thetrainingfeaturesanddata.Thismethodlessensoverfittingand (e.g.,organicmatter,pH,moisture)aremostpredictiveoffertility
+improves precision. Because each tree concentrates on a distinct levels. A real-world case study was incorporated using ExtraTrees
+subset of the data and characteristics, this helps to increase
+Classifier(23).
+generalization performance and lessen overfitting. RF Classifier
+(6)canbeexpressedasinEquation4: 3.2.3 Stochastic gradient descent classifier
+SGDClassifierisatypeoflinearclassifierusedforbinaryand
+y = mode f f1(x), f2(x), …, fn(x) g (4) multiclass classification tasks in ML. It is a simple and efficient
+where, algorithmthatupdatesthemodelparametersiteratively,basedon
+yisthepredictedclasslabel, the gradients of the loss function with respect to the parameters.
+fi(x)isthepredictedclasslabel,
+TheEquation5fortheSGDClassifiercanbeexpressedasfollows:
+nisthetotalnumberofdecisiontreesintheforest.
+w(t+1) = w(t) − eta * grad(Loss(w(t), xi, yi)) (5)
+This work builds upon earlier studies on soil fertility analysis
+(29) which demonstrated the benefit of ensemble classifiers in where,
+agricultural prediction. A RF classifier can be implemented to w(t)istheweightvectoratiterationt,
+assignsoilsamplestofertilitycategoriespurelyatrandom.Itdoes eta isthelearning,
+this without learning from the features (such as chemical grad(Loss(w(t), xi, yi))isthelossfunction’sgradient,
+composition or texture). By comparing the performance of more Loss(w(t), xi, yi))isthelossfunction.
+sophisticated models to this random classifier, you can assess In this study, the authors employed ML classifiers, including
+whether those models are genuinely useful. Ensure that SGD, to classify soil samples based on fertility levels. They found
+performance comparison is done using techniques like k-fold thatSGDClassifier,whencombinedwithfeaturescalinganddata
+cross-validation. This divides the dataset into training and testing preprocessing,performedefficientlyinclassifyinglargesoildatasets.
+sets,andaverageperformanceisusedtoavoidbias.Asoilfertility The study highlights the effectiveness of SGD in handling real-
+classifier can be used for: Farmers can receive recommendations world agricultural datasets, especially where scalability is critical.
+basedonthefertilityclassofsoiltodecideontheappropriatetype ThisarticledemonstrateshowSGDcanbeappliedinpracticalsoil
+and quantity of fertilizers; Identifying areas of low fertility for fertilityanalysis,addressingcomputationalefficiencyandaccuracy
+targeted interventions, preventing further degradation of the soil; in predicting soil classes. The research emphasized using spectral
+Agricultural Decision Support Systems (DSS): Incorporating data from soil samples to improve prediction performance in
+classification models into tools that guide farmers and machinelearningapplications.
+agronomistsonsustainablelandmanagementpractices.
+3.2.4 Support vector machine
+3.2.2 ExtraTrees classifier The algorithm is widely utilized in machine learning for both
+It comes under the supervision classifier and is an ensemble binaryandmulti-classclassificationtasksduetoitseffectiveness.Its
+techniquethatdealswithselectingarandomdecisiontreemethod objectiveistodeterminethehyperplanethatoptimallyseparatesthe
+todesignthemodel.Fertilizersareadministeredatrandom,andsoil data points into distinct classes, with a focus on maximizing the
+samples are tested in a lab to determine the levels of soil fertility. marginbetweenthehyperplaneandthenearestdatapoints(known
+This conventional method pollutes the environment and raises asthesupportvectors).TheequationfortheSVMalgorithmcanbe
+fertilization prices. Therefore, it is essential to create a reliable expressedasfollowsinEquation6:
+and affordable classification system for soil fertility and fertilizer
+y(x) = sgm (wT (cid:2) x + b) (6)
+application. Itis anextensionoftheRFalgorithm, andlikeRF,it
+builds multiple decision trees and combines their predictions to where,
+obtain the final output. The splitting thresholds for the decision y(x)isthepredictedclasslabelfortheinputsamplex,
+trees are selected randomly, rather than based on a measure of w is the weight vector that defines the orientation of
+impurity such as Gini or entropy. ExtraTrees doesn’t rely on thehyperplane,
+FrontiersinSoilScience 07 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+b is the bias term that shifts the hyperplane away from especially beneficial when dealing with correlated and high-
+theorigin. dimensional data as L2 regularization can stabilize the weights
+Inthisstudy,theresearchersemployedSVM(24)toclassifysoil anddecreaseoverfitting.
+fertilitylevelsbasedonbothlaboratorysoildataandremotesensing This study examined the effectiveness of regularized
+information.TheuseofSVMwithanRBFkernelwashighlighted classification models, including Ridge Classifier, in predicting soil
+due to its ability to capture non-linear relationships in the data, fertility levels. The research found that Ridge Classifier (26)
+leadingtohighclassificationaccuracy.ThestudyfoundthatSVM performed well in handling the multicollinearity present in soil
+outperformed other classifiers when dealing with complex and datasets and provided more stable predictions compared to non-
+multi-dimensional soil datasets, particularly when combined with regularized models. The Ridge Classifier’s ability to shrink
+feature scaling and cross-validation techniques. This article coefficientsresultedinimprovedgeneralizationandinterpretation
+illustrates the effectiveness of SVM in soil fertility analysis, of the influential soil properties. The authors emphasized the
+emphasizing its potential for remote sensing applications, where importance of regularization for ensuring model robustness,
+large-scale soil data can be integrated into the model. It also particularly in agricultural datasets prone to overfitting. This
+underscores SVM’s strength in handling both linear and non- article illustrates how Ridge Classifier can be used to enhance the
+lineardatarelationshipsinagriculturaldatasets. organization of soil fertility, demonstrating the advantages of
+regularizationinagriculturaldataanalysis.
+3.2.5 Logistic regression
+Itisapopularalgorithmusedforbinaryclassificationtasksin 3.2.7 KNeighbors classifier
+machine learning. It models the probability of a binary response The KNeighbors Classifier algorithm is widely utilized in
+variable (i.e., the presence or absence of a certain outcome) as a machine learning for classification tasks. This algorithm is
+functionofoneormorepredictorvariables(i.e.,features),usinga
+categorized as an instance-based or lazy learning method, which
+logisticorsigmoidfunction.Theexpressionforlogisticregression,
+predictstheoutputclassofanewsamplebasedonthemajorityvote
+representedinEquation7,canbestatedinthefollowingmanner. of its K-Nearest Neighbor in the training data, utilizing a specific
+distance metric. The algorithm involves two primary steps: first,
+1
+p(y= )=ez (7) computingthedistancebetweentheinputsampleandselectingthe
+x
+K-nearest Neighbor, and second, aggregating their class labels to
+where,
+makeaprediction.Inthisstudy,theauthorsappliedtheKNN(27)
+z = (wT x + b),p(y= 1)istheconditionalprobabilityofthe
+x algorithm to predict soil fertility classes based on soil properties.
+positiveclass(i.e.,y=1)giventheinputfeatures,
+The study demonstrated that KNN achieved high accuracy in
+x,zisalinearcombinationoftheinputfeaturesandthemodel
+classifying soil fertility, particularly when combined with feature
+parameters(weightsandbias).
+scaling and cross-validation. The authors also emphasized the
+Inthisstudy,LogisticRegression(25)wasappliedtopredictsoil importance of selecting an appropriate “k” value to optimize the
+fertility classes based on physicochemical properties such as pH, model’s performance. The research highlighted thesimplicity and
+nitrogen, phosphorus, and organic carbon content. The authors
+effectiveness of KNN for soil fertility prediction in precision
+highlighted the interpretability of Logistic Regression and
+agriculture. This article provides a comprehensive exploration of
+demonstrated that the model provided reliable predictions while
+how KNN can be applied in real-world soil fertility analysis,
+identifying the most significant features influencing fertility. They
+illustrating its usefulness in predicting soil health and supporting
+also emphasized the importance of feature scaling and cross-
+decision-makinginagriculture.
+validation to improve model performance and generalization.
+This article illustrates the practical application of Logistic
+3.2.8 Gradient boosting classifier
+Regression in soil fertility analysis, showing that despite its
+simplicitycomparedtomorecomplexmodels,LogisticRegression
+Thedescribedclassifierisanensemblelearningtechnique(28)
+can offer accurate and interpretable results, making it a suitable that amalgamates several weak learners to generate a robust
+choiceforagriculturaldataanalysis. predictivemodel.Themethodoperatesbyprogressivelyincluding
+fresh decision trees into the model, where every tree is trained to
+3.2.6 Ridge classifier rectify the mistakes made by the preceding one. The ultimate
+The Ridge Classifier is a form of linear classifier that shares forecastisderivedbyaccumulatingtheprojectionsofallthetrees.
+Mathematically,thepredictionoftheGradientBoostingClassifier
+similarities with logistic regression. However, it utilizes L2
+regularization to prevent overfitting and enhance generalization canberepresentedbythefollowingEquation8:
+performance. Its primary objective is to locate the linear function F(x) = oM h(x) H (x) (8)
+thatmosteffectivelydividesthedatapointsintodistinctcategories, m=1 m
+whileminimizingthesumofsquaredweights.TheRidgeClassifier where,
+canbeconsideredamiddlegroundbetweentheL1regularization-
+F(x)isthefinalprediction,
+basedlinearSVMandthenon-regularizedlogisticregression.Itis
+histhelearningrate,
+FrontiersinSoilScience 08 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+H (x)isthepredictionofthemthdecisiontree, 3.2.11 Decision tree classifier
+m
+M isthetotalnumberoftrees. The algorithm utilized in machine learning is known as a
+Inthisstudy,theauthorsemployedGradientBoostingClassifier
+decision tree model. This model is structured as a tree, which
+(29)topredictsoilfertilitybasedonsoilproperties.Theyfoundthat contains various decisions and their potential outcomes. The
+Gradient Boosting outperformed other classifiers like RF and LR, algorithm partitions data recursively according to the values of
+particularly in capturing non-linear interactions between soil features,andateachsplit,itselectsthefeaturethatoffersthemost
+properties. The model’s ability to identify the most significant informationgain.TheEquation13forthedecisiontreeclassifieris:
+factors in soil fertility helped inform better agricultural practices
+andfertilizermanagementstrategies.Thestudyalsodiscussedhow H(x) = argmax (
+oT
+t=1 ½y i = c(cid:3) p(i j x) ) (13)
+hyperparameter tuning and regularization helped improve model
+whereH(x)isthepredictedclassforinputx,cistheclasslabel,
+performance and prevent overfitting. This research highlights the
+y isthei-thtraininginstance,Nisthenumberofinstances,andp(i|
+i
+advantages of Gradient Boosting in dealing with complex
+x)istheprobabilityoftheinstanceigiveninputx.
+agricultural data and showcases its effectiveness in making
+accuratesoilfertilitypredictions.
+3.2.12 The perceptron
+Itisabinaryclassificationalgorithmthatlearnsalineardecision
+3.2.9 AdaBoost
+boundarytoseparatedatapoints.Itcomputestheweightedsumof
+It is a boosting algorithm (30) that syndicates weak classifiers
+input features and applies a threshold function to make a
+intoastrongclassifier.Itassignsweightstotrainingexamplesbased
+prediction. The weights and bias are updated based on the
+ontheirclassificationerrorandtrainsasequenceofweakclassifiers
+classification error at each iteration. Equation 14 for the
+onweightedtrainingdata.Thefinalclassificationisdeterminedbya
+perceptronis:
+weightedcombinationoftheweakclassifiers.TheFormula9forthe
+AdaBoostclassifieris: H(x) = sign(w·x + b) (14)
+H(x) = sgm ( oT aH(x) ) (9) where H(x) = the predicted class for input x, w = the weight
+t=1 t t vector, ‘·’ denotes the dot product and b is the bias term. The
+where, Perceptronmodel(31–33)canbetrainedusinglabelledsoildatato
+H t (x)isthefinalclassifier, classify soil samples based on fertility levels. Key soil parameters
+a t istheweightassigned, suchaspH,nutrientlevels(N,P,K),organicmatter,andtexturecan
+T isthenumberofweakclassifiers. serveasinputs,whilethefertilitycategory(e.g.,low,medium,high)
+is the output. The Perceptron adjusts its weights to learn the
+3.2.10 Fuzzy c-means relationship between input features and soil fertility status,
+It is a clustering algorithm that assigns each data point a allowingforthepredictionofsoilfertilityfornew,unseendata.
+membership grade for each cluster, allowing it to handle
+uncertain or overlapping data. It iteratively updates the cluster 3.2.13 K-means
+centersandmembershipgradesuntilconvergence.TheFormula10 The given content describes an unsupervised clustering
+forfuzzyc-meansis: technique that separates n data points into k clusters. Initially, k
+centroidsarerandomlyselected,andeachdatapointisassignedto
+J = oN oC w(i,j)m (x(i)−μ(j))2 (10)
+i=1 j=1 the closest centroid. Then, the centroid of each cluster is
+recalculated by taking the mean of the points in that cluster. The
+w(i,j)=
+oC
+(x(i)−μ(j))
+(11)
+algorithm continuously updates the cluster assignments and
+k=1 (x(i) − m(k))( (m 2 −1) )−1 centroids until it reaches convergence. The ultimate outcome is k
+clustersthatgrouptogetherthedatapointswithsimilardistancesto
+oN w(i,j)mx(i) theirrespectivecentroid.
+μ(j)= i=1 (12)
+oN w(i,j)m K-means (34) can group soil samples into clusters based on
+i=1
+their chemical and physical properties. This helps researchers
+where,
+identify patterns in soil fertility across different regions, guiding
+J (Equation11)istheobjectivefunctiontobeminimized,
+crop selection and soil management practices. For instance,
+w(i,j)(Equation11)isthemembershipgradeofdatapoint
+clusteringcanrevealzonesthatarenutrient-richversusthosethat
+iinclusterj,
+are nutrient-poor. In precision agriculture, K-means is used to
+misaweightingexponent, delineatemanagementzonesinafieldbasedonfertilityindicators
+x(i)istheithdatapoint,
+likenitrogen,phosphorus,ororganiccarboncontent.Theseclusters
+μ(j)(Equation12)isthecentroidofclusterj,
+enable more targeted interventions, such as adjusting fertilizer
+N isthenumberofdatapoints, application rates to specific areas rather than treating the entire
+Cisthenumberofclusters. field uniformly. The technique allows for spatial mapping of soil
+FrontiersinSoilScience 09 frontiersin.orgGunasekaranetal. 10.3389/fsoil.2025.1652058
+TABLE4 Architectureofthemulti-layerperceptron(MLP)model. 3.3.1.2Hiddenlayers
+HiddenlayersaretheheartoftheMLP,wherethemodellearns
+Layer Numberof Activation Dropout
+relationshipsandpatternsinthedata.
+name neurons function rate
+InputLayer 12(oneperfeature) – – a. FirstHiddenLayer:Thislayerbeginstoextractunderlying
+Hidden relationships between the features. For example, it may
+64 ReLU 0.3
+Layer1 combine the temperature and humidity features to
+understand how they jointly influence crop suitability.
+Hidden
+Layer2 32 ReLU 0.3 ReLU (Rectified Linear Unit) activation is applied to
+ensure the model can capture complex, non-linear
+Hidden
+16 ReLU 0.3
+Layer3 relationshipsinthedata.
+b. Second Hidden Layer: This layer refines the patterns
+O La u y t e p r ut 6(numberofcrops) Softmax – learned from the first hidden layer. For instance, it might
+distinguish between crops that thrive in wet soils versus
+those suited for dry conditions. The smaller number of
+neurons compared to the first layer ensures the model
+variability, offering insights into soil fertility distribution. These progressively simplifies and narrows down
+clusters are used to create soil maps that visually represent the importantpatterns.
+variation of soil characteristics (35, 36) within a specific area, c. Third Hidden Layer: The model further condenses the
+helping optimize land management decisions. Soil datasets often extracted information, focusing only on the most critical
+include many overlapping variables. K-means simplifies the features and relationships that help differentiate between
+interpretation by clustering similar data points together, making croprecommendations.
+it easier to identify distinct soil types or conditions that influence
+plantgrowth.
+3.3.1.3Dropoutlayers
+Dropoutisaregularizationtechniqueaddedaftersomehidden
+3.3 Deep learning algorithms
+layers to prevent overfitting. It temporarily deactivates a random
+subset of neurons during training, forcing the model to rely on a
+The proposed work also predicts the type of crop that can be
+broader set offeatures rather than memorizing the training data.
+grown in the given area. The prediction is done using deep Thisimprovesthemodel’sgeneralizabilitytounseendata.
+learningtechniques.
+3.3.1.4Outputlayer
+3.3.1 Multi-layer perceptron Thefinallayerprovidesthepredictedprobabilitiesforeachclass
+MLPs (37) are particularly well-suited for tabular data where
+(croptype).Asoftmaxactivationfunctionisusedhere,ensuringthe
+features(e.g.,soiltype,pH,temperature)areindependentbutstill
+output represents probabilities across all possible crops. The crop
+collectivelyinfluencetheoutput.UnlikeCNNs(usedforimages)or
+withthehighestprobabilityischosenastherecommendation.
+RNNs(usedforsequences),MLPseffectivelymodelrelationshipsin
+Table4showsthearchitectureoftheMLPmodel.Itconsistedof
+structured data. Crop recommendation is a non-linear problem
+aninputlayerwith12neurons(correspondingtothe12features),
+where features interact in complex ways (e.g., high pH combined
+followed by three hidden layers with 64, 32, and 16 ne

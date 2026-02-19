@@ -1,0 +1,662 @@
+AINDIA FOURTH BIENNIAL UPDATE REPORT
+to the United Nations Framework Convention on Climate Change
+© Ministry of Environment, Forest and Climate Change, Government of India, 2024
+CITATION:
+MoEFCC.(2024). India: Fourth Biennial Update Report to the United Nations Framework Convention
+on Climate Change. Ministry of Environment, Forest and Climate Change, Government of India.
+Secretary:
+Ministry of Environment, Forest and Climate Change, Government of India
+Indira Paryavaran Bhawan, Jor Bagh Road, New Delhi-110003
+Phone: +91-11-20819308, +91-11-20819408
+Fax: +91-11- 20819238
+National Project Director:
+India's Fourth National Communication and other new information to the UNFCCC
+Scientist-G, Ministry of Environment, Forest and Climate Change, Government of India
+Indira Paryavaran Bhawan, Jor Bagh Road, New Delhi-110003
+Telefax: +91-11-20819212
+E-mail: sharath.kr@gov.inMinistry of Environment, Forest and Climate Change
+Government of India
+December 2024CCoonntteennttss
+FOREWORD BY MINISTER I
+MESSAGE FROM MINISTER OF STATE III
+FOREWORD BY SECRETARY V
+PREFACE BY SPECIAL SECRETARY VII
+MESSAGE FROM ADDITIONAL SECRETARY IX
+LIST OF FIGURES X
+LIST OF TABLES XII
+EXECUTIVE SUMMARY 01
+BACKGROUND INFORMATION AND INSTITUTIONAL
+ARRANGEMENTS 19
+CHAPTER 1 – NATIONAL CIRCUMSTANCES 27
+1.1 Introduction 27
+1.2 Overview: Geographic and climatic parameters 27
+1.2.1 Precipitation 28
+1.2.2 Temperature variation over India 30
+1.2.3 Extreme weather events 32
+1.2.4 Heatwaves and cold waves 35
+1.2.5 Socio-economic and demographic characteristics 38
+1.3 Agriculture, climate variability, and climate change 39
+1.3.1 Extreme events and their impact on agriculture 40
+1.3.2 Measures to address climate risks in agriculture 40
+1.4 Important sectors: Forests, Biodiversity, and Water 41
+1.4.1 Forests and Biodiversity 41
+1.4.2 Water 46
+1.4.3 Himalayan Cryosphere 50
+1.4.4 Coastal regions, marine ecosystems, and wetlands 52CCoonntteennttss
+1.5 Energy Profile 53
+1.5.1 Primary energy supply and demand 53
+1.5.2 Energy security, post-COVID recovery, and future 54
+1.6 Sustainable development, Urbanisation, and broader
+socio-economic transitions 54
+1.6.1 Poverty eradication, Human Development, and Sustainable
+Development Goals 55
+1.6.2 Urbanisation 56
+1.6.3 Emission standards and regulations for urban air pollution 57
+1.7 Transportation 57
+1.7.1 Road transport initiatives 58
+1.7.2 Rail Transport initiatives 58
+1.7.3 Policies for the promotion of Electric Vehicles 58
+1.8 Response to Climate Change 59
+1.8.1 National Action Plan on Climate Change (NAPCC) 59
+1.8.2 India’s NDC submission to the UNFCCC 60
+1.8.3 Long-term Low Carbon Development Strategies (LT-LEDS) 61
+1.8.4 Financial Instruments and strategies to deal with climate risks 62
+CHAPTER 2 - NATIONAL GREENHOUSE GAS INVENTORY 67
+2.1 Introduction 67
+2.2 Institutional Arrangement for GHG Inventory 68
+2.3 Methodology 69
+2.4 Quality Assurance (QA), Quality Control (QC) 71
+2.5 National Greenhouse Gas Emissions 72
+2.5.1 Summary GHG Emissions in 2020 74
+2.6 Emission Trends by Gas 75
+2.7 Emission Trends by Sources 76
+2.7.1 Energy Sector 76
+2.7.2 Industrial Processes and Product Use Sector 85
+2.7.3 Agriculture Sector 90
+2.7.4 Land Use and Land-Use Change and Forestry Sector 96
+2.7.5 Waste 104CCoonntteennttss
+2.8 Key Categories 107
+2.9 Uncertainty Assessment 109
+2.10 Time series Information 112
+CHAPTER 3 – MITIGATION ACTIONS 125
+3.1 Introduction 125
+3.2 Power 126
+3.3 Industry 128
+3.4 Transport 129
+3.5 Waste 129
+3.6 Buildings 130
+3.7 Forestry 130
+3.8 Water 131
+3.9 Agriculture 131
+CHAPTER 4 – DOMESTIC MEASUREMENT, REPORTING
+AND VERIFICATION (MRV) 173
+4.1 Introduction 173
+4.2 Overview of India’s institutional monitoring and reporting processes 173
+4.3 Technologies for efficient monitoring and reporting of climate action 177
+4.4 Complementary role of non-state actors in strengthening the MRV processes 179
+4.5 Transitioning to an enhanced transparency framework 180
+CHAPTER 5 – FINANCE, TECHNOLOGY AND CAPACITY
+BUILDING NEEDS AND SUPPORT RECEIVED 187
+5.1 Introduction 187
+5.1.1 International Context 187
+5.2 Financial Needs and Support Received 189
+5.2.1 Financial Support Received by India 189
+5.2.2 National Initiatives 191
+5.2.3 Aligning the financial system with sustainability 194
+5.2.4 Financial Instruments and strategies to deal with climate risks 197CCoonntteennttss
+5.3 Technology Needs and Support Received 198
+5.3.1 Technology Needs & Requirements 199
+5.3.2 Technology Development & Technology Transfer 203
+5.3.3 Demand Side Issues in Technology Implementation 204
+5.3.4 Supply Side Issues in Technology Implementation 204
+5.4 Constraints & Gaps 205
+5.4.1 GHG inventory reporting: Constraints, Gaps and improvements 205
+5.4.2 Gaps in Research and Innovation 210
+5.5 Capacity-building needs and support received 211
+5.5.1 Sectoral Capacity Building Needs: Addressing Constraints &
+Gaps in GHG Inventory Reporting 211
+5.5.2 Needs to Strengthen Knowledge Systems on Climate Change Risk
+& Adaptation 213
+5.5.3 Needs to Enhance Resilience and Adaptive Capacity 213
+5.5.4 Institutional Capacity Building Needs 214
+5.5.5 Additional Capacity-Building Needs 214
+CHAPTER 6 – ADDITIONAL INFORMATION 219
+6.1 Introduction 219
+6.2 Promotion of Clean and Renewable Energy 219
+6.2.1 Renewable Energy 219
+6.2.2 Sustainable Transportation 221
+6.2.3 Carbon Neutrality 226
+6.3 Weather and Climate Services 229
+6.3.1 Initiatives by the Ministry of Earth Sciences 229
+6.3.2 National Framework of Climate Services (NFCS) 229
+6.4 Disaster Management 230
+6.4.1 Heat Action Plans 230
+6.4.2 Climate Hazard and Vulnerability Atlas of India 230
+6.5 Gender and Climate Change 230
+6.5.1 Women in Disaster Risk Reduction 230
+6.5.2 Clean Cooking Fuel 231CCoonntteennttss
+6.6 India’s Global Initiatives 231
+6.6.1 Global Biofuel Alliance (GBA) 231
+6.6.2 International Solar Alliance 231
+6.6.3 LeadIT 2.0 233
+6.6.4 Coalition for Disaster Resilient Infrastructure 233
+6.6.5 National Infrastructure Pipeline 235
+6.6.6 International Partnership for Hydrogen and Fuel Cells in the Economy
+(IPHE) 235
+6.6.7 Mission Innovation 235
+6.6.8 Clean Energy Ministerial (CEM) Initiatives 236
+6.7 Other Environmental Initiatives 236
+6.7.1 Lifestyle for Environment (LiFe) Movement: Mission LiFE 236
+6.7.2 International Big Cat Alliance (IBCA) 238
+6.7.3 Global Mangrove Alliance (GMA) 239
+6.7.4 Green Credit Program (GCP) 239
+6.7.5 Ecomark Programme 239
+6.7.6 Circular Economy 240
+6.8 Use of Plastic in Road Construction 240
+6.9 Swachh Bharat Mission (SBM) 241
+6.10 CDM projects in India and transition to the Paris Agreement mechanism 241
+CONTRIBUTORS TO INDIA’S FOURTH BIENNIAL UPDATE REPORT 247IIIIIIIVVVIVIIVIIIIXLIST OF FIGURES
+Fig. ES1: Distribution of GHG emissions (GgCO2e) by sector, 2020 05
+Fig. ES2: Percentage share of greenhouse gas emissions by category, 2020 06
+Fig. ES3: Gas-wise emission for the year 2020 06
+Fig. ES4: Sector-wise National GHG emission in Mt CO2e for 1994-2020 07
+Fig. ES5: Growth in emissions of greenhouse gases, relative to 1994, illustrated by source categories, 1994-2019 08
+Fig. IA1: Implementation Arrangement for the Fourth Biennial Update Report 20
+Fig. IA2: Key functions of various units pertaining to BUR-4 preparation 20
+Fig. IA3: Institutional Arrangements for BUR-4 23
+Fig. IA4: Network of scientific and research institutes for preparation of BUR-4 24
+Fig. 1.1: Percentage departure of area-weighted average monsoon season rainfall over India as a whole (1901-2023) 29
+Fig. 1.2: Trend in district rainfall during (a) monsoon season (JJAS) and (b) annual for the period 1901-2022 29
+Fig. 1.3: All India mean temperature anomalies: (A) Annual (B) Winter (C) Pre-monsoon (D) Monsoon and
+(E) Post-monsoon for the period 1901-2023 31
+Fig. 1.4: Annual mean temperature anomaly trends (°C/100 years) 1901–2023. (Departure from 1981-2010 average) 32
+Fig. 1.5: Decadal variability of annual frequencies of different rainfall events over India 33
+Fig. 1.6: Frequency of depressions and cyclonic storms formed over the northern Indian Ocean during
+(a) monsoon season and (b) post-monsoon season (1951-2023) 34
+Fig. 1.7: (a) Trends in the Heat Wave (HW) days in April, May and June for the period 1961–2023 (b) Trends in
+the Cold Wave (CW) days during December, January and February for the period 1961–2023 36
+Fig 1.8 Forest Cover Map of India 2023 42
+Fig 1.9 Climate Change Exposure Hotspot Map of Forest Cover in India under RCP 4.5 scenario 44
+Fig 1.10 Forest Fire Hotspot areas across India 2020-2021 season 45
+Fig. 1.11: Population density within and outside 10 m low elevation coastal zone (2000) 51
+Fig. 1.12: Coastal Vulnerability Index Atlas of India (2012) 52
+Fig 1.13: Multidimensional Poverty and India over the years 54
+Fig1.14: Overall performance of India across SDG India Index (2018 - 2024) 55
+Fig.1.15: Heavy Passenger Vehicles registered as EV operated 58
+Fig. 2.1: Institutions involved in GHG inventory preparation 68
+Fig. 2.2: Sector-wise National GHG emission in Mt CO2e for 1994-2020 73
+Fig. 2.3: Growth in emissions of greenhouse gases, relative to 1994, illustrated by source categories, 1994-2019.
+Index 1994 = 100 73
+Fig. 2.4: Distribution of GHG emissions (GgCO2e) by sector, 2020 74
+Fig. 2.5: Percentage share of greenhouse gas emissions by category, 2020 75
+Fig. 2.6: Gas-wise emission for the year 2020 76
+Fig. 2.7: Distribution of CO2e emissions across the Energy Sector Categories in 2020 76
+Fig. 2.8: Fuel combustion activities: GHG emissions (Mt CO2e) per subcategory, 2011-2020 77
+Fig. 2.9: Share of fuel consumption for energy industries for the year 2020 78
+Fig. 2.10: Distribution of CO2e emissions across the manufacturing industries & construction categories in 2020 79
+Fig. 2.11: Percentage difference between CO2 emission with the Sectoral approach and the Reference approach,
+2017-2020 83
+XFig. 2.12: Industrial Processes and Product Use: GHG emissions (MtCO2e) as per subcategory, 2011-2020 86
+Fig. 2.13: Gas-wise distribution of emissions from the IPPU sector in 2020 86
+Fig. 2.14: Distribution of CO2e emissions across the Chemical Industries Category in 2020 88
+Fig. 2.15: Trend in GHG emissions (MtCO2e) from the different subcategories of Agriculture sector, 2011-2020 90
+Fig. 2.16: Distribution of CO2e emissions (Gg) across the agriculture sector Categories in 2020 90
+Fig. 2.17: Population in millions by livestock category, 2020 91
+Fig. 2.18: Emission share by livestock categories, 2020 91
+Fig. 2.19: Methane emissions from manure management by livestock category, 2020 93
+Fig. 2.20: Nitrous Oxide emissions from manure management by livestock category, 2020 93
+Fig. 2.21: Rice area (in percent) under different types of water regimes, 2020 94
+Fig. 2.22: LULUCF: GHG emissions/removals (Mt CO2e) per subcategory, 2011-2020 96
+Fig. 2.23: Waste: GHG emissions (Mt CO2e) per subcategory, 2011-2020 105
+Fig. 2.24: Time series information of GHG emissions 112
+Fig. 6.1: Solar panels installed at the airport 225
+Fig. 6.2: CDM projects approved by NCDMA for operation in India 242
+XILIST OF TABLES
+Table ES1: Sector-wise National GHG emissions in Gg for 2020 05
+Table ES2: Sector-wise National GHG emission in MtCO2e for 1994-2020 07
+Table IA1: Composition of National Steering Committee and Technical Advisory Committee 21
+Table IA2: Data providers (ministries / departments / institutions / organisations) for the preparation of BUR-4 23
+Table IA3: Network of scientific and research institutes for preparation of BUR-4 25
+Table 1.1: Weather extremes in India in the recent years (2022-2023) 37
+Table 1.2: Snapshot of the Indian economy 38
+Table 1.3: Forest Class Types 43
+Table 2.1: Summary of emission factors and methodologies used in the fourth Biennial Update Report 69
+Table 2.2: Global Warming Potentials Used 70
+Table 2.3: Sector-wise National GHG emission in MtCO2e for 1994-2020 72
+Table 2.4: Sector-wise National GHG emissions in Gg for 2020 74
+Table 2.5: Category-wise fuel consumption in the energy industries (1A1) from 2017 to 2020 78
+Table 2.6: Country Specific emission factors used in the energy industries (1A) 78
+Table 2.7: Category-wise fuel consumption in the manufacturing industries & construction (1A2) from 2017 to 2020 79
+Table 2.8: Country-specific emission factors used in the manufacturing industries & construction (1A2) and
+electricity power generation (1A1ai) 81
+Table 2.9: Category-wise fuel consumption in the road transport (1A3b) in 2017 to 2020 81
+Table 2.10: Category-wise fuel consumption in the railways (1A3c) from 2017 to 2020 82
+Table 2.11: Category-wise fuel consumption in the navigation (1A3d) from 2017 to 2020 82
+Table 2.12: Category-wise fuel consumption in the other sectors (1A4) in 2017, 2018, 2019 and 2020 82
+Table 2.13: Country-specific emission factors for coal mining activities 84
+Table 2.14: Coal production in coal mining activities in 2017, 2018, 2019 and 2020 84
+Table 2.15: Activity data for emissions from oil & gas systems in India (2020) 85
+Table 2.16: Types of production in the mineral industries (2A) during 2017, 2018, 2019 and 2020 87
+Table 2.17: Types of production in the chemical industries (2B) during 2017, 2018, 2019 and 2020 87
+Table 2.18: Types of production in the metal industries (2C) during 2017, 2018, 2019 and 2020 88
+Table 2.19: Types of production in the non-energy product use (2D) during 2017, 2018, 2019 and 2020 89
+Table 2.20: Country-specific emission factors used in the IPPU sector 89
+Table 2.21: Parameters and emission factors across various livestock categories in 2020 92
+Table 2.22: Activity data used in agriculture soil (3D) during 2017, 2018, 2019 and 2020 95
+Table 2.23: Country-specific emission factor used in agriculture soil (3D) 95
+Table 2.24: Country-specific emission factors used in field burning of agricultural residues (3F) 95
+Table 2.25: Total GHG balance for the 2020 in GgCO2e 96
+Table 2.26: Land use change for India for the period 2005-2020 (in a million ha) 97
+Table 2.27: Carbon stock in different pools in Forestland from 2015 to 2020 (in MtC) 98
+Table 2.28: Carbon stock change and CO2 emissions and removals for the period 2000 to 2020 99
+Table 2.29: Trends in changes in carbon stocks and CO2 emissions and removals in cropland for the period 2005
+to 2020 in GgCO2 100
+Table 2.30: Trends in changes in carbon stocks and CO2 emissions and removals in Grassland
+for the period 2005-2020 in GgCO2e 101
+XIITable 2.31: Trends in carbon stock change in Settlements for the period 2005-2020 in GgCO2e 102
+Table 2.32: Activity data and country-specific emission factors used in the wastewater treatment and
+discharge category (5D) in 2017, 2018, 2019 and 2020 106
+Table 2.33: Key category level assessment with and without LULUCF for 2020 107
+Table 2.34: Key category trend assessment with and without LULUCF for 2011-2020 108
+Table 2.35: Overall Inventory Uncertainty in India for 2020 110
+Table 2.36: India’s total emissions, 2011-2020 113
+Table 2.37: India’s National GHG Inventory for 2020 (Gg) 114
+Table 3.1: Sector-wise details of the installed capacity from non-fossil fuel-based energy sources, as on 31.10.2024 126
+Table 3.2 Regulations to incentivize higher penetration of non-fossil fuel sources 127
+Table 3.3: Interventions for climate change mitigation in various sectors (Power, Industry, Transport, Waste,
+Buildings, Forestry, Water and Agriculture) 132
+Table 4.1: Institutional processes for MRV across sectors 175
+Table 4.2: Technological and technical advancements in the MRV processes 178
+Table 4.3: Key features of NIMS 181
+Table 5.1: Total Development finance from projects stated as approved in the years 2021 and 2022 190
+Table 5.2: List of approved projects under NAFCC (NABARD, 2023) (As in March 2023) 191
+Table 5.3: Categories of projects for sovereign green bonds 194
+Table 5.4: Sector wise Key Technology Needs 200
+Table 5.5: List of Additional Technologies for Climate Change Mitigation and Adaptation 202
+Table 5.6: Constraints Gaps and Requirements 209
+Table 5.7: Other Capacity Building Needs 215
+XIIIMeconopis Grandis Flower
+Photo Credit: GB Pant National Institute of Himalayan Environment
+XIVExecutive Summary
+The Fourth Biennial Update Report (BUR-4) updates the Third National Communication (TNC), which was
+submitted to the UNFCCC in December 2023. This report (BUR-4) contains the National Greenhouse Gas
+(GHG) inventory for the year 2020.
+Key Highlights
+India is currently one of the fastest-growing economies in the world, home to almost one-sixth
+of humanity. Its growth momentum is integral to global development and essential to meeting
+sustainable development goals. Several challenges confront India’s development agenda,
+including climate change. India’s contribution to global warming is minimal. Nevertheless, India
+is committed to combating climate change by making development choices that ensure the
+growth and development of the economy along low-carbon pathways toward net zero by
+2070. Recognizing that climate change is a global collective action problem, India is committed
+to addressing the challenge with firm adherence to multilateralism based on equity and the
+principle of common but differentiated responsibilities and respective capabilities (CBDR-RC),
+as enshrined in the United Nations Framework Convention on Climate Change (UNFCCC).
+In 2020, India’s total GHG emissions, excluding Land Use Land-Use Change and Forestry
+(LULUCF), were 2,959 million tonnes of CO2e and 2,437 million tonnes of CO2e with the inclusion
+of LULUCF.
+ Emissions by gas: Carbon dioxide - 80.53%; Methane - 13.32%; Nitrous oxide - 5.13%; and
+others 1.02%.
+ Emissions by sector: Energy – 75.66%; Agriculture – 13.72%; Industrial Process and
+Product Use (IPPU) – 8.06%; and Waste – 2.56%.
+ In 2020, India's forest and tree cover, along with other land use, sequestered
+approximately 522 million tonnes of CO2, equivalent to reducing 22% of the country's
+total carbon dioxide emissions in 2020.
+India has progressively continued decoupling economic growth from GHG emissions. Between
+2005 and 2020, India’s emission intensity of Gross Domestic Product (GDP) reduced by 36%.
+By October 2024, the share of non-fossil sources in the installed electricity generation capacity
+was 46.52%. Total installed capacity of renewable power, including large hydropower, is 203.22
+GW and cumulative renewable power installed capacity (excluding large hydro projects) has
+increased 4.5 times from 35 GW in March 2014 to 156.25 GW. The installed capacity of various
+renewable energy sources as of 31st October 2024 is as follows:
+ Solar energy: 92.12 GW (35 times increase from 2.63 GW in March 2014);
+ Wind energy: 47.72 GW (more than double the capacity of 21.04 GW in March 2014).
+India’s forest and tree cover has consistently increased and currently stands at 25.17% of the
+total geographical area of the country. During 2005 to 2021, additional carbon sink of 2.29
+billion tonnes of CO2 equivalent has been created.
+11. Institutional Arrangement for the preparation
+of BUR-4
+This report embodies information on national circumstances, the national GHG inventory for the year 2020,
+mitigation actions, an analysis of the constraints, gaps, related finance, technology, and capacity-building
+needs, information on domestic measurement, reporting, and verification (MRV), and additional information.
+The Ministry of Environment, Forest and Climate Change (MoEFCC) is the nodal ministry under the
+Government of India for coordination and management of climate change-related programs, actions, and
+reporting information. MoEFCC, with its cross-ministerial and institutional network, is implementing and
+executing matters related to the National Communications and Biennial Update Reports (BURs). India has
+furnished its three National Communications (NCs) and three Biennial Update Reports (BURs). The third
+National Communication was submitted to UNFCCC in December 2023.
+The institutional arrangements for preparing BUR include a National Steering Committee (NSC) and
+Technical Advisory Committee (TAC). The NSC, under the chairmanship of the Secretary, MoEFCC, oversees
+the preparation and implementation of the work programme of the BUR. Various Ministries and government
+Departments concerned with different information elements in this report have representation in the NSC.
+These Ministries and Departments provide inputs for the BUR. The TAC provides technical guidance for the
+preparation of the BUR. This committee has members from the government, academia, and civil society.
+Several studies were launched for the fourth Biennial Update Report (BUR-4), which were carried out through
+a network of scientific and research institutions with sector-specific expertise. The network of institutions
+has been expanded since the First Biennial Update Report (BUR-1). Academic and government experts
+reviewed the report, and there is thus a robust Quality Assurance/Quality Control (QA/QC) process in place.
+2. National Circumstances
+India has a diverse geography, with landscapes ranging from snow-capped mountain ranges to deserts
+in the west, plains, hills, plateaus, coastal regions, and islands. It also has climatic conditions ranging from
+continental to coastal, extremes of heat to extremes of cold, extreme aridity, and negligible rainfall to
+excessive humidity and torrential rain.
+The southwest monsoon season is the principal rainy season of the country. June, July, August, and
+September constitute the core of the southwest monsoon season in most parts of the country. Still, the actual
+period of the monsoon in different regions of the country depends on the onset and withdrawal dates. The
+retreat phase of the southwest monsoon is followed by the northeast monsoon, which starts in October and
+continues until December. The northeast monsoon is a transition season associated with establishing the
+north-easterly wind regime over the Indian Peninsular Region.
+On average, about 868.6 mm of rainfall is received nationwide between June and September during the
+monsoon season. The southwest monsoon season rainfall contributes 74.0% to the annual rainfall. The pre-
+monsoon (March-May) rainfall (130.6 mm) and post-monsoon season (October-December) rainfall (121.0 mm)
+contribute about 11% and 10% respectively, to the annual rainfall over India. The winter (January-February)
+rainfall (39.8 mm) contributes about 3.4% to the annual rainfall over India. The rainfall during the northeast
+monsoon varies from 209.6 to 480.7 mm in the States of the southern peninsula. For these States, the rainfall
+received during the northeast monsoon (post-monsoon season) contributes 30% of the annual rainfall.
+Although inter-annual variability exists, total precipitation during the Indian summer monsoon has remained
+largely stable from 1901 to 2023. It has shown a weak decreasing trend during the recent few decades.
+The long-period (1971-2020) average (LPA) rainfall over the country during the monsoon season is 868.6
+mm, and the annual average is 1160 mm. The annual rainfall during 2022 was 108% of LPA, while the SW
+monsoon season rainfall was 106% of LPA. The annual rainfall during 2023 was 95% of LPA. During the 2023
+SW monsoon season, rainfall over the country was normal (94.4% of LPA).
+2EXECUTIVE SUMMARY 
+The year 2023 was the second warmest year on record since 1901, with annual mean surface air temperature
++0.65°C above the 1981-2010 period average. Past decades (2013-2022/ 2014-2023) were also the warmest
+decades on record, with anomalies of +0.41°C/ +0.46°C. The annual mean temperature during 1901-2023
+showed a significant increasing trend of 0.66°C/100 years with a significant increasing trend in maximum
+temperature (1.01°C/100 years) and an increasing trend (0.31°C/100 years) in minimum temperature.
+State-wise reports on observed rainfall trends and variability based on recent 30-year data (1989-2018)
+indicate a significant increasing trend in the number of dry days during the monsoon season over the south
+coastal regions of Andhra Pradesh, Bihar, northern parts of Chhattisgarh, Jharkhand, Madhya Pradesh,
+Odisha, Tamil Nadu, Uttar Pradesh, and West Bengal. A significant increasing trend in the frequency of
+heavy rainfall events is observed over Saurashtra and Kutch, Southeastern parts of Rajasthan, northern
+parts of Tamil Nadu, northern parts of Andhra Pradesh and adjoining areas of Southwest Odisha, many
+parts of Chhattisgarh, Southwest Madhya Pradesh, West Bengal, Manipur and Mizoram, Konkan and Goa,
+and Uttarakhand.
+India's long coastline, with over 7,500 km of flat coastal terrain, a shallow continental shelf, high population
+density, particular geographical location, and specific physiographic features, makes it vulnerable to
+cyclones and their associated hazards. Thirteen coastal States and Union Territories (UTs) in the country,
+encompassing 84 coastal districts, are vulnerable to tropical cyclonic storms.
+In 2022, three cyclonic storms formed over the north Indian Ocean: Severe Cyclonic Storm ASANI, Severe
+Cyclonic Storm MANDOUS, and Cyclonic Storm SITRANG. All three cyclones formed over the Bay of Bengal,
+while the Arabian Sea did not have any cyclonic storms. In 2023, six cyclonic storms formed over the North
+Indian Ocean. These include the Extremely Severe Cyclonic Storm MOCHA, Extremely Severe Cyclonic Storm
+BIPARJOY, Extremely Severe Cyclonic Storm TEJ, Very Severe Cyclonic Storm HAMOON and Severe Cyclonic
+Storm MICHAUNG & MIDHILI. Of these, four cyclones, MOCHA, HAMOON, MIDHILI, MICHAUNG formed over
+the Bay of Bengal & 2 cyclones, BIPARJOY, TEJ formed over the Arabian Sea.
+Heatwaves typically occur between March and June and, in some cases, even extend until July in India.
+They are more frequent over the Indo-Gangetic plains of India. On average, 5-6 heatwave (HW) events occur
+every year over the northern parts of the country. Temperatures of more than 46°C have been recorded in
+many parts of the country in the past, especially over north and central India. The average Severe Heatwave
+(SHW) days of 1-3 days were mainly experienced over the country's northwest, north and eastern parts.
+Increasing trends in the HW were observed over most of the stations except a few stations in the plains along
+the foothills of the Himalayas, southern parts of central India, and east India, which showed decreasing
+trends during the period 1961-2023.
+India is one of the few countries where forest and tree cover has continued to increase over the years,
+qualifying the country’s forests as net sink owing to national policies aimed at conservation and sustainable
+management of forests. As per the India State of Forest Report (2023), India's total forest cover was 7,15,342.61
+sq. km, which was 21.76 percent of the geographical area. The tree cover of the country is estimated as
+1,12,014.34 sq km, which is 3.41 percent of the geographical area. Thus, the total forest and tree cover of the
+country was 8,27,356.95 sq km, which is 25.17 percent of the geographical area of the country.
+Climate change impacts have direct consequences for water security. The initiatives undertaken in the
+water sector in the last decade reflect the importance of water management in reducing vulnerability and
+building climate resilience. Consequently, various government initiatives have focused on issues such as
+river rejuvenation, holistic river basin management, increasing storage, enhancing the efficiency of existing
+dams, water conservation and recharge, and security of water supply.
+The Himalayan glacier systems are an important ecosystem within the Indian sub-continent. which supplies
+water to major Indian rivers, including the Ganga and the Brahmaputra. Several studies indicate that overall,
+the glacier snout recession has accelerated in the last few decades. In general, Himalayan glaciers are
+undergoing thinning and reduction in length and area in the present climate conditions.
+Agriculture and allied activities (horticultural crops, livestock, fishing, forestry, and logging) play a significant
+role in India's economy and is the largest sector in terms to livelihood and employment. India’s agriculture
+3sector has been witnessing robust growth, with an average annual growth rate of 4.6% over the last six years.
+At current prices, the share of agricultural and allied sector activities in the economy’s total Gross Value
+Added (GVA) is 18.3, 20.4, 18.9, and 18.2 percent for 2019-20, 2020-21, 2021-22, and 2022-23, respectively.
+Indian agriculture remains vulnerable to weather vagaries despite self-sufficiency in food grain production.
+Climate change and increased extreme weather events in recent decades, as well as uncertainty in
+the prediction of those events, further add to the challenges to farmers, causing widespread losses of
+agricultural output. Heatwaves and floods have mainly caused significant damage to crop production and
+crop harvesting activities in India.
+Despite the above factors, there has been a consistent increase in the production of both food grains and
+horticultural products in India. This indicates the importance of developing climate-resilient crop varieties,
+appropriate farming systems, social security and welfare measures, and other interventions.
+India’s economy is on a consistent growth path, with continuing efforts at reform and considerable innovations
+in policy and governance across various sectors that have sustained this growth. Poverty eradication and
+constant improvement of the ease of living is a priority on India’s economic agenda.
+Energy consumption needs to increase by a significant amount to meet India’s developmental goals. In
+2022-23 (Provisional), the Primary Energy Supply totalled 8,50,349 Kilo Tonnes of Oil equivalent (ktoe). Two
+major contributors to the total energy supply in the country were coal, which accounted for 57.82% of the
+total, and crude oil, which accounted for 31.48%. In 2022-23 (P), the final energy consumption (End Use) was
+5,51,550 ktoe.
+The industrial sector was the largest consumer of energy in the country with this sector itself using 48.95%
+of the total final energy consumption. Iron and steel were the sector's most energy-intensive industries,
+accounting for 15.15% of the industrial energy use, followed by chemicals and petrochemicals, 4.56 %, and
+construction, 1.80%. The consumption of the residential, agriculture, commercial, and public sectors and non-
+energy purposes represented 39.34% of the total final consumption in the country. In contrast, the transport
+sector accounted for 11.70% of the total final consumption.
+The Indian Road network is the second largest in the World, with about 63.45 lakh km, of which 146 lakh
+km are national highways and 179 lakh km are state highways. The capacity of National Highways to
+handle traffic (passengers and goods) needs to keep pace with economic growth. Indian Railways has the
+fourth-largest network in the world and is one of the nation's major electricity consumers. The railroads
+run 9,146 freight trains and 13,523 passenger trains per day. Indian Railways ranks seventh globally and is
+the country's top employer, with 1.3 million employees. All this makes it clear that railways are an essential
+means of communication for transporting people and freight in India.
+4EXECUTIVE SUMMARY 
+3. National GHG Inventory
+India’s emissions in 2020 were 29,58,589 Gg of CO2e greenhouse gases (GHGs) without Land Use, Land
+Use Change and Forestry (LULUCF). The LULUCF sector remained a net sink. Considering emissions and
+removals from the LULUCF sector, net national emissions were 24,36,656 GgCO2e. A summary of sector-wise
+and gas-wise national emissions and removals is presented in Table ES 1.
+Table ES 1: Sector-wise National GHG emissions in Gg for 2020
+GHG sources and CO2 CO2 HFC
+CH4 N2O CF4 C2F6 SF6 CO2 equivalent
+removals emission removal 23
+Energy 2181012 NO 1523 82 NO NO NO NO 2238409
+IPPU 201044 NO 232 8 2 1 0.27 0.004 238556
+Agriculture NO NO 14290 342 NO NO NO NO 405983
+LULUCF 9369 -532357 41 1 NO NO NO NO -521933
+Waste NO NO 2726 58 NO NO NO NO 75641
+Memo Items 802846 NO 0.09 0.11 NO NO NO NO 802882
+Total Emission 2382535 — 18771 489 2 1 0.27 0.004 2958589
+Net Emission 2391904 532357 18811 490 2 1 0.27 0.004 2436656
+Abbreviation: NO - Not Occurring.
+The energy sector contributed the most to overall emissions, 75.66 percent, followed by the agriculture
+sector, 13.72 percent, IPPU, 8.06 percent, and Waste, 2.56 percent (Figure ES 1).
+Figure ES 1: Distribution of GHG emissions (GgCO2e) by sector, 2020
+5Figure ES 2: Percentage share of greenhouse gas emissions by category, 2020
+Figure ES 2 shows the percentage share of the top 15 key emission categories for India for 2020 in terms of
+CO2e.
+Figure ES 3 shows national GHG emissions excluding LULUCF by type of gas for the year 2020. The CO2
+emissions accounted for 23,82,535 Gg (80.53 per cent); CH4 emissions accounted for 3,94,185 GgCO2e (13.32
+per cent) and N2O emissions accounted for 1,51,733 GgCO2e (5.13 per cent). In the case of fluorinated gases,
+emissions of HFC were 21,645 GgCO2e (0.73 per cent), CF4emissions 5,876 GgCO2e (0.20 per cent), C2F6
+emissions 2,515 GgCO2e (0.09 per cent) and SF6 emissions 100 GgCO2e (0.003 per cent).
+Figure ES 3: Gas-wise emission for the year 2020
+6EXECUTIVE SUMMARY 
+Total national GHG emissions (including LULUCF) have decreased by 7.93 per cent with respect to 2019
+and increased by 98.34 per cent since 1994 (Table ES 2 and Figure ES 4 and ES 5). The main contributors
+to the total GHG emission are CO2 emissions generated from burning fossil fuels, methane emissions from
+livestock and increasing aluminium and cement production. The LULUCF sector remained net sink during
+the inventory period 2020.
+Table ES 2: Sector-wise National GHG emission in MtCO2e for 1994-2020
+GHG Sources and Removals 1994 2000 2007 2010 2014 2016 2017 2018 2019 2020
+Mt CO2e
+Source INC SNC SNC BUR1 BUR2 BUR3 TNC TNC TNC BUR4
+Energy 744 1027 1374 1510 1910 2129 2204 2344 2374 2238
+Industrial Processes and Product
+103 89 142 172 202 226 244 263 264 239
+Use
+Agriculture 344 356 373 390 417 408 411 417 421 406
+LULUCF 14 -223 -177 -253 -301 -308 -312 -437 -485 -522
+Waste 23 53 58 65 78 75 70 72 73 76
+Total (without LULUCF) 1214 1524 1947 2137 2607 2839 2929 3096 3132 2959
+Total (with LULUCF) 1229 1301 1772 1884 2306 2531 2617 2659 2647 2437
+Source: (MoEF, 2004); (MoEF, 2012); (MoEF, 2010); (MoEFCC, 2016); (MoEFCC, 2018); (MoEFCC, 2021); (MoEFCC, 2023).
+Figure ES4: Sector-wise National GHG emission in Mt CO2e for 1994-2020.
+Source: (MoEF, 2004); (MoEF, 2012); (MoEF, 2010); (MoEFCC, 2016); (MoEFCC, 2018); (MoEFCC, 2021); (MoEFCC, 2023).
+7Figure ES5: Growth in emissions of greenhouse gases, relative to 1994, illustrated by source categories,
+1994-2020. Index 1994 = 100.
+Source: (MoEF, 2004); (MoEF, 2012); (MoEF, 2010); (MoEFCC, 2016); (MoEFCC, 2018); (MoEFCC, 2021); (MoEFCC, 2023).
+Since 1994, India has undergone significant economic growth, resulting in an overall increase in greenhouse
+gas emissions. From 1994 to 2020, total CO2e emissions (excluding LULUCF) rose by 144 per cent. The
+waste sector experienced a growth of 226 per cent from 1994 to 2020, attributed to population growth and
+increased industrial activities. However, its contribution to overall emissions consistently hovers around 3
+per cent, indicating a relatively low absolute contribution. The energy sector experienced a growth rate of
+201 per cent from 1994 to 2020, primarily attributed to the ongoing rise in fossil fuel combustion. During the
+same period, the IPPU sector experienced a growth of 132 per cent, whereas the agriculture sector saw an
+increase of only 18 per cent (Figure ES 5). From 2000 to 2020, the LULUCF sector exhibited a 135 per cent
+increase in greenhouse gas removals.
+4. Mitigation Actions
+Despite India's contribution to historical emissions and to the current levels of global emissions being very
+low, India is committed to addressing climate change with firm adherence to multilateralism and based on
+the principles of equity and common but differentiated responsibilities and respective capabilities (CBDR-
+RC), as enshrined in the UNFCCC. India maintains that operationalizing the principle of equity and climate
+justice requires the global carbon budget to be equitably shared among all countries and used responsibly.
+Countries' historical and future responsibilities must be framed to limit their cumulative emissions within
+their fair share of this budget. Therefore, the fundamental principle that informs India’s climate policy is to
+pursue its development goals according to national circumstances while keeping within its fair share of the
+global carbon budget.
+8EXECUTIVE SUMMARY 
+Government of India has consistently undertaken several initiatives to promote non-fossil fuel based sources
+of energy. Owing to these, India stands 4th globally in renewable energy installed capacity, 4th in wind power
+capacity and 5th in solar power capacity. Over the past decade, the installed solar energy capacity has surged
+from approximately 2.63 GW in March 2014 to around 92.12 GW in October 2024, marking an extraordinary
+increase of nearly 35 times. These achievements align with the updated Nationally Determined Contributions
+(NDCs) of India which includes, inter-alia, achieving about 50 per cent cumulative electric power installed
+capacity from non-fossil fuel-based energy resources by 2030.
+India has progressively continued decoupling economic growth from GHG emissions. Between 2005 and
+2020, India’s gross domestic product (GDP) emission intensity reduced by 36%. It also reaffirms India’s
+commitment to make a fair and equitable contribution to the global effort to mitigate climate change.
+India’s forest and tree cover has consistently increased and currently stands at 25.17% of the total
+geographical area of the country. During 2005 to 2021, additional carbon sink of 2.29 billion tonnes of CO2
+equivalent has been created.
+India's energy security policies are geared towards improving energy supply, improving people's living
+standards (in terms of energy consumption), and contributing to climate mitigation based on India’s right to
+a fair share of the global carbon budget. Some of the key policies and measures to mitigate GHG emissions
+directly or indirectly across the different sectors are listed below.
+4.1 Power
+India’s per capita electricity consumption remains significantly lower than the world average, at 1331 kWh
+per person in 2022-23. India's total electricity consumption reached around 1440.31 TWh in 2022-23, an
+increase of about 9.4% from 2021-22.
+While coal remains the predominant source of electricity generation in India, RES (renewable energy
+sources) have grown by over 10.94 % (not including hydro) in generation and over 14.7 % (not including hydro)
+in Installed Capacity in the year 2023-24. As of October 2024, the share of non-fossil fuel-based power
+generation capacity in the country is already at 46.52%.
+Given India’s growing economy and electricity needs, the challenge of low-carbon development in the power
+sector is significant. Despite the multiple challenges of ensuring energy access, affordability, reliability, and
+security, India’s efforts for low-carbon development in the power sector have steadily contributed to the
+global effort for climate change mitigation.
+Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY) aims to strengthen the electricity distribution
+system. Activities include establishing new substations, upgrading old ones, and expanding power lines.
+Electrification efforts covered villages nationwide, with off-grid solutions where grid connectivity was
+impractical or expensive.
+Smart Meter National Program aims to enhance efficiencies for distribution utilities. Smart meters are
+crucial for smart grid initiatives to meet the challenges of the newly evolving energy mix for achieving
+an uninterrupted 24x7 power supply. Connected via a web-based monitoring system, smart meters reduce
+commercial losses, boost revenues and aid power sector reforms. Over 35.75 lakh smart meters have been
+installed in Uttar Pradesh, Delhi, Haryana, Bihar, Rajasthan, and Andaman under this program.
+Demand-side management (DSM) programs assist distribution utilities in lowering power purchases from
+the wholesale market during peak-load times, thus reducing operational costs. For Phase 1 (2012-17) and
+Phase 2 (2021-26) of this program, the peak demand reduction potential is estimated at about 22.9 GW, and
+the energy requirement reduction potential is estimated to be 62.6 billion units across 28 distribution utilities.
+The Street Lighting National Programme (SLNP) has brought a nationwide shift from conventional streetlights
+to smart, energy-efficient LEDs. Between 2015 and 2023, this scheme has led to annual energy savings of
+8.75 billion kWh with avoided peak demand of 1,459 MW every year. Avoided emissions are estimated at 6.03
+million tons of CO2 per year in this period.
+9The Unnat Jyoti by Affordable LEDs for ALL (UJALA) program is estimated to have led to annual energy
+savings of 48.39 billion kWh and avoided peak demand of 9,788 MW annually between 2015 and 2024. During
+this period, avoided emissions are estimated at 39.30 million tons of CO2 annually.
+The Perform, Achieve, and Trade (PAT) scheme, which targets energy efficiency in selected 239 Thermal
+Power Stations, has led to energy savings of 7.72 million tonnes of oil equivalent and avoided emissions of
+about 28.74 million tonnes of CO2 till FY 2021-22.
+The Indian government has established minimum share of consumption of non-fossil sources by designated
+consumers as energy or feedstock and different share of consumption for various types of non-fossil sources
+for different designated consumers in respect of electricity distribution license and other designated
+consumers, to be in effect till March 2030 under the Energy Conservation Act, 2001. In 2024-25, 29.91% of
+total electricity is mandated to be purchased from renewable energy sources, increasing to 43.33% of total
+electricity from renewable energy sources till 2029-30.
+Along with this, the Government of India is implementing the Production Linked Incentive (PLI) Scheme
+across the nation, with an allocation of ₹24,000 crores for High Efficiency Solar PV Modules.
+The total avoided emissions from renewable energy sources in 2023-24 (up to December) amount to 135.61
+million tons of CO2, with 57.47 MtCO2 from wind, 69.40 MtCO2 from solar, 2.09 MtCO2 from biomass, and 6.66
+MtCO2 from small hydro.
+In addition, National Green Hydrogen Mission, launched in 2023, aims to establish India as the global hub for
+production, usage and export of Green Hydrogen and its derivatives.
+4.2 Industry
+The industrial sector is a cornerstone of the Indian economy, contributing significantly to the country's gross
+value added. It represents 31% of India’s GDP and employs over 121 million people. In the year 2022-23, the
+industrial sector experienced a growth of 6.7%, with manufacturing emerging as a key driver of economic
+expansion. Key sectors such as automotive, engineering, cement, textiles, steel, chemicals, pharmaceuticals,
+and consumer durables are pivotal in this growth trajectory.
+In FY 2022-23, the total final energy consumption by the industrial sector in India was 2,70,000 ktoe (P), making
+it the largest energy consumer in the country, accounting for 48.95% of the total final energy consumption.
+The industry sector's most energy-intensive subsector was the Iron and Steel sector, accounting for 15.15% of
+industrial energy use, followed by chemicals and petrochemicals at 4.56% and construction at 1.80%.
+In recent years, there has been a notable increase in the emphasis on energy efficiency within the industrial
+sector through initiatives like the Perform, Achieve, and Trade (PAT) scheme. The scheme has evolved through
+seven cycles, currently encompassing 13 sectors comprising 1196 Designated Consumers (DC). Overall, the
+five PAT cycles (between 2012 – 2022), there has been cumulative energy savings of 3.35 Mtoe in the Cement
+industry, 6.14 Mtoe in the Iron and Steel industry, 2.13 Mtoe in the Aluminium industry, 0.33 Mtoe in the Textile
+industry, 0.63 Mtoe in the Paper and Pulp industry. In PAT-VII (latest cycle), 707 DCs from various sectors,
+Aluminium, Cement, Chlor-Alkali, Iron and Steel, Pulp and Paper, Textile, Thermal, Commercial buildings
+(hotels), Petroleum Refinery, Railways and DISCOMS have been notified with an overall energy saving
+target of 8.485 Mtoe. A new Advanced Industrial Technology Demonstration Centre (AITDC), UTPRERAK,
+was established at NPTI Badarpur in June, 2023. It will feature non-functional models of energy efficiency
+technologies in sectors such as Cement, Iron and steel, Pulp and paper, Textile, and Chlor-Alkali.
+Bureau of Energy Efficiency (BEE) and United Nations Industrial Development Organization (UNIDO)
+project on Promoting Energy Efficiency and Renewable Energy in Selected MSME Clusters in India has been
+developed to promote market environment for introducing energy efficient technologies and enhancing the
+use of renewable energy technologies in process applications. It is operational in 23 MSME clusters including
+- Hand tools, Ceramics, Dairy, Foundry, Brass.
+10EXECUTIVE SUMMARY 
+4.3 Transport
+The transport sector includes roadways, railways, waterways, and airways, listed in order of their contribution
+to the Gross Domestic Product (GDP). From 2017-18 to 2021-22, the sector's contribution to the Gross Value
+Added (GVA) averaged at 4.5% at constant prices. The electricity consumption in railways increased from
+19.02 TWh in FY 2017-2018 to 31.81 TWh in FY 2023-24. Likewise, there was an increase in the consumption of
+natural gas (40.1%), motor spirit (33.6%), and furnace oil (159.8%). In contrast, the consumption of high-speed
+diesel declined (-56.5%) during this period.
+However, there is an increasing recognition of the importance of managing demand and adopting innovative
+technologies. Modifications in urban structures, behavioural initiatives, circular and shared economies, as
+well as digitalization are facilitating systemic shifts that decrease the demand for transport services or
+promote the usage of more efficient modes of transportation.
+Innovation in technologies includes the surge in electromobility for terrestrial transportation and the
+development of advanced biofuels and hydrogen-based fuels for maritime and aerial transport. Low carbon
+development of land-based, long-haul, heavy-duty vehicles through battery-electric vehicles (including
+Electric Road Systems) and, in specific scenarios, is complemented by hydrogen and biofuel-based solutions
+(with medium confidence) is being explored and can become viable in the future.
+Corporate Average Fuel Economy (CAFE) norms for passenger vehicles, introduced in FY 2017-18 and the
+second phase of the norms started in FY 2022-23, aims to reduce overall fuel consumption. These norms,
+coupled with standards for heavy-duty and light commercial vehicles, have led to (for FY 2019-20 to 2022-
+23) the collective energy savings amounting to 1.88 Mtoe, and the corresponding avoided emissions are
+estimated at 4.41 MtCO2.
+The Government has introduced various initiatives to encourage the adoption of electric vehicles (EVs)
+across the country. These efforts include offering tax benefits to EV owners and developing public charging
+infrastructure. The flagship program promoting electric mobility in India is FAME (Faster Adoption and
+Manufacturing of (Hybrid and) Electric Vehicles). Currently in its second phase, FAME-II implemented for
+three years starting from April 1, 2019, with a budget of 10,000 Cr, supports the electrification of public and
+shared transport, including subsidizing e-buses, e-three-wheelers, e-passenger cars, and e-two-wheelers,
+alongside developing charging infrastructure to alleviate range anxiety among electric vehicle users.
+Between 2018-19 and 2021-22, the collective energy savings amount to 0.142 Mtoe, and the corresponding
+avoided emissions are about 0.432 MtCO2 due to the implementation of this scheme.
+The Ethanol Blended Petrol program aims to boost biofuel usage in India by blending different types of
+biofuels with petrol. The "National Policy on Biofuels" of 2018 and 2022 amendment, set targets to achieve
+20% ethanol blending in petrol and 5% biodiesel blending in diesel by 2030. Efforts have intensified, and it's
+projected that 20% ethanol blending in petrol will be reached by 2025-26.
+Metro Rail development continues to expand, with 700 kilometres of operational track in 18 cities and 900
+kilometres under construction across 27 cities.
+As on July 25, 2024, 12 Greenfield Airports have been constructed/ operationalised since 2014. 48 airports/
+airstrips have been constructed by Airport Authority of India since 2014. With the efforts of the Government
+of India, Airports like Delhi, Mumbai, Hyderabad, and Bengaluru have achieved Level 4+ as well as higher
+Airports International Council (ACI) Accreditation and have become Carbon neutral.
+Indian Railways, one of the largest global rail networks covering over 69,000 route kilometers as on 31st
+March 2024, plays a vital role in India's transportation sector, ferrying nearly 19 million passengers daily.
+Electrification of railways has significantly reduced their dependence on non-renewable sources of energy
+and benefits both the environment and efficiency. Schemes such as Three-Phase locomotive technology,
+Auxiliary Power Units (APU), Computerized Fuel Management Systems and head-on Generation systems,
+LED Lighting, Dedicated Freight Corridors, Alternative fuels, and sustainable solutions have contributed to
+the energy conservation and mitigation actions within the Indian Railways.
+114.4 Waste
+The Waste sector is India's largest contributor to urban emissions after the energy sector. Municipal
+authorities mainly control waste management, which is a key focus for city-level efforts to reduce emissions.
+To ensure effective waste management, specialized legislation 

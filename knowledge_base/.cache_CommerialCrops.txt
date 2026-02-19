@@ -1,0 +1,763 @@
+NFSM – COMMERCIAL CROPS
+OPERATIONAL GUIDELINES
+th
+(12 Five Year Plan)
+Department of Agriculture & Cooperation
+Ministry of Agriculture
+Government of India
+Krishi Bhawan, New Delhi-110001
+1CONTENTS
+Sr. No: Particulars Page No.
+1 Introduction 1
+2 Implementing Agencies 1
+3 Fund flow mechanism 1
+4 Role of Panchayati Raj Institutions 2
+5 Reporting 2
+6 Monitoring mechanism 2
+7 Evaluation 2
+8 Components of NFSM Commercial Crops 3
+9 Contingencies & Electronic Print Media 3
+10 Cotton Crop Based Cropping Systems. 4
+10.1 Insecticide Resistance Management (IRM) 4
+10.2 On Line Pest Monitoring and Advisory Services (OPMAS) 5
+10.3 Front Line Demonstration (FLD) 5
+10.4 Trials on High Density Planting System (HDPS) 5
+11 Jute crop Based Cropping Systems 6
+11.1 Jute Seed Production 7
+11.2 Production of seed through seed village programme & 7
+Government farm
+11.3 FLDs on alternate retting technologies 8
+11.4 FLDs on Production technology 8
+11.5 National / State Level Training 8
+12 Sugarcane crop Based Cropping Systems 9
+12.1 Demonstration on Intercropping with Sugarcane 9
+12.2 Assistance for Breeder Seed Production 10
+12.3 Production of tissue culture raised plantlets/seedlings 10
+12.4 Strengthening/Establishment of tissue culture and Bio-agent 10
+laboratories
+12.5 National / State Level Training 11
+2List of Annexure
+Annexure No Subject Page No.
+I Commercial crop based cropping system linked 12
+with food crops
+II Quarterly Progress Report of FLDs on 13
+Cotton/Jute/Sugarcane.
+Quarterly Progress Report on HDPS trials on 13
+Cotton
+II (a) Annual Progress Report of FLDs 14
+III Quarterly Progress Report of Insecticide 15
+Resistance
+Management (IRM) under cotton
+III (a) Annual Progress Report of IRM under cotton 16
+IV Quarterly Progress Report of OPMAS under cotton 17
+IV (a) Annual Progress Report of OPMAS under cotton 18
+V Quarterly / Annual Progress Report of Jute Seed 19
+production programme
+VI Quarterly / Annual Progress Report of National / 19
+State Level Training Programme
+VII Quarterly/Annual Progress Report of Bio-agent 20
+lab / Tissue Culture lab
+VIII Components and Pattern of Assistance under 21-22
+NFSM- Commercial Crops during 12th Plan Period
+3ABBREVIATION
+CCI COTTON CORPORATION OF INDIA
+CDDs CROP DEVELOPMENT DIRECTORATE
+CICR CENTRAL INSTITUTE OF COTTON RESEARCH
+CRIJAF CENTRAL RESEACH INSITUTE OF JUTE AND ALLIED FIBRES
+DAC DEPARTMENT OF AGRICUTLURE & COOPERATION
+DOCD DIRECTORATE OF COTTON DEVELOPMENT
+DOJD DIRECTORATE OF JUTE DEVELOPMENT
+DOSD DIRECTORATE OF SUGARCANE DEVELOPMENT
+ELS EXTRA LONG STAPLE
+FLDs FRONT LINT DEMONSTRATIONS
+HDPS HIGH DENSITY PLANTING SYSTEMS
+ICAR INDIAN COUNCIL OF AGRICULTURE RESEARCH
+IISR INDIAN INSTITUTE OF SUGARCANE RESEARCH
+INM INTEGRATED NUTRIENT MANAGEMENT
+IPM INSECTICIDE PEST MANAGEMENT
+IRM INSECTICIDE RESISTANCE MANAGEMENT
+KVKs KRISHI VIGYAN KENDRAS
+NALMOT NATIONAL LEVEL MONITORING TEAM
+NCIPM NATIONAL CENTRE FOR INTEGRATED PEST MANAGEMENT
+NFSM NATIONAL FOOD SECURITY MISSION
+NGOs NON GOVERNMENT ORGANISATION
+NIRJAFT NATIONAL INSTITUTE OF RESEARCH ON JUTE & ALLIED FIBRE
+TECHNOLOGY
+NSC NATIONAL SEEDS CORPORATION LIMITED
+OPMAS ON LINE PEST MONITORING AND ADVISORY SERVICES
+SAUs STATE AGRICULTUE UNIVERSITIES
+SBI SUGARCANE BREEDING INSTITUTE
+SDA STATE DEPARTMENT OF AGRICULTURE
+SFCI STATE FARM CORPORATION OF INDIA
+SSC STATE SEED CORPORATION
+SSCA STATE SEED CERTIFICATION AGENCY
+UPCSR UTTAR PRADESH COUNCIL OF SUGARCANE RESEARCH
+VSI VASANT DADA SUGAR INSTITUTE
+4NFSM-Commercial Crops
+Operational Guidelines
+********
+1. Introduction
+Cotton, Jute and Sugarcane are amongst the main cash crops of India. These
+crops are grown in food crops sequences in different agro- climatic conditions.
+In the 12th Five Year Plan, under the NFSM, cropping system approach is being
+adopted by including commercial crops like cotton, jute and sugarcane to meet the
+demand for both food & cash crops. This would be possible through proper crop rotation,
+multiple cropping systems, intercropping etc. The commercial crop based cropping
+system linked with food crops are given in Annexure-I.
+2. Implementing agencies
+NFSM-commercial crops (cotton, jute, sugarcane) will be implemented by
+Department of Agriculture & Cooperation through Directorate of Cotton Development,
+Mumbai, Directorate of Jute Development, Kolkata and Directorate of Sugarcane
+Development, Lucknow. The respective Crop Development Directorate (CDD) will
+formulate annual action plan in consultation with various implementing agencies and
+will act as nodal office of respective commercial crop. The CDD will be responsible for
+monitoring and evaluation of the crop specific programme.
+The programme will be implemented in all major cotton, jute and sugarcane
+growing states. Other non-traditional states may also be covered on basis of their
+potential. Beside States, ICAR, Krishi Vigyan Kendras (KVKs), State Agriculture
+Universities (SAUs), Cooperatives, NGOs, etc. will implement the activities of NFSM-
+commercial crops. The CDDs will involve Cooperatives/NGOs on the basis of the
+recommendations of the State Government. The State Department of Agriculture (SDA)
+shall to monitor and inspect the activities undertaken by other implementing agencies in
+the state.
+53. Fund flow mechanism
+All the components of the NFSM-commercial crops will be 100% funded. The
+funds will be released by DAC, Ministry of Agriculture to the respective implementing
+agencies like SDA, Cane Commissioner, ICAR, SAUs, CDDs etc. with the approval of
+NFSMEC. The implementing agencies will submit utilization certificate to the
+respective CDDs who will forward the same to DAC, Ministry of Agriculture, Govt. of India
+for further release of fund. As far as possible, electronic banking / RTGS will be used for
+transfer of funds to the agencies.
+4. Role of Panchayati Raj Institutions
+Panchayati Raj Institutions will be actively involved in the selection of beneficiaries,
+identification of priority areas of commercial crops based cropping system.
+5. Reporting
+The implementing agencies will submit Quarterly Progress Reports (QPRs) by
+the 15th of the month following each quarter and the detailed Annual Progress Report
+(APR) latest by 30th April in prescribed format given in Annexure-II, II (a) III, III (a) ,
+IV, IV (a) , V, VI and VII to Additional Commissioner (Crops), DAC and respective
+CDD.
+6. Monitoring mechanism
+The National Level Monitoring Team (NALMOT) will be constituted to monitor
+the activities of NFSM-commercial crops in various states. Respective CDD will meet
+the expenses of NALMOT.
+7. Evaluation:
+I. A baseline survey will be conducted to know the resource endowments of the
+farmers and the level of crop productivity.
+II. Concurrent Evaluation will be done every year to assess the performance of
+the programme commensurate with annual action plan and its objectives.
+III. Impact Evaluation Study at the National Level will also be undertaken through an
+independent agency after the third year of implementation to assess the impact of
+6various interventions in increasing the productivity of cotton, jute and sugarcane
+and enhancement of farmers' income.
+IV. Respective CDD will meet the expenses of evaluation of NFSM-commercial
+crops programme.
+8. Components of NFSM-commercial crops
+Front Line Demonstrations (FLDs) of various commercial crops including inter-crops
+will be conducted by various institutions. Besides, national/state level training, seed
+production programme will be assisted in case of jute and sugarcane. Insecticide Resistant
+Management (IRM) and Online Pest Monitoring and Advisory Services (OPMAS)
+programme on Bt-cotton will be continued and supported through ICAR institutions.
+Strengthening of bio-agent production units and tissue culture laboratories for sugarcane
+will be undertaken. The various technological interventions for commercial crops to be
+under taken as under:-
+Cotton Jute Sugarcane
+Insecticide Resistance Jute Seed Production FLDs on Intercrops with
+Management (IRM) sugarcane / FLDs on single
+bud chip technology of
+sugarcane
+On line Pest Monitoring and FLDs on alternative Assistance for Breeder Seed
+Advisory Services retting technologies Production
+(OPMAS)
+i) FLDs on Integrated Crop (i) FLDs on production Assistance for production
+Management (ICM) technologies / FLDs on of tissue culture plantlets
+ii) FLDs on Desi and Extra jute with pulses as Strengthening /
+Long Staple (ELS) Cotton intercrop establishment of tissue
+/FLDs on ELS cotton seed culture laboratory /Bio –
+production . agent production unit.
+iii) FLDs on Inter-cropping National level training National level training
+Trials on High Density State level training State level training
+Planting System (HDPS)
+Monitoring, evaluation & Monitoring, evaluation & Monitoring, evaluation &
+electronic print media electronic print media electronic print media
+79. Contingencies & Electronic Print Media.
+The cost for the preparation of literature, consultancy services, evaluation, need based
+studies, workshops, foreign visit, seminars etc., will be met under this component.
+Besides, making audio / video material for NFSM-commercial crops, preparation of
+software, state level seminar may also be organized by the implementing agencies
+inviting farmers / extension workers / dealers / NGOs / KVKs/ Cooperatives / Farmers
+Association etc. The allocation per year for each CDD is given in annexure-VIII.
+The detail of various components of individual commercial crop based cropping
+system is as given.
+10. Cotton Crop Based Cropping Systems.
+Cotton is cultivated under different cropping system i.e. mono-cropping, mixed
+cropping, relay cropping, inter cropping and rotation or sequence cropping in the country.
+The common traditional practice adopted in cultivation of cotton in central and south
+India is strip cropping i.e. 1 or 2 rows of pigeon pea, 3-5 rows of finger millet (ragi) or
+after every 8-10 rows of cotton. There is vast scope of cultivation of various crops as
+inter crop with cotton due to its slow initial growth and long duration. The programme
+will be implemented in 13 states namely Haryana, Punjab, Rajasthan, Gujarat, Madhya
+Pradesh, Maharashtra, Andhra Pradesh, Orissa, Karnataka, Uttar Pradesh, West Bengal,
+Tripura and Tamil Nadu. The component wise details under cotton crop based cropping
+system are given below:
+10.1 Insecticide Resistance Management (IRM)
+IRM module of Bt-cotton hybrids will be implemented by CICR, Nagpur through
+22 participating centers of SAUs, ICAR and recognized agriculture organization in
+collaboration with SDA to maintain the resistance management. The module will be
+replicated in 50 districts of 10 states covering more than 1.0 lakh farmers per year which
+may vary in future depending on pest situation. The IRM strategies will be disseminated
+in 20 villages in each district with the help of unemployed youth having Agriculture
+Diploma / B.Sc. (Agriculture)/M.Sc. (Agriculture), skilled helpers and field workers.
+Funds will be provided in each district for remuneration/honorarium of manpower (one
+project officer, one helper and twenty field workers for six months), monitoring, training
+8of field workers, conveyance / travel allowance and other contingencies. An assistance
+@ Rs. 4.5 lakh / district + administrative cost will be provided to CICR, Nagpur. CICR
+Nagpur will circulate guidelines and modules for each activity with financial ceiling to
+the participating centers.
+10.2 On Line Pest Monitoring and Advisory Services (OPMAS)
+OPMAS will provide web based pest monitoring and advisory services about the
+emerging pests, diseases and any other significant problem with cotton crop and will be
+implemented by NCIPM, New Delhi. The programme will be implemented in 30
+districts of 9 states covering 15,000 farmers in a year through 16 centers of SAU, ICAR
+and KVKs. Resistance monitoring in pink bollworm population, validation and
+demonstration of grey mildew and leaf reddening management strategies, dissemination
+of IPM strategies, popularization the safe use of light traps etc will be main activities of
+OPMAS. An assistance @ Rs. 4.5 lakh / district + administrative cost will be provided.
+NCIPM, New Delhi will circulate guidelines and modules for each activity with financial
+ceiling to the participating centers.
+10.3 Front Line Demonstration (FLDs)
+Three types of FLDs on cotton namely (i) FLDs on Integrated Crop Management
+(ICM) including Integrated Nutrient Management (INM), Integrated Pest Management
+(IPM), soil & water management / improved agronomic practices, (ii) FLDs on Desi &
+Extra Long Staple (ELS) cotton / FLDs on ELS Cotton seed production and (iii) FLDs on
+intercropping will be organized / conducted through SDA, ICAR, SAU, KVK, NGO and
+Cooperatives. DOCD will also involve reputed NGOs as per recommendations of State
+Government to conduct FLDs on cotton. FLDs will be organized in clusters of at least 10
+hectares. For each farmer at least 0.4 hectare area will be included in a demonstration.
+10.4 Trials on High Density Planting System (HDPS).
+HDPS of cotton is promoted to obtain high yields with straight varieties across the
+world. The planting geometry of 8-10 cm distance between plants and row to row
+distance at 30, 45, 75 and 90 cm is being followed under HDPS.
+9HDPS of Cotton is relevant to India especially in the rainfed conditions. Early
+maturing compact plant types with shorter sympodia suitable for HDPS have been
+identified by CICR, Nagpur. HDPS trials will be conducted by CICR, Nagpur through
+SDA, SAUs, KVKs, and Cooperatives. The HDPS trials will be conducted to validate
+agronomic practices for rain-fed agro-eco regions of 10 cotton growing states (Haryana,
+Punjab, Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Andhra Pradesh, Odisha,
+Karnataka and Tamil Nadu) to improve and sustain cotton yields on marginal soils.
+The pattern of assistance under different types of FLDs given as under:
+Type of FLDs Critical inputs Contingencies Total Assistance
+(Rs.) (Rs.) (Rs./ha)
+FLDs on ICM 6000 1000 7000
+FLDs on Desi and ELS cotton 7000 1000 8000
+/ELS Cotton seed production
+FLDs on Intercropping 6000 1000 7000
+Trials on HDPS 8000 1000 9000
+The critical inputs for FLD includes costs of seed (non-Bt), fertilizer, micronutrients,
+bio-pesticides, seeds of inter-crops, pheromone traps/light traps etc. A part of FLD funds is
+earmarked as contingencies for field days, publicity materials, POL, visit of scientists etc.
+11. Jute Crop Based Cropping Systems
+Jute can be grown successfully in the cropping sequence with food grain crops like rice, wheat and
+pulses and also pulses as inter-crops with jute. Some of identified promising jute based sequences
+under rainfed conditions are jute-lentil, jute-black gram, jute-black gram-wheat, jute-rice-toria and
+pulses as intercrop with jute. Under irrigated conditions, the promising crop sequences identified
+are jute-rice-potato, jute-rice-lentil/pea, jute-rice-wheat, jute-rice-mustard. By adoption of these
+sequences, crop intensification and diversification has significantly increased in the jute growing
+regions. The jute based cropping system will be implemented in 12 States namely Andhra Pradesh,
+Arunachal Pradesh, Assam, Bihar, Meghalaya, Nagaland, Orissa, Tripura, Uttar Pradesh,
+Maharashtra, Karnataka and West Bengal. The components of the jute crop based cropping system
+and assistance are given below.
+1011.1. Jute Seed Production.
+The production programme of breeder, foundation and certified seeds will be
+undertaken for varieties (not older than 10 years) to ensure availability of good quality seed in
+time and at a reasonable price. The production of breeder, foundation and certified seeds of
+jute & mesta will be taken up by different agencies like SDA, CRIJAF, NSC, SFCI, SAU,
+SSC, ICAR, KVKs, HIL and farmers group. The pattern of assistance on production of seed
+of jute / mesta / sunhemp is given in annexure-VIII.
+The breeder seed production will be taken up by the ICAR Institutes and SAUs. The
+institutes will submit a proposal for production of variety-wise breeder and foundation seed to
+the Directorate of Jute Development, Kolkata.
+The seed producing agencies will submit proposal to the Directorate of Jute Development,
+Kolkata regarding the variety-wise quantum of production of foundation and certified seed
+duly certified by the state seed certifying agency. The seed producing agencies will also
+submit information regarding variety-wise source and year of obtaining breeder seed along
+with item wise cost of production.
+11.2 Production of seed through Seed Village programme & Government Farm.
+The seed production programme through Seed Village programme and at
+Government farm will be undertaken to ensure availability of quality seeds. The
+implementing agencies will be SDA, SAUs, KVK, SSC, NSC, SFCI, HIL and SSCA. At
+least 10 ha area should be covered in each Seed Village programme or Government farm. The
+Seed production Programme should be taken up with the varieties not older than 10 years.
+An assistance of Rs. 5500/- per quintal of Certified Seed produced would be admissible under
+the component.
+11.3 FLDs on alternate retting technologies.
+Retting is the most important factor determining the quality of fibre. The whole
+plant retting technology is being practiced in India for which large quantity of water is
+required. CRIJAF has developed two new retting technologies, namely, mechano-microbial
+retting and in-situ retting with microbial consortium and NIRJAFT has developed two
+11technologies, namely, chemical retting and dry retting. In order to reduce the bulk of the crop
+to be retted vis-à-vis the requirement of water, the concept of ribbon retting has been
+advanced. Accordingly, FLDs on newly developed retting technologies will be undertaken by
+CRIJAF, NIRJAFT, SAUs, KVKs. An assistance of Rs.20000/- per FLDs will be provided
+for an area of 0.25 ha 75% of the area for alternating retting technology and 25% for
+traditional technologies and it will be reduced on pro-rata basis for actual size of FLD
+conducted.
+Item Amount (Rs.)
+Material inputs, labour inputs, ribboner and such other 17000.00
+materials required for organizing the demonstration
+Monitoring, POL, visit of scientists, Field Day, meeting, 3000.00
+publication etc.
+Total 20000.00
+11.4 FLDs on Production Technology / Intercropping
+Production technology and intercropping demonstrations will be conducted on jute,
+mesta, sunnhemp and ramie as recommended by ICAR/SAU and other Institutes. The
+location specific improved technology on nutrient use efficiency, weed management, efficient
+use of water, soil ameliorants, improved farm implements/machines etc. will be demonstrated
+along with the newer varieties ( not older than 10 years). The assistance of Rs. 8000/- per ha
+will be provided of which Rs. 1000/- will be for contingencies, field days, publicity materials,
+POL, visit of scientists etc. FLDs will be organized in cluster of at least 10 hectares. For each
+farmer at least 0.4 hectare area will be included in a demonstration.
+11.5 National / State Level Training
+The National Level Training Programme on production and retting technology of
+jute / mesta / ramie / sun hemp including other related other aspects will be organised by the
+CRIJAF, NIRJAFT, SAU and such other organizations. For a training of 25 participants from
+SDA and NGOs associated in jute development activities, an assistance of Rs.80000 per
+training (3 days) will be provided.
+The State Level Training (2 days) will be organized by SAU, SDA, KVK and the
+number of trainees will be 20 for which an assistance of Rs.40000 per training will be
+provided. The item-wise break-up of national / state level training is given as below.
+12Particulars Amount (in Rs.)
+National Level State Level
+1. Honorarium to Resource Person
+@ Rs.750/-per lecture for national level for 15 11250 5000
+lectures.
+@ Rs.500/- per lecture for state Level for 10
+lectures.
+2. Refreshment for inaugural session for 50 persons 2500 2500
+@ Rs. 50/- per head.
+3. Boarding & lodging for trainees
+@ Rs. 600/-per head per day for national level 45000 20000
+@ Rs.500/- per head per day for state Level
+4. Training Kit including publication
+@ Rs. 500/-per trainee for national level 12500 8000
+@ Rs.400/- per trainee for state Level
+5.Contingencies including audio visual 8750 4500
+arrangements, stationary , field visit etc.
+Total 80000 40000
+12. Sugarcane Based Cropping Systems
+The sugarcane based cropping system will involve propagation of intercropping,
+availability of quality planting material (tissue culture), strengthening of bio-agent and tissue
+culture laboratories and capacity building. The programme will be implemented in 12 States
+namely Andhra Pradesh, Bihar, Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra,
+Odisha, Punjab, Tamil Nadu, Uttar Pradesh & Uttarakhand. The interventions identified are as
+under.
+12.1 Demonstration on Intercropping with sugarcane:
+The demonstration on pulses, oilseeds and cereals as intercrops with sugarcane will be
+organized by SDA, Cane Commissioner, sugar factories, sugarcane research institutions,
+NGOs, KVKs etc. as per the technologies recommended by ICAR, SAU, Sugar Institutes.
+Assistance of Rs. 8000/- per demonstration (1.0 ha each) is provided of which Rs.1000/- will
+be for contingencies, field days, publicity materials, POL, visit of scientists etc. Demonstration
+will be organized in cluster of at least 10 hectares. For each farmer at least 0.4 hectare area
+will be included in a demonstration. Demonstration on single bud chip technology may also
+be emphasized where ever possible for which Rs. 8000/- per hectare will be provided low
+order the cost of intercrops.
+1312.2 Assistance for Breeder Seed Production.
+Production of breeder seeds of varieties (not older than 15 years) will be taken up
+through ICAR, SAUs, sugarcane research Institutes for which assistance limited to Rs.
+40,000/- per ha will be provided. Out of which Rs. 6000/- will be contingencies for
+preparation of report, record management, POL for visit of scientist, GOI officers & other
+miscellaneous expenses.
+12.3 Production of tissue culture raised plantlets/seedlings:
+For faster and cheaper multiplication of the cane seed through tissue culture
+technique, incentive for production of tissue culture raised plantlets/ seedlings will be provided
+@ 50% of cost of seedlings limited to Rs. 3.5/-per seedling to sugarcane institutions and sugar
+factories. The individual agencies will submit the claim to Director, DOSD, Lucknow after
+duly authenticated by the respective State Government.
+12.4 Strengthening/ Establishment of tissue culture and Bio-agent laboratories.
+Sugarcane is vegetative propagated and huge quantity of cane seed is required for
+planting of per unit area. Therefore, there is a need to enhance the seed multiplication through
+establishment/ strengthening of tissue culture laboratories. For strengthening/establishment of
+tissue culture laboratories at Sugarcane Research Institutes, ICAR, SAUs, sugar factories etc.,
+an assistance of 50% of the cost of project limited to Rs. 75.00 Lakh will be provided.
+In order to enhance the availability of bio-agents / bio-pesticides for biological control
+of sugarcane pest, bio-agent laboratories will be established / strengthened at sugar
+factory, sugarcane research institute, SAU/ ICAR @ 50% of the cost of project limited to Rs.
+75.00 Lakh. The project of tissue culture & bio-agent laboratory includes cost of equipments,
+furniture fixtures, green houses, consumable, glass wares, feeding stock etc. The component
+will not support construction of building, recurring expenditure and salary of the staff.
+12.5 National / State Level Training:
+The national level trainings on crop production and protection aspects including
+intercropping will be conducted by IISR, SBI, VSI, UPCSR etc. and state level trainings by
+sugarcane research Institutes, sugarcane training centers of State Government, SAUs, KVKs
+etc. The financial assistance for national level training of 2 days will be provided @ Rs.
+1450000/- for 25 participants and Rs. 40000/- per state level training of 2 days for 20 participants.
+The item wise break up of national/state level training is as under:
+Particulars Amount (in Rs.)
+National State
+Level Level
+1. Honorarium to Resource Person
+@ Rs.750/-per lecture for National Level for 10 7500 5000
+lectures.
+@ Rs.500/- per lecture for State Level for 10
+lectures.
+2. Refreshment for inaugural session for 50 persons 2500 2500
+@ Rs. 50/- per head.
+3. Boarding & Lodging for trainees @ Rs.500/- per
+head per day 25000 20000
+4. Training Kit including publication @ Rs.400/-
+trainee 10000 8000
+5.Contingencies including audio visual 5000 4500
+arrangements, field visit, etc.
+TOTAL 50000 40000
+The summery of Components and Pattern of Assistance under NFSM- Commercial
+Crops
+is given in Annexure VIII.
+############################
+15Annexure-I
+Commercial crop based cropping system linked with food crops
+1. Cotton
+State Cropping Systems
+Punjab, Haryana and Cotton-wheat, cotton-mustard
+Rajasthan
+Madhya Pradesh, Mono-cropped cotton, cotton-jowar (2 year rotation),
+Maharashtra and Gujarat intercropping with blackgram, greengram, soybean, groundnut
+and pigeonpea.
+Andhra Pradesh Mono-cropped cotton, cotton-rice (sequence), cotton-jowar.
+Tamil Nadu Mono-cropped cotton, rice-cotton, rice-rice-cotton, cotton-
+jowar, cotton-pulses-jowar, intercropping with onion, groundnut
+and blackgram.
+Karnataka Monocropped cotton, cotton-wheat, intercropping with chilli,
+groundnut, blackgram and greengram.
+2. Jute
+Growing Conditions Cropping System
+Rainfed Conditions Jute – Lentil, Jute-blackgram-Wheat, Jute-Rice-Toria, inter crop
+with green gram, vegetables etc.,
+Irrigated Conditions Jute-Rice-Potato, Jute-Rice-Lentil/Pea, Jute-Rice-Wheat, Jute –
+Rice-Mustard
+3. Sugarcane
+Cropping Systems
+Sub tropical region Tropical region
+Paddy- Autumn Sugarcane-ratoon-wheat Bajra-Sugarcane(pre-seasonal)-Ratoon- wheat
+Greengram- Autumn Sugarcane-ratoon- Paddy-Sugarcane-Ratoon- Finger millet
+wheat
+Maize- Autumn Sugarcane-ratoon-wheat Paddy-Sugarcane-Ratoon- Wheat
+Kharif Crops-Potato-Spring Sugarcane- Paddy-Sugarcane-Ratoon- gingelly
+ratoon-Wheat
+Kharif Crops-Mustard-Spring Sugarcane- Paddy-Sugarcane-Ratoon- urd.
+ratoon-Wheat
+Kharif Crops-Pea/Coriander-Spring Cotton-Sugarcane-Ratoon—wheat
+Sugarcane-ratoon-Wheat
+Kharif Crops-Wheat-late Planted Sugarcane-Ratoon-Kharif rice-Winter rice.
+Sugarcane-ratoon-Wheat
+16ANNEXURE-II
+Quarterly Progress Report of FLDs on Cotton/Jute/Sugarcane.
+Name of the State Reporting Period .
+. Name of the Agency
+Crop Types of Physical FLDs No. of Varieties Critical Financial ( Rs in lakh)
+FLD District/ Farmers inputs
+T A. Block provided Allocation Expenditure
+village
+T=Target, A= Achievement
+Extension activities:
+Crop Conditions
+Quarterly Progress Report on HDPS trials on Cotton
+Name of the State Reporting Period
+Name of Name of Physical Target Achievement Financial
+District Block / (ha) (Rs in Lakh)
+Village Variety Spacing Area Allocation Expenditure
+No of (Ha)
+plants/ha
+Name of the Agency
+Extension activities:
+Crop Conditions
+17ANNEXURE-II (a)
+Annual Progress Report of FLDs
+Implementing Agency:
+1. Introduction
+2. Objectives
+3. Technologies demonstrated:
+4. Physical & Financial progress
+a. Physical
+State/District Villages Target (ha) Achievement (ha) Total
+SC ST Women Others SC ST Women Others
+Total
+b. Financial ( Rs in Lakh)
+State/District Villages Allocation Expenditure Total
+SC ST Women Others SC ST Women Others
+Total
+5. Input distributed
+Type of FLD Name of the input Quantity Rate Cost ( Rs.)
+Total
+6. Impact of FLD
+State/District Cost of inputs Cost of cultivation Net profit Additional Benefit Cost
+(Rs/ha) (Rs/ha) (Rs/ha) profit due to Ratio
+FLD Farmer FLD Farmer FLD Farmer FLD ( Rs/ha)
+Practice Practice Practice
+Total
+Average
+7. Extension activities
+State/District Extension programme
+Scientist Farmers Field days Awareness News
+visit meeting programme paper/Radio/Video
+coverage
+Total
+6. Financial progress ( Rs. in Lakh)
+Centres Unspent Balance Allocation Release Expenditure Balance
+Total
+7. Success Stories
+8. Monitoring reports
+9. UC ( Form GFR 19-A)
+10. Audited UC
+18ANNEXURE-III
+Quarterly Progress Report of Insecticide Resistance
+Management (IRM) under cotton
+Name of IRM Centre Reporting Period . .
+State
+Components Physical Financial ( Rs in lakh) Remarks
+Target Achievements Allocation Expenditure
+Villages
+No. of Farmers
+Area (Ha)
+Field Visits Organization
+Farmers meeting
+Organization
+Field day Organization
+Training Programme
+Organization
+Training Farmers No. of
+leaflets/ pamphlets
+distributed
+Technology Chart
+Manual / Popular articles
+Pamphlets
+Press Release
+Radio talk / TV shows
+Field Schools
+SRF engaged
+Field workers engaged
+Crop Condition:-
+Insect Pest situation
+Yield expected (kg lint/ha)
+Any specific information
+19ANNEXURE-III(a)
+Annual Progress Report of IRM under cotton
+Implementing Agency
+1. Introduction
+2. Objectives
+3. Zone wise IRM strategies disseminated
+4 Spread of IRM Across India
+State/District Villages Farmers Area in ha Manpower employed
+Field workers RA/SRF
+Total
+5.Impact of IRM on yield and no of sprays
+State/District Average no of insecticide sprays Yield (kg lint/ha)
+IRM Total Non IRM Total IRM Non
+Sucking Boll Sucking Boll IRM
+pests worms pests worms
+Total
+Average
+6.Impact of IRM on the Benefit Cost ratio
+State/District Cost of spray Cost of cultivation Net profit Additional Benefit Cost
+(Rs/ha) (Rs/ha) (Rs/ha) profit due to Ratio
+IRM Non IRM Non IRM IRM Non IRM ( Rs/ha)
+IRM IRM
+Total
+Average
+7.Extension activities carried out in IRM villages
+State/District Extension programme
+Field visit Farmers Field days Training of scouts Farmers training
+meeting
+Total
+8.Centre wise financial progress ( Rs, in Lakh)
+State/District Unspent Allocation Release Expenditure Balance
+Balance
+Total
+9. Success Stories
+10. Monitoring reports
+11. UC ( Form GFR 19-A)
+12. Audited UC
+20ANNEXURE-IV
+Quarterly Progress Report of OPMAS under cotton
+Name of OPMAS Centre Reporting Period
+State
+Components Physical Financial ( Rs in lakh) Remarks
+Target Achievements Allocation Expenditure
+No. of Villages
+Area Coverage
+No. of Farmers
+Village group meeting
+No. of Farmer attend
+Farmers’ Training
+No. of Farmer attend
+Training
+News paper coverage
+Radio talks/Videos /
+Photo
+Project Officer
+employed
+Field Scout
+Data Entry Operator
+Crop Condition:
+Insect Pest situation:
+Yield expected (kg lint/ha):
+Advisory to the farmers:
+Any specific information:
+21ANNEXURE-IV(a)
+Annual Progress Report of OPMAS under cotton
+Implementing Agency
+1. Introduction
+2. Objectives
+3. Spread of OPMAS Across India
+State/District Villages Farmers Area in ha Manpower employed
+Field workers RA/SRF Data entry
+operator
+Total
+4. Data observation, up loading & survey report
+State/District Major pests observed Data fed in website Advisory issued
+Sucking Boll worm Fixed field Random field
+5. Impact of OPMAS on yield and no of sprays
+Average no of Yield (kg lint/ha) Cost of Net profit
+insecticide sprays cultivation (Rs/ha)
+(Rs/ha)
+State/District IPM Non IPM Non IPM Non IPM Non
+IPM IPM IPM IPM
+Total
+Average
+6. Extension activities
+State/District Farmers Farmers Training of News paper/Radio/Video coverage
+meeting training project staff
+Total
+7. Centre wise financial progress ( Rs, in Lakh)
+Centres Unspent Balance Allocation Release Expenditure Balance
+Total
+8. Success Stories
+9. Monitoring reports
+10. UC ( Form GFR 19-A)
+11. Audited UC
+22ANNEXURE-V
+Quarterly / Annual Progress Report of Jute Seed production programme
+Name of the Agency Reporting Period .
+.
+Components Name of Year of Area under Location Quantity (Qtls) Remarks Financial ( Rs in
+Jute Seed Variety Release Seed of Seed lakh)
+Production Production Prodn. Allocation Expenditure
+Plan (ha) Dist /
+Target Achievement
+(Quintal) Block /
+village
+Production of
+Breeder Seed
+Production of
+Foundation
+Seed
+Production of
+Certified
+Seeds.
+Seed Village/
+Govt. Farm
+(minimum 10
+ha)
+ANNEXURE-VI
+Quarterly / Annual Progress Report of National / State Level Training Programme
+Name of the Agency/Organization Reporting Period
+Sr. Name of Physical Title of Venue No. of Financial (Rs. in Lakh)
+No: Training the and Date Participants
+Training of
+Training
+Target Achievement Allocation Expenditure
+1. National
+Level
+2. State Level
+Total---(cid:198)
+List of lectures:
+23ANNEXURE-VII
+Quarterly/Annual Progress Report of Bio-agent lab / Tissue Culture lab
+Implementing Agency Reporting Period
+Components Physical Location of Progress so Type & Financial ( Rs in lakh)
+Bio-agent Target Achievement Lab far quantity of Allocation Expenditure
+lab . Dist/Block/ equipment Bio-agent
+Village Purchased Produced
+Total
+Tissue Physical Location of Progress so No of Financial ( Rs in lakh)
+Culture lab Lab far Seedlings
+Dist/Block/ equipment produced
+Village Purchased
+Target Achievement Allocation Expenditure
+Total
+24Annexure-VIII
+Components and Pattern of Assistance under NFSM- Commercial Crops
+during 12th Plan Period
+1. Cotton based cropping system
+Sl. Component Unit cost (Rs.) Implementing agency
+No
+1 Insecticide Resistant Management Rs.4.5 lakh / dist + CICR, Nagpur
+(IRM) Administrative cost
+2 Online Pest Monitoring and Rs. 4.5 lakh / dist + NCIPM, New Delhi
+Advisory Services (OPMAS) Administrative cost
+3 Front Line Demonstration on Rs.7000/ha (Rs. 6000 for SDA/ ICAR/SAUs/
+(a) Integrated Crop Management inputs & Rs. 1000 for KVK/NGOs /
+Contingency) Cooperatives
+(ICM) (0.4 ha size)
+3 Front Line Demonstration on Desi Rs.8000/ha (Rs 7000 for ICAR/SAUs/ KVK/NGOs
+(b) and ELS cotton (0.4 ha size) / ELS inputs & Rs. 1000 for /Cooperatives /State Dept
+Contingency) of Agriculture
+Cotton Seed Production.
+3 Front Line Demonstration on Rs.7000/ha (Rs. 6000 for ICAR/SAUs/ KVK/NGOs
+(c) Intercropping (0.4 ha size) inputs & Rs. 1000 for /Cooperatives /State Dept
+Contingency) of Agriculture -
+4 Trials on High Density Planting Rs.9000/ha (Rs. 8000 for ICAR/SAUs/ KVK/NGOs
+System (0.4 ha size) inputs & Rs. 1000 for /Cooperatives /State Dept
+Contingency) of Agriculture
+5 Contingencies & Electronic Rs. 30.00 lakh DOCD, Mumbai
+Print Media
+2. Jute based cropping system
+Sl. Component Unit cost Implementing agency
+No
+1 Seed production State Department, CRIJAF,
+Production of Breeder Seed Rs 20000/qtl NSC, SFCI, SAU, ICAR,
+Production of Foundation Seed Rs.12000/qtl KVKs and farmers group
+Production of certified Seeds Rs.5000/qtl
+2. Seed Village programme and Rs. 5500/- per qtl. of State Department of
+Production of seed in government Certified Seed produced Agriculture, Universities,
+farm KVKs, SSC, NSC, SFCI &
+SSCA
+3 FLDs on alternate Retting Rs. 20000/FLD (Rs. 18500 ICAR/SAUs/ KVK
+technologies (0.25 ha ) for inputs & Rs. 1500 for
+Contingency)
+4 FLDs on Production technologies Rs.8000/ha (Rs. 7000 for ICAR/SAUs/ KVK/NGOs
+/ Intercropping (0.4 ha each) inputs & Rs. 1000 for /Cooperatives /State Dept of
+contingency) Agriculture
+5 National level training Rs.80000/Training CRIJAF, NIRJAFT, SAU such
+(25 Participants X 3 days) other organization.
+State level training Rs. 40000/Training State Dept of Agriculture
+(20 Officials X 2 days) SAU / KVK
+6 Contingencies & Electronic Rs. 30.00 lakh DOJD, Kolkata
+Print Media
+25Annexure-I
+3. Sugarcane based cropping system
+Sl. No Component Unit cost (Rs.) Implementing agency
+1 Demonstration on Rs.8000 per ha (Rs.7000 for ICAR/SAUs/ KVK/NGOs
+intercropping and single inputs & Rs. 1000 for /Cooperatives /State Dept of
+Contingency) Agriculture
+bud chip technology with
+Sugarcane. (0.4 ha each)
+2 Assistance for Breeder Rs.40000 per ha SAUs/ ICAR and Sugarcane
+Seed Production (Rs. 34000 for inputs & Rs. Research Institute
+6000 for Contingency)
+3 Production of tissue Rs. 3.5 per seedlings Sugarcane Institutions, Sugar
+culture raised plantlets/ Factories, NGOs
+seedlings
+4 Strengthening / 50% of cost limited to Rs. 75 Sugar factories/ SAU’s/
+establishment of bio agent lakhs per laboratory ICAR/ Sugarcane Research
+Institute etc.
+and tissue culture
+laboratory
+5 National Level Trainings Rs.50000 per training IISR, SBI, VSI, UPCSR, etc.
+(25 Participants X 2 days)
+State level training Rs.40000 per training State Government KVKs/
+(20 Officials X 2 days) SAU NGO etc.
+6 Contingencies & Rs. 30.00 lakh DOSD, Lucknow
+Electronic Print
+Media
+#####################
+26

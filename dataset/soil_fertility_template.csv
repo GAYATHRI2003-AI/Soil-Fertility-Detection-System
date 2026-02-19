@@ -1,0 +1,6 @@
+Timestamp,Field_ID,Nitrogen_mg_kg,Phosphorus_mg_kg,Potassium_mg_kg,Soil_pH,Electrical_Conductivity_dS_m,Organic_Carbon_percent,Cation_Exchange_Capacity_cmol_kg,Sand_percent,Silt_percent,Clay_percent,Zinc_mg_kg,Iron_mg_kg,Copper_mg_kg,Manganese_mg_kg,Boron_mg_kg,Sulfur_mg_kg,Calcium_mg_kg,Magnesium_mg_kg,Soil_Texture_Class,Expected_Crop_Yield_Bu_acre,Soil_Fertility_Status
+2026-01-01 09:00:00,Field_01,35,28,180,6.5,0.8,3.2,15.5,35,45,20,2.1,85,1.2,12,0.8,18,500,150,Loam,150,Optimal
+2026-01-02 10:30:00,Field_02,22,15,110,5.8,1.2,2.1,12.3,45,35,20,1.5,65,0.9,8,0.5,12,420,120,Sandy Loam,95,Suboptimal
+2026-01-03 08:15:00,Field_03,18,12,95,5.4,1.8,1.5,10.8,50,30,20,1.2,55,0.7,6,0.3,10,380,100,Sandy Loam,75,Poor
+2026-01-04 14:45:00,Field_04,40,32,200,6.8,0.6,3.8,17.2,25,50,25,2.5,95,1.4,14,1.0,22,550,170,Clay Loam,165,Excellent
+2026-01-05 11:20:00,Field_05,28,20,140,6.2,0.9,2.8,14.1,40,40,20,1.8,78,1.1,11,0.7,16,480,140,Loam,130,Good

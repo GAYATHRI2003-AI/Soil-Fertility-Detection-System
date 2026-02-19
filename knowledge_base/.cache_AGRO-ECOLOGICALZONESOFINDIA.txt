@@ -1,0 +1,561 @@
+by
+Prof.A.Balasubramanian
+Centre for Advanced Studies in Earth Science,
+University of Mysore,
+Mysore
+1Classification of Agro-ecological zones:
+The Agricultural regions, Forest Regions and the Livestock rearing zones are fully controlled by a set of
+inter-related geographic factors. They are:
+a) Climatic factors
+b) Soil properties and
+c) Physiographic settings( topography & drainage).
+Based on these three major parameters , the land area of India is classified into several classes of regions
+and sub-regions. The Length of Growing Period (LGP) of crops vary depending upon these factors and
+also the genetic characteristics of crops grown. LGP is related to the moisture availability to the crops
+grown which is controlled by those three major factors of agriculture.
+Agro-ecological zone is a land unit, carved out of climatic zone, correlated with landforms, climate and
+the length of growing period (LGP). LGP refers to the number of days available for crop growth with
+suitable conditions.
+Agro-Ecological zoning is the process of correlating the units of physiography, bioclimate, soilscapes
+and the length of growing period. Each one of these aspects have a very wide number of classess and
+subdivisions.
+As we have seen that the Indian sub-continent exhibits a variety of landscapes and climatic conditions
+which are noticeable in the types of soils and vegetation.
+In the past, several attempts have been made to understand and classify the agro-climatic regions as well
+as the agro-ecological regions of India.
+The Planning Commission of India, divided the country into 15 broad agro-climatic zones based on
+physiography and climate. This we have seen as the first part of this lesson.
+Based on the four parameters which have been explained so far,
+a) physiographic features,
+b) Soil characteristics,
+c) Bio-climatic features,
+d) the Length of growing period, the land area of India is divided into 20 agro-ecological regions.
+They are the following:
+1. Cold Arid Eco-region with Shallow Skeletal Soils
+2. Hot Arid Eco-region with Desert and Saline Soils
+3. Hot Arid Eco-region with Red and Black Soils
+4. Hot Semi-Arid Eco-region with Alluvium Derived soils
+5. Hot Semi Arid Eco-region with Medium and Deep Black Soils
+6. Hot Semi-Arid Eco-region with Shallow and Medium (Dominant) Black Soils
+7. Hot Semi Arid Eco-region with Red and Bla6k soils
+8. Hot Semi-Arid Eco-region with Red Loamy soils
+9. Hot subbumid (Dry) Eco-region with Alluvium- Derived Soils
+10. Hot Subhumid Eco-region with Red and Black Soils
+11. Hot Subhumid Eco-region with Red and Yellow Soils
+12. Hot Subhumid Eco-region with Red and Lateritic soils
+213. Hot Suhhumid (Moist) Eco-region with Alluvium-derived soils
+14. Warm Subhumid to Humid with Inclusion of Perhumid Eco-region with Brown Forest and
+Podzolic Soils
+15. Hot Subhumid (moist) to Humid (inclusion) of perhumid Eco-region with alluvium-derived soils
+16. Warm Perhumid Eco-region with Brown and Red Hill Soils
+17. Warm Perhumid Eco-region with Red and Lateritc Soils
+18. Hot Subhumid to Semi-arid Eco-region with Coastal Alluvium-derived soils
+19. Hot Humid Pemhumid Eco-region with Red, Lateritic and Alluvium-derived soils
+20. Hot Humid/Perhumid Island Eco-region with Red loamy and Sandy Soils .
+Agro-ecological zones, their soil resource and cropping systems
+1. Western Himalayas, cold arid eco-region
+REGION 1.1
+Area Eastern aspect of Ladakh Plateau
+Subregion cold, hyper-arid eco-subregion
+Soils shallow skeletal soils
+Available water Capacity (AWC) Very Low
+Length of Growing Period(LGP) <60 days
+Standard Code A13Eh1
+REGION 1.2
+Area 1.2 Western Aspect of Ladakh Plateau and north
+Kashmir Himalayas
+Subregion cold to cool typic-arid
+Soils shallow, loamy skeletal soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 60-90 days
+Standard Code A13Et2
+2. Western Plain, Kachchh and part of Kathiawar Peninsula,
+hot arid eco-region (M9E1)
+REGION 2.1
+Area Marusthali
+Subregion hot, hyper arid
+Soils hallow and deep sandy desert soils
+Available water Capacity (AWC) very low
+Length of Growing Period(LGP) < 60 days
+Standard Code M9Eh1
+REGION 2.2
+Area Kachchh Peninsula (Great Rann of Kutch as inclusion),
+Subregion hot
+hyper-arid
+Soils deep loamy saline and alkali soils
+3Available water Capacity (AWC) low
+Length of Growing Period(LGP) <60 days
+Standard Code L12Eh1
+REGION 2.3
+Area Rajasthan Bagar, North Gujarat Plain and South-Western
+Punjab Plain
+Subregion hot typic- arid
+Soils deep, loamy desert
+soils (inclusion of saline phase),
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 60-90
+days
+Standard Code M9Et2
+REGION 2.4
+Area South Kachchh and North Kathiawar Peninsula
+Subregion hot arid
+Soils with deep loamy saline and alkali soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 60-90 days
+Standard Code L12Et2
+3 Deccan plateau, hot arid eco-subregion (K6E2)
+REGION 3.0
+Area Karnataka Plateau (Rayalseema as inclusion)
+Subregion hot arid
+Soils with deep loamy and clayey mixed Red and Black soils
+Available water Capacity (AWC) low
+to medium
+Length of Growing Period(LGP) 60-90 days
+Standard Code K6Et2
+4. Northern Plain (and Central Highlands) including Aravallis, hot semi-arid ecoregion (N8D2)
+REGION 4.1
+Area 4.1 North Punjab Plain, Ganga-Yamuna Doab and
+Rajasthan
+Upland,
+Subregion hot semi-arid
+Soils deep loamy alluvium-derived
+soils (occasional saline and sodic phases),
+Available water Capacity (AWC) Medium
+Length of Growing Period(LGP) 90-120
+Standard Code N8Dd3
+4REGION 4.2
+Area North Gujarat Plain (inclusion of Aravalli range and east
+Rajasthan Uplands),
+Subregion hot dry semiarid
+Soils deep loamy Gray Brown and alluvium-derived soils,
+Available water Capacity (AWC) Medium
+Length of Growing Period(LGP) 90-120 days
+Standard Code P14Dd3
+REGION 4.3
+Area 4.3 Ganga Yamuna Doab, Rohilkhand and Avadah Plain
+Subregion hot moist semi-arid
+Soils deep, loamy alluvium-derived soils (sodic phase
+inclusion),
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 120-150 days
+Standard Code N8Dm4
+REGION 4.4
+Area Madhya Bharat Plateau and Bundelkhand Uplands
+Subregion hot, moist semi-arid
+Soils Deep loamy and clayey mixed Red and Black soils,
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 90-120 days
+Standard Code N6Dm4
+5 Central (Malwa) Highlands, Gujarat plains and Kathiawar
+Peninsula Ecoregion (I5 D2)
+REGION-5.1
+Area Central Kathiawar Peninsula,
+Subregion hot, dry semiarid
+Soils shallow and medium loamy to clayey black soils (deep
+black
+soils as inclusion
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 120-150 days
+Standard Code L4Dd3
+REGION-5.2
+Area Madhya Bharat Plateau Western Malwa Plateau, Eastern
+Gujarat Plain, Vindhyan and Satpura range and Narmada
+Valley
+Subregion hot moist semi-arid
+Soils medium and deep, clayey
+Black soils (shallow black soils as inclusions)
+Available water Capacity (AWC) medium to high
+5Length of Growing Period(LGP) 120-150 days
+Standard Code I5Dm4
+REGION-5.3
+Area Coastal Kathiawar Peninsula
+Subregion hot moist semi-arid
+Soils deep loamy coastal alluvium-derived soils (saline/phases
+inclusion)
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 120-150 days
+Standard Code L7Dm4
+6. Deccan Plateau, hot semi-arid eco-region (K4D2)
+REGION-6.1
+Area South Western Maharashtra and North Karnataka Plateau
+Subregion hot dry semi-arid
+Soils shallow and medium loamy Black
+soils (deep clayey Black soils as inclusion)
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 90-120 days
+Standard Code K4Dd3
+REGION-6.2
+Area Central and Western Maharashtra Plateau and North
+Karnataka Plateau and North Western Telangana Plateau
+Subregion hot moist semi-arid
+Soils shallow and medium loamy to
+clayey Black soils (medium land deep clayey Black soils
+as inclusion)
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 120-150 days
+Standard Code K4Dm4
+REGION-6.3
+Area Eastern Maharashtra Plateau
+Subregion hot moist semi-arid
+Soils medium land deep clayey Black soils (shallow loamy to
+clayey Black soils as inclusion)
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 120-150 days
+Standard Code K5Dm4
+REGION-6.4
+Area North Sahyadris and Western Karnataka Plateau
+Subregion hot dry subhumid
+Soils -
+Available water Capacity (AWC) -
+Length of Growing Period(LGP) -
+6Standard Code K4Cd5
+7. Deccan Plateau (Telangana) and Eastern Ghats, hot semiarid
+ecoregion (K6D2)
+REGION-7.1
+Area South Telangana Plateau (Rayalseema) and Eastern Ghat
+Subregion hot dry semi-arid
+Soils Deep loamy to clayey mixed Red
+and Black soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 90-120 days
+Standard Code K6Dd3
+REGION-7.2
+Area North Telangana Plateau
+Subregion hot moist semi-arid
+Soils Deep loamy and clayey mixed Red and Black soils
+Available water Capacity (AWC) medium to very high
+Length of Growing Period(LGP) 120-150 days
+Standard Code K6Dm4
+REGION-7.3
+Area Eastern Ghat (South)
+Subregion hot moist semi-arid/dry subhumid
+Soils medium to deep, loamy to clayey mixed Red and Black
+soils,
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 150-180 days
+Standard Code H6Dm/Cd5
+8. Eastern Ghats and Tamil Nadu Uplands and Deccan
+(Karnataka) Plateau, hot semiarid eco-region (H1D2)
+REGION-8.1
+Area Tamil Nadu Uplands and Leeward Flanks of South
+Sahyadris
+Subregion hot dry semi-arid
+Soils moderately deep to deep, loamy
+to clayey, mixed Red and Black soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 90-120 days
+Standard Code H6Dd3
+REGION-8.2
+Area Central Karnataka Plateau
+7Subregion hot moist semi-arid
+Soils medium to deep Red loamy soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 120-150 days
+Standard Code K1Dm4
+REGION-8.3
+Area Tamil Nadu Uplands and Plains
+Subregion hot moist semi-arid
+Soils deep red loamy soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 120-150 days
+Standard Code H1Dm4
+9. Northern Plain, hot subhumid (dry) eco-region (N8C3)
+REGION-9.1
+Area Punjab and Rohilkhand Plains
+Subregion hot dry/moist subhumid transitional
+Soils deep, loamy to clayey alluvium-derived (inclusion of
+saline and sodic phases) soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 120-150 days
+Standard Code N8Cm/Cd4
+REGION-9.2
+Area Rohilkhand, Avadh and south Bihar Plains
+Subregion hot dry subhumid
+Soils deep loamy alluvium-derived soils
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 150-180 days
+Standard Code N8Cd5
+10. Central Highlands (Malwa and Bundelkhand), hot
+subhumid (dry) eco-region (I6C3(4)
+REGION-10.1
+Area Malwa Plateau, Vindhyan Scarpland and Narmada
+Valley
+Subregion Hot dry subhumid
+Soils medium and deep clayey Black soils
+(shallow loamy Black soils as inclusion)
+Available water Capacity (AWC) high
+Length of Growing Period(LGP) 150-180 days
+Standard Code 15Cd5
+REGION-10.2
+8Area Satpura and Eastern Maharashtra Plateau
+Subregion hot dry subhumid
+Soils shallow and medium loamy to clayey Black soils (deep
+clayey Black soils as inclusion)
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 150-180 days
+Standard Code K4Cd5
+REGION-10.3
+Area Vindhyan Scarpland and Bundelkhand Plateau
+Subregion hot dry subhumid
+Soils deep loamy to clayey mixed Red and
+Black soils
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 150-180 days
+Standard Code I6Cd5
+REGION-10.4
+Area Satpura range and Wainganga Valley
+Subregion hot moist subhumid
+Soils shallow to deep loamy to clayey mixed Red and Black
+soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 180-210 days
+Standard Code K6Cm6
+11. Chattisgarh/Mahanadi Basin Agro-eco-region (J3 C3)
+REGION-11.0
+Area Moderately to gently sloping Chattisgarh/Mahanadi
+Basin
+Subregion Hot moist/dry subhumid transitional
+Soils deep loamy lto clayey Red and Yellow soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 150-180 days
+Standard Code J3Cd/Cm5
+12. Eastern Plateau (Chhotanagpur) and Eastern Ghats, hot
+subhumid eco-region (J23C3(4)
+REGION-12.1
+Area Garjat Hills, Dandakaranya and Eastern Ghats
+Subregion hot moist subhumid
+Soils deep loamy Red and Lateritic soils
+Available water Capacity (AWC) Low to medium
+Length of Growing Period(LGP) 180-210 days
+Standard Code J2Cm6
+9REGION-12.2
+Area Eastern Ghats
+Subregion hot moist subhumid
+Soils medium to deep loamy Red and Lateritic soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 180-210 days
+Standard Code H2Cm6
+REGION-12.3
+Area Chhotanagpur Plateau and Garjat Hills
+Subregion hot, dry subhumid
+Soils moderately deep to deep loamy to clayey Red and
+Lateritic soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 150-180 days
+Standard Code J2Cd5
+13. Eastern Plain, hot subhumid (moist) ecoregion (08C4)
+REGION-13.1
+Area North Bihar and Avadh Plains
+Subregion hot dry to moist subhumid transitional
+Soils deep, loamy alluvium-derived soils
+Available water Capacity (AWC) Low to medium
+Length of Growing Period(LGP) 180-210 days
+Standard Code O8Cd/Cm6
+REGION-13.2
+Area Foothills of Central Himalayas
+Subregion warm to hot moist subhumid
+Soils deep loamy to clayey Tarai soils
+Available water Capacity (AWC) high
+Length of Growing Period(LGP) 180-210 days
+Standard Code B10Cm6
+14. Western Himalayas, warm subhumid (to humid with
+inclusion of perhumid) ecoregion [A15C(BA)4(5)]
+REGION-14.1
+Area South Kashmir and Punjab Himalayas
+Subregion cold and warm by dry
+semi-arid/dry subhumid
+Soils shallow to medium deep loamy Brown Forest and
+10Podzolic soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 90-120 days
+Standard Code A15Dd/Cd3
+REGION-14.2
+Area South Kashmir and Kumaun Himalayas
+Subregion warm moist to dry subhumid transitional
+Soils medium to deep loamy to
+clayey Brown Forest and Podzolic soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 150-210 days
+Standard Code A15Cd/Cm6
+REGION-14.3
+Area Punjab Himalayas
+Subregion warm humid to perhumid transitional
+Soils shallow to medium deep loamy brown forest and
+podzolic
+soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 270-300+ days
+Standard Code A15BA9
+REGION-14.4
+Area Kumaun Himalayas
+Subregion warm humid to perhumid transitional
+Soils shallow to medium deep loamy Red and Yellow soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 270-300+ days
+Standard Code A3B/A9
+REGION-14.5
+Area Foothills of Kumaun Himalayas (Subdued)
+Subregion warm moist subhumid
+Soils medium to deep, loamy arai soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 270-300 days
+Standard Code A10A9
+15. Assam and Bengal Plain, hot subhumid to humid
+(inclusion of perhumid) eco-region (Q8C(BA)5).
+REGION-15.1
+Area Bengal basin and North Bihar Plain
+11Subregion hot moist subhumid
+Soils deep loamy to clayey alluvium-derived soils
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 210-240 days
+Standard Code 08Cm7
+REGION-15.2
+Area Middle Brahmaputra Plain
+Subregion hot humid
+Soils deep, loamy to clayey alluvium-derived soil
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 240- 270 days
+Standard Code Q8B8
+REGION-15.3
+Area Teesta, lower Brahmaputra Plain and Barak Valley
+Subregion hot moist humid to perhumid
+Soils deep, loamy to clayey alluviumderived
+soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 270-300 days
+Standard Code Q8A9
+REGION-15.4
+Area Upper Brahmaputra Plain
+Subregion warm to hot perhumid
+Soils moderately deep to deep loamy, alluvium-derived soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 300 days
+Standard Code Q8A10
+16. Eastern Himalayas, warm perhumid eco-region (C11A5)
+REGION-16.1
+Area Foot-hills of Eastern Himalayas (Bhutan foot-hills)
+Subregion warm to hot perhumid
+Soils shallow to medium, loamy-skeletal to
+loamy Tarai soils,
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 270-300 days
+Standard Code C10A9
+REGION-16.2
+Area Darjeeling and Sikkim Himalayas
+Subregion warm perhumid
+Soils shallow to medium deep loamy Brown and Red Hill soils
+Available water Capacity (AWC) Low to medium
+12Length of Growing Period(LGP) 300 days
+Standard Code C11A10
+REGION-16.3
+Area Arunachal Pradesh (Subdued Eastern Himalayas)
+Subregion warm to hot perhumid
+Soils deep, loamy to clayey Red Loamy
+soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 300 days
+Standard Code C1A10
+17. North-eastern Hills (Purvachal), warm perhumid ecoregion
+(D2A5).
+REGION-17.1
+Area Meghalaya Plateau land Nagaland Hill
+Subregion warm to hot moist humid to perhumid
+Soils medium to deep loamy to clayey
+Red and Lateritic soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 270-300+ days
+Standard Code D2A9
+REGION-17.2
+Area Purvachal (Eastern Range)
+Subregion warm to hot perhumid
+Soils medium to deep loamy Red and Yellow soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 300 days
+Standard Code D3A10
+18. Eastern Coastal Plain, hot subhumid to semiarid
+ecoregion (S7Cd2-5)
+REGION-18.1
+Area South Tamil Nadu Plains (Coastal)
+Subregion hot dry semi-arid
+Soils deep, loamy to clayey, alkaline Coastal and deltaic
+alluvium-derived soil
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 90-120 days
+Standard Code S7Dd3
+REGION-18.2
+Area North Tamil Nadu Plains (Coastal)
+Subregion hot moist semi-arid
+13Soils deep, clayey and cracking Coastal land Deltaic alluvium
+derived
+soils
+Available water Capacity (AWC) high
+Length of Growing Period(LGP) 120-150 days
+Standard Code S7Dm4
+REGION-18.3
+Area Andhra Plain
+Subregion hot dry subhumid
+Soils deep, clayey Coastal and Deltaic alluvium-derived soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 150-180 days
+Standard Code S7Cd5
+REGION-18.4
+Area Utkal Plain and East Godavari Delta
+Subregion hot dry subhumid
+Soils deep, loamy to clayey Coastal and deltaic alluvium
+derived soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 180-210 days
+Standard Code S7Cd6
+REGION-18.5
+Area Gangetic Delta
+Subregion hot moist subhumid to humid
+Soils deep, loamy to clayey Coastal and deltaic alluvium-
+derived soils
+Available water Capacity (AWC) medium
+Length of Growing Period(LGP) 240-270 days
+Standard Code S7Cm7
+19. Western Ghats and Coastal Plain, hot humid-perhumid
+eco-region (E2BA5)
+REGION-19.1
+Area North Sahyadris and Konkan Coast
+Subregion hot humid
+Soils medium to deep loamy to clayey mixed Red and Black
+soils
+Available water Capacity (AWC) medium to high
+Length of Growing Period(LGP) 210-240 days
+Standard Code E6B8
+REGION-19.2
+Area Central and South Sahyadris
+14Subregion hot moist subhumid to humid
+transitional
+Soils deep, loamy to clayey Red and Lateritic soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 210-270 days
+Standard Code E2Cm/B7(9
+REGION-19.3
+Area Konkan, Karnataka and Kerala Coastal plain
+Subregion hot humid to per humid transitional
+Soils deep, clayey to loamy acidic coastal alluvium-derived
+soils
+Available water Capacity (AWC) low
+Length of Growing Period(LGP) 240-270 days
+Standard Code (R7A(B8(7).
+20. Islands of Andaman-Nicobar and Lakshadweep, hot humid to perhumid island ecoregion
+(T1A(B)5/T1B(A)5)
+REGION-20.1
+Area Andaman and Nicobar group of Islands
+Subregion hot perhumid
+Soils shallow to medium deep, loamy to clayey Red and
+Yellow and Red Loamy soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 300 days
+Standard Code T3A10
+REGION-20.2
+Area Level Lakshadweep and group of Island
+Subregion hot humid
+Soils shallow to medium deep loamy to sandy Black, sandy
+and Littoral soils
+Available water Capacity (AWC) low to medium
+Length of Growing Period(LGP) 240-270 days
+Standard Code U16B8
+15

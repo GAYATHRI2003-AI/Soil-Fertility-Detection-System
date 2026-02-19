@@ -1,0 +1,763 @@
+Soil Fertility and Nutrient Management
+Interpretation of Standard Soil Test
+Soil Fertility and Nutrient
+Results
+Management
+Soil pH (sometimes called active soil acidity) is based on the
+pH scale, which measures the acidic or basic reaction of the
+Reviewed by Liz Maynard and Ajay Nair – Aug 2021
+soil. A pH less than 7 is acidic; a pH greater than 7 is
+alkaline. When soil pH is too low
+Soil tests aid vegetable growers with their soil fertility and
+fertilizer application programs. Soil tests are most useful
+for good crop growth, adding lime will raise the pH. Natural
+when growers keep accurate records for each field that
+processes and agricultural practices tend to lower pH over
+include the amount of fertilizers and other soil amendments
+time, so it is important to measure it every year or two. When
+they applied, crop yields, and rotations. These records allow
+soils are alkaline, the testing laboratory may recommend
+growers to determine trends in soil fertility and crop response
+applying sulfur (S) to lower the pH to a level that allows
+to applied fertilizers over several years.
+nutrient availability in the soil.
+Efficient vegetable production relies on growers adjusting
+Lime index (sometimes called “buffer pH”) measures reserve
+lime and fertilizer applications to their soils’ existing pH and
+soil acidity. The lime index is used to make limestone
+fertility levels. Growers can increase their net returns if they
+recommendations. It usually takes lime four to six months to
+maintain proper soil fertility, which can reduce crop losses
+correct soil acidity. Your land-grant university or extension
+from physiological disorders. Applying nutrients based on
+service can provide you with liming recommendations
+crop needs and existing soil nutrient levels also reduces the
+specific your state.
+movement of nutrients into groundwater and surface waters.
+Phosphorus may be reported as P (phosphorus) or P O
+Take soil samples at the same time each year, preferably in 2 5
+(phosphate). The units for P and other nutrient values may be
+the fall or early spring. Soil pH varies seasonally, so
+given as parts per million (ppm) or pounds per acre. The
+comparing winter and summer samples is difficult. A typical
+value is an estimate of the amount of phosophorus in the soil
+soil test for plants usually determines pH, lime index (also
+that the plant can use for growth. Applying P O fertilizer at
+called buffer pH), available Bray P1 phosphorus (P), 2 5
+100 pounds per acre will increase the soil P test level by
+exchangeable potassium (K), calcium (Ca), magnesium (Mg),
+about 10 pounds per acre.
+and cation exchange capacity. It also includes the percent
+base saturation of Ca, Mg, and K.
+Potassium may be reported as K (potassium) or K O
+2
+(potash). The test value estimates the amount of K available
+In addition to the routine pH test, growers should test soils
+per acre. About 50 percent of the potassium applied in
+that are susceptible to large variations in soil pH for salt pH.
+fertilizers is fixed in the soil and is not immediately available
+The salt pH provides a more accurate estimate of the true
+to plants — this can vary by soil type and clay content. Soil K
+acidity in these soil types by simulating the effects of
+declines due crop removal,leaching, and soil erosion.
+fertilizer salts on soil pH.
+Calcium (Ca) and magnesium (Mg) soil test values
+There are also tests to determine organic matter and other
+represent the amount of Ca and Mg available in the soil. Ca
+nutrients, including sulfur (S), manganese (Mn), boron (B),
+and Mg values generally are low when soils are acidic.
+and zinc (Zn). Some labs test for microbial activity and
+Levels are usually sufficient when pH and the lime test index
+water-soluble carbon, which can predict the release of
+are at proper levels.
+nitrogen and phosphorus from organic sources.
+Cation exchange capacity (CEC) is a measure of the soil’s
+ability to hold exchangeable cations such as hydrogen (H),
+Your land-grant university or extension service can provide
+Ca, Mg, K, sodium (Na), iron (Fe), and aluminum (Al). CEC
+you with a list of soil testing labs in your area.
+is measured in terms of milliequivalents (meq) per 100 grams
+of soil. Soil type and soil organic matter determine CEC.
+Soilless Growing Media
+Clay-, silt- and loam-type soils generally have a higher CEC
+than sandy soils because they have many more exchange sites
+to hold cations. High-CEC soils generally hold nutrients
+Test soilless growing media used in transplant or crop
+better than low-CEC soils. High-CEC also lose smaller
+production for pH and total soluble salts before using it.
+amounts of nutrients due to leaching.
+Request a test specifically for “soilless media” from the lab.
+If the crop will be grown in soilless media more than a
+month, regularly test the media or plant tissue to catch any
+nutrient imbalances that may affect crop growth and yield.
+14 Midwest Veg Guide 2022Soil Fertility and Nutrient Management
+Here are the typical CEC ranges of various soil types: It is up to growers to figure how much fertilizer or product
+they must apply to meet the suggested recommendations.
+Soil Texture CEC Range This can be tricky, because growers may need more than one
+Sands 5-15 kind of fertilizer product to meet the recommendations.
+Silts 8-30
+Clays 25-50
+Fertilizer products are required to list the percent N, P O ,
+Organic soils 50+ 2 5
+and K O equivalent they contain — and the products are
+2
+listed in the order: N-P-K. For example, a fertilizer labeled
+Base saturation is the percentage of the total CEC occupied
+10-10-10 contains the equivalent of 10 percent N, 10 percent
+by basic cations such as Ca, Mg, and K. Base saturation is
+P O , and 10 percent K O. So a pound of this fertilizer would
+related to soil pH and soil fertility. On acid soils, the percent 2 5 2
+contain 0.1 pound each of N, P O , and K O. Urea labeled
+base saturation of Ca and Mg is low. The saturation of the 2 5 2
+46-0-0 contains 46 percent N, 0 percent P O , and 0 percent
+different cations is important because plants take up some 2 5
+K O. Potassium chloride (muriate of potash) labeled 0-0-60
+cations more easily than others. The base saturation for Ca 2
+contains 0 percent N, 0 percent P O , and 60 percent K O.
+should be 60 percent or more; Mg should range between 10 2 5 2
+Organic fertilizers are also labeled this way — a 3-2-2
+and 15 percent; K should range from 1 to 5 percent. Excess
+product contains 3 percent N, 2 percent P O , and 2 percent
+levels of one cation can reduce the uptake of another. Some 2 5
+K O. It is important to note that some of the N and P in
+soil scientists believe that there should be specific Ca:Mg 2
+organic fertilizers require warm, moist soil and microbial
+ratios and Mg:K ratios (2:1). Most horticulturists believe that
+activity before it is available to plants.
+if base saturation levels are at the minimum levels suggested
+here, then it is not important to maintain specific proportions
+Let’s say a nutrient recommendation calls for 100 pounds of
+or ratios.
+N and 100 pounds of K O per acre.
+2
+Crop Nutrient Requirements
+A grower could meet that recommendation by using 217
+pounds of urea (217 pounds of urea X 0.46 N = 100
+Vegetable crops require 17 essential elements (nutrients) for
+pounds of N) and 167 pounds of potassium chloride (167
+development and reproduction. In addition to carbon (C),
+pounds of potassium chloride X 0.60 K O = 100 pounds of
+hydrogen (H), and oxygen (O), plants need macronutrients in 2
+K O).
+large concentrations and micronutrients in relatively small 2
+concentrations.
+A grower could also meet that recommendation by using
+1,000 pounds of premixed 10-10-10 fertilizer (1,000 pounds
+Each crop has a crop nutrient requirement (CNR) for
+of fertilizer X 0.10 N = 100 pounds of N; 1,000 pounds of
+particular nutrients. The CNR is defined as the total amount
+fertilizer X 0.10 K O = 100 pounds of K O).
+of the nutrient (in pounds per acre) the crop requires to 2 2
+produce optimum economic yield. The concept of optimum
+But that same fertilizer would also supply 100 pounds of
+economic yield is important in vegetable production, because
+P O that is not needed. So, using such a fertilizer could be a
+2 5
+applying a certain amount of a nutrient might produce a lot of
+waste of money and could pollute surface or ground water.
+biomass, but may produce negligible marketable product due
+to small fruit size, small number of fruits, or large number of
+If you choose a premixed fertilizer, select the ratio of
+culls and small number of marketable fruits. Always consider
+nutrients that comes closest to the amount of recommended
+fruit number, size, and quality in the CNR concept for
+nutrients. It is not necessary to be exact as long as any
+vegetable production.
+differences are reasonable. If you can’t get to the
+recommended nutrient application using premixed fertilizers,
+The best way to achieve the CNR is to begin with a soil test.
+it is fine to first make a base application using a standard
+The results from a soil lab analysis include recommendations
+fertilizer ratio, and then apply individual elements to reach
+for the amount of lime or sulfur needed to balance the soil
+the recommended nutrient levels.
+pH, and indicate the amount of fertilizer needed to deliver the
+CNR.
+For example, you can supply extra N with urea or urea
+ammonium nitrate (UAN) solution; you can supply extra K
+Macronutrients with muriate of potash. Custom-blended fertilizers can be
+made to almost any desired ratio.
+Nitrogen (N), phosphorus (P), and potassium (K) are the Nitrogen (N)
+primary macronutrients, and they are commonly applied in
+fertilizers for field vegetable production. Plant nutrient Standard soil tests aren’t very useful for predicting how much
+recommendations are often given as pounds of N, pounds of N fertilizer you need to apply to optimize yield and qualilty.
+phosphate (P O ) and pounds of potash (K O) per acre. N fertilizer recommendations account for the soil type,
+2 5 2
+amount of organic matter in the soil, field history, and crop.
+The recommendations in this guide are based on data from
+Midwest Veg Guide 2022 15Soil Fertility and Nutrient Management
+relevant field trials. Adjust these recommendations according form of lime solves most Ca and Mg deficiency problems
+to experience, soil type, cropping history, additions of (see Soil pH and Adjustment). When Ca is deficient and there
+organic matter, and crop culture system. is no need to increase soil pH, you may use gypsum (calcium
+sulfate) as a source of Ca. Similarly, you can add Mg without
+For example, suppose your vegetable crop is following affecting pH by using Epsom salts (magnesium sulfate, 10
+soybeans, alfalfa, or a grass-legume hay crop. If your soils percent Mg), sul-po-mag (11 percent Mg), or finely ground
+have more than 3 percent organic matter, you may not need to magnesium oxide (e.g., MAGOX, 58 percent Mg).
+add any sidedressed N. If your soils that have less than 3
+percent organic matter, then half the total N can be applied If a soil test shows low Mg (less than 50 ppm in Minnesota or
+preplant and the other half sidedressed early in the crop less than 40 ppm in other states), apply Mg at 100 pounds per
+growth cycle. acre broadcast or 20 pounds per acre in the row.
+Now suppose your vegetable crop is following corn, rye, oats, If a soil test shows medium Mg (51-100 ppm in Minnesota or
+wheat, or a previous vegetable crop. There may be no 40-69 ppm in other states) apply Mg at 50 pounds per acre
+residual soil N available, so the crop may benefit from broadcast or 10 pounds per acre in the row.
+additional sidedress N. It may be useful to test the soil for
+nitrate-N shortly before sidedressing to assess whether the If a soil test shows high Mg, no application is necessary.
+crop will benefit from the application.
+You can make foliar sprays of Epsom salts at the rate of 10 to
+Phosphorus (P) 15 pounds in a least 30 gallons per acre to temporarily solve
+Mg deficiencies during the growing season.
+P recommendations for vegetables are based on the soil test
+value, the type of crop, and estimates of crop removal. On
+If a soil test indicates a need for sulfur, materials such as
+mineral soils, most vegetables will benefit from P fertilization
+gypsum (calcium sulfate), Epsom salts (magnesium sulfate),
+if the soil test is less than 35-40 ppm P using the Bray-Kurtz
+ammonium sulfate, potassium sulfate, or potassium-
+P1 extraction method.
+magnesium sulfate can be used. Make sure to account for the
+nutrients in addition to sulfur that these materials supply.
+If the soil test on a mineral soil is more than 80 ppm P, then
+no additional P is recommended for most vegetables. P does
+Micronutrients
+not move readily in the soil and applied P easily reacts with
+soil minerals so that it is unavailable to the plant. That’s why
+P fertilizer is applied in bands near the crop when possible,
+Micronutrients include boron (B), chlorine (Cl), copper (Cu),
+and starter solutions that are high in P are recommended for
+iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni),
+transplants.
+and zinc (Zn). Of these nutrients, those most likely to be
+lacking in Midwest soils used for vegetable production are B
+Potassium (K)
+and Mn. Zn may also be a concern in some areas.
+K recommendations for vegetables are based on the soil test
+Manganese (Mn)
+value, the soil CEC, the type of crop, and estimates of crop
+removal.
+Mn deficiency is common in some areas. Mn deficiency
+occurs primarily on lakebed and fine-textured, dark- colored
+Vegetables usually benefit from K fertilization if the soil test
+soils with high pH. Cool, wet conditions tend to intensify Mn
+is:
+deficiency. Beans, beets, onions, spinach, and tomatoes have
+• Less than 85 ppm K in soil with low CEC (4 meq/100 g). high requirements, but deficiencies also are reported for
+cucumbers, peppers, and turnips.
+• Less than 115 ppm K in soil with medium CEC (16
+meq/100 g).
+Apply manganese sulfate at 2 to 4 pounds per 100 gallons per
+The maximum annual K recommendation for most vegetables acre to eliminate deficiency problems observed during the
+is 300 pounds of K 2 O per acre. K fertilization is not usually growing season. Fungicides containing Mn can also help
+recommended if the soil test is more than 135 ppm K on a correct deficiencies.
+soil with low CEC, or more than 165 ppm K on a soil with
+medium CEC. Boron (B)
+Calcium (Ca), Magnesium (Mg), Sulfur B leaches readily, so responsive crops often need annual
+applications on sandy loam, loamy sand, sandy, and muck
+(S)
+soils. Deficiency symptoms include browning on cauliflower
+heads, cracked stems on celery, blackheart on beet, and
+Calcium (Ca), Magnesium (Mg) and Sulfur (S) are
+internal browning on turnip.
+considered secondary macronutrients because plants require
+them in smaller amounts than N, P, and K. Ca and Mg
+usually are deficient in acid soils. Adding the appropriate
+16 Midwest Veg Guide 2022Soil Fertility and Nutrient Management
+Broccoli, cauliflower, celery, beet, turnip, and rutabaga are Animal Manures and Composts
+likely to respond to B applications of 3 to 4 pounds per acre
+when soil levels are low. Cabbage, carrot, lettuce, parsnip, as Fertilizers
+radish, spinach, and tomato show a medium response and
+usually benefit from 1 to 2 pounds of B per acre.
+Animal manures and composts can provide significant
+Bean, peas, and cucumber are sensitive to B, so do not apply nutrients to plants. The nutrient content of manures varies
+it to these crops. among animal species and within each species. Nutrients in
+composts can vary even more and depend on parent material
+You can add B to the soil with Borax (which contains 10.6 and processing. Test manures and composts to determine the
+percent B) or Solubor (which contains 20.5 percent B). B potential nutrient contributions and plan application rates
+applications are most effective if applied with the fertilizer at based on their nutrient content. Avoid using composts of
+preplant or at the time of transplanting. unknown origin or parent material. Improperly made
+composts, be they of rural or urban origin, can contain heavy
+Mid- or late season foliar applications are not as effective as metals, inorganic debris, diseases, and insects that are
+early granular or foliar applications. It is important not to unwelcome on your fields.
+exceed recommended B rates to avoid toxicity in subsequent
+B-sensitive crops. Carryover is most likely after a dry fall and It is important to consider the timing of manure and compost
+winter. applications. Fresh manure has potential to “burn” a crop
+because it often contains high levels of ammonia, and fresh or
+Other micronutrient deficiencies are rare in field-grown casually “aged” manure often contains human pathogens. For
+vegetable crops in this region. these reasons, it is rarely acceptable to apply fresh or “aged”
+manure to food crops while they are growing. Generally, a
+fall application is acceptable, ideally to a cover crop, and at
+Fertilizer and the Environment
+least nine months before harvesting the next vegetable crop.
+Any use of manure or composts should follow current Good
+Nitrogen from both natural (manure, compost, green manure)
+Agricultural Practices (GAPs), and mandates of the Food
+and synthetic sources can be lost from fields, which can
+Safety Modernization Act (FSMA). The demands of a
+pollute water and increase greenhouse gasses that contribute
+to climate change. Similarly, natural and synthetic sources of
+particular market may be more stringent. For guidanc e about
+GAPS and FSMA, see Produce Food Safety section.
+P can move out of cropped areas and pollute waterways. With
+proper fertilizer management, vegetable producers can
+minimize environmental impacts and improve fertilizer use Fertilizer Application Methods
+efficiency. Growers should know their crops, account for the
+nutrient values of all soil amendments, and test soils and
+plants to support their fertilizer decisions. Fertilizer application timing and methods vary from farm-to-
+farm depending on cultural practices and equipment. This
+Split N applications — applying some N before planting and section outlines common practices of efficient fertilizer
+sidedressing the rest during the season — are generally more placement and utilization. These practices can be modified to
+efficient than complete preplant applications. However, split suit particular situations.
+applications require growers to pay attention to crop growth
+and sidedress at the appropriate times: before crops are Usually, growers can apply at preplant and disk into the soil
+stressed, and early enough to allow crops to mature. 50-60 percent of the recommended N and all of the P and K
+fertilizer. This is especially true when the rates of a complete
+Banding P at planting (with or without some P being fertilizer will require more than 400 pounds per acre.
+broadcast/incorporated) is generally more efficient than
+broadcasting all P. Sidedressing P is not recommended We recommend band application for many direct-seeded
+because it is not mobile in soils. vegetable crops. This technique applies a concentrated line of
+fertilizer 2 inches to the side and 2 inches below the seed
+Generally, K and the minor elements do not contribute furrow. This is an efficient way to apply fertilizer, and much
+significantly to groundwater pollution, but growers should of the P and K fertilizer can be applied this way. However, do
+manage them properly to minimize costs and maximize not make banded fertilizer applications exceeding 80 pounds
+efficiency. per acre of N plus K — this can injure seed.
+Minimizing soil erosion, timing irrigation properly, and For crops grown on plastic mulch (with or without a raised
+avoiding excess irrigation will also improve fertilizer use bed) growers may apply fertilizer just to the bed area. As with
+efficiency and reduce losses from the field. broadcast applications, growers can apply a portion of the
+recommended N, and all of the P and K before planting. If N
+will be supplied through fertigation during the season, apply
+Midwest Veg Guide 2022 17Soil Fertility and Nutrient Management
+only 20 to 50 percent of the total N before planting. Apply Rate per Linear Bed Foot for Various
+the remaining N with regular drip irrigation at 5 to 10 pounds
+Bed Spacings and Rates
+of N per week until the total recommended for the season has
+been applied. K may also be applied through drip irrigation if
+Bed Linear Bed Fertilizer Rate (lbs./A)
+the crop needs more than has been applied to the soil before
+Spacing Feet (LBF) 20 40 60 80 100 120
+planting.
+(ft) in 1 Acre Fertilizer Rate (lb./LBF)
+3 14,520 0.0014 0.0028 0.0041 0.0055 0.0069 0.0083
+If you apply only part of the recommended N before planting, 4 10,890 0.0018 0.0037 0.0055 0.0073 0.0092 0.011
+apply the remainder as a sidedressing when the plants are still 5 8,712 0.0023 0.0046 0.0069 0.0092 0.0115 0.0138
+6 7,260 0.0028 0.0055 0.0083 0.011 0.0138 0.0165
+young, or apply N through fertigation before and during the
+7 6,222 0.0032 0.0064 0.0096 0.0129 0.0161 0.0193
+period of rapid crop growth. Early sidedress applications are
+8 5,445 0.0037 0.0073 0.011 0.0147 0.0184 0.022
+especially important with crops such as sweet corn, broccoli, 9 4,840 0.0041 0.0083 0.0124 0.0165 0.0207 0.0248
+and cabbage. The total N applied during the growing season 10 4,356 0.0046 0.0092 0.0138 0.0184 0.023 0.0275
+(broadcast, plus banded, plus transplant starter, plus
+sidedressed, plus fertigated) should equal the recommended
+Soil pH and Adjustment
+N rate. Applying more than the recommended rate of N may
+be necessary when there are leaching rains.
+Soil pH describes whether the soil solution is acidic or
+Transplanted crops often respond to a small amount of water- alkaline. The native pH of Midwest soils varies from quite
+soluble fertilizer in the transplanting water. Special fertilizer acidic (pH 5.0 or lower) to quite alkaline (pH 7.5 or higher).
+grades (such as 14-28-14, 10-52-10, 23-21-17) are used at a Most vegetable crops prefer a pH range of 6.0-6.8 on mineral
+rate of 3 pounds per 50 gallons of water. The high-P liquid soils. On muck soils, a pH of 5.5-5.8 is considered adequate.
+10-34-0 can also be used at the rate of 2 quarts per 50 gallons Vegetables grown under acid soil conditions lack vigor and
+of water. Apply starter solutions at 8 ounces per plant. If dry yield poorly. Acid soils restrict the uptake of nutrients such as
+weather is prevalent, irrigate after setting the plants. P and K. Acid soils also make elements such as aluminum
+(Al) and manganese (Mn) more available to plants so that the
+Fertilizer Rates per Linear Bed Foot plant may absorb enough to be toxic to the plant. Under
+severe conditions, visible foliage injury can result from
+magnesium (Mg) deficiency and/or Mn toxicity.
+You can apply fertilizer in a band while shaping beds or Physiological disorders such as blossom end rot are more
+laying plastic. You can also apply it dissolved through common on acid soils. In contrast, when soil pH is high, Mn,
+irrigation water and delivered by drip tape to the base of the B, iron (Fe), and certain other micronutrients become less
+plants. In these systems, it is helpful to calculate the fertilizer available for plant uptake. Deficiencies of these
+rate per linear bed foot (LBF) based on the fertilizer rate per micronutrients are most likely to occur on mineral soils with
+acre. To do so, you will need to know: pH greater than 7.4.
+• Bed spacing (BS): distance in feet between bed centers
+Lime neutralizes soil acidity and supplies Ca and Mg,
+• Fertilizer rate in lb./A (RatePerA)
+elements necessary for plant growth. A soil test determines
+Use this equation to determine the fertilizer rate in pounds per how much lime you need. Liming may be necessary every
+LBF: few years because soil pH tends to decline over time. The
+decline is caused by ammonium-releasing N fertilizers, the
+(RatePerA X BS) / 43,560 = RatePerLBF crop’s removal of Ca, and the leaching of Ca and Mg by rain.
+Example:
+Soil pH and Plant Nutrients
+Bed spacing (BS) = 5 ft. between centers of beds
+Fertilizer rate in lb./A (RatePerA) = 100 lbs./A Nitrogen (N)
+(100 X 5) / 43,560 = 0.0115 lb./LBF Plants can take up N in the form of ammonium (NH 4 +) or
+nitrate (NO
+3
+-). In the soil, ammonium is converted into
+For a crop on six 100-foot beds, there would 600 LBF to nitrate, and vice versa, by particular sets of microbes. When
+fertilize. The amount of fertilizer needed to supply 100 lbs./A soil pH is near neutral (pH 7), and the soil is moist and warm,
+would be: the microbial conversion of ammonium to nitrate
+(nitrification) is rapid, and crops generally take up nitrate. In
+600 LBF X 0.0115 lb./LBF= 6.9 lbs. acid soils (pH lower than 6), nitrification is slow, and plants
+will take up a higher percentage of N as ammonium.
+The Rate per Linear Bed Foot for Various Bed Spacings and
+Rates table provides conversion of lb./A to lb./LBF for a Soil pH also plays an important role in N loss due to
+number of bed spacings and fertilizer rates. volatilization. Volatilization occurs when N compounds turn
+18 Midwest Veg Guide 2022Soil Fertility and Nutrient Management
+to gaseous forms (ammonia, nitrous oxides, N gas) and Sulfur (S)
+evaporate into the air. Ammonium in the soil solution exists
+Plants absorb sulfur as sulfate (SO 2-). Sulfate is little affected
+in equilibrium with ammonia gas (NH ). The amount of each 3
+3 4
+by soil pH.
+compound depends to a large extent on the soil pH. At lower
+pH, there is more ammonium and less ammonia gas. At pH 7, Micronutrients
+the equilibrium condition is 99 percent ammonium and 1
+percent ammonia. At pH 8, the equilibrium is about 90 Micronutrients are elements plants need in very small
+amounts. The availability of the micronutrients Mn, Fe,
+percent ammonium and 10 percent ammonia gas.
+copper (Cu), Zn, and B, decreases as soil pH increases. The
+exact mechanisms responsible for reducing availability differ
+Volatilization from N fertilizers that contribute ammonium to
+for each nutrient. Deficiencies of these micronutrients are
+the soil (such as urea) is likely to be high at higher soil pH
+more likely at high pH, and toxicities are more likely at low
+levels. However, depending on soil temperature and moisture,
+pH.
+volatilization can be significant at lower soil pH levels, too,
+especially if the soil is dry and the fertilizer is not
+The availability of the micronutrient molybdenum (Mo) is
+incorporated. To minimize volatilization, apply N in just the
+reduced under acid conditions. Mo deficiency is more likely
+quantities plants need during the growing season, incorporate
+to occur in acid soils.
+it into the soil, and use slow-release sources when possible.
+Soil pH is also an important factor in the N nutrition of Types of Lime
+legumes. Plants in this family are able to fix N from the soil
+with the help of several genera of soil bacteria known
+Several types of lime that may be used to manage soil pH
+collectively as Rhizobia. As soils become more acidic,
+and/or Ca and Mg are described below. After each
+Rhizobia decline in activity, fixing less N.
+discussion, the percentage of CaO and MgO in a typical batch
+Phosphorus (P) of lime is given.
+Plants absorb P from the soil solution in the form of soluble Calcitic lime (also called high-calcium lime — 50-56% CaO,
+phosphates. At any time, the amount of P in solution is 1-4% MgO) is the most soluble form and is the preferred type
+usually extremely low — often less than 1 pound per acre — when soil Ca is low and soil Mg is high. It generally reacts
+because P joins with other elements in the soil to form stable the fastest and is the most common form available in some
+minerals. areas.
+The type of mineral that gets formed in the soil depends on Magnesian lime (also called hi-mag lime — 32-42% CaO, 5-
+the soil’s pH. In alkaline soils, P in fertilizers such as mono- 15% MgO) is intermediate in solubility and is the preferred
+ammonium phosphate (11-55-0) usually react with Ca to type when pH, Ca, and Mg are low. The continued use of
+form calcium phosphate minerals. The P in calcium high-Mg liming materials increases the base saturation of Mg
+phosphate minerals is not available to plants, but as plants and decreases Ca saturation, which may result in Ca
+remove P from the soil solution, the minerals gradually deficiencies during stress periods.
+dissolve to replenish the supply of P in the soil solution.
+Greenhouse and field research has shown that more than 90 Dolomitic lime (30% CaO, 20% MgO) is the preferred type
+percent of the fertilizer P tied up this year in calcium when Mg is particularly low. Dolomitic lime is the least
+phosphate minerals will be available to crops in future years. soluble of the materials.
+In acid soils, P usually reacts with Al and Fe, instead of Ca. Hydrated lime (60% CaO, 12% MgO) reacts most rapidly
+Aluminum and iron phosphates do not dissolve as readily as with the soil, but unlike the ground limestones described
+calcium phosphates, so in acid soils, applied P tends to be above, it does not continue to provide liming activity over a
+tied up more than in alkaline soils. period of years. Hydrated lime is caustic to humans and
+plants, and applicators must take care not to burn plants. Use
+Potassium (K) hydrated lime only in emergencies when rapid changes in soil
+pH are needed.
+In soils with certain types of clay, K is fixed at specific sites
+between clay layers. This tends to be reduced under acid
+Gypsum is not a liming material and does not affect soil pH.
+conditions, presumably because Al occupies the binding sites
+It is a crude calcium sulfate product consisting chiefly of
+that would otherwise trap K. Because of this, one might think
+calcium sulfate with combined water (CaSO 2H O).
+4 2
+that raising the pH by liming would reduce the availability of
+Although gypsum is not capable of neutralizing soil acidity, it
+K. However, this is not the case — at least in the short term.
+is a source of calcium and sulfur.
+Liming increases K availability, probably because Ca
+displaces K on exchange sites.
+Fluid lime is a suspension of finely ground limestone in
+water, and may contain other dispersing agents. Finely
+Midwest Veg Guide 2022 19Soil Fertility and Nutrient Management
+ground limestone reacts with soil more quickly than normal
+limestone. In fluid lime, 100 percent of the liming material Concentrations of nutrients in plant tissue that are normal,
+must pass through a 100-mesh screen, and nearly 80 to 90 deficient, or excessive have been identified for most
+percent must pass through an even smaller 200-mesh screen. vegetables. The concentrations depend on the plant part and
+The principles of effectiveness of ground agricultural lime stage of growth. Before collecting plant tissue, contact a
+also apply to fine or fluid lime. Lime suspensions do not tissue testing lab and request instructions for collecting and
+possess any special capabilities compared with conventional submitting samples. The specific plant part to collect for
+agricultural lime that contains a high degree of 60-mesh or tissue analysis varies depending on the crop; often it is a
+finer particles. recently mature leaf. The stage of crop growth is important
+because normal tissue nutrient concentrations change as the
+Pelletized lime, or pell-lime, is finely ground lime that has crop develops.
+been formed into pellets for easy application. Because it is
+finely ground, it will react quickly in the soil. Unlike regular If the tissue test is being used to diagnose a specific
+ag lime, it will not provide residual liming activity over a few symptom, collect separate samples from each of these groups:
+years.
+• Symptomatic plants
+• Healthy plants
+Liming Recommendations
+• Plants with minor symptoms
+Comparing the results of these three samples, along with
+Fields usually require lime every few years because Ca and results of soil tests, can help in determining the problem. For
+Mg are removed in harvested portions of the crop, leached assistance in interpreting plant tissue tests, contact your
+out of surface soil by rainfall, and lost from the field when local extension vegetable specialist.
+soil erodes. Lime is also needed to neutralize acidity
+produced by acid-forming fertilizers.
+Chemigation Management
+Growers sometimes need to add lime to correct subsoil
+acidity. In that case, apply enough lime to bring the surface
+Chemigation is the process of applying an agricultural
+soil to pH 6.8. The subsoil pH will increase only if you
+chemical (pesticide or fertilizer) to the soil or plant surface
+maintain the surface pH near 6.5 or more. Over time, rain
+through an irrigation system. Depending on the type of
+will leach the Ca and Mg into the subsoil, raising its pH.
+agricultural chemical, chemigation may be referred to as
+Because this downward movement takes several years, the
+fertigation, insectigation, fungigation, etc.
+sooner the lime is applied, the better.
+For chemigation applications, you can only use pesticides
+In most cases, make split applications when the
+that display EPA approval for such applications on the
+recommendation is more than 4 tons per acre. This will
+label. Each chemigation and irrigation system also must use
+achieve a more thorough mixing with the acidic soil.
+the safety equipment specified on the EPA label as well as
+any equipment required in your state. Some states also may
+Apply half the lime before plowing and half before soil
+require a system or operator permit before you can apply
+fitting. For best results, apply the lime at least six months
+any product with chemigation.
+before seeding a legume.
+Chemigation can be an effective application option for some
+If you have a recommendation for a maintenance application
+labeled pesticides if the irrigation system can apply the
+of 2 tons per acre or less, you can apply it at any time in the
+chemical/water solution uniformly over the target area with
+cropping sequence.
+the correct water depth. Some pesticides work best with less
+than 0.25 inch of water per application.
+Plant Tissue Analysis
+Most late-model center pivot and linear move systems
+provide adequate distribution but some may not be able to
+Plant tissue analysis for nutrients is a useful tool in managing apply a small enough volume of water. Solid set sprinkler
+plant health, and a tissue test is usually required to confirm a systems may be effective for some pesticides but require
+diagnosis of nutrient deficiency. Tissue testing can be close timing of chemical movements to get complete and
+especially helpful when growing a new crop or a familiar uniform coverage of the field. Drip irrigation can be used
+crop in a new production system. effectively to apply certain pesticides and fertilizers.
+Traveling gun and hand move systems do not provide water
+Regular tissue tests, especially early in the growing season, distribution that has high uniformity and are not
+will provide early notice of nutrient imbalances so they can recommended. Product labels provide more information
+be corrected before yield or quality is affected. With high about appropriate water application amounts and which
+value greenhouse crops regular tissue testing is often a irrigation systems are recommended.
+standard part of production.
+20 Midwest Veg Guide 2022Soil Fertility and Nutrient Management
+If you do not have or maintain proper check valves and which should be terminated before it is 18 inches tall if it will
+interlocks, the injected chemicals could backflow into the be incorporated into the soil.
+water source. EPA and many state regulations specify that
+each system must contain a reduced pressure zone (RPZ) The overwintering capacity of any cover crop is dependent on
+backflow prevention valve, or one or two independent check prevailing winter temperatures and conditions. Depending on
+valves with low-pressure drains and vacuum relief valves, winter weather, a cover crop may overwinter in one region
+between the irrigation water source and the point of chemical and winterkill in another. Field peas and crimson clover
+injection. Also, most regulations require a power interlock generally winter kill, but sometimes they do not and must be
+between the irrigation pump and the chemical injector unit, a terminated in the spring.
+low pressure shut down switch and a check valve on the
+chemical injection hose. For specific requirements, check Different cover crops frequently require different soil
+with the appropriate local or state agency. conditions for optimum growth. For example, alfalfa does
+best on well-drained soils, while Ladino clover grows on
+It is important to accurately calibrate the irrigation system poorly drained soils. Some crops, such as cereal rye, have
+and pesticide application rate. The chemigation operator must fibrous root systems, whereas others, such as sweet clover,
+be aware of the irrigation system’s application speed (acres have large. Whenever it is possible to use a mixture of these
+per hour) for the chosen water application amount and the crops, the combination results in more organic matter to plow
+concentration of chemical solution to determine the rate of under.
+chemical injection.
+Cover Crops for Vegetable Farms
+More information about the special equipment, operations,
+and calibration in overhead irrigation systems is available
+from the University of Minnesota Extension Service This table describes some characteristics of cover crops that
+resources, Chemigation Safety Measures, and, Applying may be used for vegetable crops. For more information about
+Nitrogen with Irrigation Water, available at cover crops, visit the Midwest Cover Crops Council website,
+extension.umn.edu. mccc.msu.edu, or refer to the SARE resource, Managing
+Cover Crops Profitably, at sare.org/resources/managing-
+cover-crops-profitably-3rd-edition.
+Organic Matter and Cover
+Crops Cover Crop Pounds/ Quantity of Seed Desirable
+Bushel per Acre (pounds) Seeding Dates
+Nonlegumes
+90-120 (alone)
+Organic matter affects plant growth and frequently is referred Rye 60 Sept. 1-Nov. 10
+90 (mixture)
+to as the “glue” that holds soil particles together. Perennial or
+15-20 (alone)
+common 24 Aug. 1-Sept. 15
+5-8 (mixture)
+ryegrass
+It also promotes the development of soil aggregates, thus
+Sudangrass 40 20-30 May 15-July 1
+improving drainage, soil tilth, and soil structure. In sandy and
+Field corn 56 50-60 May 15-July 1
+sandy loam soils, organic matter improves water- holding
+2-3 weeks before
+Winter barley 48 80-100
+capacity. fly-safe date
+Hessian fly-safe
+Wheat 60 90-120
+date
+You can add organic matter to the soil by various methods
+Legumes
+using green manure crops, cover crops, crop residues, animal
+16-20 (alone) March 1-April 15
+manures, mulches, and composts. Green manure crops Sweet clover 60 10-12 (mixture) July 15-Aug. 20
+include sweet clover, alfalfa, thickly sown field corn, and Red clover 60 10-15 (alone) Feb. 1-April 1
+summer seedings of soybean. These crops generally are Soybean 60 90-100 May 15-July 1
+Alfalfa 60 12-18 March-April
+plowed under before they are mature. At this stage, the plants
+Hairy vetch 60 15-20 (mixture) Sept. 1-Nov. 1
+usually contain the greatest amount of N and other nutrients,
+Mixtures
+plus an adequate amount of moisture for rapid decay. Rye/
+90/15-20 Sept. 1-Oct. 1
+However, green manure crops also can be plowed under in hairy vetch
+the mature dry stage. At that stage, they do not decompose as Ryegrass/ 5-8
+July 15-Aug. 20
+sweet clover 12-15
+readily and additional N may be needed to aid decomposition.
+Sweet clover/
+6-8 March 1-April 15
+orchardgrass
+Typically, growers plant cover crops after harvest to protect
+the soil against erosion and terminate the cover crops the
+following spring. Depending on the cover crop, termination is
+accomplished through natural winter-kill, tillage, herbicide,
+roller-crimping, or tarping, Additional N may be needed to
+hasten the decomposition of the cover crop and avoid tie-up
+of soil nitrogen. This is especially important with winter rye,
+Midwest Veg Guide 2022 21Soil Fertility and Nutrient Management
+Examples of Integrating Cover Crops Year 3
+March: Leave winter-killed buckwheat
+April-August: Carrot production
+Cover crops help add organic matter, manage soilborne August-November: Crimson clover as a cover crop
+diseases, and avoid soil erosion. Below are examples of five,
+four-year cropping sequences that you can use with vegetable Year 4
+crops. Each cover crop rotation sequence is designed to take March-May: If crimson clover does not winter kill, terminate
+advantage of legumes for N-fixation, grass or buckwheat to by tillage or herbicide
+suppress weeds, and brassica cover crops for bio-fumigation May-September: Sweet corn production
+and reducing soil compaction. These rotations won't work on September-November: Cereal rye and hairy vetch as cover
+every farm. Growers should try likely rotations in crops
+manageable areas to develop the best strategy for their farms.
+Year 5
+Example 1
+Return to Year 1
+Year 0
+Example 3
+Fall before Year 1: Plant oats and peas as cover crops
+Year 0
+Year 1 Fall before Year 1: Oilseed radish as cover crop
+March: If field peas do not winter kill, terminate by mowing,
+tillage, or herbicide Year 1
+April-August: Onion production March: Leave winter-killed oilseed radish
+August-November: Crimson clover as a cover crop April-June: Lettuce production
+July-August: Buckwheat as cover crop
+Year 2 August-November: Cauliflower production
+March: If crimson clover does not winter kill, terminate by November-June of Year 2: Cereal rye as a cover crop
+tillage or herbicide
+April-August: Potato production Year 2
+August-November: Sorghum-sudangrass as a cover crop March-June: Terminate cereal rye cover crop
+June-October: Eggplant or pepper production
+Year 3 October-May of Year 3: Triticale as cover crop
+March-May: Leave winter-killed sorghum-sudangrass
+May-October: Sweet potato production Year 3
+October-June of Year 4: Cereal rye as a cover crop March-May: Terminate triticale
+May-September: Onion production
+Year 4 September-November: Oats and field peas as cover crops
+April-May: Terminate cereal rye by tillage, herbicide, or
+roller-crimping Year 4
+June-September: Cucumber production March-May: Leave winter-killed oats; terminate field peas if
+September-November: Oats and field peas as a cover crop not winter-killed
+May-September: Cucumber production
+Year 5 September-November: Oilseed radish as cover crop
+Return to Year 1
+Year 5
+Example 2
+Return to Year 1
+Year 0
+Example 4
+Fall before Year 1: Cereal rye and hairy vetch as cover crops
+Year 0
+Year 1 Fall before Year 1: Cowpea as cover crop
+March-June: Terminate cereal rye and hairy vetch, leave
+residue on surface Year 1
+June-October: Pumpkin production March-May: Leave winter-killed cowpea
+November-May of Year 2: Cereal rye as a cover crop May-August: Sweet corn production
+August-October: Buckwheat as cover crop
+Year 2 October-August of Year 2: Garlic production
+March-May: Terminate cereal rye as cover crop
+May-September: Tomato production Year 2
+September-November: Buckwheat as a cover crop March-August: Leave garlic
+August-November: Sorghum-sudangrass as cover crop
+22 Midwest Veg Guide 2022Transplant Production
+Year 3 Most growers use polyethylene-covered greenhouse
+March-June: Leave winter-killed sorghum-sudangrass structures to provide warmth and protection from the
+June-November: Pumpkin or winter squash production environment. Although cole crops do not need the more
+November-April of Year 4: Cereal rye as cover crop moderating conditions a greenhouse provides, they can be
+grown in coldframes, lean-tos, or covered wagon beds.
+Year 4
+March: Terminate cereal rye cover crop The heater is one of the most critical features of a transplant
+April-August: Potato production ghouse. Vegetable transplants must be kept at the appropriate
+August-October: Cowpea as cover crop temperatures. However, if heaters are improperly exhausted,
+the transplants can be stunted or deformed. To prevent heater
+Year 5 fumes from returning into the greenhouse, chimneys should
+Return to Year 1 extend two feet above the ridge of the greenhouse.
+Example 5 There should be some provision for bringing fresh air into the
+greenhouse. Some heaters vent fresh air into the greenhouse
+Year 0
+every time the furnace operates. For others, a hole or holes
+Fall before Year 1: Yellow mustard as cover crop
+should be cut in the greenhouse wall and fitted with tubes to
+feed outside air to the heater. Avoid space heaters that may
+Year 1
+“spit” diesel or gasoline onto nearby plants. Heated air should
+March-May: Leave winter-killed mustard
+be circulated using a perforated “sock” or tube that runs the
+May-September: Cantaloupe production
+length of the greenhouse, or fans placed on opposite sides of
+September-June of Year 2: Cereal rye and hairy vetch as
+the greenhouse and blowing in opposite directions. Place
+cover crops
+thermometers in several locations to measure the temperature
+at plant level. At least one high-low thermometer is a good
+Year 2
+investment.
+March-June: Terminate cereal rye and hairy vetch cover
+crops
+For detailed information about greenhouse structures, see
+June-October: Sweet potato production
+Greenhouse Engineering (NRAES-33), available from
+October-April of Year 3: Triticale as cover crop
+Cornell University Library, ecommons.cornell.edu .
+Year 3
+Transplant Containers
+March: Terminate triticale cover crop
+April-July: Cauliflower production
+July-August: Buckwheat as cover crop
+A wide variety of transplant containers are available, each
+August-November: Lettuce or spinach production
+with advantages and disadvantages. The most common ones
+November-May of Year 4: Cereal rye as cover crop
+are:
+Year 4 • Styrofoam trays (e.g., Speedling)
+March-May: Terminate cereal rye cover crop • Polystyrene or PVC flats or trays.
+May-September: Pepper production • Peat strips, pots or pellets (e.g., Jiffy).
+September-November: Mustard as cover crop
+Peat pot containers have the advantage that the root system
+need not be disturbed upon planting. Peat pots also are more
+Year 5
+forgiving of overwatering than other containers. If peat pots
+Return to Year 1
+are planted partially above ground, moisture is “wicked”
+away from the plant, often resulting in plant death — peat
+Transplant Production pellets do not have this disadvantage.
+Polystyrene and Todd planter flats are both designed so that
+Reviewed by Liz Maynard – Aug 2021 transplants must be “popped” out of the trays, thus disturbing
+the root system. This is particularly true if the roots are
+Transplant production has replaced direct seeding for many allowed to grow into the ground beneath the tray. Avoid this
+vegetable crops. One of transplanting’s primary advantages is problem by raising the flats off the ground. Both the
+earlier fruit production, allowing growers to capture better polystyrene and Todd planter flats must be watered with care.
+market conditions. In addition, the high cost of hybrid seed Todd planter flats have a pyramidal design that forces roots
+makes it desirable to use each seed as efficiently as possible. downward to an open bottom where the roots are air pruned.
+Transplanting also gives the crops a competitive advantage Some polystyrene containers have open bottoms — tube
+against weeds. This section addresses the special skills and types have open bottoms, groove types have small drainage
+knowledge required for successful transplant production. holes.
+Midwest Veg Guide 2022 23

@@ -1,0 +1,3066 @@
+Agricultural Statistics
+at a Glance 2021
+iAgricultural Statistics
+at a Glance 2021
+Government of India
+Ministry of Agriculture & Farmers Welfare
+Department of Agriculture & Farmers Welfare
+Directorate of Economics & Statistics© Government of India PDES-265-(E)
+Controller of Publication 500-2022(DSK-III)
+Visit us at: www.agricoop.nic.in & https://desagri.gov.inMANOJ AHUJA Hkkjr ljdkj
+SECRETARY Ñf"k ,oa fdlku dY;k.k ea=kky;
+Ñf"k ,oa fdlku dY;k.k foHkkx
+Government of India
+Ministry of Agriculture & Farmers Welfare
+Department of Agriculture & Farmers Welfare
+Message
+Agriculture and allied sector has emerged as the most resilient sector of Indian economy
+post the COVID-19 pandemic, with positive growth rates and increasing production over the
+last two years. The sector employs over 50% of the workforce and contributed to around
+20% of the country’s Gross Value Added in 2020-21 as per the first revised estimates.
+‘Agricultural Statistics at a Glance’ is the flagship publication of the Directorate of Economics
+& Statistics and is regarded as the most reliable source of comprehensive and updated
+database on variegated aspects of the agriculture sector in India, including economic &
+social dimensions, production, trade, minimum support prices, cost of production, food
+security, subsidy, agriculture input, insurance, land use statistics etc.
+The Directorate of Economics & Statistics has organically revised and upgraded the
+publication as per the continuously evolving requirements of the contemporary
+world agricultural scenario. This year’s issue has been enriched with the latest
+Situation Assessment Survey of Agricultural Households 2019. Moreover, with the
+increasing importance of sustainable agriculture as presented by the Goal 2 of SDG,
+Zero Hunger: End hunger, achieve food security and improved nutrition and promote
+sustainable agriculture data on organic farming, CH4 emissions from crop residue
+& rice cultivation and water stress have also been incorporated in the publication.
+For wider accessibility and utility of users, this publication is also being simultaneously
+released on our websites: www.agricoop.nic.in and desagri.gov.in.
+I compliment Shri Anil Kumar Sharma, Adviser, Dr. Ramesh Kumar Yadav, Deputy Economic
+Adviser, Shri Sanjoy Meitei, Economic Officer and their team members for their efforts in
+bringing out this volume in record time.
+I am sure that this issue will be found useful by policy makers, academicians, research
+organizations, agri-business community and all other stakeholders. I look forward to the
+comments for further value addition.
+May 17, 2022 nwjHkk"k
+iSQDl laú
+Office : Krishi Bhawan, New Delhi-110001, /Phone : 23382651 , 23388444
+/ Fax No : 23386004 E-mail : secy-agri@gov.in
+vLaLsaNgLUR, Ies vFkZ ,oa lkaf[;dh funs'kky;
+Senior Economic & Statistical Adviser Ñf"k ,oa fdlku dY;k.k foHkkx
+Ñf"k ,oa fdlku dY;k.k ea=kky;
+Hkkjr ljdkj
+Ñf"k Hkou] ubZ fnYyh&110001
+Directorate of Economics & Statistics
+Department of Agriculture & Farmers Welfare
+Ministry of Agriculture & Farmers Welfare
+Government of lndia
+PReFaCe
+The Directorate of Economics and Statistics is the nodal agency to collate and analyze
+data on various aspects of Indian agriculture. Its annual flagship publication ‘Agricultural
+Statistics at a Glance’ provides a comprehensive database on important parameters, like area,
+production and productivity of various crops across States, land-use statistics, price support
+and procurement, international trade, credit and insurance.
+The wide-ranging coverage of data and its reliability makes this publication much sought
+after and valued. This issue of the publication also includes information on new areas of
+concern in agriculture sector; organic farming, water stress, CH4 emissions from burning of
+crop residue.
+I am grateful to the various contributing Ministries/Departments/Organizations for
+providing us with the updated material for the publication. I also record my gratitude to all the
+officers of the Directorate of Economics and Statistics, particularly Shri Anil Kumar Sharma,
+Adviser and his team for their efforts in bringing out this volume in a new format to align
+with international reports related to agriculture. The publication will be of immense use to
+policy makers, farmers, researchers, scientists, administrators, trade, industry, statisticians,
+economists and the general public.
+...May, 2022
+Room No. 144, ‘C’ Wing, Krishi Bhawan, New Delhi-110001
+Tel. : 011-23384036, Telefax : 011-23382016, E-mail : office.esa-agri@nic.in, lal.sanglur@nic.in
+viiTeam Associated with the Publication
+Chief Supervision
+Shri Lalsanglur Sr. Economic & Statistical Adviser
+Supervision
+Shri Anil Kumar Sharma Adviser
+Dr. Ramesh Kumar Yadav Deputy Economic Adviser
+Shri Sanjoy Meitei Economic Officer
+Compilation & Computerization
+Shri Manish Yadav Junior Statistical Officer
+Ms. Neha Arora Technical Assistant (Eco)
+Shri Subhash Dawar Data Entry Operator
+Shri D.K. Gaur Consultant (Ex Sub-Editor)
+viiiContents
+Table No. Particulars Page No.
+Message v
+Preface vii
+Team Associated with the Publication viii
+Acronyms xvii
+Conversion Table xxii
+1 Economic and Social Dimensions of Agriculture 1
+Key Agricultural Statistics at a Glance- All India xxiii
+1.1 (a) Population and Agricultural Workers 2
+1.1 (b) State-wise Classification of Agricultural Workers- 2011 3
+1.2 State-wise Percentage of Population Below Poverty Line 9
+Gross Value Added (GVA) by economic activity at Constant (2011-12) Basic
+1.3 (a) 11
+Prices
+1.3 (b) Gross Value Added by economic activity at Current Basic Prices 13
+1.3 (c) Sectoral Share in Gross Value Added at Current Basic Prices 15
+1.3 (d) Growth of Gross Value Added at Constant (2011-12) Basic Prices 16
+Back Series: Gross Value Added by economic activity at Constant
+1.3 (e) 17
+(2011-12) Basic Prices
+1.3 (f) Back Series: Gross Value Added by economic activity at Current Basic Prices 19
+1.3 (g) Back Series: Sectoral share in Gross Value Added at Current Basic Prices 21
+Back Series: Percentage Growth of Gross Value Added at Constant
+1.3 (h) 22
+(2011-12) Basic Prices
+Gross State Value Added (GSVA) of Agriculture and Allied Sector at Constant
+1.4 (a) 23
+(2011-12) prices
+1.4 (b) Gross State Value Added of Agriculture and Allied sector at current prices 25
+Growth Rates of Gross State Value Added of Agriculture and Allied Sector at
+1.4 (c) 27
+Constant (2011-12) Prices
+Share of Gross State Value Added (GSVA) of Agriculture and Allied Sector in
+1.4 (d) 29
+Total GSVA of State at Current prices
+1.5 Selected Economic and Social Indicators 31
+Disaggregated Outlay and Expenditure on Developmental Heads by Ministry
+1.6 33
+of Agriculture & Farmers Welfare
+Gross Capital Formation (GCF) in Agriculture & Allied sector at Current
+1.7 (a) 35
+Prices
+Gross Capital Formation (GCF) in Agriculture & Allied sector at Constant
+1.7 (b) 36
+(2011-12) Prices
+ixAgricultural Statistics at a Glance, 2021
+Table No. Particulars Page No.
+Share of GCF in Agriculture and allied sector in GVA of Economy at Current
+1.8 (a) 37
+Prices
+Share of GCF in Agriculture and allied sector in GVA of Economy at Constant
+1.8 (b) 38
+(2011-12) Prices
+Share of GCF in Agriculture & allied sector in GVA from Agriculture & Allied
+12.9 Production, Trade and Prices 4319
+sector
+Normal Estimates (Average of 2015-16 to 2019-20) of Area, Production and
+2.1 42
+Yield of major crops in India
+Area, Production and Yield along with coverage under Irrigation
+2.2 Season-wise Area, Production and Yield of Foodgrains 43
+2.3(a) Foodgrains - All India 45
+2.3(b) Foodgrains - Major States 47
+2.4(a) Rice - All India 48
+2.4(b) Rice - Major States 50
+2.5(a) Wheat - All India 51
+2.5(b) Wheat - Major States 53
+2.6(a) Nutri/Coarse Cereals - All India 54
+2.6(b) Nutri/Coarse Cereals - Major States 56
+2.7(a) Jowar - All India 57
+2.7(b) Jowar - Major States 59
+2.8(a) Bajra - All India 60
+2.8(b) Bajra - Major States 62
+2.9 (a) Maize - All India 63
+2.9 (b) Maize - Major States 65
+2.10(a) Total Pulses - All India 66
+2.10(b) Total Pulses - Major States 68
+2.11(a) Gram - All India 69
+2.11(b) Gram - Major States 71
+2.12(a) Tur (Arhar) - All India 72
+2.12(b) Tur (Arhar) - Major States 74
+2.13(a) Lentil (Masur) - All India 75
+2.13(b) Lentil (Masur) - Major States 77
+2.14(a) Nine Oilseeds - All India 78
+2.14(b) Nine Oilseeds - Major States 80
+2.15(a) Groundnut - All India 81
+2.15(b) Groundnut - Major States 83
+2.16(a) Rapeseed & Mustard - All India 84
+2.16(b) Rapeseed & Mustard - Major States 86
+xContents
+Table No. Particulars Page No.
+2.17(a) Soybean - All India 87
+2.17(b) Soybean - Major States 89
+2.18(a) Sunflower - All India 90
+2.18(b) Sunflower - Major States 92
+2.19(a) Cotton - All India 93
+2.19(b) Cotton - Major States 95
+2.20(a) Jute & Mesta - All India 96
+2.20(b) Jute & Mesta - Major States 98
+2.21(a) Sugarcane - All India 99
+2.21(b) Sugarcane - Major States 101
+2.22(a) Tobacco - All India 102
+2.22(b) Tobacco - Major States 104
+2.23 All-India Area, Production and Yield of Guarseed and Sunhemp 105
+2.24 Production of Oilseeds & Oils and Net Availability of Edible Oils 107
+2.25 State wise Production of Crude Palm Oil (CPO) 111
+Yield of Major Crops
+2.26 State-wise Production of Oil Palm Fresh Fruit Bunches 112
+2.27 All India Estimates of Yield of Major Crops 113
+2.28 Kharif Foodgrains 115
+2.29 Rabi Foodgrains 117
+2.30 Total Foodgrains 119
+2.31 Rice 121
+2.32 Wheat 126
+2.33 Bajra 128
+2.34 Maize 130
+2.35 Total Pulses 134
+2.36 Gram 136
+2.37 Tur 138
+2.38 Total Oilseeds 140
+2.39 Kharif Oilseeds 142
+2.40 Rabi Oilseeds 144
+2.41 Groundnut 146
+2.42 Rapeseed & Mustard 149
+2.43 Linseed 151
+2.44 Safflower 152
+2.45 Sunflower 153
+2.46 Soybean 156
+xiAgricultural Statistics at a Glance, 2021
+Table No. Particulars Page No.
+Horticultural Crops and area under Organic Farming
+2.47 Area and Production of Horticulture Crops 158
+State-wise Area and Production of various Horticultural Crops during 2020-
+2.48 161
+21
+2.49 (a) Potato – All India 163
+2.49 (b) Potato – Major States 165
+2.50(a) Onion – All India 166
+2.50(b) Onion – Major States 168
+2.51(a) Tomato – All India 169
+2.51(b) Tomato – Major States 170
+2.52(a) Coconut – All India 171
+2.52(b) Coconut – Major States 172
+Livestock
+2.53 State wise area under organic farming 173
+2.54 Livestock Population in India 175
+Fish
+2.55 State-wise Production of Milk, Eggs, Meat and Wool 176
+2.56 Fish Production in India 180
+Trade
+2.57 State-wise Production of Fish 182
+2.58 India’s Imports and Exports of Principal Agricultural Commodities 184
+2.59 India’s Imports of Principal Agricultural Commodities 186
+2.60 India’s Exports of Principal Agricultural Commodities 192
+2.61 Tariffs and Bound Rates on Major Agricultural Commodities/Groups 198
+Statement on financial year-wise FDI equity inflows from April 2001 to
+2.62(a) 204
+September 2021 in agriculture services sector
+Statement on State-wise FDI equity inflows from October 2019 to September
+2P.r6o2d(ub)ction/Productivity, Price and Trade Indices 205
+2021 in Agriculture Services Sector
+2.63 Wholesale Price Index and Growth Rate (Inflation) of Foodgrains 206
+2.64 Wholesale Price Index and Growth Rate (Inflation) of Commercial Crops 209
+Consumer Price Index (Combined) and growth rate (Inflation) of Food and
+2.65 213
+Beverages
+Consumer Price Index (CPI) for Agricultural Labourers and its growth
+2.66 215
+rate(Inflation)
+2.67 All India Index Numbers of Area of Principal Crops 216
+2.68 All India Index Numbers of Production of Principal Crops 219
+2.69 All India Index Numbers of Yield of Principal Crops 222
+2.70(a) Index of Terms of Trade between Farmers and Non-Farmers 225
+xiiContents
+Table No. Particulars Page No.
+MSP and Cost
+2.70(b) Index of Terms of Trade between Agricultural and Non-Agricultural sectors 226
+2.71 Minimum Support Prices (According to crop year) 227
+2.72 All India Weighted Average Cost of Production (A2+FL) of major crops 229
+2.73 (a) State-wise cost of production(A2+FL) for Paddy and Wheat 230
+2.73 (b) State-wise cost of production (A2+FL) for Coarse/Nutri Cereals 232
+2.73 (c) State-wise cost of production (A2+FL) for Pulses 234
+2.73 (d) State-wise cost of production (A2+FL) for Cotton 236
+2.73 (e) State-wise cost of production (A2+FL) for Oilseeds 237
+2.73 (f) State-wise cost of production (A2+FL) for Copra 239
+2.73 (g) State-wise cost of production (A2+FL) for Jute 240
+3 Food Security, Subsidy and Factors of Production 243
+2.73 (h) State-wise cost of production (A2+FL) for Sugarcane 241
+State-wise Procurement of Rice and Wheat in major Rice and Wheat
+3.1(a) 244
+producing States (According to marketing year)
+3.1(b) State-wise Procurement of Nutri/Coarse Grains in Major Producing States 245
+3.2(a) Procurement of Pulses under Price Support Scheme (PSS) 246
+3.2(b) Procurement of Pulses (Domestic) under Price Stabilization Fund (PSF) 248
+3.3 Procurement of Oilseeds by NAFED under Price Support Scheme (PSS) 251
+3.4 State wise Cotton Purchases by Cotton Corporation of India 256
+3.5 State-wise Procurement of Raw Jute 257
+3.6 Per Capita Net Availability of Foodgrains (Per Annum) in India 259
+3.7 Per Capita Availability of Certain Important Articles of Consumption 261
+Trends in percentage composition of Consumer Expenditure since
+3.8(a) 263
+1993-94
+3.8(b) Per capita Consumption of Different Commodities 264
+3.9(a) Stock of Foodgrains in the Central Pool 267
+3.9(b) Existing Buffer Stock Norms for Foodgrains 268
+3.10 Consumption and Stock of Raw Jute 269
+3.11(a) State-wise Storage capacity 270
+3.11(b) State-wise Cold Storage capacity 272
+3.12 Food Subsidy 273
+3.13 Production and Use of Agricultural Inputs in India 274
+3.14 Consumption, Production and Import of Fertilizers 276
+3.15(a) State-wise Consumption of Fertilizers in Terms of Nutrients (N, P & K) 279
+3.15(b) State-wise Estimated Consumption of Fertilizer (N, P & K) per Hectare 282
+3.16(a) Economics of Application of Fertilizers on Paddy and Wheat in India 285
+3.16(b) State-wise Status of Soil Health Card Scheme – Cycle-I (2015 to 2017) 287
+xiiiAgricultural Statistics at a Glance, 2021
+Table No. Particulars Page No.
+3.16(c) State-wise Status of Soil Health Card Scheme – Cycle-II (2017 to 2019) 289
+3.16(d) State-wise Model Village status of Soil Health Card Scheme (2019-20) 291
+3.17(a) Crop-wise Requirement and Availability of Certified/ Quality Seeds 292
+3.17(b) Crop-wise Distribution of Certified/ Quality Seeds 295
+3.17(c) Crop-wise Requirement and Availability of Certified/ Quality of Hybrid Seeds 297
+3.18(a) Consumption of Electricity for Agricultural Purposes 298
+3.18(b) State-wise Consumption of Electricity for Agricultural Purposes 299
+3.19(a) Flow of Institutional Credit to Agriculture Sector 302
+3.19(b) State-wise Agricultural loan disbursed in 2021-22 303
+3.20 State-wise-Number of Active KCCs 305
+State-wise National Agricultural Insurance Scheme (NAIS)- Cumulative upto
+3.21(a) 306
+Rabi 2015-16
+Season- wise National Agricultural Insurance Scheme (NAIS)- Cumulative
+3.21(b) 308
+upto Rabi 2015-16
+State-wise Weather Based Crop Insurance Scheme (WBCIS)- Cumulative upto
+3.22(a) 311
+Rabi 2015-16
+Season- wise Weather Based Crop Insurance Scheme
+3.22(b) 313
+(WBCIS)- Cumulative upto Rabi 2015-16
+State-wise progress under Modified National Agricultural Insurance Scheme
+3.23(a) 315
+(MNAIS) Cumulative upto Rabi 2015-16
+Season- wise progress under Modified National Agricultural Insurance
+3.23(b) 317
+Scheme (MNAIS)- Cumulative upto Rabi 2015-16
+State-wise Coconut Palm Insurance Scheme (CPIS)- Cumulative from 2009-
+3.24 318
+10 to 2020-21
+3.25(a) State-wise Progress under PMFBY- Cumulative upto Rabi 2020-21 319
+3.25(b) Season-wise Progress under PMFBY- Cumulative upto Rabi 2020-21 321
+State-wise Progress under Restructured Weather Based Crop Insurance
+3.26(a) 322
+Scheme (RWBCIS) - Cumulative upto Rabi 2020-21
+Season-wise Progress under Restructured Weather Based Crop Insurance
+3.26(b) 323
+Scheme (RWBCIS) - Cumulative upto Rabi 2020-21
+3.27(a) State-wise Crop Area Insured under all Insurance Schemes 324
+3.27(b) Crop-wise Area Insured under all Insurance Schemes 326
+3.28(a) Year-wise Sale of Tractors and Power Tillers 327
+4 Sustainability and Environmental Aspect of Agriculture 329
+3.28(b) State-wise Sale of Tractors during 2021-22 328
+4.1 Agricultural Land by Use in India 330
+4.2 Selected Categories of Land Use 334
+4.3 Gross Cropped Area (Percentage Distribution) 336
+4.4 State-wise Percentage coverage of Irrigated Area under Principal Crops 337
+4.5 Agricultural Land by Type of Use 339
+xivContents
+Table No. Particulars Page No.
+Irrigation Potential Created under Accelerated Irrigation Benefit Programme
+4.6 346
+(AIBP) – All Major & Medium Irrigation Projects
+4.7 State-wise Area covered under Micro Irrigation 348
+4.8 Ceilings on Land Holdings 349
+4.9 Performance of South West Monsoon during 1989 to 2021 350
+4.10 All India Rainfall Distribution from 1992-93 to 2021-22 351
+Broad region-wise Monsoon (June-September) Rainfall Distribution from
+45.11 Agriculture Census and Survey 335535
+2005 to 2021
+5.1 Number and Area of Operational Holdings by Size Group 356
+5.2 (a) Number of Operational Holdings by Size Group 357
+5.2 (b) Area of Operational Holdings by Size Group 358
+5.3 Average Size of Holdings by Size Group 359
+Estimated Number of Operational Holdings by Size Classes and Irrigation
+5.4 360
+Status
+5.5 Area Irrigated by different Source of Irrigation by Size Classes 361
+5.6 Irrigated and Un-Irrigated Area by Size Classes under different Crops 362
+Usage of Chemical Fertilizers, Farm Yard Manure and Pesticides by major
+5.7 363
+Size Group
+5.8 Estimated Institutional Credit taken for Agricultural purposes by Size Groups 365
+Total Institutional Credit taken for Agricultural purposes by different
+5.9 367
+Size- Groups
+Estimated Number of Rural Households, Agricultural Households and
+5.10 368
+Indebted Agricultural Households
+Indebtedness of Agricultural Households (All-India) in different Size Classes
+5.11 369
+of Land Possessed
+5.12 Incidence of Indebtedness in Major States 370
+The Percentage Distribution of Indebted Agricultural Households by
+5.13 371
+Size-Class of Land Possessed for Selected States
+56.14 WLisotr oldf SAtugrdiiceus lctounrdaul Sctteadti bstyi cAsgro-Economic Research Centres 338721
+6.1 Area, Production and Yield of Principal Crops in various Countries in 2019 382
+6.2 India’s Position in World Agriculture in 2019 384
+Fertilizer Consumption per Hectare of Agricultural Land in selected
+6.3(a) 385
+Countries
+Fertilizer Consumption per Hectare of Arable Land & Land under permanent
+6.3(b) 388
+Crops in selected Countries
+6.4 Share of area under organic cultivation in selected Countries 391
+xvAgricultural Statistics at a Glance, 2021
+Table No. Particulars Page No.
+Calculated data for CH4 emissions (in kilotonnes) from Rice Cultivation in
+6.5 (a) 392
+Select Countries
+Calculated data for CH4 emissions (in kilotonnes) from Burning-Crop
+6.5 (b) 393
+Residues in Select Countries
+6A.p6pendices Water Stress percentage in selected Countries 394
+395
+I Cost of Cultivation/Production Estimates 396
+II Explanatory Notes 397
+III Methodology on Index Numbers 398
+IV Glossary of English, Botanical and Hindi Names of Important Crops 400
+V Crop Calendar of Major Crops 403
+Vl Harvesting Season of Major Fruits 419
+Vll Harvesting Season of Major Vegetables 421
+VIII Seed Rate of Sowing for Important Field Crops 423
+IX Methodology of Crop Estimation 425
+X Rainfall Status 430
+xviA
+cronyms
+AAY Antyodaya Anna Yojana
+AE Advance Estimate
+AIBP Accelerated Irrigation Benefit Programme
+AMI Agricultural Marketing Infrastructure
+APL Above Poverty Line
+BE Budget Estimate
+BPL Below Poverty Line
+CACP Commission for Agricultural Costs and Prices
+CBB Commercial Bank Branch
+CCE Crop Cutting Experiments
+CCI Cotton Corporation of India
+CDSBO Crude Degumed Soybean Oil
+CES Crop Estimation Surveys
+CIF Cost, Insurance & Freight
+CIP Central Issue Price
+CMA Centre for Management in Agriculture, IIM-Ahmedabad
+CPI Consumer Price Index
+CPIS Coconut Palm Insurance Scheme
+CSO Central Statistics Office
+CWC Central Warehousing Corporation
+CWC Central Water Commission
+CWWG Crop Weather Watch Group
+DA&FW Department of Agriculture & Farmers Welfare
+DAH Department of Animal Husbandry
+DAP Di Ammonium Phosphate
+DARE Department of Agricultural Research and Education
+DES Directorate of Economics & Statistics
+DFPD Department of Food & Public Distribution
+DGCI&S Directorate General of Commercial Intelligence & Statistics
+DMI Directorate of Marketing and Inspection
+DMS Delhi Milk Scheme
+E Estimated
+EARAS Establishment of an Agency for Reporting of Agricultural Statistics
+ERFS Extended Range Forecast System
+F2 Black Soil
+xviiAgricultural Statistics at a Glance, 2021
+F-414/H-777/J-34 F-414/H-777/J-34 Cotton variety (of Medium Staple Length)
+FAO Food and Agriculture Organisation of the United Nations
+FAOSTAT FAO Statistics
+FAQ Fair Average Quality
+FASAL Forecasting Agricultural Output using Space, Agro-Meteorology and Land
+Based Observations
+FCI Food Corporation of India
+FDI Foreign Direct Investment
+FFB Fresh Fruit Bunch
+FL Family Labour
+FOD Field Operations Division of NSO
+FRL Full Reservoir Level
+FYM Farm Yard Manure
+GCA Gross Cropped Area
+GCES General Crop Estimation Survey
+GCF Gross Capital Formation
+GDP Gross Domestic Product
+GNP Gross National Product
+GSDP Gross State Domestic Product
+GVA Gross Value Added
+GSVA Gross State Value Added
+H-4/H-6 Cotton variety (of Long Staple Length)
+Ha Hectares
+HLCC High Level Coordination Committee
+HYV High Yielding Varieties
+I Irrigated
+IAS Improvement of Agricultural Statistics
+IASRI Indian Agricultural Statistics Research Institute
+ICAR Indian Council of Agricultural Research
+ICS Improvement of Crop Statistics
+IEG Institute of Economic Growth
+IIP Index of Industrial Production
+IMD India Meteorological Department
+ISOPOM Integrated Scheme of Oilseeds, Pulses, Oilpalm and Maize
+ISRO Indian Space Research Organization
+K Potash
+KCC Kisan Credit Card
+Kgs Kilograms
+xviiiAcronyms
+KMPH Kilometers Per Hour
+KWH Kilo Watt Hour
+LPA Long Period Average
+LPCPD Litres Per Capita Per Day
+LS Light Soil
+MIS Market Intervention Scheme
+MNAIS Modified National Agricultural Insurance Scheme
+MNCFC Mahalanobis National Crop Forecast Centre
+MOFPI Ministry of Food Processing Industries
+MRP Mixed Reference Period
+MSCCGMF Maharashtra State Co-operative Cotton Growers Marketing Federation
+MSP Minimum Support Price
+MSR Marketed Surplus Ratio
+N Nitrogen
+N,P&K Nitrogen, Phosphate and Potash
+NA Not Available/Not Announced
+NAFED National Agricultural Co-operative Marketing Federation of India Limited
+NAIS National Agricultural Insurance Scheme
+NC Not Collected
+NCAER National Council of Applied Economic Research
+NCMRWF National Centre for Medium Range Weather Forecast
+NCOF National Centre of Organic Farming
+NDDB National Dairy Development Board
+Neg. Negligible
+NFSA National Food Security Act
+NFSM-OP National Food Security Mission – Oilpalm
+NHB National Horticulture Board
+NHM National Horticulture Mission
+NMOOP National Mission on Oilseeds and Oilpalm
+NNP Net National Product
+NPOP National Programme for Organic Production
+NQ Not Quoted
+NR Not Recommended / Not Reported
+NRSC National Remote Sensing Centre
+NS New Series Estimates
+NSA Net Sown Area
+NSO National Statistical Office
+NSSO National Sample Survey Organisation
+xixAgricultural Statistics at a Glance, 2021
+OECD Organisation of Economic Cooperation and Development
+OPAE Oilpalm Area Expansion Programmes
+OPDP Oil Palm Development Programme
+P Provisional/ Phosphate
+PACS Primary Agricultural Credit Society
+PDS Public Distribution System
+PGS Participatory Guarantee System
+PHH Priority Households
+PLDB Primary Land Development Bank
+PM-AASHA Pradhan Mantri – Annadata Aay Sanrakshan Abhiyan
+PMFBY Pradhan Mantri Fasal Bima Yojana
+PMKSY Pradhan Mantri Krishi Sinchayee Yojana
+PSE Producers Support Estimate
+PSEs Public Sector Enterprises
+PSF Price Stabilization Fund
+PSS Price Support Scheme
+QE Quick Estimate
+R Revised
+R&D Research & Development
+R&M Rapeseed & Mustard
+RBI Reserve Bank of India
+RE Revised Estimates
+RGI Registrar General of India
+RKVY Rashtriya Krishi Vikas Yojana
+RMC Regional Ministers Conference
+RRBB Regional Rural Bank Branch
+RWBCIS Restructured Weather Based Crop Insurance Scheme
+SAC Space Application Centre
+SASA State Agricultural Statistical Authority
+SCB State Cooperative Bank
+SDP State Domestic Product
+SFAC Small Farmers Agri-Business Consortium
+SHC Soil Health Card
+SLDB State Land Development Bank
+SRS Sample Registration Scheme
+SSP Single Super Phosphate
+SWC State Warehousing Corporation
+T Target
+T E Triennium Ending
+xxAcronyms
+TD-5 Tossa Deshi variety of Jute
+TPDS Targeted Public Distribution System
+TRQ Tariff Rate Quota
+TRRM Tropical Rains Measuring Mission
+TRS Timely Reporting Scheme
+TT Tentative Targets
+UI Un-irrigated
+URP Uniform Reference Period
+UT Union Territory
+WBCIS Weather Based Crop Insurance Scheme
+WPI Wholesale Price Index
+WTO World Trade Organisation
+xxiConversion Table
+Length
+1 kilometre (km) 1000 metres (m)
+1 km 0.6214 miles
+1 m 1.0936 yards
+1 m 3.2808 feet
+1 mile 1760 yards
+1 mile 1.609 km
+1 yard 0.9144 m
+A r e a 1 foot 0.3048 m
+2
+1 km 100 hectares (ha)
+2
+1 km 0.3861 square mile
+2
+1 km 247.105 acres
+2
+1 m 10.7639 square feet
+2
+1 ha 10,000 m
+1 ha 2.4711 acres
+2
+1 square mile 2.591 km
+1 acre 0.4047 ha
+2
+1 acre 4046.86 m
+1 acre 4840 square yard
+1 square yard 9 square feet
+2
+1 square yard 0.8361 m
+2
+Weight
+1 square foot 0.0929 m
+1 tonne 1000 kg
+1 tonne 1.1023 US ton
+1 US ton 0.9072 tonnes
+1 hg 100 gram
+1 kg 2.2046 pounds (Ib)
+1 kg 35.274 ounce (oz)
+1 lb 0.4536 kg
+U n i t s 1 oz 28.3495 gram
+1 crore 10 million
+1 million 10 lakh
+1000 million
+1 lakh 100000
+1 billion
+xxiiKey Agricultural Statistics at a Glance - All India
+S.No. Indicator Year Unit Value
+Land Use Indicators
+1 Geographical Area 2018-19 Million Hectare 328.73
+Reported Area for Land Utilization
+2 2018-19 Million Hectare 307.79
+Statistics
+3 Area under Forest 2018-19 Million Hectare 72.01
+Percentage of Area under Forest to
+4 2018-19 - 23.40%
+Reported Area
+5 Gross Cropped Area 2018-19 Million Hectare 197.32
+Percentage of Gross Cropped Area to
+6 2018-19 - 64.11%
+reported area
+7 Net Area Sown 2018-19 Million Hectare 139.35
+Percentage of Net Area Sown to
+8 2018-19 - 45.27%
+Reported Area
+9 Area sown more than once 2018-19 Million Hectare 57.97
+10 Cropping Intensity (%) 2018-19 - 141.60
+11 Net Irrigated Area 2018-19 Million Hectare 71.55
+(a) By canals 2018-19 Million Hectare (%) 16.43 (16.00%)
+(b) Tube-wells 2018-19 Million Hectare (%) 34.71 (33.81%)
+12 Gross Irrigated Area 2018-19 Million Hectare 102.67
+13 Intensity of Irrigation 2018-19 -
+Production & Procurement Indicators
+Foodgrains Production (as per 4th
+14 2020-21 Million Tonnes 308.65
+Advance Estimates)
+(a) Kharif 2020-21 Million Tonnes 149.56
+(b) Rabi 2020-21 Million Tonnes 159.08
+Horticulture Production (as per 3rd
+15 2020-21 Million Tonnes 331.05
+Advance Estimates)
+16 Milk Production 2019-20 Million Tonnes 198.44
+17 Meat Production 2019-20 Lakh Tonnes 85.99
+th
+Livestock Population as per 20
+18 2019 Million Numbers 536.76
+Livestock Census
+19 Fish Production 2019-20 Lakh Tonnes 141.64
+20 Procurement
+(a) Rice- for Kharif Marketing Season
+2021-22 Lakh Tonnes 102.36
+2021-22*
+(b) Wheat- for Rabi Marketing Season
+2021-22 Lakh Tonnes 433.44
+2021-22*
+(c) Nutri/Coarse Grains 2020-21 ‘000 Tonnes 2446.98
+xxiiiAgricultural Statistics at a Glance, 2021
+S.No. Indicator Year Unit Value
+(d) Pulses Procurement under PSS ** 2021-22 Lakh Tonnes 8.80
+(e) Oilseeds Procurement under
+2021-22 Lakh Tonnes 1.57
+PSS***
+(f) Cotton 2020-21 Lakh Bales 91.90
+(h) Jute 2020-21 Lakh Bales
+Macro Economic Indicators
+GVA - Agriculture and Allied Sector at
+21 2020-21 Rs. Crore 2048032
+constant (2011-12) prices
+Growth Rate of GVA in Agri and Allied
+22 2020-21 - 3.3%
+sector at Constant (2011-12) Prices
+Share of Agri & Allied sector in Total
+23 2020-21 - 20.0%
+GVA at Current Prices
+24 Value of Total Agricultural Exports 2020-21 Rs. Crore 308830
+Percentage Share of Value of
+25 Agricultural 2020-21 - 14.30%
+Exports to National Exports
+26 Value of Total Agricultural Imports 2020-21 Rs Crore 154511
+Percentage Share of Value of
+27 Agricultural Imports to National 2020-21 - 5.30%
+Imports
+Employment Indicators
+Total Number of Cultivators as per
+28 2011 Million 118.8
+Census 2011
+Total Number of Agricultural
+29 2011 Million 144.3
+Laborers as per Census 2011
+Percentage share of Agricultural
+Workers (Cultivators and Agricultural
+30 2011 - 54.6%
+Laborers) in Total Workforce as per
+Population Census 2011
+Total No. of Operational Holdings as
+31 per 2015-16 Lakh 1464.54
+Agriculture Census 2015-16
+(a) M arginal Holdings (upto 1 1002.51
+2015-16 Lakh (% share)
+hectare) (68.45%)
+(b) Small Holdings (1-2 hectare) 2015-16 Lakh (% share) 258.09 (17.62%)
+Source: (c) Others (Above 2 hectare) 2015-16 Lakh (% share) 203.92 (13.93%)
+DES, DGCI&S, DFPD, RGI and NSO
+*As on 30.10.2021
+**As on 24.02.2022 ***As on 27.10.2021
+xxiv1
+Economic & Social Dimensions of Agriculture22 || AAggrriiccuullttuurraall SSttaattiissttiiccss aatt aa GGllaannccee,, 22002211
+Table 1.1(a):
+Population and Agricultural Workers
+(In Million)
+Agricultural Workers
+Average Annual
+Total Rural Total
+Year Exponential
+Population Population Workers Agricultural
+Growth Rate (%) Cultivators Total
+Labourers
+(1) (2) (3) (4) (5) (6) (7) (8)
+1951 361.1 1.25 298.6 139.5 69.9 27.3 97.2
+(82.7) (71.9) (28.1) (69.7)
+1961 439.2 1.96 360.3 188.7 99.6 31.5 131.1
+(82.0) (76.0) (24.0) (69.5)
+1971 548.2 2.20 439.0 180.4 78.2 47.5 125.7
+(80.1) (62.2) (37.8) (69.7)
+1981 683.3 2.22 525.5 244.6 92.5 55.5 148.0
+(76.9) (62.5) (37.5) (60.5)
+1991 846.4 2.16 628.7 314.1 110.7 74.6 185.3
+(74.5) (59.7) (40.3) (59.0)
+2001 1028.7 1.97 742.5 402.2 127.3 106.8 234.1
+(72.2) (54.4) (45.6) (58.2)
+2011 1210.9 1.50 833.7 481.9 118.8 144.3 263.1
+Source: (68.9) (45.1) (54.9) (54.6)
+Registrar General of India.
+Notes:
+1. For 2001, figures include estimated figures for those of the three sub-divisions viz. Mao Maram, Paomata and Purul
+of Senapati district of Manipur as census results of 2001 Census in these three sub- divisions were cancelled due to
+technical and administrative reasons.
+2. The 1991 Census could not be held owing to disturbed conditions prevailing in Jammu & Kashmir. Hence the population
+figures for 1991 of Jammu & Kashmir have been worked out by ‘interpolation’. The data on workers in Col. 5-7 exclude
+J&K.
+3. The 1981 census could not be held in Assam. The figures for 1981 for Assam have been worked out by interpolation.
+The data on workers in Col. 5-7 exclude Assam.
+4. Figures within parentheses in Col.-4 are percentages to the Total Population.
+5. Figures within parentheses in Col.-6 and 7 are percentages to Col.-8.
+6. Figures within parentheses in Col.-8 is percentage share of Agricultural Workers in Total Workers.Economic & Social Dimensions of Agriculture | 3
+:)b(1.1
+elbaT
+1102
+-srekroW
+larutlucirgA
+fo
+noitacifissalC
+esiw-etatS
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)385(319516
+)674(854063
+)763(324728
+)453(926728
+)049(6333441
+)038(7808811
+lat)o2T(
+aid)n1(I
+68066095
+03398153
+22223977
+80359897
+803899631
+836480511
+laruR
+7625252
+615658
+5110184
+6267682
+2835337
+2414273
+nabrU
+163331
+987974
+443414
+725567
+507745
+6135421
+latoT
+rimhsaK
+&
+ummaJ
+084221
+015054
+150673
+478927
+135894
+4830811
+laruR
+18801
+97292
+39283
+35653
+47194
+23946
+nabrU
+87917
+8095511
+060301
+451609
+830571
+2602602
+latoT
+hsedarP
+lahcamiH
+87407
+8268411
+10899
+459998
+972071
+2858402
+laruR
+0051
+0827
+9523
+0026
+9574
+08431
+nabrU
+010943
+251181
+5449321
+9533571
+5548851
+1154391
+latoT
+bajnuP
+765823
+363071
+5616411
+8369661
+2374741
+1000481
+laruR
+34402
+98701
+08239
+12738
+327311
+01549
+nabrU
+213
+464
+5731
+4112
+7861
+8752
+latoT
+hragidnahC
+64
+15
+221
+604
+861
+754
+laruR
+662
+314
+3521
+8071
+9151
+1212
+nabrU
+167611
+110548
+045682
+214537
+103304
+3240851
+latoT
+dnahkarattU
+239011
+900838
+909162
+126027
+148273
+0368551
+laruR
+9285
+2007
+13642
+19741
+06403
+39712
+nabrU
+...dtnoC4 | Agricultural Statistics at a Glance, 2021
+.dtnoC
+:)b(1.1
+elbaT
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+298684
+976196
+1421401
+2219871
+3318251
+1080842
+latoT
+anayraH
+650264
+563776
+009349
+2321271
+6595041
+7958932
+laruR
+63842
+41341
+14379
+09876
+771221
+40228
+nabrU
+3218
+0495
+25313
+85472
+57493
+89333
+latoT
+ihleD
+5502
+4332
+3746
+08211
+8258
+41631
+laruR
+8606
+6063
+97842
+87161
+74903
+48791
+nabrU
+5996082
+4830016
+9662312
+6848157
+4669394
+07881631
+latoT
+nahtsajaR
+4770272
+9028006
+3413102
+4289437
+7193374
+33085331
+laruR
+12268
+57129
+625911
+266861
+747502
+738062
+nabrU
+1875316
+5536453
+24430831
+33511551
+32293991
+88875091
+latoT
+hsedarP
+rattU
+6472595
+8960743
+33875921
+48203051
+97501981
+28900581
+laruR
+530381
+75657
+906548
+942184
+4468201
+609655
+nabrU
+2394775
+6080541
+71707521
+0245475
+94654381
+6226917
+latoT
+rahiB
+3418565
+6904241
+75737121
+4693855
+00913871
+0608007
+laruR
+987611
+01762
+069693
+654161
+947315
+661881
+nabrU
+30131
+47045
+38821
+72336
+68952
+104711
+latoT
+mikkiS
+38521
+36635
+79221
+96826
+08842
+235611
+laruR
+...0dt2n5oC
+114
+685
+854
+6011
+968
+nabrUEconomic & Social Dimensions of Agriculture | 5
+.dtnoC
+:)b(1.1
+elbaT
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+lahcanurA
+49771
+068941
+77381
+368251
+17163
+327203
+latoT
+hsedarP
+69661
+078741
+26861
+762051
+85533
+731892
+laruR
+8901
+0991
+5151
+6952
+3162
+6854
+nabrU
+50113
+842872
+75813
+454952
+26926
+207735
+latoT
+dnalagaN
+44572
+422662
+33182
+955052
+77655
+387615
+laruR
+1653
+42021
+4273
+5988
+5827
+91902
+nabrU
+68886
+229642
+23064
+901723
+819411
+130475
+latoT
+rupinaM
+74845
+923032
+79753
+802392
+44609
+735325
+laruR
+93041
+39561
+53201
+10933
+47242
+49405
+nabrU
+99291
+121001
+88422
+284921
+78714
+306922
+latoT
+maroziM
+0359
+18348
+5559
+318701
+58091
+491291
+laruR
+9679
+04751
+33921
+96612
+20722
+90473
+nabrU
+215931
+97076
+601412
+868822
+816353
+749592
+latoT
+arupirT
+465531
+87756
+853302
+159912
+229833
+927582
+laruR
+8493
+1031
+84701
+7198
+69641
+81201
+nabrU
+22029
+543712
+243601
+033772
+463891
+576494
+latoT
+ayalahgeM
+30698
+407312
+026201
+616272
+322291
+023684
+laruR
+...9d1tn4o2C
+1463
+2273
+4174
+1416
+5538
+nabrU6 | Agricultural Statistics at a Glance, 2021
+.dtnoC
+:)b(1.1
+elbaT
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+631617
+468169
+0129211
+3679903
+6435481
+7261604
+latoT
+massA
+209607
+586259
+3717011
+2226603
+5704181
+7098104
+laruR
+4329
+9719
+73022
+14533
+17213
+02724
+nabrU
+8206372
+746616
+4182547
+1400054
+24888101
+8866115
+latoT
+lagneB
+tseW
+7121762
+162485
+9952717
+2828634
+6183489
+3452594
+laruR
+11846
+68323
+512082
+957131
+620543
+541461
+nabrU
+2534902
+0563251
+0071432
+2811922
+2506344
+2384183
+latoT
+dnahkrahJ
+3662602
+9684051
+9366722
+5477422
+2039334
+4162573
+laruR
+98613
+18781
+16056
+73434
+05769
+81226
+nabrU
+7518523
+936827
+6381843
+0535733
+3999376
+9893014
+latoT
+ahsidO
+0024123
+096717
+3474043
+1662133
+3498166
+1530304
+laruR
+75934
+94901
+39077
+98626
+050121
+83637
+nabrU
+3337472
+1770851
+9454432
+5204242
+2881905
+6974004
+latoT
+hragsittahhC
+2751562
+5346451
+8423422
+0364532
+0284984
+5601093
+laruR
+16759
+63343
+103101
+59396
+260791
+137301
+nabrU
+0161885
+5733523
+7560136
+4601956
+76229121
+9344489
+latoT
+hsedarP
+ayhdaM
+6351865
+6733713
+7669006
+5340036
+30219611
+1183749
+laruR
+470002
+99997
+099003
+926092
+460105
+826073
+nabrU
+4289813
+1503021
+1959463
+9444424
+5149386
+0057445
+latoT
+tarajuG
+3769603
+4491711
+2261143
+3159704
+5921846
+7541525
+laruR
+...dtnoC
+151021
+70113
+969732
+639461
+021853
+340691
+nabrUEconomic & Social Dimensions of Agriculture | 7
+.dtnoC
+:)b(1.1
+elbaT
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+014
+428
+263
+2941
+277
+6132
+latoT
+uiD
+&
+namaD
+853
+617
+391
+839
+155
+4561
+laruR
+25
+801
+961
+455
+122
+266
+nabrU
+ragaN
+& ardaD
+64321
+8689
+3545
+69281
+99771
+46182
+latoT
+ilevaH
+77611
+0839
+2984
+06761
+96561
+04162
+laruR
+966
+884
+165
+6351
+0321
+4202
+nabrU
+2061176
+0607794
+8354776
+3132957
+04168431
+37396521
+latoT
+arthsarahaM
+5483146
+3861984
+8417036
+0884237
+39902721
+36561221
+laruR
+757792
+77358
+093764
+334762
+741567
+018253
+nabrU
+2377388
+8124312
+2200318
+4037534
+45776961
+2251946
+latoT
+hsedarP
+arhdnA
+1575448
+2115702
+6686567
+6772914
+71620161
+8887626
+laruR
+189193
+60195
+651374
+825461
+731568
+436322
+nabrU
+4862783
+1496281
+9723823
+8073574
+3695517
+9460856
+latoT
+akatanraK
+7900963
+3525771
+6117403
+7765654
+3127376
+0390436
+laruR
+785281
+88615
+361632
+130881
+057814
+917932
+nabrU
+44911
+60521
+61841
+84881
+06762
+45313
+latoT
+aoG
+2749
+10801
+63011
+47451
+80502
+57262
+laruR
+2742
+5071
+0873
+4733
+2526
+9705
+nabrU
+...dtnoC8 | Agricultural Statistics at a Glance, 2021
+.dtnoC
+:)b(1.1
+elbaT
+larutlucirgA
+elameF
+elameF
+larutlucirgA
+elaM
+srotavitluC
+elaM
+larutlucirgA
+/latoT
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+niaM(
+srotavitluC
+dna
+niaM(
+ruobaL
+dna
+niaM(
+dna
+niaM(
+ruobaL
+/nabrU
+sTU/setatS
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+dna
+)lanigraM
+)lanigraM
+)lanigraM
+laruR
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+0
+0
+0
+0
+0
+0
+latoT
+peewdahskaL
+0
+0
+0
+0
+0
+0
+laruR
+0
+0
+0
+0
+0
+0
+nabrU
+558464
+743321
+599758
+609645
+0582231
+352076
+latoT
+alareK
+907293
+841801
+492096
+188874
+3003801
+920785
+laruR
+64127
+99151
+107761
+52086
+748932
+42238
+nabrU
+0483674
+8795151
+7072484
+9742372
+7456069
+7548424
+latoT
+udaN
+limaT
+2095424
+6439041
+9912614
+1136742
+1018048
+7565883
+laruR
+839715
+236601
+805086
+861652
+6448911
+008263
+nabrU
+79552
+6602
+49724
+33001
+19386
+99021
+latoT
+yrrehcuduP
+26822
+8951
+79353
+9937
+95285
+7998
+laruR
+5372
+864
+7937
+4362
+23101
+2013
+nabrU
+&
+namadnA
+7301
+4093
+4473
+36621
+1874
+76561
+latoT
+sdnalsI
+rabociN
+6001
+1283
+4163
+46321
+0264
+58161
+laruR
+13
+38
+031
+992
+161
+283
+nabrU
+:ecruoS
+.aidnI
+fo
+lareneG
+rartsigeR
+.anihC
+dna
+natsikaP
+fo
+noitapucco
+lagelli
+rednu
+era
+hcihw
+,rimhsaK
+&
+ummaJ
+fo
+snoitrop
+esoht
+fo
+noitalupop
+edulcxe
+rimhsaK
+&
+ummaJ
+dna
+aidnI
+:etoNEEccoonnoommiicc && SSoocciiaall DDiimmeennssiioonnss ooff AAggrriiccuullttuurree || 99
+Table 1.2:
+State-wise Percentage of Population Below Poverty Line
+2004-05 2009-10 2011-12
+States/UTs
+Rural Urban Total Rural Urban Total Rural Urban Total
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Andhra Pradesh 32.3 23.4 29.6 22.8 17.7 21.1 11.0 5.8 9.2
+Arunachal Pradesh 33.6 23.5 31.4 26.2 24.9 25.9 38.9 20.3 34.7
+Assam 36.4 21.8 34.4 39.9 26.1 37.9 33.9 20.5 32.0
+Bihar 55.7 43.7 54.4 55.3 39.4 53.5 34.1 31.2 33.7
+Chhattisgarh 55.1 28.4 49.4 56.1 23.8 48.7 44.6 24.8 39.9
+Delhi 15.6 12.9 13.0 7.7 14.4 14.2 12.9 9.8 9.9
+Goa 28.1 22.2 24.9 11.5 6.9 8.7 6.8 4.1 5.1
+Gujarat 39.1 20.1 31.6 26.7 17.9 23.0 21.5 10.1 16.6
+Haryana 24.8 22.4 24.1 18.6 23.0 20.1 11.6 10.3 11.2
+Himachal Pradesh 25.0 4.6 22.9 9.1 12.6 9.5 8.5 4.3 8.1
+Jammu & Kashmir 14.1 10.4 13.1 8.1 12.8 9.4 11.5 7.2 10.4
+Jharkhand 51.6 23.8 45.3 41.6 31.1 39.1 40.8 24.8 37.0
+Karnataka 37.5 25.9 33.3 26.1 19.6 23.6 24.5 15.3 20.9
+Kerala 20.2 18.4 19.6 12.0 12.1 12.0 9.1 5.0 7.1
+Madhya Pradesh 53.6 35.1 48.6 42.0 22.9 36.7 35.7 21.0 31.7
+Maharashtra 47.9 25.6 38.2 29.5 18.3 24.5 24.2 9.1 17.4
+Manipur 39.3 34.5 37.9 47.4 46.4 47.1 38.8 32.6 36.9
+Meghalaya 14.0 24.7 16.1 15.3 24.1 17.1 12.5 9.3 11.9
+Mizoram 23.0 7.9 15.4 31.1 11.5 21.1 35.4 6.4 20.4
+Nagaland 10.0 4.3 8.8 19.3 25.0 20.9 19.9 16.5 Co1n8t.d9...T10a bl|e 1A.g2r:i c uClotunrtadl S.tatistics at a Glance, 2021
+2004-05 2009-10 2011-12
+States/UTs
+Rural Urban Total Rural Urban Total Rural Urban Total
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Odisha 60.8 37.6 57.2 39.2 25.9 37.0 35.7 17.3 32.6
+Puducherry 22.9 9.9 14.2 0.2 1.6 1.2 17.1 6.3 9.7
+Punjab 22.1 18.7 20.9 14.6 18.1 15.9 7.7 9.2 8.3
+Rajasthan 35.8 29.7 34.4 26.4 19.9 24.8 16.1 10.7 14.7
+Sikkim 31.8 25.9 30.9 15.5 5.0 13.1 9.9 3.7 8.2
+Tamil Nadu 37.5 19.7 29.4 21.2 12.8 17.1 15.8 6.5 11.3
+Tripura 44.5 22.5 40.0 19.8 10.0 17.4 16.5 7.4 14.1
+Uttar Pradesh 42.7 34.1 40.9 39.4 31.7 37.7 30.4 26.1 29.4
+Uttarakhand 35.1 26.2 32.7 14.9 25.2 18.0 11.6 10.5 11.3
+West Bengal 38.2 24.4 34.2 28.8 22.0 26.7 22.5 14.7 20.0
+All-India 42.0 25.5 37.2 33.8 20.9 29.8 25.7 13.7 21.9
+Source:
+NITI Aayog (erstwhile Planning Commission)
+Notes:
+1. Poverty estimates are based on the methodology suggested by the ‘Expert Group on Methodology for estimation of
+poverty’, chaired by Dr. Suresh.D. Tendulkar
+2. Number of persons below poverty line in 2004-05 are estimated based on Population as on 1st March 2005 (revised on
+the basis of 2011 population census)
+3. Number of persons below poverty line in 2009-10 are estimated based on Population as on 1st March 2010 (interpolated
+between 2001 and 2011 population Census)
+4. Number of persons below poverty line in 2011-12 are estimated based on Population as on 1st March 2012 (2011
+Census population extrapolated)
+5. Poverty line of Tamil Nadu is used for Andaman and Nicobar Island.
+6. Urban Poverty Line of Punjab is used for both rural and urban areas of Chandigarh.
+7. Poverty Line of Maharashtra is used for Dadra & Nagar Haveli.
+8. Poverty Line of Goa is used for Daman & Diu
+9. Poverty Line of Kerala is used for Lakshadweep.Economic & Social Dimensions of Agriculture | 11
+:)a(3.1
+elbaT
+`
+secirP
+cisaB
+)21-1102(
+tnatsnoC
+ta
+ytivitcA
+cimonocE
+yb
+deddA
+eulaV
+ssorG
+)′erorc
+(
+@
+#
+22-1202
+*12-0202
+02-9102
+91-8102
+81-7102
+71-6102
+61-5102
+51-4102
+41-3102
+31-2102
+21-1102
+yrtsudnI
+.oN.S
+0405112
+2308402
+3032891
+8958781
+3200481
+4006271
+6416161
+5175061
+8919061
+8824251
+7491051
+gnihsif
+dna
+yrtserof
+,erutlucirgA
+.1
+)31(
+)21(
+)11(
+)01(
+)9(
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+-
+5757211
+5456011
+1129401
+1115701
+8520201
+443969
+524899
+0607301
+908389
+151289
+sporC
+1.1
+-
+711716
+054185
+079045
+038794
+275164
+736914
+944093
+855363
+573443
+433723
+kcotseviL
+2.1
+-
+426561
+614461
+949361
+153251
+745441
+069631
+906431
+390231
+347421
+634421
+gniggol
+dna
+yrtseroF
+3.1
+549033
+420492
+667123
+518623
+216923
+842943
+479713
+586882
+701362
+906262
+530162
+gniyrrauq
+dna
+gniniM
+.2
+-
+617731
+398921
+864421
+037411
+72699
+50209
+23228
+78467
+26317
+72086
+erutlucauqa
+dna
+gnihsiF
+4.1
+3413842
+0477422
+4921622
+2998232
+8249022
+4674502
+0583091
+8393861
+9070651
+3786841
+6899041
+gnirutcafunaM
+.3
+dna
+segareveB
+,stcudorP
+dooF
+-
+363752
+041842
+386852
+663412
+469202
+051381
+736751
+065351
+045451
+425761
+1.3
+occaboT
+rehtaeL
+dna
+lerappA
+,selitxeT
+-
+475932
+177392
+310003
+378082
+970162
+639852
+924612
+114612
+893771
+832351
+2.3
+stcudorP
+-
+831923
+504323
+892623
+555913
+602582
+603522
+602162
+223772
+025832
+726922
+stcudorP
+lateM
+3.3
+-
+354915
+515455
+748085
+703335
+814474
+055924
+710753
+499423
+137543
+076433
+tnempiuqE
+dna
+yrenihcaM
+4.3
+&
+ylppus
+retaw
+,sag
+,yticirtcelE
+-462213
+211727290892
+256647104083
+275411346982
+702536126782
+769904163482
+880591640282
+974460149162
+212046898951
+458366017951
+782696462851
+sdooG
+derutcafunaM
+rehtO
+5.4.3
+secivres
+ytilitu
+rehto
+2468501
+538269
+0868301
+9876201
+603469
+544619
+533568
+922538
+177008
+050087
+533777
+noitcurtsnoC
+.5
+dna
+sletoh
+,riaper
+,edarT
+$5257932
+5408141
+5248281
+1877071
+5718651
+2239831
+6241621
+1485311
+6054301
+026189
+285388
+.6
+stnaruatser
+-
+3280531
+0124761
+7323651
+4895341
+0328621
+1210511
+0467301
+149149
+566888
+186397
+secivres
+riaper
+& edarT
+1.6
+,egarots
+,tropsnarT
+-
+22276
+512451
+445441
+191231
+290121
+503111
+10289
+56529
+55929
+10998
+stnaruatser
+& sletoH
+2.6
+-
+436927
+103168
+779038
+542008
+650757
+993137
+848176
+655716
+325965
+435925
+secivres
+&
+noitacinummoC
+.7
+gnitsacdaorb
+ot
+detaleR
+-
+45176
+30328
+05319
+68878
+16128
+25458
+02708
+58637
+26196
+05116
+syawliaR
+1.7
+..-.dtnoC
+731823
+322234
+835714
+104693
+423263
+551343
+318023
+365003
+524282
+244262
+tropsnart
+daoR
+2.712 | Agricultural Statistics at a Glance, 2021
+.dtnoC
+:)a(3.1
+elbaT
+′
+@
+#
+22-1202
+*12-0202
+02-9102
+91-8102
+81-7102
+71-6102
+61-5102
+51-4102
+41-3102
+31-2102
+21-1102
+yrtsudnI
+.oN.S
+)31(
+)21(
+)11(
+)01(
+)9(
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+-
+49221
+81031
+82621
+51911
+9658
+5908
+4597
+5437
+2507
+0196
+tropsnart
+retaW
+3.7
+-
+7713
+9519
+2049
+3738
+2717
+3506
+8815
+0554
+3814
+3934
+tropsnart
+riA
+4.7
+-
+58318
+96319
+16098
+15348
+53868
+65118
+69557
+27107
+08466
+20636
+tropsnart
+ot
+latnedicni
+secivreS
+5.7
+-
+92341
+61931
+48731
+67921
+0016
+5426
+9255
+0125
+6175
+8015
+egarotS
+6.7
+ot
+detaler
+secivres
+&
+noitacinummoC
+-
+851322
+313912
+512791
+443891
+698302
+342102
+740671
+130651
+505431
+039521
+& etatsE
+laeR
+,laicnaniF
+7.7
+8679803
+0191692
+4937982
+1224172
+1917352
+7692942
+7874922
+5173702
+7047681
+1300861
+7780351
+gnitsacdaorb
+.8
+secivreS
+lanoisseforP
+-
+437428
+276487
+071857
+076827
+389596
+887276
+552726
+419775
+297925
+622084
+secivres
+laicnaniF
+1.8
+&
+gnillewd
+fo pihsrenwo
+,etatse
+laeR
+- 2737381
+6 1
+7 8
+1 0
+7 3 3 3 1 6 2 1
+2 8
+2 3
+7 6
+2 7 1 2 1 7 2 1
+1 8 5 7
+0 4
+6 5 5 2 9 6 1 1
+1 2
+2 4
+5 5
+8 2 0 1 8 5 1 1
+3 2
+8 8
+9 9
+6 5 9 9 7 3 1 1
+9 7
+9 9
+9 7
+1 6 2 7 6 2 1 1
+0 5
+6 1
+4 1
+6 3 4 0 4 2 1 1
+3 4 9 9
+4 7
+9 0 8 1 2 1 1 1
+9 6
+3 4
+2 6
+0 9 5 6 1 0 1 1
+1 2
+5 8 6 9
+0 5 5 2 0 0 1 1
+&
+ecnefeD
+,noisteacrivtsriensi
+lmandoAis
+csielbfourPp
+2 9 .8
+secivreS
+rehto
+-
+621777
+679957
+377227
+705676
+832416
+601565
+358345
+640015
+383105
+551194
+ecnefed
+dna noitartsinimda
+cilbuP
+1.9
+99642631
+47058521
+67491231
+89733721
+17143021
+58282311
+07819401
+3312179
+9463609
+5726458
+6496018
+secirp
+cisab
+ta AVG
+.01
+-
+559558
+266769
+507209
+530638
+447187
+196117
+262956
+847006
+262865
+728435
+secivres
+rehtO
+2.9
+36014611
+99725701
+65868411
+34391111
+05244501
+8576499
+0890229
+9843358
+9303697
+4165357
+1779817
+secirp
+cisab
+ta deddA
+eulaV
+teN latoT
+.11
+1896411
+004379
+2846921
+7119521
+1140111
+909979
+326778
+145518
+127737
+147666
+383926
+stcudorP
+no
+sexat teN
+.21
+849432-
+591091-
+407141-
+044251-
+888541-
+575441-
+229431-
+786421-
+343221-
+453801-
+42867-
+daorbA
+morf
+emocnI
+rotcaF
+teN
+.31
+79035521
+40063511
+33614621
+91062221
+47780511
+29028701
+1863699
+3434229
+7148758
+1004908
+0332477
+INN
+.41
+18617741
+37485531
+85951541
+41929931
+28544131
+39180321
+39496311
+47672501
+0731089
+7103129
+9236378
+secirp
+tekram
+ta PDG
+61
+32719
+01158
+07249
+33129
+68578
+30038
+95677
+50827
+27586
+83556
+26436
+)seepuR
+ni(
+emocnI
+atipaC
+reP
+.51 :ecruoS
+′
+)OSN(
+eciffO
+lacitsitatS
+lanoitaN
+setamitsE
+ecnavdA
+dnoceS:
+;setamitsE
+desiveR
+dnoceS
+: @ ;setamitsE
+desiveR
+drihT
+: #
+;setamitsE
+desiveR
+tsriF
+:*
+gnitsacdaorb
+ot
+detaler
+secivres
+&
+noitacinummoc
+,egarots
+,tropsnart
+,sletoh
+,edart
+edulcnI
+$Economic & Social Dimensions of Agriculture | 13
+:)b(3.1
+elbaT
+`
+secirP
+cisaB
+tnerruC
+ta
+ytivitcA
+cimonocE
+yb
+deddA
+eulaV
+ssorG
+)′erorc
+(
+@
+#
+22-1202
+*12-0202
+02-9102
+91-8102
+81-7102
+71-6102
+61-5102
+51-4102
+41-3102
+31-2102
+21-1102
+yrtsudnI
+.oN.S
+)23113(4693
+)42914(9063
+)41613(8533
+)50219(9203
+)692(89282
+)286(68152
+)373(57222
+)261(63902
+)257(36291
+)740(15761
+)734(91051
+gnihsif
+dn)a2
+(yrtserof
+,erutlucirgA
+).11(
+-
+7417991
+6691981
+7770861
+4623361
+4406841
+2997231
+4782921
+6778421
+4188801
+151289
+sporC
+1.1
+-
+9424111
+037779
+900288
+386587
+116276
+014285
+114015
+337224
+328863
+433723
+kcotseviL
+2.1
+-
+974562
+306062
+350552
+306712
+463502
+114481
+067371
+476651
+855731
+634421
+gniggol
+dna yrtseroF
+3.1
+-071815
+002869243223
+576105882523
+718606271723
+597021369313
+384068465213
+012170243912
+766754681013
+04991785992
+12149895782
+75230081662
+egrnuitylurcraauuqqa
+ddnnaa ggnniihnsiMiF
+4.2.1
+6476233
+5349072
+9084072
+0652182
+3266652
+1273332
+9816412
+9638781
+2543171
+7382751
+6899041
+gnirutcafunaM
+.3
+-
+227453
+633133
+976533
+980872
+866952
+238312
+998581
+376571
+722861
+425761
+occaboT
+dna
+segareveB
+,stcudorP dooF
+1.3
+-
+403982
+081653
+992663
+074233
+551303
+753003
+375942
+424642
+189781
+832351
+stcudorP
+rehtaeL
+dna
+lerappA ,selitxeT
+2.3
+-
+798863
+954053
+167863
+771333
+369372
+868232
+126372
+899682
+519842
+726922
+stcudorP lateM
+3.3
+-
+230206
+877826
+244056
+161785
+550145
+861584
+169883
+383343
+132653
+076433
+tnempiuqE
+dna yrenihcaM
+4.3
+-521075
+0285434790051
+7851068130051
+0985341994041
+6821775532041
+198087555593
+456699341393
+581532028872
+357591006662
+308543151162
+782696462851
+rehto
+&
+ylppsduoso
+rGe tdaewru
+,tscaagfu ,yntaicMir rtechetlOE
+5.4.3
+secivres ytilitu
+5502071
+8065131
+9572731
+8112531
+4140021
+0780801
+480199
+680979
+074129
+563948
+533777
+noitcurtsnoC
+.5
+$4263453
+1898181
+2185232
+7076312
+5931881
+1009061
+9693341
+3380231
+7644781
+6893661
+6113141
+stnaruatser
+dna
+sletoh
+,riaper ,edarT
+.6
+-
+1282371
+6869212
+8975591
+1762271
+3858641
+3237031
+4746021
+1248701
+386459
+186397
+secivres
+riaper & edarT
+1.6
+--
+026114678401
+7028166295111
+9505900686101
+382275875919
+851541004319
+644465602618
+935637461817
+064019690816
+03558499906
+14039599825
+& noitacinummoc
+s,etngaarruoatsts
+,etrr o&p sslneatorHT
+2.7.6
+gnitsacdaorb
+ot
+detaler secivres
+-
+708631
+774531
+695321
+485611
+687601
+154001
+95429
+42787
+69227
+05116
+syawliaR
+1.7
+..-.dtnoC
+461744
+834565
+255635
+431484
+749434
+209993
+463073
+603833
+256003
+244262
+tropsnart daoR
+2.714 | Agricultural Statistics at a Glance, 2021
+.dtnoC
+:)b(3.1
+elbaT
+′
+@
+#
+22-1202
+*12-0202
+02-9102
+91-8102
+81-7102
+71-6102
+61-5102
+51-4102
+41-3102
+31-2102
+21-1102
+yrtsudnI
+.oN.S
+)31(
+)21(
+)11(
+)01(
+)9(
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+-
+81431
+05331
+95031
+12031
+6029
+8927
+0957
+6746
+0917
+0196
+tropsnart
+retaW
+3.7
+-
+32301
+80522
+03721
+44422
+69412
+44302
+02811
+3586
+8218
+3934
+tropsnart
+riA
+4.7
+-
+07189
+103301
+143301
+20679
+864201
+64288
+18619
+91757
+45027
+20636
+tropsnart
+ot latnedicni
+secivreS
+5.7
+-
+82691
+31591
+79581
+49161
+2447
+1207
+7046
+6206
+5616
+8015
+egarotS
+6.7
+ot
+detaler
+secivres &
+noitacinummoC
+- 1427654
+2 0
+0 6
+9 7
+1 5 2 4 3 04
+4 8
+9 3
+0 3
+3 9 9 7 2 83
+9 8 7 9
+1 4
+8 9 5 2 2 53
+9 2
+4 1
+5 2
+7 7 4 2 2 13
+9 7
+0 3
+8 4
+7 1 4 1 2 92
+2 8
+8 3
+2 1
+7 6 3 2 2 62
+2 6
+4 4
+4 3
+6 3 0 6 2 32
+4 8 0 0 8 5
+7 9 7 6 1 02
+9 2
+6 3
+9 6
+2 6 4 7 1 71
+0 7
+3 7 9 8
+5 0 2 3 1 51
+lanoisseforP
+& etatsE
+laegRn
+i,ltasaiccndaaonriFb
+7 8 .7
+secivres
+-
+2228801
+9537201
+877149
+491648
+102057
+682627
+114166
+143995
+918635
+622084
+secivres
+laicnaniF
+1.8
+&
+gnillewd

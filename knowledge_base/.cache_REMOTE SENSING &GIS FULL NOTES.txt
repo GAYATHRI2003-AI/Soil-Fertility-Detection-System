@@ -1,0 +1,782 @@
+Saliruyn hY
+CE7000E: REMOTE SENSING &G IS (Open Electlve ll)
+B.Tech. Civil Engg. IV Year I Sem.
+L TIPID C
+3 O/0/0 3
+Course Objectives: The objectives of the course are to
+Know the concepts of Remote Sensing, its interpreting Techniques and concepts of Digital
+images
+know the concept of Geographical Information System (GIS), coordinate system GlS Data and
+its types
+Understand the students managing the spatial Data Using GIS.
+Understand Implementation of GIS interface for practical usage.
+Course Outcomes: After the completion of the course student should be able to:
+Describe different concepts and terms used in Remote Sensing and its data
+Understand the Data conversion and Process in different coordinate systems of GIS interface
+Evaluate the accuracy of Data and implementing a GIS
+Understand the applicability of RS and GIS for various applications
+UNIT -I
+Concepts of Remote Sensing Basics of remote sensing- elements involved in remote sensing.
+electromagnetic spectrum, remote sensing terminology & units, energy resources, energy interactions
+with earth surface features & atmosphere, atmospheric effects, satellite orbits, Sensor Resolution, types
+of sensors. Remote Sensing Platforms and Sensors, IRS satellites.
+Remote Sensing Data Interpretation Visual interpretation techniques, basic elements, converging
+evidence, interpretation for terrain evaluation, spectral properties of soil, water and vegetation.
+Concepts of Digital image processing, image enhancements, qualitative & quantitative analysis and
+pattern recognition, classification techniques and accuracy estimation.
+UNIT- I:
+Introduction to GIS: Introduction, History of GIS, GIS Components, GIS Applications in Real life, The
+Nature of geographic data, Maps, Types of maps, Map scale, Types of scale, Map and Globe, Co
+ordinate systems, Map projections, Map transformation, Geo-referencing.
+UNIT- II:
+Spatial Database Management System: Introduction: Spatial DBMS, Data storage. Database
+structure models, database management system, entity-relationship model, normalization
+Data models and data structures: Introduction, GIS Data model, vector data structure, raster data
+structure, attribute data, geo-database and metadata,
+UNIT- IV:
+Spatial Data input and Editing: Data input methods - keyboard entry, digitization, scanning.
+conversion of existing data, remotely sensed data, errors in data input, Data accuracy, Micro and Macro
+Components of accuracy, sources of error in GIS.
+Spatial Analysis: Introduction, topology,s patial analysis, vector data analysis, Network analysis, raster
+data analysis, Spatial data interpolation techniques
+UNIT-V: Implementing a GIS and Appllcations
+Implementing a GIS: Awareness, developing system requirements, evaluation of alternative systems,
+decision making using GIS
+Applications of GIS
+GIS based road network planning, Mineral mapping using GIS, Shortest path detection using GIS,
+Hazard Zonation using remote sensing and GIS, GIS for solving multi criteria problems., GIS for
+business applications.TEXT BOOKS
+Remote Sensing and GIS by Basudeb Bhatta, Oxford University Press, 2nd Edition, 2011.
+1
+2. Introduction to Geographic Information systems by Kang-tsung Chang, McGraw Hill
+Education (Indian Edition), 7th Edition, 2015.
+3. Fundamentals of Geographic Information systems by Michael N. Demers, 4" Edition, Wiey
+Publishers, 2012.
+REFERENCE BOOKS
+Remote Sensing and Image Interpretation by Thomas M. Lillesand and Ralph W. Kiefer,
+1
+Wiley Publishers, 7th Edition, 2015.1
+2. Geographic Information systems -An Introduction by Tor Bernhardsen, Wiley India
+Publication, 3rd Edition, 2010.
+3. Advanced Surveying: Total Station, GIS and Remote Sensing by Satheesh Gopi, R. Sathi
+Kumar, N. Madhu, Pearson Education, 1st Edition, 2007.
+4 Textbook of Remote Sensing and Geographical Information systems by M. Anji Reddy.Remote Sensing- Unit: 1
+CChhaapptteerr
+11:: RReemmoottee
+SSeennssiinngg
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Chapter 1:
+This chapter briefly discusses the basics of various techniques, viz. the remote sensing,
+the digital image processing, visual Interpretation and delineation using Geographical
+Information System (GIS) domain
+: Remote Sensing:
+“Remote sensing is defined as the science and art of obtaining information about an
+object, area, or phenomenon through the analyses of data acquired by the sensor that is
+not in direct contact with the target of investigation” (Schultz and England, 2000; Ritchie
+and Rango, 1996). This can be done by the use of either recording or real-time sensing
+device(s) mounted on aircraft, spacecraft, satellite, buoy, or ship. During last forty years,
+space travel has been giving humanity new opportunities, not only to peer into the depths
+of the cosmos, but also to look at the length and breadth of our own world. Remote sensing
+enables us to acquire information about a phenomenon, object or surface while at a
+distance from it. More than just a source of pleasing pictures, these sophisticated
+techniques now allow scientists to understand the Earth in ways we never before dreamed.
+From 1960 onwards, since the beginning of spaceflight, an ever-growing body of
+information is being gathered using space-based remote sensing. Agriculture, meteorology,
+oceanography, ecology, cartography, botany, geomorphology and geology are just a few of
+the disciplines, which have been transformed by this technology. Some of the most
+important environmental issues of our time are only becoming understood because of vast
+networks of remote sensing devices and data analysis systems. In practice, remote sensing
+is the standoff collection through the use of a variety of devices for gathering information
+on a given object or area. The remote sensing is a multi-disciplinary science, which
+includes a combination of various disciplines such as
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Optics, spectroscopy, photography, computers, electronics and telecommunication, etc. All
+these technologies are integrated to act as one complete system in itself, known as Remote
+Sensing. In the decades to come, remote sensing will be a key tool for making critical
+decisions affecting the Earth and its resources.
+In a remote sensing system, number of components work as links and each one is
+important for successful operation. They are listed below (figure 3.1).
+ Emission of electromagnetic radiation, or EMR
+ Transmission of energy from the source to the surface of the earth, interaction
+with the atmosphere as well as absorption and scattering
+ Interaction of EMR with the earth’s surface: absorption, reflection and emission
+ Transmission of energy from the surface to the remote sensor
+ Sensor/detector data output
+ Data transmission, processing and analysis
+Figure 3.1: Different stages in Remote sensing and data acquisition
+(Source: http://www.ansp.org/museum/kye/tech_environment/2001_remote_sensing.php)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Basic components of Remote Sensing:
+The sun is the major source of energy, radiation and illumination. At any given moment,
+our sun is bombarding the earth with a variety of wavelengths of EMR, including visible
+light, infrared, radio and microwaves. Detection and discrimination of surface features
+means detecting and recording of radiant energy reflected or emitted by surface (Joseph,
+2004; Lillesand and Kiefer, 1987; 2000). Different features return different amount and
+kind of energy in different bands of the electromagnetic spectrum, incident upon it. This
+unique property depends on the property of material (structural, chemical and physical),
+surface roughness, angle of incidence, intensity and wavelength of radiant energy (Elachi,
+1987). Everything in nature has its own unique distribution of reflected, emitted and
+absorbed radiation. These spectral characteristics, if ingeniously exploited, can be used to
+distinguish one thing from another or to obtain information about shape, size and other
+physical and chemical properties. Because the emission and reflection of many different
+types of EMR can be detected by instruments, they can also be used for remote sensing.
+Thus, to understand remote sensing, it is important to first understand the basics of EMR.
+: Electromagnetic Radiation:
+Electromagnetic radiation is one of the fundamental forms of energy in the universe. EMR
+is a dynamic form of energy that propagates as wave motion at a velocity of light,
+I.e. C=3X1010 m/s. Electromagnetic energy radiates in accordance with the basic wave
+theory. This theory describes the EM energy as traveling in a harmonic sinusoidal fashion
+at the velocity of light.
+Here, c = vλ ........................................................................................................................ 3.1
+Where, v is frequency, λ is wavelength and c is velocity
+Although many characteristics of EM energy are easily described by wave theory,
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Figure 3.2: An electromagnetic wave. Includes electric wave (E) and magnetic wave
+(M) at right angles, both perpendiculars to the direction of propogation. (Source:
+http://www.ccrs.nrcan.gc.ca/resource/tutor/fundam/index_e.php)
+another theory known as particle theory offers insight into how electromagnetic energy
+interacts with matter (figure 3.2). It suggests that EMR is composed of many discrete units
+called photons/quanta. The energy of quantum is:
+Q = h c/λ........................................................................................................................... 3.2
+Where Q is the energy of quantum, h is plank’s constant
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Hence, from equation 3.1
+Q = h cv ............................................................................................................................ 3.3
+: Electromagnetic Spectrum
+Electromagnetic energy is the energy source required to transmit information from the
+target to the sensor. A crucial medium is described as an electromagnetic spectrum. Many
+of the basic forms of energy in the universe are related as part of the electromagnetic
+spectrum. On this spectrum, many forms exist that describe energy in a specific region of
+the electromagnetic spectrum. These are visible light, radio waves, microwaves, infrared,
+UV rays, x-rays and gamma rays (figure 3.3).
+Fig 3.3: Electromagnetic spectrum
+(Source: http://hcgl.eng.ohio-state.edu/~ceg603/handouts/IntroRemoteSensing.pdf)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+This spectrum is an overview of the continuum of electromagnetic energy from extremely
+short wavelengths (cosmic gamma rays) to extremely long wavelengths (radio and
+television waves). Note that as the wavelengths of energy decrease, the frequency
+increases. These divisions are not absolute and definite; overlapping may occur (table 3.1).
+Table 3.1: Major regions of the electromagnetic spectrum
+Region Name Wavelength Comments
+Entirely absorbed by the Earth's atmosphere
+Gamma Ray < 0.03 nanometers
+and not available for remote sensing.
+0.03 to 30 Entirely absorbed by the Earth's atmosphere
+X-ray
+nanometers and not available for remote sensing.
+0.03 to 0.4 Wavelengths from 0.03 to 0.3 micrometers
+Ultraviolet
+micrometers absorbed by ozone in the Earth's atmosphere.
+Photographic 0.3 to 0.4 Available for remote sensing the Earth. Can be
+Ultraviolet micrometers imaged with photographic film.
+0.4 to 0.7 Available for remote sensing the Earth. Can be
+Visible
+micrometers imaged with photographic film.
+Available for remote sensing the Earth. Near
+0.7 to 3.0
+Reflected Infrared Infrared 0.7 to 0.9 micrometers. Can be imaged
+micrometers
+with photographic film.
+Available for remote sensing the Earth. This
+3.0 to 14 wavelength cannot be captured with
+Thermal Infrared
+micrometers photographic film. Instead, sensors are used to
+Image this wavelength band.
+Longer wavelengths of this band can pass
+0.1 to 100 through clouds, fog, and rain. Images using this
+Microwave or Radar
+centimeters band can be made with sensors that actively
+emit microwaves.
+Not normally used for remote sensing the
+Radio > 100 centimeters
+Earth.
+(Source: http://www.physicalgeography.net/fundamentals/2e.html)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Electromagnetic radiation quantities
+ Radiant energy (Q) is the energy carried by EMR. Radiant energy causes the
+detector element of the sensor to respond to EMR in some appropriate manner.
+Unit of Radiant Energy Q is Joule.
+ Radiant Flux (Φ) (Phi) is the time rate of the flow of radiant energy. Unit of
+Radiant flux is Joule/Second or Watt (W).
+ Irradiance (E) is the Radiant flux intercepted by a plane surface per unit area of
+the surface. It arrives at the surface from all directions within a hemisphere over the
+surface. Unit of Irradiance E is W/m2 or Wm-2 (Watt per square meter).
+ Radiance (L) is defined as the radiant flux per unit solid angle leaving an extended
+source in a given direction per unit-projected area of the source in that direction.
+The concept of radiance is intended to correspond to the concept of brightness. The
+projected area in a direction, which makes an` angle θ (Theta) with the normal to
+the surface of area A is A cosθ. Unit for Radiance is Wm-2sr-1.
+ Spectral Reflectance (ρ(λ)) is the ratio of reflected energy to incident energy as a
+function of wavelength.
+ Spectral Signature are the values of the spectral reflectance of objects averaged
+over different, well defined wavelength intervals comprise the spectral signature
+of the objects or features by which they can be distinguished.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Interaction of EMR with atmosphere and earth surface
+The sun is the source of radiation and electromagnetic radiation (EMR) from the sun that is
+reflected by the earth and detected by the satellite or aircraft-borne sensor must pass
+through the atmosphere twice, once on its journey from the sun to the earth and once after
+being reflected by the surface of the earth back to the sensor. Interactions of the direct solar
+radiation and reflected radiation from the target with the atmospheric constituents interfere
+with the process of remote sensing and are called as “Atmospheric Effects”.
+The atmospheric constituents scatter and absorb the radiation, modify the radiation
+reflected from the target by attenuating it. Both scattering and absorption vary in their
+effect from one part of the spectrum to the other. The solar energy is subjected to
+modifications by several physical processes as it passes the atmosphere, viz. scattering,
+absorption and refraction.
+ Atmospheric Scattering: Scattering is the redirection of EMR by particles
+suspended in the atmosphere or by larger molecules of atmospheric gases or water
+vapor. The amount of scattering depends upon the size and abundance of particles,
+the wavelength of radiation and depth of the atmosphere through which the energy
+is traveling which varies both in time and over season, thus scattering will be
+uneven spatially and will vary from time to time. Scattering reduces image contrast
+and changes spectral signature of ground objects as seen by the sensor.
+ Atmospheric Absorption: The gas molecules present in the atmosphere strongly
+absorb the EMR passing through the atmosphere in certain spectral bands. Mainly
+three gases are responsible for most of the absorption of solar radiation, viz. ozone,
+carbon dioxide and water vapor. Absorption relatively reduces the amount of light
+that reaches our eye making the scene look relatively duller.
+ Atmospheric Windows: The atmosphere selectively transmits energy of certain
+wavelengths. The spectral bands for which the atmosphere is relatively
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Transparent are known as “Atmospheric Windows”. In the visible part transmission
+is mainly effected by ozone absorption and by molecular scattering (figure 3.4).
+ Refraction: The phenomenon of refraction that is bending of light at the contact
+between two media also occurs in the atmosphere as the light passes through the
+atmospheric layers of varied clarity, humidity and temperature.
+Fig 3.4: Spectral characteristics of energy sources, atmospheric effects and sensing
+systems wavelength scale are logarithmic.
+(Source: www.ucalgary.ca/GEOG/virtual/remoteintro.html)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Radiation from the sun, when incident upon the earth’s surface, is reflected by the surface,
+transmitted into the surface or absorbed and emitted by the surface. The EMR, on the
+interaction, experiences a number of changes in magnitude, direction, wavelength,
+polarization and phase. These changes are detected by the remote sensor and enable the
+interpreter to obtain useful information about the object of interest. The remotely sensed
+data contain both spatial information (size, shape and orientation) and spectral information
+(tone, colour and spectral signature). The spectral band from 0.3 μm to 3 μm is known as
+the reflective region. In this band, the radiation sensed by the sensor is that due to the sun,
+reflected by the earth’s surface.
+ Reflection: Of all the interactions in the reflective region, surface reflections are
+the most useful and revealing in remote sensing applications. Reflection occurs
+when a ray of light is redirected as it strikes a non-transparent surface. The
+reflection intensity depends on the surface refractive index, absorption coefficient
+and the angles of incidence and reflection.
+ Transmission: Transmission of radiation occurs when radiation passes through a
+substance without significant attenuation. For a given thickness, or depth of a
+substance, the ability of a medium to transmit energy is measured as transmittance
+(τ). τ = transmitted radiation/incident radiation
+: Data detection and output:
+The most important component of a remote sensing is the sensor/detector, which, records
+the variation of radiant energy reflected or emitted by objects or surface material.
+Different types of sensors are sensitive to different parts of the electromagnetic spectrum.
+The function of recording system is to convert the energy detected by sensor into a form,
+which can be perceived. This is done by dividing the incoming energy by beam splitters
+and filters into different wavelength bands and then converting energy in each
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Wavelength band into electrical signal. The electrical signal is processed to give
+radiometric data for each band, which is recorded in digital format.
+: Remote Sensing Systems:
+The common remote sensing systems are of two types, Imaging (image forming) and Non-
+Imaging (nonimage forming). Image-forming systems are again of two types, framing type
+and scanning type. In scanning type, the information is acquired sequentially from the
+surface in bits of picture elements or pixels, point-by-point and line-by-line, which may be
+arranged after acquisition into a frame format.
+Remote sensing can be either passive or active. ACTIVE systems have their own source of
+energy such as RADAR, whereas the PASSIVE systems depend upon external source of
+illumination such as sun for remote sensing.
+: Platforms and Sensors:
+The information flows from an object to a sensor in the form of radiation transmitted
+through the atmosphere. For a sensor to collect and record energy reflected or emitted from
+a target or surface, it must reside on a stable platform away from the target or surface being
+observed. Based on its altitude above earth surface, platforms can be classified as ground-
+borne, air-borne and space-borne.
+Space-borne platforms are in space, moving in their orbits around the earth. It is through
+these space-borne platforms, we get enormous amount of remote sensing data. Depending
+on their altitude and orbit, these platforms may be divided in two categories:
+ Geostationary satellites: An equatorial west to east satellite orbiting the earth at
+an altitude at which it makes one revolution in 24 hours, synchronous with the
+earth’s rotation, hence it gives continuous coverage over the same area day and
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Night. These are mainly used for communication and meteorological applications,
+for e.g. the INSAT satellites.
+ Polar orbiting or Sun-synchronous satellites: A satellite with inclined north-
+south orbit track westward at a rate such that it covers each area of the world at a
+constant time of the day called the local sun time as the satellite moves from north
+to south. This ensures the similar illumination conditions while acquiring image
+over a particular area over a series of days (figure 3.5). On the descending pass
+from north to south, the satellite travels on the sun lit side of the earth, while on
+ascending pass from south to north it travels on the shadowed side of the earth.
+Through these satellites, the entire globe is covered on regular basis and gives
+repetitive coverage on periodic basis. All remote sensing resources satellites may
+be grouped in this category for e.g. IRS series.
+Fig 3.5: Sun synchronous satellites orbiting earth
+(Source: http://www.newmediastudio.org/DataDiscovery/Hurr_ED_Center/Satellites_and
+_Sensors/Polar Orbits/Polar_Orbits.html)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Sensor is the device that gathers energy (EMR or others), converts it into a signal and
+presents it in a form suitable for obtaining information about the target under investigation.
+Sensors used for remote sensing can be broadly classified as those operating in Optical
+Infrared (OIR) region and those operating in microwave region. OIR and microwave
+sensors can further be subdivided into passive and active depending on the source of
+energy.
+ Active sensors use their own source of energy to illuminate earth surface and a
+part of it is reflected and received to gather information.
+ Passive sensors do not have their own source of energy but instead receive solar
+electromagnetic energy reflected from surface or energy emitted from surface itself
+hence it cannot be used at nighttime, except thermal sensors. Energy that is
+naturally emitted (e.g. Thermal energy) can be detected day or night, as long as the
+amount of energy is large enough to be recorded (Sabins, 1997).
+: Types of Remote Sensing:
+Remote sensing can be broadly classified into three types with respect to the wavelength
+region and type of sensor involved for data acquisition; viz. Optical (Visible and
+Reflective Infrared), Thermal Infrared and Microwave. In present study, optical remote
+sensing technique has been used to achieve the defined objectives.
+: Optical Remote Sensing:
+Optical remote sensing involves the use of visible part of the EM spectrum. Energy emitted
+from sun is used for visible and reflective infrared remote sensing. The International
+Commission on Illumination has defined the visible spectrum to be from
+0.38 to 0.79 μm. The human eye has its peak sensitivity at 0.55 microns, which is
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Approximately the peak of the emission curve of the sun (Jensen, 1996; Sabins, 1997;
+Gupta, 1999; 2003). Remote sensing data obtained in the visible and reflective infrared
+regions mainly depends on the reflectance of objects on the ground surface. Therefore,
+information about objects can be obtained from the spectral reflectance (Elachi, 1987).
+: Thermal Infrared Remote Sensing:
+The source of radiant energy used in thermal infrared remote sensing is the object itself,
+because any object with a normal temperature will emit EM radiation with a peak at
+about 10 μm (Sabins, 1997; Gupta, 2003).
+: Microwave Remote Sensing:
+In microwave region, there are two types of microwave remote sensing, passive and active.
+In passive microwave remote sensing, the microwave radiation emitted from an object is
+detected, while in active microwave remote sensing, source of EM radiations and detector
+are placed on the sensor (Elachi, 1988).
+Inherent characteristics and spectral signature of objects
+In any photographic image forming process, the negative is composed of tiny silver
+deposits formed by the action light on photosensitive film during exposure. The amount of
+light received by the various sections of the film depends on the reflection of EMR from
+various objects. The light, after passing through the optical system, gives rise to different
+tones and textures.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+In visual interpretation, an interpreted is primarily concerned with recognizing changes in
+tonal values, thereby differentiating an object of a certain reflective characteristic from
+another. However, he must be aware that the same object under different moisture or
+illumination conditions and depending on the wavelength of incident energy may reflect a
+different amount of light. For this reason, a general key, based on tone characteristics of
+objects, cannot be prepared. In such cases, other characteristics of objects such as their
+shape, size and pattern, etc., help in their recognition.
+Spectral signature is the parameter, which determines the character of the object under
+observation. This can be defined as a unique pattern of wavelengths radiated/reflected by
+an object. It can be categorized as:
+ Spectral variation: Variation in reflectivity and emissivity as a function of
+wavelength.
+ Spatial variation: Variation in reflectivity and emissivity with spatial position (i.e.
+shape, texture and size of the object).
+ Temporal variation: Variation of emissivity and reflectivity like that in diurnal
+and seasonal cycle.
+ Polarization variation: the material in the radiation reflected or emitted by it
+introduces Variations.
+Each of these four features of EMR may be interdependent. A measure of these variations
+and correlating them with the known features of an object provides signature of the object
+concerned. The knowledge of the state of polarization of the reflected radiation in addition
+to spectral signature of various objects in remote sensing adds dimension for
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Analysis and interpretation of remote sensing data. These parameters are extremely useful
+in providing valuable data for discriminating the objects.
+: Elements of image interpretation
+Recognizing targets is the key to interpretation and information extraction. Observing the
+differences between targets and their backgrounds involves comparing different targets
+based on any, or all, of the visual elements of tone, shape, size, pattern, texture, shadow,
+and association. Identifying targets in remotely sensed images based on these visual
+elements allows us to further interpret and analyze. The nature of each of these
+interpretation elements is described below:
+: Tone refers to the relative brightness or colour of objects in an image. Generally, tone is
+the fundamental element for distinguishing between different targets or features. Variations
+in tone also allow the elements of shape, texture, and pattern of objects to be distinguished.
+: Shape refers to the general form, structure, or outline of individual objects. Shape can
+be a very distinctive clue for interpretation. Straight edge shapes typically represent urban
+or agricultural targets, while natural features are generally more irregular in shape.
+: Size of objects in an image is a function of scale. It is important to assess the size of a
+target relative to other objects in a scene, as well as the absolute size, to aid in
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+The interpretation of that target. A quick approximation of target size can direct
+interpretation to an appropriate result more quickly.
+: Pattern refers to the spatial arrangement of visibly discernible objects. Typically, an
+orderly repetition of similar tones and textures will produce a distinctive and ultimately
+recognizable pattern.
+: Texture refers to the arrangement and frequency of tonal variation in particular areas of
+an image. Rough textures would consist of a mottled tone where the grey levels change
+abruptly in a small area, whereas smooth textures would have very little tonal variation.
+: Shadow is also helpful in interpretation as it may provide an idea of the profile and
+relative height of a target or targets, which may make identification easier. However,
+shadows can also reduce or eliminate interpretation in their area of influence, since targets
+within shadows are much less (or not at all) discernible from their surroundings.
+: Association takes into account the relationship between other recognizable objects or
+features in proximity to the target of interest. The identification of features that one would
+expect to associate with other features may provide information to facilitate identification.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Spectral behavior of surface features
+As EMR incidents on earth’s surface, behavior of land features is mainly due to the
+component of the target at that locality. Since each of these components exhibit typical
+spectral signature influenced by so many other parameters of their own, they are to be
+considered separately to understand the nature of EMR interaction with each components.
+Spectral signature or water, vegetation and soil are discussed below (figure 3.6):
+Fig 3.6: Typical spectral reflectance curves for vegetation (two different types), soil
+(two different types) and water (two different types)
+(Source: http://ceos.cnes.fr:8100/cdrom-00/ceosl/irsa/pages/intro2c.htm)
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Spectral reflectance and signature of soil
+The majority of the flux incident on a soil surface is reflected or absorbed and little is
+transmitted. The reflectance properties of the majority of soils are similar, with a positive
+relationship between reflectance and wavelength, as seen in fig: 3.7. Main factors
+influence the soil reflectance in remote sensing images are mineral composition, moisture
+content, organic matter content and soil texture (surface), soil structure and iron oxide
+content. Size and shape of the soil aggregate also influence the reflectance in the images.
+: Effect of mineral composition:
+The mineral composition of soils affects the reflectance spectrum. Increasing reflectance of
+soils occurs from the visible to the shortwave infrared - with absorption bands around
+1.4 µm and 1.9 µm related to the amount of moisture in the soil.
+: Effect of soil texture, structure and moisture:
+The relationship between texture, structure and soil moisture can best be described with
+reference to two contrasting soil types. A clay soil tends to have strong structure, which
+leads to rough surface texture, and have high moisture content and as a result have a low
+diffuse reflectance. In contrast, a sandy soil tends to have a weak structure, which leads to
+a smooth surface texture, and have low moisture content and as a result have high and
+often specular reflectance properties. Soil texture (roughness) also affects soil optical
+properties. In visible wavelengths, the presence of soil moisture considerably reduces the
+surface reflectance of soil, until the soil is saturated. Reflectance in near and middle
+infrared wavelengths is negatively related to soil moisture. An increase in soil moisture
+will result in a rapid decrease in reflectance in water and hydroxyl absorbing wavebands.
+The effect of water and hydroxyl absorption is more noticeable in clay soil as it has much
+bound water and very strong hydroxyl absorption properties.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Fig 3.7: effect of soil moisture on soil spectral reflectance
+(Source: Tutorials from Indian Institute of Remote Sensing, Dehradun, India)
+: Effect of organic matter:
+Organic matter may indirectly affect the spectral influence, based on the soil structure and
+water retention capacity. It is dark and its presence decreases the reflectance from the soil
+up to an organic matter content of around 4-5% but beyond it hardly effects.
+: Effect of iron oxide:
+Iron oxide gives many soils their rusty red coloration. Iron oxide selectively reflects red
+light.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+: Effect of size and shape:
+Soil aggregate size and shape influence the reflectance properties. If the size of a soil
+aggregate large in diameter, a decrease in reflection will result.
+: Spectral reflectance and signature of vegetation
+Components that are involved in classifying vegetation from remote sensing images
+received from satellites include chemical properties and physical properties recorded for
+the vegetation (including surface texture, roughness and local slope properties).
+Several factors influence the reflectance quality of vegetation on satellite and remote
+sensing images. These include brightness, greenness and moisture. Brightness is calculated
+as a weighted sum of all the bands and is defined in the direction of principal variation in
+soil reflectance. Greenness is orthogonal to brightness and is a contrast between the near
+infrared and visible bands. It is related to the amount of green vegetation in the scene.
+Moisture in vegetation will reflect more energy than dry vegetation.
+Leaf properties that influence the leaf optical properties are the internal or external
+structure, age, water status, mineral stresses, and the health of the leaf (figure 3.8). It is
+important to note that the reflectances of the optical properties of leaves are the same,
+regardless of the species. What may differ for each leaf, is the typical spectral features
+recorded for the three main optical spectral domains; leaf pigments, cell structure and
+water content.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Fig 3.8: Typical spectral response characteristics of green vegetation
+(Source: http://www.rsunt.geo.ucsb.edu/rscc/vol2/lec2/2_2.html#21)
+Electromagnetic wavelengths affect different parts of plant and trees. These parts include
+leaves, stems, stalks and limbs of the plants and trees. The length of the wavelengths also
+plays a role for reflection that occurs. Tree leaves and crop canopies reflect more in the
+shorter radar wavelengths, while tree trunks and limbs reflect more in the longer
+wavelengths. The density of the tree or plant canopy will affect the scattering of the
+wavelengths.
+Within the electromagnetic spectrum, bands will produce different levels of reflectance
+rates. For example, in the visible bands (400 - 700 nm), a lower reflectance will occur as
+more light will be absorbed by the leaf pigments than reflected. The blue (450 nm) and
+red (670 nm) wavelengths include two main absorption bands that absorb two main leaf
+pigments.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+The images created by remote sensing will be influenced by these factors: quality, scale
+and season of photography, film type and background. Other factors that influence
+vegetation classification are time of day, sun angle, atmospheric haze, clouds, processing
+errors of transparencies/prints and errors in interpretating the images.
+Photographic texture (smoothness and coarseness of images), total contrast or colour,
+relative sizes of crown images at a given photo scale and topographic location helps to
+determine the cover types of vegetation.
+Different types of images will display diverse characteristics of vegetation. Satellite
+images can be combined with topographic data (ancillary data) for better interpretation.
+: Spectral reflectance and signature of water
+The majority of radiation flux incident upon water is not reflected but is either absorbed or
+transmitted. In visible wavelengths of EMR, little light is absorbed, a small amount,
+usually below 5% is reflected and the rest is transmitted. Wavelengths in the blue-green
+portion of the spectrum will have a high transmittance rate. The most distinctive
+characteristic of water, with reference to spectral reflectance, is the energy absorption at
+the near-infrared wavelengths (figure 3.9). Water absorbs Infrared strongly, leaving little
+radiation to be either reflected or transmitted. This results in sharp contrast between any
+water and land boundaries. The factors, which govern the variability in reflectance of a
+water body, are the depth of the water, suspended material within the water and surface
+roughness of the water.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Fig 3.9: Typical spectral reflectance of water
+(Source: http://www.ccrs.nrcan.gc.ca/resource/tutor/fundam/index_e.php)
+Energy is absorbed by water in wavelengths. The wavelengths will interact in a complex
+manner with the water and matter (figure 3.10). The reflectance properties of water are a
+function of the water and the material in the water (organic and/or inorganic material). In
+shallow water, some of the radiation is reflected not by the water itself but from the
+bottom of the water body. Therefore, in shallow streams often the underlying material
+determines the water body’s reflectance properties and colour in the FCC. If the water has
+a large amount of suspended sediment present, than a higher visible reflectance will result
+compared to clearer waters. Turbulent water will also affect the amount of energy
+absorbed and transmitted. The amount of chlorophyll will also affect
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+The amount of water reflectance. An increase in chlorophyll will result in a decrease of
+blue wavelengths and increase in green wavelengths. Water bodies that contain very high
+amount of chlorophyll have reflectance properties that resemble, at least in part, those of
+vegetation with increased green and decreased blue and decreased red reflectance.
+Temperature variations also affect the reflectance of water throughout the day.
+Fig 3.10: Absorption of electromagnetic radiation by sea water
+(Source: Tutorials from Indian Institute of Remote Sensing, Dehradun, India)
+The roughness of water surface can also affect its reflectance properties. If the surface is
+smooth then light is reflected, giving very high or very low reflectance, dependent upon
+the location of the sensor. If the surface is rough then there will be increased scattering at
+the surface, which in turn will increase the reflectance.
+Shaik Saleemmiya, Civil FacultyRemote Sensing- Unit: 1
+Shaik Saleemmiya, Civil FacultyFUNDAMENTALS OF GIS
+(GEOGRAPHICAL INFORMATION SYSTEM)
+UNIT – II
+Shaik Saleemmiya,
+Assistant Professor,
+Dept. of Civil Engineering, Ace Engineering College, Ghatkesar.
+IV-ITopics
+1. Geographical Information System
+2. Modelling Real World Features Data
+3. Data Formats – Spatial and Non-Spatial
+4. GIS Components
+5. Data Collection and Input
+6. Data Conversion
+7. Data Management
+8. Database Structures, Files; Standard Data Formats
+9. Compression Techniques
+10. Hardware – Computing, Printing and Scanning Systems
+11. Software – Standard Packages like ArcGIS, AutoCAD Map, Map Info etc.Geographical Information System
+What is GIS?
+A Geographic Information System (GIS) is a computer system for
+capturing, storing, checking, and displaying data related to
+positions on Earth's surface.Geographic Information Systems (GIS)
+Geography – The study of where features are located on the Earth’s surface.
+Geographic coordinate systems
+latitude
+longitude
+Represent exact positions on the Earth
+42.3216, -71.089118 (lat. long. for Boston)
+Georeferencing / Geocoding – The process of assigning geographic coordinates to
+features to represent their location.Modelling Real World Features DataTypes of Data
+1. Attribute data:
+Says what a feature is
+Ex.: statistics, text, images, sound, etc.
+2. Spatial data:
+Says where the feature is
+◦ Vector data: Discrete data
+o Points
+o Lines
+o Polygons (zones or areas)
+◦ Raster data: Continuous dataRaster DataVector DataEntity RepresentationsRaster vs VectorComponents of GISData CollectionData Collection and InputData CollectionDatabase Structures, Files;
+Standard Data FormatsData Model
+A geographic data model is
+a structure for organizing Geographic coordinates
+geospatial data so that it
+can be easily stored and
+retrieved.
+Tabular attributesGeodatabase model
+Stores geographic coordinates as one attribute (shape)
+in a relational database table
+Uses MS Access for “Personal Geodatabase”
+(single user)
+Shape
+Uses Oracle, SQL Server, MySQL or other
+commercial relational databases for “Enterpris e
+Geodatabases” (many simultaneous users)File-based Data Models
+Geographic coordinates and attributes
+are stored in separate but linked files
+Arc
+Info
+Coverages Shapefiles
+◦ Developed for workstation Arc/Info ~ 1980 ◦ Developed for ArcView ~ 1993
+◦ Complex structure, proprietary format ◦ Simpler structure in public domain
+◦ Attributes in Info tables
+◦ Attributes in dBase (.dbf) tablesIntroduction to Data Compression
+Data compression has important application in the areas of
+data transmission and data storage.
+Many data processing applications are required for storage of
+large volumes of data, and the number of such applications is
+constantly increasing as the use of computers extends to new
+disciplines.
+Compressed data reduces storage and/or communication costs.GIS Functions
+➢
+Capture: Paper maps, digital data, coordinates, GPS, all together = gis data
+➢
+Store: Vector (database consisting of points, lines and polygons) or raster formats (grid cells or
+pixels)
+➢
+Query: Identifying specific features, identify features based on conditions (counties with
+population greater than 500,000)
+➢
+Analyze: Proximity (parcels 100 feet from the road), overlay, network analysis (how linear
+features are connected
+➢
+Display: Maps, graphs, Reports
+➢
+Output: Paper maps, imageSpatialDataManipulationandAnalysis
+• Common Manipulation
+• Query
+• Reclassification
+• Map Projection changes
+• Spatial Analysis
+• Buffering
+• Overlay
+• NetworkINTRODUCTION TO MAPS
+(GEOGRAPHICAL INFORMATION SYSTEM)
+UNIT – II
+Shaik Saleemmiya,
+Assistant Professor,
+Dept. of Civil Engineering, Ace Engineering College, GhatkesarSyllabus
+1. Mapping Concepts
+2. Analysis with paper based Maps
+3. Limitations of Paper based Maps
+4. Computer Aided Cartography History and Development
+5. GIS Definition
+6. Advantage of Digital MapsTopics
+1. Mapping Concepts
+2. Analysis with paper based Maps
+3. Limitations of Paper based Maps
+4. Computer Aided Cartography
+5. Introduction to GIS
+6. Advantage of Digital MapsMapping Concepts
+A map is a two dimensional representation of earth surface which uses
+graphics to convey geographical information. It describes the geographical
+location of features and the relationship between them.
+Most maps have keys and scales that help the reader understand the map. The key explains
+symbols and colors used on the map, so you know what they represent. Scales tell you the
+relationship between the size of the map and the size of the place in real life.Map Scale
+Map Scale
+The size of earth is too big to be represented as it is on a map. To represent the whole earth or part thereof
+on a small map, the concept of scale is used.
+Representation of Scale:
+1. Statement: Expressed in words such as ‘1 centimeter to the kilometer’ which means one centimeter on the map
+represents one kilometer on the ground.
+2. Representative fraction: It is expressed in fraction. If the scale is 1:50000, it means that 1 unit of measurement on
+map represents 50,000 units on ground. It is also known as numerical scale.
+3. Graphic: The scale is shown in form of a strip, where the strip is divided into a number of equal parts and is marked
+to show what these divisions represent on actual ground. It is also known as plain scale or linear scale.(a) 1:25,000 [Large scale] (b) 1:50,000 [Small scale]Types of Maps
+The maps can be classified on the following criteria:
+1. Scale: Scale is important for correct representation of geographical features and phenomenon. Different features
+require different scales for their display. For example preparation of a cadastral map of a village and the soil map of
+a state would use different scale for representing the information. According to scale, maps can be classified as
+follows:
+a) Cadastral Maps - These maps register the ownership of land property
+b) Topographical Maps - These maps are prepared on fairly large scale and are based on precise
+survey
+c) Chorographical/Atlas - Drawn on a very small scale, atlas maps give a generalized view of physical, climatic
+and economic conditions of different regions of the world. The scale of atlas map is generally greater than
+1:1000,000.
+2. Purpose
+a) Natural Maps
+b) Cultural MapsTypes of Maps
+Maps based on Purpose
+1. Natural Maps - These maps represent natural features and the processes associated with them
+a) Astronomical map
+b) Geological map
+c) Relief map
+d) Climate map
+e) Vegetation map
+f) Soil map
+2. Cultural Maps
+a) Political map
+b) Military map
+c) Historical map
+d) Social map
+e) Land-utilization map
+f) Communication map
+g) Population mapNatural Maps
+These maps represent natural features and the processes associated with them. Given below
+is the list of some such maps:
+1. Astronomical map: It refers to the cartographic representation of the heavenly bodies such as
+galaxies, stars, planets, moon etc.
+2. Geological map: A map that represents the distribution of different type of rocks and surficial
+deposits on the Earth.
+3. Relief map: A map that depicts the terrain and indicates the bulges and the depressions
+present on the surface.
+4. Climate map: A climate map is a depiction of prevailing weather patterns in a given area. These
+maps can show daily weather conditions, average monthly or seasonal weather conditions of an area.
+5. Vegetation map: It shows the natural flora of an area.
+6. Soil map: A soil map describes the soil cover present in an area.Cultural Maps
+These maps tell about the cultural patterns designed over the surface of the earth. They
+describe the activities of man and related processes. Given below is the list of such maps:
+1. Political map: A map that shows the boundaries of states, boundaries between different political
+units of the world or of a particular country which mark the areas of respective political jurisdiction
+2. Military map: A military map contains information about routes, points, security and battle
+plans.
+3. Historical map: A map having historical events symbolized on it.
+4. Social map: A map giving information about the tribes, languages and religions of an area.
+5. Land-utilization map: A map describing the land and the ongoing activities on it.
+6. Communication map: A map showing means of communication such as railways, road,
+airways etc.
+7. Population map: A map showing distribution of human beings over an area.The map and the globe are similar in a manner that both of them represent earth
+(on particular scales) but there also exist a few differences between them, which are
+enumerated below:Cartographic Principles & Design
+Cartography is the art and science of map making.
+Cartographers make a huge contribution in making the maps more meaningful and
+understandable.
+Major principles of cartography:
+Data Classification - It is important to have a good understanding of the data which needs to be
+represented on a map. The scales of measurement used are described below:
+a) Nominal Scale - It only satisfies the identity property
+b) Ordinal Scale - This scale has the properties of both identity and magnitude but the interval between
+any two values is indeterminate.
+c) Interval Scale - This scale has the properties of identity, magnitude and equal intervals
+d) Ratio Scale - The ratio scale has the properties of identity, magnitude, equal interval and absolute
+zeroMap Layout
+The process of map composition starts with preparing a
+layout for the map. Apart from the data, a map has certain
+other things that make map a package of effective and
+clear communication. These provide critical information
+to users and are known as map elements.
+A layout specifies the space and positions for different
+map elements such as neat lines, title, North arrow, scale
+bar, legend etc.Map Elements
+1. Color - The aim of filling colors in a map is to make
+visual distinction among various features thus making
+map more decipherable. Generally, dark colors mean
+more and represent high values of the attribute under
+study
+a) Additive Color Model
+b) Subtractive Color Model - A subtractive color
+model explains the mixing of dyes, inks etc. to
+create a range of colors.
+2. Text
+3. Placement of Labels
+4. Symbols
+a) Shape
+b) Size
+c) Combination of Symbol and ColorToposheet Indexing
+Survey of India produces the topographic maps of India. These maps are
+produced at different scales. In order to identify a map of a particular area, a
+numbering system has been adopted by the Survey of India.Limitations of Paper based Maps
+1. Time consuming: They require complex interpretations when reading them.
+2. Good quality paper maps may be hard to find.
+3. Map printing errors
+4. Paper maps can easily be damaged
+5. Paper maps are limited: Paper maps only show limited areas on a single map and you will need
+several maps if you are visiting several destinations.
+6. It is archaic: Paper maps are an old way of representing an area on a map and may be
+difficult to understand
+7. Paper maps are not complete: Paper maps are never complete and one may never get a complete
+paper map of an area. This is because features and landscapes keep on changing.
+8. Paper maps are biased: Paper maps are designed and printed by people whose perception of an area
+may be subject to personal bias.Limitations of Paper based Maps
+9. Paper maps show limited features:
+Paper maps show limited features of a given area on the paper because they only
+concentrate on one aspect of the landscape.
+10. Paper maps are complicated to understand:
+Paper maps are difficult to understand because most of the features are represented
+in symbols.
+11. Paper maps only use symbols:
+Paper maps rely solely on symbols to represent

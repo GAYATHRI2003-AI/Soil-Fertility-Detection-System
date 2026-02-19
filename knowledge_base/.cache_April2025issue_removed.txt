@@ -1,0 +1,407 @@
+615
+222
+22 2
+222Soil Fertility Mapping: A Scientific Approach for Soil Health Management
+222
+222 Krisanu Golui and Subhaje et Sarkar
+222
+222
+22 2 Abstract
+222
+22 2 Soil fertility mapping is a scientific approach essential for sustainable soil health management
+222 and agricultural productivity in India. It involves assessing spatial variations in soil nutrients and
+222 properties using laboratory analysis, Geographic Informati on Systems (GIS), and remote sensing.
+22 2
+Historically, soil surveys began in the 1950s, advancing w ith initiatives like the Soil Health Card
+222
+Sch eme. Modern methodologies include Digital Soil Mapping (DSM), which applies machine
+222
+learning for high-resolution fertility prediction. Satellites such as Landsat and Sentinel-2 provide
+222
+critical data on vegetation and land conditions. Benefits include optimized fertilizer use, increased
+222
+yields, and environmental protection. However, challeng es such as data inconsistency, limited
+222
+infr astructure, and low farmer awareness persist. Future prospects lie in AI integration, real-time
+222
+222
+digi tal platforms, and enhanced policy support for precision agriculture in India. This scientific
+approach is essential for ensuring soil health, achieving food security, and fostering climate-resilient
+222
+agricultural development in India.
+222
+222
+22I2ntr oduction understanding of soil fertility is essential for
+222
+Soil fertility plays a pivotal role in sustain- sustainable land use planning. Soil fertility mapping,
+222
+22a2ble agricultural development, as it directly therefore, provides a scientific foundation for
+222
+influences crop productivity and consequently food evaluating spatial and temporal variations in soil
+222
+security. Fertile soil possesses the physical, chemical quality parameters. This process involves collecting
+222
+22a2nd biological properties necessary to support robust geo-referenced soil samples, analysing them in
+222
+plant growth, primarily through the adequate supply laboratories for nutrient content, pH, electrical
+222
+22 o 2 f macro- and micro-nutrients. In India, where nearly conductivity (EC), organic carbon and other indicat-
+22528% of the population depends on agriculture for ors and then integrating this data using geospatial
+222
+their livelihood, maintaining soil fertility is essential techniques such as Geographic Information Systems
+222
+22n2ot only for economic stability but also for (GIS), remote sensing, and spatial interpolation
+222
+combating hunger and poverty. Given the pressures models. The integration of these data points into
+222
+of increasing population, land degradation, intensive digital maps allows policymakers, researchers, and
+222
+22c2ropping, and climate change, a comprehensive farmers to visualize the fertility status of soils at
+222
+222 Krisanu Golui
+222
+Research Scholar, Department of Soil S cience, CCS HAU, Hisar, Haryana
+222 Subhajeet Sarkar
+Research Scholar, Division of Soil Science and Agricultural Chemistry, ICAR-IARI, New Delhi
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22616
+222
+222
+regional and local scales. Such maps are critical for emerging digital soil mapping (DSM) techniques2 2an2d
+222
+implementing site-specific nutrient management machine learning models that enhance prediction
+222
+(SSNM), reducing the overuse or misuse of accuracy. A landmark initiative was the launch o2f2 t2he
+222
+fertilizers, enhancing crop yields, and mitigating Soil Health Card (SHC) Scheme in 2015, aimed at
+222
+environmental risks such as nutrient leaching and providing farmers with detailed information on the
+222
+groundwater contamination. Therefore, soil fertility fertility status of their land. Under this program,2 o2v2er
+222
+mapping is an indispensable tool in the promotion of 250 million samples were planned for testing across
+222
+resource-efficient, climate-resilient and economic- 638 districts, assessing 12 soil parameters inclu2d2i2ng
+222
+ally viable agriculture in India. macro-nutrients (N, P, K), micronutrients (Zn, Fe,
+222
+Historical context and national initiatives Cu, Mn, B), secondary nutrients (S), and physical
+222
+Systematic soil fertility mapping in India properties like pH, EC, and organic ca2rb2o2n
+222
+began with the institutionalization of soil science as (DAC&FW, 2020). These data are digitized and
+222
+a discipline in the early 20th century, but significant linked to farmers’ land records, facilita2t2in2g
+222
+advancements occurred post-Independence, especia- customized fertilizer recomme-ndations and site-
+222
+lly during and after the Green Revolution of the specific nutrient management.
+222
+1960s. The initial focus was on boosting food Methodologies for soil fertility mapping 222
+222
+production through chemical fertilizers without Soil fertility mapping is a multi-disciplinary
+222
+detailed knowledge of soil nutrient status, which process that integrates soil science, geosp2a2t2ial
+over time led to imbalanced fertilization and soil technology, and data analytics to assess the sp2a2t2ial
+222
+degradation. To address this, the Government of variability of soil nutrients and other related
+222
+India established the Soil Survey Organisation in properties. The methodologies employed aim22 2to
+222
+1956, which later became part of the National Bureau generate spatially explicit information about soil
+222
+of Soil Survey and Land Use Planning (NBSS fertility status, enabling precise and location-specific
+222
+&LUP) under the Indian Council of Agricultural soil management. In India, a combination2 22of
+222
+Research (ICAR). The NBSS&LUP has since been traditional and modern techniques is utilized for soil
+222
+instrumental in producing soil maps at 1:250,000 and fertility mapping at various scales, from farm-2le2v2el
+222
+1:50,000 scales, integrating parameters like soil type, assessments to national surveys.
+222
+depth, texture, and nutrient status, and classifying Soil sampling and laboratory analysis: The first
+222
+Indian soils into major soil orders and agro- step in soil fertility mapping is the system22at2ic
+222
+ecological zones. Their maps provide comprehensive collection of soil samples, which can be done using
+222
+data on soil orders, fertility status, and suitability for different sampling designs: 222
+222
+various crops. These efforts are now supported by  Grid sampling (e.g., 2.5 km × 2.5 km for district-
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22617
+222
+222
+222level mapping) are geo-referenced, spatial interpolation is used to
+222
+ Stratified sampling based on agro-ecological generate continuous surface maps of soil properties.
+222
+222zones or land use Common techniques include:
+222
+ Random or composite sampling for individual  Inverse Distance Weighting (IDW): Weights
+222
+farm assessments nearby observations more heavily than distant
+222
+222 Each soil sample is geo-referenced using ones.
+222
+GPS to allow for spatial analysis. Samples are then  Ordinary Kriging: A geo-statistical method that
+222
+22an2alyzed in certified soil testing laboratories for key models spatial autocorrelation and provides
+222
+parameters such as macronutrients (N, P, K), uncertainty estimates.
+222
+micronutrients (Zn, Fe, Cu, Mn, B), secondary  Spline interpolation: Used for smooth surface
+222
+22n2utrients (S, Ca, Mg), soil pH, electrical conductivity fitting of soil parameters.
+222
+(EC), organic carbon content, and cation exchange The choice of method depends on data
+222
+22ca2pacity (CEC). density, variability, and spatial structure. Kriging is
+22G2eospatial technologies: Geospatial technologies, often preferred due to its robustness and ability to
+222
+particularly Remote Sensing and GIS tools, play a model spatial patterns.
+222
+22cr2ucial role in soil fertility mapping by enabling the Digital Soil Mapping (DSM): Recent advancements
+222
+spatial analysis and visualization of soil data. GIS include the application of Digital Soil Mapping,
+222
+serves as a platform to manage geo-referenced soil which employs machine learning algorithms (e.g.,
+222
+22sa2mple data and integrate it with other spatial Random Forest, Support Vector Machines, Artificial
+222
+variables such as land use, slope, elevation, and Neural Networks) to predict soil fertility attributes
+222
+22ra2infall. It facilitates the generation of fertility maps based on covariates like topography, climate data,
+222
+through spatial interpolation and overlay analysis. remote sensing indices, and existing soil
+222
+Remote sensing, on the other hand, provides observations. DSM enables the identification of
+222
+22m2ultispectral satellite imagery (e.g., Landsat, spatial variability in soil properties with greater
+222
+Sentinel-2) that captures surface reflectance, precision than traditional methods. In India, pilot
+222
+22en2abling the derivation of vegetation indices like implementations in states like Andhra Pradesh and
+222
+NDVI (Normalized Difference Vegetation Index), Karnataka have demonstrated its potential in
+222
+which are correlated with soil fertility. These indices supporting precision agriculture, efficient fertilizer
+222
+22h2elp identify spatial variability in crop vigour, use, and informed land-use planning at local scales
+222
+indirectly indicating underlying soil nutrient status (Minasny and McBratney, 2016).
+222
+22an2d degradation trends. Data integration and validation: Validation of
+222
+Spatial Interpolation Techniques: Once soil data fertility maps involves cross-verifying predicted
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22618
+222
+222
+values with independent field data using statistical Aqua satellites, MODIS provides daily obse2r2v2a-
+222
+accuracy measures such as RMSE (Root Mean tions with coarser resolution but high temporal
+222
+Square Error), R2, and MAE (Mean Absolute Error). frequency, suitable for regional-scale monito2r2i2ng
+222
+Final maps are then integrated into decision-support of crop dynamics and seasonal fertility trends
+222
+systems for farmers and policymakers. (Löw et al., 2018).
+222
+Satellites in soil fertility mapping  SMAP (Soil Moisture Active Passive): O2f2fe2rs
+222
+Satellite remote sensing plays a pivotal role data on soil moisture content, which is a critical
+222
+in soil fertility mapping by providing large-scale, factor influencing nutrient availability 22a2nd
+222
+real-time, and multi-temporal data that support microbial activity in soils (Farahani et al., 2022).
+222
+indirect assessment of soil properties. Satellite  PRISMA and Hyperspectral missions: Emerging
+222
+sensors capture reflected electromagnetic radiation hyperspectral satellites provide detailed spe2c2tr2al
+222
+from the Earth’s surface, which can be processed to information that can detect specific minerals and
+222
+derive indicators relevant to soil fertility, such as organic matter in soils, enhancing direct2 2so2il
+vegetation health, land cover, and surface moisture. property estimation. 222
+222
+Key satellites and sensors used in soil fertility These satellite datasets are integrated with
+222
+mapping include: GIS platforms and machine learning models in D22S2M
+222
+ Landsat series (e.g., Landsat 8, 9): Operated by frameworks to predict and map soil fertility
+222
+NASA and USGS, Landsat provides medium- parameters at fine spatial scales. In India, agencies
+222
+resolution multispectral imagery useful for such as ISRO and ICAR collaborate to u2ti2li2ze
+222
+calculating vegetation indices like NDVI and satellite data for national soil mapping projects,
+222
+SAVI (Soil Adjusted Vegetation Index), which contributing to better resource management 22a2nd
+222
+are proxies for plant health and, indirectly, soil precision farming.
+222
+nutrient status (Roy et al., 2014). Benefits of soil fertility mapping
+222
+ Sentinel-2: Part of the Copernicus Programme by Soil fertility maps aid in: 222
+222
+ESA, Sentinel-2 offers high-resolution multi-  Customized fertilizer recommendations
+222
+spectral imagery at 10-20 m resolution. It  Integrated Nutrient Management (INM) plan2n2i2ng
+222
+captures reflectance in visible, near-infrared  Monitoring degradation and land use changes
+222
+(NIR), and shortwave infrared (SWIR) bands,  Supporting climate-resilient agriculture
+222
+useful for assessing crop vigour, soil organic  Empowerment of farmers through initiatives2 2li2ke
+222
+matter, and surface texture (Drusch et al., 2012). the Soil Health Card scheme
+222
+ MODIS (Moderate Resolution Imaging Common challenges associated with soil fer2ti2li2ty
+222
+Spectroradiometer): Onboard NASA’s Terra and mapping
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22619
+222
+2 22
+222 Soil heterogeneity across diverse agro-climatic private partnerships and centralized soil information
+222
+zones complicates uniform mapping strategies systems to support research and policy. Enhanced
+222
+222 Inadequate soil testing labs and lack of trained farmer participation and training, alongside refined
+222
+personnel reduce data quality subsidy targeting, will ensure the effective
+222
+ Low sampling density leads to poor spatial application of soil fertility data, supporting
+222
+222 resolution and inaccurate predictions sustainable and productive agricultural growth in
+222
+ Limited farmer awareness hinders the adoption India.
+222
+222 of map-based nutrient recommendations Conclusion
+222
+ Data integration challenges from multiple Soil fertility mapping, grounded in a
+222
+sources affect standardization and usability scientific approach, is a transformative tool for
+222
+222 Temporal variability in soil properties is not effective soil health management and sustainable
+222
+captured in static maps agriculture in India. By integrating traditional soil
+222
+222 Underutilization of advanced technologies like analysis with advanced geospatial technologies,
+222 DSM and hyperspectral imaging remote sensing, and digital soil mapping techniques,
+222
+ Weak institutional coordination limits effective it enables precise assessment of nutrient status across
+222
+222 implementation and policy integration diverse agro-ecological zones. This spatial under-
+222
+Future prospects for Indian agriculture standing supports site-specific nutrient management,
+222
+The future of soil fertility mapping in Indian enhances fertilizer efficiency, and mitigates
+222
+2a2g2riculture is promising, driven by advancements in environmental degradation. National initiatives like
+222
+geospatial technologies, machine learning, and the Soil Health Card Scheme have laid the
+222
+2d2i2gital platforms. Precision agriculture will benefit groundwork for widespread implementation, but
+222
+from high-resolution, site-specific fertility maps that future success depends on strengthening infrastru-
+222
+optimize nutrient use and enhance crop productivity. cture, farmer awareness, and data integration. As
+222
+2I2n2tegration with AI and mobile applications will climate change and resource constraints intensify,
+222
+empower farmers with real-time, location-based soil fertility mapping will be indispensable for
+222
+2r2e2commendations. Emerging technologies such as ensuring food security, promoting climate-resilient
+222
+hyperspectral imaging and UAVs offer rapid, non- practices, and achieving long-term agricultural
+222
+invasive soil assessment methods. Furthermore, sustainability. A collaborative, technology-driven,
+222
+2d22ynamic mapping will allow for monitoring of and farmer-centric approach will be key to
+222
+seasonal and climatic changes in soil health, harnessing its full potential.
+222
+2p2r2omoting climate-resilient farming. National References
+222
+initiatives can be strengthened through public- DAC&FW. (2020). Department of Agriculture,
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22620
+222
+222
+Cooperation & Farmers Welfare. (2020). Soil 222
+222
+Health Card Scheme. https://soilhealth
+222
+.dac.gov.in 222
+222
+Drusch, M., Del Bello, U., Carlier, S., Colin, O., et
+222
+al. (2012). Sentinel-2: ESA’s optical high-
+222
+resolution mission for GMES operational 222
+222
+services. Remote sensing of Environment,
+222
+120: 25-36. 222
+222
+Farahani, A., Moradikhaneghahi, M., Ghayoomi, M.
+222
+and Jacobs, J. M. (2022). Application of soil
+222
+moisture active passive (SMAP) satellite data 222
+222
+in seismic response assessment. Remote
+222
+Sensing, 14(17), 4375.
+222
+Löw, F., Biradar, C., Dubovyk, O., Fliemann, E., et 222
+222
+al. (2018). Regional-scale monitoring of
+222
+cropland intensity and productivity with 222
+222
+multi-source satellite image time series.
+222
+GIScience & Remote Sensing, 55(4): 539-
+222
+567. 222
+222
+Minasny, B. and McBratney, A. B. (2016). Digital
+222
+soil mapping: A brief history and some 222
+222
+lessons. Geoderma, 264: 301-311.
+222
+Roy, D. P., Wulder, M. A., Loveland, T. R.,
+222
+Woodcock, C. E., et al. (2014). Landsat-8: 222
+222
+Science and product vision for terrestrial
+222
+global change research. Remote sensing of 222
+222
+Environment, 145: 154-172.
+222
+222
+222
+222
+222
+222
+222
+222
+222
+E-ISSN: 2583-1755 Volume-4, Issue-8, April, 2025
+22

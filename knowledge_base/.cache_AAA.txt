@@ -1,0 +1,390 @@
+AGRO-CLIMATIC REGIONS OF INDIA.
+DR. ABHAY KRISHNA SINGH
+PAPER NAME: - ADVANCED CLIMATOLOGY
+SUBJECT: - GEOGRAPHY
+SEMESTER: - M.A. –II
+PAPER CODE: - GEOG. 201
+UNIVERSITY DEPARTMENT OF GEOGRAPHY
+DR. SHYMA PRASAD MUKHERJEE UNIVERSITY, RANCHI.AGRO-CLIMATIC REGIONS OF INDIA
+INTRODUCTION: -
+Regionalisation has been used for planning at various levels. Several methodologies have
+been used for regionalisation depending on the purpose and ends. An important objective of
+most of these efforts was to evolve agro-ecological regional maps for the country in order to
+delineate comparable resource regions, for generating and transferring agro-technology to
+meet the country’s needs of food, fodder and fibre. Most early attempts at regionalisation
+were on the basis of broad natural regions, existing cropping patterns, as well as a broad
+framework of climatic variations at a macro scale.
+Mitra (1977) divided the country into 7 natural regions, 31 sub regions and 89
+divisions. Murthy and Pandey (1978) demarcated the country into 8 regions on the basis of
+physiographic, soils, rainfall and water balance, and agricultural practices. This
+regionalisation suffered from too much generalization and over-emphasis on agro-climatic
+indicators. National commission on agriculture (1971) classified the country into 127 agro-
+climatic zones. The planning commission has adopted agricultural Zones on the various
+parameters for agricultural planning. They prepared bio-climatic maps on the basis of rainfall
+and potential evapo-transpiration (PET) values, which influence the biotic environment.
+Krishna (2004) prepared 40 soil climatic zones (areas falling in the same climate and water
+balance class and having similar soil types) on the basis of soil types and moisture index. The
+moisture index was based on Thornthwaite-Mather moisture index (MI) approach (where P is
+Precipitation):
+MI = (P – PET) / PET
+Thus 9 climatic classes were superimposed on 13 zone soil maps to evolve 40 soil climatic
+zones. The basic criticism of this approach was that, although soil types were included in the
+zonation, however, soils were not classified on the basis of their water retention capacity.
+In 1964 the Planning Commission based its regionalisation on physical conditions,
+topography, geomorphology, rainfall, cropping pattern, development of irrigation and land
+resources at the district level.
+The launching of the National Agricultural Research Project in 1979 by the Indian
+Council of Agricultural Research (ICAR) initiated experimental programmes on agricultural
+research. Agro climatic zonation or ecological land classification was undertaken on the basis
+of parameters like soils, climate, topography, vegetation, crops etc. for delineation of 126zones. The National Bureau of Soil Survey and Land Use Planning (NBSS-LUP) made a
+comprehensive attempt at agro-ecological regionalisation and the country was divided into 20
+regions following the FAO methodology of sequential layering of information on maps
+(NBSS Publication, 1992). The regions were aggregated on the basis of uniform climatic
+factors, physiography, natural vegetation, soils and length of growing period. The major
+emphasis of this regionalisation was on the bio-climatic factors and length of growing period.
+In 1988 under the Planning Commission another attempt at regionalisation was made
+and the country was divided into 15 agro-climatic regions with 73 sub-regions. It was nothing
+but an extension of the climate classification keeping in view the suitability to agriculture.
+In all the attempts at agro-climatic zoning, although importance was given to other
+indicators, greatest emphasis was given to the inherent commonality of the agro-
+meteorological indicators and water resources development. An important outcome of these
+exercises was that a need was felt by several scholars and organizations to include parameters
+like soils, temperature, topography, vegetation geo-hydrology, water and farm technologies in
+order to have more comprehensive agro ecological zoning.
+AGRO-CLIMATIC REGIONS OF INDIA:-
+In 1988 the Planning Commission came up with a growth strategy based on a holistic
+approach of area planning for long-term resource efficiency and sustainability. The
+motivation behind this was that resource based planning became feasible once homogeneous
+regions with respect to natural resource endowments (agro-climatic factors) were delineated
+and their utilization of available natural resource endowments was related to requirements of
+output and employment. During the late nineteen eighties, a consensus seemed to have been
+achieved on the primacy of topography for a regional division of India. Based on this notion
+the Planning Commission delineated 15 agro-climatic zones; there still existed wide variation
+in geographical area, population density, soil types and crops grown. To increase the degree
+of homogeneity in agro climatic factors, these 15 zones were further sub-divided into 73 sub-
+zones based on more specific soil types, topography, climate and cropping pattern
+characteristics.
+A planning team was set up for each zone and each zone was sub-regionalised on the
+basis of factors intrinsically related with the character of the agricultural economy. These
+included soil type, climate (temperature, and rainfall and its variation), relevant
+meteorological characteristics, water demand and supply, including quality of water andaquifer conditions. It was also decided that, at this stage, it was better to concentrate on agro-
+climatic characteristics, and to not bring in other social and administrative criteria for
+regionalisation (Government of India, 1988). Though other features like land holding,
+workforce, population, employment, living standards were considered for the process of
+building up of systematic computer compatible data sets, the major emphasis was on
+agricultural development levels and trends. These regionalisation methods over-emphasize
+the importance of physiographic divisions and administrative boundaries. Water balance
+analysis, soil water retention capacity for crop potential, and land capability
+mapping/carrying capacity estimation were not incorporated in this regionalisation.
+This identification of agro-climatic zones for the purpose of developing location
+specific research and development strategies for increasing agricultural production has been
+given the due impetus recently. In order to plan agricultural activities more accurately each
+region into sub regions based on soil, climate (temperature), rainfall and other agro-
+meteorological characteristics. Planning Commission has demarcated the geographical area
+of India into 15 agro-climatic regions. These are further divided into more homogeneous 72
+sub-zones.
+The main objectives of agro-climatic regions are:
+(i) to optimise agricultural production;
+(ii) to increase farm income;
+(iii) to generate more rural employment;
+(iv) to make a judicious use of the available irrigation water;
+(v) to reduce the regional inequalities in the development of agriculture.
+The 15 agro-climatic zones are:-
+Zone 1- Western Himalayan Region: Jammu and Kashmir, Uttar Pradesh
+Zone 2 - Eastern Himalayan Region: Assam, Sikkim, West Bengal and all North-Eastern
+states
+Zone 3 - Lower Gangetic Plains Region: West Bengal
+Zone 4 - Middle Gangetic Plains Region: Uttar Pradesh, Bihar
+Zone 5 - Upper Gangetic Plains Region: Uttar Pradesh
+Zone 6 - Trans-Gangetic Plains Region: Punjab, Haryana, Delhi and Rajasthan
+Zone 7 - Eastern Plateau and Hills Region: Maharastra, Uttar Pradesh, Orissa and West
+Bengal
+Zone 8 - Central Plateau and Hills Region: MP, Rajasthan, Uttar Pradesh
+Zone 9 - Western Plateau and Hills Region: Maharastra, Madhya Pradesh and Rajasthan
+Zone 10 - Southern Plateau and Hills Region: Andhra Pradesh, Karnataka, Tamil NaduZone 11 - East Coast Plains and Hills Region: Orissa, Andhra Pradesh, Tamil Nadu and
+Pondicherry
+Zone 12 - West Coast Plains and Ghat Region: Tamil Nadu, Kerala, Goa, Karnataka,
+Maharashtra
+Zone 13 - Gujarat Plains and Hills Region: Gujarat
+Zone 14 - Western Dry Region: Rajasthan
+Zone 15 - The Islands Region: Andaman and Nicobar, Lakshadweep. (Map 1)
+Map 1
+Agro-Climatic Zones of India
+ZONE 1- WESTERN HIMALAYAN REGION:-
+It includes Jammu and Kashmir, Himachal Pradesh and Kumaun-Garhwal areas of
+Uttaranchal. It shows great variation in relief. Summer season is mild (July average
+temperature 5°C-30°C) but the winter season experiences severe cold conditions (January
+temperature 0°C to -4°C).
+The amount of average annual rainfall is 150 cms. Zonal arrangement in vegetation is
+found with varying height along the hill slopes. Valleys and duns have thick layers of
+alluvium while hill slopes have thin brown hilly soils.The region is gifted with a number of perennial streams due to high rainfall and snow-
+covered mountain peaks of which Ganga, Yamuna, Jhelum, Chenab, Satluj and Beas etc. are
+worthy of mention. These provide irrigation water to canals and cheap hydel power for
+agriculture and industries.
+In recent years the increasing human interference has led to the deterioration of the
+ecological system. Rapid construction activities in the form of buildings and transport routes
+and unscrupulous mining have led to the depletion of vegetal cover making the area prone to
+landslides, pollution, receding glaciers and water scarcity.
+Rice is the main crop of this region which is cultivated in terraced fields along the hill
+slopes. Maize, wheat, potato, barley are other important crops. Temperate fruits like apple
+and pear etc. are produced in some parts of Jammu and Kashmir and Himachal Pradesh.
+Similarly, tea plantations have started in some areas of Garhwal-Kumaun hills.
+The horticulture of the region is obsessed with the problems of financial crisis, long
+gestation period, lack of improved varieties of plants and high post-harvest losses (about 20%
+in packing, storage, marketing and processing). This needs improvement in old unproductive
+orchards using the recent technique of grafting, introduction of new fast growing varieties of
+plants and development of infrastructural facilities. Environmental conditions of this region
+are well suited for the development of garden and plantation crops.
+A more rational land use planning is required for the region. Land suitable for
+agriculture, horticulture, pasture, forestry respectively should be demarcated on the following
+basis:
+(a) agriculture on land of up to 30 per cent slopes;
+(b) land having 30-50 per cent slopes for horticulture/fodder development; and
+(c) all lands above 50 per cent slopes under tree cover. Better quality planting
+material should be made available to fruit growers. The region has favourable climatic
+conditions for growing temperate vegetables, flowers, and crops like ginger and
+saffron.
+ZONE 2 - EASTERN HIMALAYAN REGION:-
+The Eastern Himalayan region consists of Sikkim, Darjeeling area (West Bengal), Arunachal
+Pradesh, Assam hills, Nagaland, Meghalaya, Manipur, Mizoram and Tripura. It is
+characterised by rugged topography, thick forest cover and sub-humid climate (rainfall over
+200 cm; temperature July 25°C-33°C, January 11°C-24°C). The soil is brownish, thick
+layered and less fertile. Shifting cultivation (Jhum) is practised in nearly 1/ 3 of the cultivatedarea and food crops are raised mainly for sustenance. Rice, potato, maize, tea and fruits
+(orange, pine-apple, lime, lichi etc.) are the main crops. The ecological system of the region
+is problematic.
+The region needs marked improvement in infrastructural facilities to accelerate the
+pace of development. Soil degradation should be arrested by controlling deforestation and by
+terracing in hills. The run-off should be checked and water conserved should be utilised in
+minor irrigation. Shifting cultivation should be controlled by encouraging permanent
+settlement. A programme to grow fruits above 30% slopes in the hills needs to be framed.
+Supporting activities of sericulture, handicrafts poultry, and piggery etc. should be promoted.
+A long term quality seed production plan should be implemented to assure adequate supply of
+quality seeds to the farmers
+ZONE 3 - LOWER GANGETIC PLAINS REGION:-
+This region spreads over eastern Bihar, West Bengal and Assam valley. Here average amount
+of annual rainfall lies between 100 cm-200 cm. Temperature for July month varies from
+26°C-41°C and for January month 9°C-240C.
+The region has adequate storage of ground water with high water table. Wells and
+canals are the main source of irrigation. The problem of water logging and marshy lands is
+acute in some parts of the region. Rice is the main crop which at times yields three successive
+crops (Aman, Aus and Boro) in a year. Jute, maize, potato, and pulses are other important
+crops. Planning strategies include improvement in rice farming, horticulture (banana, mango
+and citrus fruits), pisciculture, poultry, livestock, forage production and seed supply. An
+export processing zone for marine and sea foods needs to be established which should be
+equipped with modern facilities of freezing, canning, dehydration, and quality control.
+Organisational set-up for implementation should include:
+(a) a committee at the State level to guide and monitor implementation;
+(b) the Zila Parishads at the district level; and
+(c) a village level committee under the aegis of the Panchayat backed by trained staff
+(Wadia, 1996, p. 96).
+ZONE 4 - MIDDLE GANGETIC PLAINS REGION:-
+It incorporates eastern Uttar Pradesh and Bihar (except Chotanagpur plateau). It is a fertile
+alluvial plain drained by Ganga River and its tributaries. The average temperature of July
+month varies from 26°C- 4I°C and that of January month 9°C-24°C.The amount of annualrainfall lies between 100 cm and 200 cm. The region has vast potential of ground water and
+surface runoff in the form of perennial rivers which is utilised for irrigation through tube
+wells, canals and wells. Rice, maize, millets in, kharif, wheat, gram, barley, peas, mustard
+and potato in rabi are important crops.
+The agricultural strategy included introduction of modern market oriented agriculture
+in place of the traditional one. Efforts should be made to improve and stabilise yield of kharif
+paddy which accounts for over 40 per cent of gross cropped area in the region. Similarly
+increasing maize production, replacing upland paddy and millets with fruits, vegetables and
+kharif pulses (Arahar), encouraging pre-kharif paddy (January to June) or maize in low lands,
+improving low land cultivation through water harvesting structures and alternative farming
+systems, and utilising chaur lands for pisciculture are some other suggested measures to boost
+up agricultural production.
+The strategy also includes reclamation of 5.5 lakh ha of usar lands, 25.4 lakh ha of
+wastelands, and 16.5 lakh ha of fallow lands for agriculture and allied activities (agro-
+forestry, silviculture, floriculture etc.). Supplementary measures should include input delivery
+system, demonstration of recommended package of practices, particularly for kharif paddy,
+diversification of crops like vegetables and fruits, and provisions of processing and marketing
+facilities, poultry, dairying and inland riverine fishery.
+ZONE 5 - UPPER GANGETIC PLAINS REGION:-
+This region encompasses central and western parts of Uttar Pradesh. The climate is sub-
+humid continental with July month's temperature between 26°-41°C, January month's
+temperature between 7°- 23°C and average annual rainfall between 75 cm- 150 cm. The soil
+is sandy loam. It has 131 per cent irrigation intensity and 144 per cent cropping intensity.
+Canal, tube well and wells are the main source of irrigation. This is an intensive agricultural
+region where in wheat, rice, sugarcane, millets, maize, gram, barley, oilseeds, pulses and
+cotton are the main crops.
+Besides modernizing traditional agriculture, the region needs special focus on dairy
+development and horticulture. Strategies should include developing multiple mixed cropping
+patterns like rice-potato- wheat-moong and sugarcane, sunflower, and potato + mustard;
+improving irrigation system and water management such as lining of canals to check seepage;
+reclaiming saline/alkaline soils; raising fruit trees on Diara areas; devoting uplands to
+horticulture; improving cattle breed and bringing more areas to fodder crops.ZONE 6 - TRANS-GANGETIC PLAINS REGION: -
+The Trans Ganga Plain consists of Punjab, Haryana, Delhi, Chandigarh and Ganganagar dis-
+trict of Rajasthan. The climate has semiarid characteristics with July month's temperature
+between 26°C and 42°C, January temperature ranging from 7°C to 22°C and average annual
+rainfall between 70 cm and 125 cm. Private tube wells and canals provide principal means of
+irrigation. Important crops include wheat, sugarcane, cotton, rice, gram, maize, millets, pulses
+and oilseeds etc.
+The region has the credit of introducing Green Revolution in the country and has
+adopted modern methods of farming with greater degree of mechanisation. The region is also
+facing the menacing problem of water logging, salinity, alkalinity, soil erosion and falling
+water table. The suggested strategies include:
+(a) diversion of 5 per cent of rice-wheat area to other crops like maize, pulses,
+oilseeds and fodder,
+(b) development of genotypes of rice, maize and wheat with inbuilt resistance to
+pests and diseases,
+(c) promotion of horticulture besides pulses like tur and peas in upland conditions,
+(d) cultivation of vegetables in the vicinity of industrial clusters,
+(e) supply of quality seeds of vegetables and planting material for horticulture crops,
+(f) development of infrastructure of transit godowns and processing to handle addi-
+tional fruit and vegetable production,
+(g) implementation of policy and programmes to increase productivity of milk and
+wool, and
+(h) development of high quality fodder crops and animal feed by stepping up area
+under fodder production by 10 percent (Wadia 1996, p. 100).
+ZONE 7 - EASTERN PLATEAU AND HILLS REGION:-
+It comprises the Chotanagpur plateau Rajmahal hills, Chhattisgarh plains and Dandakaranya.
+The region enjoys 26°C-34°C of temperature in July, 10°C-27° C in January and 80 cm-150
+cm of annual rainfall. Soils are red and yellow with occasional patches of laterites and allu-
+viums.
+The region is deficient in water resources due to plateau structure and non-perennial
+streams. Rainfed agriculture is practised growing crops like rice, millets, maize, oilseeds,
+ragi, gram and potato. The region requires planning to maximise use of rainwater, increase inground water potential, change cropping pattern to achieve a balanced crop production and
+strengthen input and services delivery systems,
+Suggested strategies include:
+(a) coverage of large areas with quality seeds of HYV,
+(b) cultivation of high value crops of pulses like tur, groundnut and soyabean etc. on
+upland rained areas,
+(c) growing crops like urad, castor, and groundnut in kharif and mustard and
+vegetables in irrigated areas,
+(d) improvement of indigenous breeds of cattle and buffaloes,
+(e) rehabilitation of 30 per cent of degraded forest lands,
+(f) extension of fruit plantations,
+(g) renovation including desalting of existing tanks and excavation of new tanks,
+(h) reclamation of 95.32 lakh ha of acidic lands through lime treatment,
+(i) development of inland fisheries in permanent water bodies, and
+(j) adopting integrated watershed development approach to conserve soil and rain
+water.
+ZONE 8 - CENTRAL PLATEAU AND HILLS REGION: -
+This region spreads over Bundelkhand, Baghelkhand, Bhander plateau, Malwa plateau and
+Vindhyachal hills. The climate is semi-arid in western part to sub-humid in eastern part with
+temperature in July month 26°C-40°C, in January month 7°C-24°C and average annual
+rainfall from 50 cm- 100 cm. Soils are mixed red, yellow and black growing crops like
+millets, gram, barley, wheat, cotton, sunflower, etc.
+The region has dearth of water resources. The suggested measures should include
+water conservation through water saving devices like sprinklers and drip system; dry farming
+popularisation; dairy development, crop diversification, ground water development, diversion
+of 16 lakh ha of low value crops to high value crops, reclamation of ravine lands and
+improvement in indigenous breed cattle.
+ZONE 9 - WESTERN PLATEAU AND HILLS REGION: -
+This comprises southern part of Malwa plateau and Deccan plateau (Maharashtra). This is a
+region of the regard soil with July temperature between 24°C-41 °C, January temperature
+between 6°C- 23°C and average annual rainfall of 25 cm-75 cm. Net sown areas is 65 per
+cent and forests occupy only 11 per cent. Only 12.4 per cent area is irrigated. Jowar, cotton,sugarcane, rice, bajra, wheat, gram, pulses, potato, groundnut and oilseeds are the principal
+crops. The area is known for its oranges, grapes and bananas.
+Since the region is deficient in water resources attention be paid to increasing water
+efficiency by popularizing water saving devices like sprinklers and drip system. The lower
+value crops of jowar, bajra and rainfed wheat should give way to high value oilseeds like
+sunflower, safflower and mustard. Five per cent area under rainfed cotton and jowar could be
+substituted with fruits like ber, pomegranate, mango and guava, appropriate marketing,
+storage and processing infrastructure to handle added fruit production should be developed.
+Improvement of milk production of cattle and buffalo through cross-breeding along with
+poultry development should be taken care of.
+ZONE 10 - SOUTHERN PLATEAU AND HILLS REGION: -
+It incorporates southern Maharashtra, Karnataka, western Andhra Pradesh and northern Tamil
+Nadu. The temperature of July month lies between 26°C to 42°C, that of January month be-
+tween 13°C-21°C with annual rainfall between 50 cm-100 cm.
+The climate is semi-arid with only 50 per cent of area cultivated, 81 per cent of dry
+land farming, and low cropping intensity of 111 per cent. Low value cereals and minor
+millets predominate. Coffee, tea, cardamom and spices are grown along the hilly slopes of
+Karnataka plateau. Suggested strategies include:
+(a) diversion of 20 per cent of area under jowar/bajra/ragi to ground-
+nut/sesamum/sunflower,
+(b) cultivation of soyabean/ safflower on residual moisture after rice,
+(c) development of horticulture,
+(d) restoration of tank irrigation by taking appropriate measures of deepening,
+embanking etc.,
+(e) use of water saving devices like sprinklers and drip system,
+(f) development of location specific dry land farming technology, viz. early fertilizer
+responsive varieties of jowar and rice, and
+(g) implementation of programmes for poultry farming and dairy development.
+ZONE 11 - EAST COAST PLAINS AND HILLS REGION: -
+This region includes the Coromandel and Northern Circar coasts. Here climate is sub-humid
+maritime with May and January temperatures ranging from 26°C-32°C and 20°C-29°Crespectively and annual rainfall of 75 cm-150 cm. The soils are alluvial, loam and clay facing
+the menacing problem of alkalinity.
+The region accounts for 20.33 per cent of rice and 17.05 per cent of groundnut
+production of the country. Main crops include rice, jute, tobacco, sugarcane, maize, millets,
+groundnut and oilseeds. Main agricultural strategies include improvement in the cultivation
+of spices (pepper and cardamom) and development of fisheries. These involve increasing
+cropping intensity using water-efficient crops on residual moisture, discouraging growing of
+rice on marginal lands and bring such lands under alternate crops like oilseeds and pulses;
+diversifying cropping and avoiding mono-cropping; developing horticulture in upland areas;
+increasing marine, brackish water and inland fisheries; upgrading genetic potential of existing
+animals; improving tank irrigation by desalting and embanking existing tanks and improving
+field channels and structures; and providing solutions to the problems of water logging and
+alkalinity.
+ZONE 12 - WEST COAST PLAINS AND GHATS REGION: -
+This region extends over the Malabar and Konkan coasts and the Sahyadris and is covered by
+laterite and coastal alluvials. This is a humid region with annual rainfall above 200 cm and
+average temperatures of 26°C-32°C in July and 19°C-28°C in January. Rice, coconut,
+oilseeds, sugarcane, millets, pulses and cotton are the main crops. The region is also famous
+for plantation crops and spices which are raised along the hill slopes of the Ghats.
+The strategies include development of high value crops and fisheries, protection of
+land from salinity ingress and provision of drainage improvement. A programme to sink
+about 5 lakh dug wells and shallow wells should be undertaken on priority basis.
+The approach of homestead system of reclaiming and using Khar lands be accepted,
+planned and implemented. Low productivity areas of paddy and millets under rained
+conditions should be diverted to horticultural crops like mango, banana, coconut etc. to cover
+about 0.5 lakh ha. Appropriate infrastructure for fruit marketing and processing should be
+developed. Increasing mechanised fishing boats for deep sea fishing, strengthening of cold
+storage, processing, and transport infrastructure in corporate/cooperative sector, and
+providing incentives for prawn culture in brackish water should be taken up.
+ZONE 13 - GUJARAT PLAINS AND HILLS REGION: -
+This region includes Kathiawar and fertile valleys of Mahi and Sabarmati rivers. It is an arid
+an semi-arid region with average annual rainfall between 50 cm-100 cm, and monthlytemperature between 26°C-42°C in July and 13°C-29°C in January. Soils are regur in the
+plateau region, alluvium in the coastal plains, and red and yellow soils in Jamnagar
+Groundnut, cotton, rice, millets, oilseeds, wheat and tobacco are the main crops. It is an
+important oilseed producing region.
+The major thrust of development in the region should be on canal and ground water
+management, rain water harvesting and management, dry land farming, agro-forestry
+development, wasteland development and developing marine fishing and brackish/back-water
+aquaculture in coastal zones and river deltas.
+ZONE 14 - WESTERN DRY REGION: -
+It comprises western Rajasthan west of the Aravallis. It is characterised by hot sandy desert,
+erratic rainfall (annual average less than 25 cm), high evaporation, contrasting temperature
+(June 28°C- 45°C, and January 5°C-22°C), absence of perennial rivers, and scanty
+vegetation.
+Ground water is very deep and often brackish. Famine and drought are common
+features. Land-man ratio is high. Forest area is only 1.2 per cent. Land under pastures is also
+low (4.3 per cent). Cultivable waste and fallow lands account for nearly 42 per cent of the
+geographical area. Net irrigated area is only 6.3 per cent of net sown area which is 44.4 per
+cent of the geographical area. Bajra, jowar, and moth are main crops of kharif and wheat and
+gram in rabi. Livestock contributes greatly in desert ecology.
+Agricultural development strategies include completion of on-going irrigation
+projects; making research on the use of saline water; popularising bajra varieties giving
+higher biomass; promoting use of fertilisers; making improved seeds available to farmers,
+constructing moisture (rain water) conservation structures; increasing yield level of fruits like
+date palm, water-melon and guava; adopting high quality germ-plasm in cattle to improve
+their breed; and adopting silvi-pastoral system over wastelands through aerial and manual
+seeding.
+ZONE 15 - THE ISLANDS REGION:-
+The island region includes Andaman-Nicobar and Lakshadweep which have typically
+equatorial climate (annual rainfall less than 300 cm the mean July and January temperature of
+Port Blair being 30°C and 25°C respectively). The soils vary from sandy along the cost to
+clayey loam in valleys and lower slopes.The main crops are rice, maize, millets, pulses, areca nut, turmeric and cassava.
+Nearly half of the area is under coconut. The area is covered with thick forests and
+agriculture is a backward stage. The main thrust in development should be on crop
+improvement, water management and fisheries. Improved verity of rice3 seeds should be
+popularised so as to enable farmers to take two crops of rice in place of one. For fisheries
+development multi-purpose fishing vessels for deep sea fishing should be introduced, suitable
+infrastructure for storage and processing of fish should be built up, and brackish water prawn
+culture should be promoted in the coastal area.
+CONCLUSIONS:-
+The ACRP approach presented the evolution of an innovative planning exercise
+encompassing several challenges such as geographical units of disaggregation, agricultural
+planning involving crop, husbandry and allied sectors, priorities of planning process viz
+profiles, programme strategies, implementation and documentation, integration of
+organizational and financial resources at all levels of aggregation and interfacing planning
+needs and priorities at micro-level with the district, state and national levels.
+This approach therefore, presented a holistic view and tried to strike a balance
+between the decentralised planning and resource planning approaches. Moreover, it replaced
+the conventional wisdom of planning in seeking the resources first to meet the felt needs with
+the innovative approach of planning the available resources and technologies to match the felt
+needs.
+On the whole, as the planning process in India adjusts to liberalisation at macro level
+and the Panchayati Raj institutions on the ground, ACRP can progress steadily beyond its
+present status of an experimental exercise provided it makes judicious use of the links with
+the implementing agencies and rapport with the state governments.

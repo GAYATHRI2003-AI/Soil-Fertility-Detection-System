@@ -1,0 +1,354 @@
+Economic Affairs, Vol. 66, No. 2, pp. 253-258, June 2021
+DOI: 10.46852/0424-2513.2.2021.10
+Research Paper
+Growth and Export Potential of Horticultural Crops from
+India: An Overview
+Lohita Rabha*1 and Ramen Kumar Sarma2
+1PhD. Scholar, Department of Extension Education, College of Agriculture, Assam Agricultural University, Jorhat, India
+2Professor, Department of Agricultural Economics & Farm Management, College of Agriculture, Assam Agricultural University,
+Jorhat, India
+*Corresponding author: lohitarabha111@gmail.com (ORCID ID: 0000-0003-4409-9981)
+Received: 20-03-2021 Revised: 29-05-2021 Accepted: 14-06-2021
+ABSTRACT
+Cultivation of horticultural crops is the best alternative for Indian agriculture as a farmer can achieve
+a higher return by exporting the produce. So the topic has been selected to analyze the trend in export
+performance of horticultural crops of India and to identify the major destinations of India for exporting
+fruits and vegetables. Data was entirely based on secondary sources, and the major analytical techniques
+like CAGR and CV were used to achieve the study’s objective. The trend in export of fresh fruit and
+vegetables both by quantity and value shows that walnuts have negative growth rate. Fresh mangoes have
+shown a negative growth rate (-4.50%) in terms of quantity. In the case of export of processed fruits and
+vegetables by quantity, Cucumber and Gherkins (Prepared & Preserved) have shown a negative growth
+rate (-2.21%) along with mango pulp (-5.48%). ’India’s primary market for fresh fruit and vegetables is
+United Arab Emirates. For processed fruit and vegetables, the major market are USA, Netherland, Saudi
+Arabia, and China. To emerge as a major exporting nation, India needs to produce surplus by cultivating
+high-value horticultural crops, improving cultivation practices, pre and post harvest management,
+storage, etc.
+Highlights
+m The growth in export of horticultural crop during the period 2009-18 shows fluctuating trend over
+the years.
+Keywords: Export, horticultural crop, crop diversification, fruits, vegetables
+India is an agricultural-based country which conducive for the cultivation of the horticultural
+provides a forum for economic development and crop. India ranked second in producing fruits,
+offers livelihood opportunity to about 70 percent vegetables, spices, and plantation crops such as
+of its rural populations (India at a glance, FAO). tea and coffee in the world. The demand for fruits
+India produces a considerable amount of rice, and vegetables, both fresh and processed, has been
+wheat, pulses, fruits, vegetables, milk, and other increasing in the international market. During 2004-
+commodities. Cultivation of horticultural crop is the 05, the productivity of horticultural crops was 8.4
+best alternative for Indian agriculture as it improves tons per hectare. After implementing the National
+the productivity of land, generates employment, Horticulture Mission, both area and production of
+and improves farmers’ economic condition as
+they can achieve a higher return by exporting
+How to cite this article: Rabha, L. and Sarma, R.K. (2021). Growth
+the produce and, most importantly, providing and Export Potential of Horticultural Crops from India: An Overview.
+nutritional security to the people (Dahatreyulu, Economic Affairs, 66(2): 253-258.
+1997). Moreover, the climatic condition of India is Source of Support: None; Conflict of Interest: NoneRabha and Sarma
+fruits and vegetables have increased to 11.72 million Y = abte
+hectares and 150.73 million tons, respectively
+Where,
+(Choudhary, 2013). As a result, horticultural exports
+Y = Dependent variable; a = Intercept; b = Regression
+in India have increased after the implementation of
+Coefficient; t = Time variable; e = Stochastic term
+NHM scheme. In2019, the total fruit production of
+India is approximately about 98 million metric tons, The above equation can be transformed into
+and the principal exports include mango pulp, fresh logarithmic form as follows:
+mangoes, dried walnuts, and fresh grapes. In the
+LnY = Lna + tLnb + e
+case of vegetables, total production in the fiscal year
+2019 is about 185 million metric tons, and it includes
+The compound growth rates were worked out as
+potatoes, tomatoes, onions, eggplants, and cabbage,
+follows:
+among others (Statista). With increased incomes,
+urbanization, changing lifestyles, and international
+CGR = [Anti Ln of Ln (b) – 1] × 100
+market integration, consumer preferences have
+shifted away from cereals to high-value agricultural
+Coefficient of variation (CV)
+produce (Mittal, 2007). As a result,, farmers can
+benefit from crop diversification by cultivating Coefficient of Variation (CV) has been worked out
+horticultural crops to meet the growing demand. to study the variability in the growth of export of
+In India horticultural sector contributes about 54 horticultural crops over the period from 2009-18.
+percent of total agricultural export and 28 percent of
+Coefficient of variation (CV) was calculated using
+GDP in agriculture (Dastagiri, 2017). India exports
+the formula:
+its horticultural crop mainly to Bangladesh, Nepal,
+UAE, U.K., Malaysia, Saudi Arabia, Bahrain, and CV = (Standard deviation/Mean)*100
+Kuwait. The two major countries that import most
+of ’India’s horticultural crops are UAE and Saudi
+Arabia (G.B. et al. 2017). RESULTS AND DISCUSSION
+The study has been conducted with the following
+Growth in the export of fresh fruits &
+specific objectives:
+vegetables from India in terms of quantity and
+1. To analyze the trend in export performance value
+of horticultural crops of India.
+The growth in export of fresh fruit and vegetables
+2. To identify the major destinations of India
+in terms of quantity and value has been presented
+for exporting fruits and vegetables.
+in table 1 & 2, respectively. The export growth
+rates of fruits such as fresh grapes, other fresh
+METHODOLOGY
+fruits, fresh onions, and other fresh vegetables are
+Secondary time series data on the export of
+positive with a value of 9.26%, 5.15%, 4.22%, and
+horticultural crops for 2009-2018 was collected from
+6.56%, respectively. However, the export growth
+the database of APEDA. Data collected to analyzing
+is not uniform and is fluctuating over the years.
+export performance based on their contribution
+For example, walnuts and fresh mangoes show
+to total agricultural export. Data was analyzed
+a negative growth rate with -13.93% and -4.50%,
+statistically to achieve the objectives of the study by
+respectively. As stated by Mishra (2018), the reason
+using primary analytical techniques like:
+for a negative growth rate of walnut is that during
+2018-19 yield of walnut was lower than anticipated
+Compound Annual Growth Rate
+at 34,000 MT (in-shell basis) due to untimely rains
+The compound growth rate has been carried out to in Kashmir Valley during the flowering months
+identify the growth rate in the export of horticultural because Indian walnut production is primarily
+crops of India during the period 2009-18. confined to the hill states of Jammu and Kashmir,
+Himachal Pradesh, and Uttarakhand.
+The Compound Annual Growth Rates (CAGR) was
+computed by using the formula:
+Print ISSN : 0424-2513 254 Online ISSN : 0976-4666Growth and Export Potential of Horticultural Crops from India: An Overview
+Table 1: Growth in export of fresh fruits & vegetables from India in terms of quantity (in ’000’ MT)
+Other fresh Other Fresh
+Year Walnuts Fresh Mangoes Fresh Grapes Fresh Onions
+fruits vegetables
+2009-10 9.071 74.46 117.33 256.07 1664.92 398.53
+2010-11 5.753 58.86 92.43 250.69 1182.32 452.67
+2011-12 5.828 63.44 94.86 262.48 1309.92 665.41
+2012-13 5.295 55.58 140.96 256.24 1666.87 724.23
+2013-14 6.724 41.27 160.25 232.10 1482.49 881.59
+2014-15 2.663 42.99 94.37 261.21 1238.10 798.60
+2015-16 3.289 36.77 132.64 362.95 1382.95 707.51
+2016-17 2.188 52.76 198.47 394.31 2415.73 980.97
+2017-18 3.59 49.18 188.22 321.15 1588.98 735.19
+2018-19 1.87 46.51 246.13 372.21 2183.76 720.55
+Mean 4.62 52.18 146.56 296.94 1611.60 706.52
+CGR (%) -13.93 -4.50 9.26 5.15 4.22 6.56
+CV (%) 49.68 21.77 35.18 20.15 25.02 24.82
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/genReport_combined.aspx.
+Table 2: Growth in export of fresh fruits & vegetables from India in terms of value (` in crore)
+Other fresh Other Fresh
+Year Walnuts Fresh Mangoes Fresh Grapes Fresh Onions
+fruits vegetables
+2009-10 197.8 200.54 431.07 513.55 2319.43 673.31
+2010-11 166.1 164.84 391.01 486.1 1779.29 804.38
+2011-12 230.99 209.74 516.76 716.31 1723 1152.98
+2012-13 199.82 264.72 982.04 726.88 1966.63 1368.51
+2013-14 324.42 285.43 1437.07 924.37 3169.61 2027.99
+2014-15 136.39 302.54 972.77 1084.06 2300.54 2158.67
+2015-16 117.89 320.64 1362.26 1567.29 3097.21 2008.44
+2016-17 55.18 443.66 1781.71 1629.64 3106.06 2589.51
+2017-18 127.21 382.34 1899.95 1443.76 3088.82 1848.78
+2018-19 66.77 406.5 2335.25 1834.57 3468.87 1950.97
+Mean 162.25 298.09 1210.98 1092.65 2601.94 1658.35
+CGR (%) -12.08 10.60 22.17 16.82 7.20 13.33
+CV (%) 49.54 31.01 55.12 45.19 25.08 37.80
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/genReport_combined.aspx.
+Moreover, Indian walnut consumption has grown of variation of walnuts, fresh mangoes, fresh grapes,
+steadily from 2014-15 to 2017-18, at 67 percent other fresh fruits, fresh onions, and other fresh
+growth, and in 2018-19 the consumption level was vegetables in terms of quantity is 49.68%, 21.77%,
+expected to be 50,000 MT, the same consumption 35.18%, 20.15%, 25.02%, and 24.82%, respectively.
+levels as in 2017-18 (Mishra, 2018) but it was higher Walnut has shown the highest CV value indicating
+than expected due to strong domestic demand as the the highest variability among others. The reason is
+awareness about the health benefit of almond has the same as discussed above: the demand for walnut
+increased among the consumer. In the case of fresh has been increasing for domestic consumption due
+mangoes, one of the primary reasons for the decline to increasing awareness about their health benefit.
+in export since 2011–12 was the pesticide residue The consumption has grown steadily from 2014-15
+and fruit fly infestation, which has resulted in the to 2017-18 and lower production during 2018-19,
+ban of Indian mangoes in the United States, Europe, leading to high instability in the export of walnut
+and Japanese markets. Another reason is the low from India.
+demand for Alphonso mangoes due to color and
+As shown in table 2, export in terms of the value
+appearance, which do not compare well with Israel
+of fresh mangoes, fresh grapes, other fresh fruits,
+and Latin America (Madhuri, 2019). The coefficient
+Print ISSN : 0424-2513 255 Online ISSN : 0976-4666Rabha and Sarma
+fresh onions, and other fresh vegetables are positive 28.33%, 18.39%, 15.43%, and 33.94%, respectively. On
+with values 10.60%, 22.17%, 16.82%, 7.20%, and the other hand, the export of pulses has shown the
+13.33%, respectively. However, it has been showing highest variability with a high CV value (33.94%).
+a negative growth rate with a value -12.08% in The reason might be because the demand for pulses
+case of walnut. Here coefficient of variation for in the domestic market is increasing every year.
+walnuts, fresh mangoes, fresh grapes, other fresh Less area under cultivation, poor yield, seasonal
+fruits, fresh onions, and other fresh vegetables failure, lack of irrigation facility, lack of processing
+are 49.54%, 31.01%, 55.12%, 45.19%, 25.08% and and marketing facilities, why India has and price
+37.80%, respectively. Overall, the growth rate in the instability is why India has to depend upon the
+export of fresh fruits & vegetables by value term is import of pulses for satisfying the domestic needs.
+higher than the growth rate in quantity. Among the During 2007-08 to 2013-14 imports of pulses have
+fresh fruit & vegetables, fresh grapes have earned been increased from 2.83 MT (` 5375 crore) to 3.05
+maximum foreign exchange value. MT (` 10551 crores) (Dastagiri and Vajrala).
+As shown in Table 4, in the case of processed fruits
+Trend in exports of processed fruits &
+& vegetables, the export value of Cucumber and
+vegetables from India in terms of quantity and
+Gherkins (Prepd. & Preserved) is 8.98%, Processed
+value
+Fruits, Juices & Nuts (19.07%), Processed Vegetables
+Table 3 indicates that the quantity of export of (13.49%), and Pulses (11.83%). However, in the case
+processed fruits & vegetables such as Processed of Mango Pulp, the export growth rate in terms
+Fruits, Juices & Nuts, processed vegetables, pulses of value is negative i.e.-0.02%. Therefore, overall
+has shown positive growth rate with 10.29%, 3.67%, growth rate in the value term is positive and high
+and 4.69% respectively. However, Cucumber and except for mango pulp. Therefore, processed Fruits,
+Gherkins (Prepared & Preserved) have shown a Juices & Nuts have earned maximum foreign
+negative growth rate of -2.21% and mango pulp is exchange value from among the category of export
+-5.48%. : The negative growth rate of Cucumber and of processed fruits & vegetables.
+Gherkins (Prepared & Preserved) may be due to
+better quality of products in other countries, which Major countries and share percentage of
+exports of fresh as well as processed fruits and
+fetch higher prices in the international markets
+vegetables from India, 2019-20
+(Kumar et al. 2008). The value for the coefficient of
+variation of Cucumber and Gherkins (Prepared &
+The Major countries where India exports maximum
+Preserved), Processed Fruits, Juices & Nuts, mango
+fresh fruits and vegetables are presented in Table
+pulp, processed vegetables, and pulses are 11.87%,
+5. One of the major trading partners for exports of
+Table 3: Trend in exports of processed fruits & vegetables from India in terms of quantity (in ‘000’ MT)
+Cucumber and Gherkins Processed Fruits, Processed
+Year Mango Pulp Pulses
+(Prepared & Preserved) Juices & Nuts Vegetables
+2009-10 263.30 157.34 186.19 142.15 100.13
+2010-11 209.23 123.20 170.21 179.06 209.01
+2011-12 258.60 203.02 150.49 224.50 174.62
+2012-13 238.62 223.07 147.81 193.09 202.75
+2013-14 218.74 246.13 174.86 204.66 345.27
+2014-15 251.18 253.34 154.82 180.38 222.26
+2015-16 202.95 275.58 128.86 177.33 256.05
+2016-17 179.66 300.00 130.88 210.58 136.96
+2017-18 220.93 317.35 110.92 226.48 180.19
+2018-19 212.81 339.60 105.87 248.12 289.61
+Mean 225.60 243.86 146.09 198.63 211.68
+CGR (%) -2.21 10.29 -5.48 3.67 4.69
+CV (%) 11.87 28.33 18.39 15.43 33.94
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/genReport_combined.aspx.
+Print ISSN : 0424-2513 256 Online ISSN : 0976-4666Growth and Export Potential of Horticultural Crops from India: An Overview
+Table 4: Trend in exports of processed fruits & vegetables from India in terms of value (` in crore)
+Cucumber and Gherkins Processed Fruits,
+Year Mango Pulp Processed Vegetables Pulses
+(Prepared & Preserved) Juices & Nuts
+2009-10 741.34 669.98 744.61 759.46 408.32
+2010-11 515.26 591.76 818.93 941.23 870.04
+2011-12 745.03 1116.16 620.83 1249.98 1067.93
+2012-13 856.59 1452.59 608.56 1357.58 1285
+2013-14 955.2 1823.52 772.95 1707.39 1747.63
+2014-15 1202.42 1899.75 841.39 1913.4 1219.08
+2015-16 999.17 2297.3 796.18 1994.56 1658.09
+2016-17 936.19 2492.7 846.02 2280.04 1278.79
+2017-18 1285.22 2647.84 673.92 2211.59 1473.26
+2018-19 1437.13 2804.97 657.67 2474 1822.58
+Mean 967.35 1779.65 738.10 1688.92 1283.07
+CGR (%) 8.98 19.07 -0.02 13.49 11.83
+CV (%) 28.75 45.05 12.33 34.79 33.57
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/genReport_combined.aspx.
+Table 5: Major countries and share (%) of exports of fresh fruits and vegetables from India, 2019-20
+Commodity Country 1 Country 2 Country 3 Country 4 Country 5
+Walnuts France (22.82%) UK (19.20%) Germany United Arab Emirates Netherland
+(18.23%) (17.08%) (8.38%)
+Fresh Mangoes United Arab Emirates UK (16.89%) USA (7.64%) Oman (6.89%) Qatar (6.85%)
+(35.70%)
+Fresh Grapes Netherland Russia (12.20%) UK (9.44%) Bangladesh Pr (6.33%) Germany
+(36.14%) (6.28%)
+Other fresh fruits United Arab Emirates Bangladesh Pr Iran (10.97%) Nepal (10.49%) Oman (6.04%)
+(21.81%) (19.42%)
+Fresh Onions Bangladesh Pr Malaysia United Arab Sri Lanka Dsr Nepal (4.07%)
+(23.71%) (18.71%) Emirates (12.80%) (12.64%)
+Other Fresh vegetables United Arab Emirates Nepal (18.32%) UK (9.15%) Qatar (8.80%) Bangladesh Pr
+(20.94%) (5.02%)
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/topfive_destination.aspx.
+Table 6: Major countries and share (%) of exports of processed fruits and vegetables from India, 2019-20
+Commodity Country 1 Country 2 Country 3 Country 4 Country 5
+Cucumber and Gherkins USA (25.12%) France (8.65%) Russia (8.61%) Spain (7.68%) Germany (7.12%)
+(Prepared & Preserved)
+Processed Fruits, Juices Netherland USA (11.32%) Saudi Arabia United Arab Russia (3.67%)
+& Nuts (13.17%) (10.16%) Emirates (5.53%)
+Mango Pulp Saudi Arabia Yemen Republic Netherland Kuwait (7.94%) USA (6.70%)
+(21.51%) (10.61%) (10.47%)
+Processed Vegetables USA (20.98%) UK (10.38%) Germany (7.15%) Thailand (6.36%) Russia (4.61%)
+Pulses China P Rp USA (13.32%) Algeria (10.68%) Bangladesh Pr Sri Lanka Dsr
+(16.27%) (10.57%) (7.14%)
+Source: APEDA, https://agriexchange.apeda.gov.in/indexp/topfive_destination.aspx
+fresh fruits and vegetables is United Arab Emirates. grapes, and fresh onions have found their market
+The maximum share of exports of fresh mangoes, in France, the Netherlands, and Bangladesh.
+other fresh fruits, and Other Fresh vegetables go to
+In the case of processed fruits & vegetables, as
+the United Arab Emirates. However, walnut, fresh
+shown in table 6, the maximum share of cucumber
+Print ISSN : 0424-2513 257 Online ISSN : 0976-4666Rabha and Sarma
+and Gherkins (Prepared & Preserved) and Processed REFERENCES
+Vegetables goes to the USA. Moreover, India exports
+Anonymous. APEDA AgriXchange. Retrieved from, https://
+its Processed Fruits, Juices & Nuts, mango pulp, and agriexchange.apeda.gov.in/indexp/genReport_combined.
+pulses to the Netherlands, Saudi Arabia, and China. aspx. Last accessed date 10th January, 2020.
+Anonymous. APEDA AgriXchange. Retrieved from, https://
+CONCLUSION agriexchange.apeda.gov.in/indexp/topfive_destination.
+aspx. Last accessed date 15th March, 2021.
+Though India is world’s largest producer of fruits
+Anonymous. India at a glance, FAO. Retrieved from, http://
+and vegetabless, its overall performance is not
+www.fao.org/india/fao-in- india/india-at-a-glance/ar/.
+good and does not have many of export volumes
+Last accessed date 20th November, 2020.
+instead shown fluctuating trend over the years.
+Anonymous. Statista, Production volume of fruits in
+Moreover, during the period 2009-10 to 2018-19 India from financial year 2008 to 2018, with an
+the export of some commodities like walnut, fresh estimate for 2019. Retrieved from, https://www.
+mangoes, Cucumber, and Gherkins (Prepared & statista.com/statistics/621173/fruit-production-in-
+india/#statisticContainer. Last accessed date 25th
+Preserved) and mango pulp has shown a negative
+November, 2020.
+growth rate mainly due to huge domestic demand.
+Choudhary, S.K. 2013. Contribution of National Horticulture
+Besides, there are other constraints such as quality
+Mission in Agricultural Development. Int. J. Adv. Res.
+issues, lack of infrastructure like cold storage, Manag. Soc. Sci., 2(6).
+markets, roads, transportation facilities, etc., huge
+Dahatreyulu, M. 1997. Export Potential of Fruits, Vegetables
+post-harvest losses leading to lower productivity and Flowers from India. Occasional Paper 6, National
+per unit area. However, ’India’s major markets for Bank for Agriculture and Rural Development, Mumbai.
+fresh fruit and vegetables are France, United Arab Dastagiri, M.B. 2017. ’India’s Horticultural Export Markets:
+Emirates, Netherland, and Bangladesh. In processed Growth Rates, Elasticities, Global Supply Chains and
+Policies. Modern Economy, 8: 847-864.
+fruit and vegetables USA, Netherland, Saudi
+Dastagiri, M.B. and Vajrala, A.S. Global Trade of Indian Pulses
+Arabia, and China are the primary market. So in
+during WTO Regime: International Trade Trends, World
+order to emerge as a major exporting nation, India
+Markets & Foreign Trade Policy. 22 Conf- Sessions (Texas).
+needs to produce surplus through the cultivation
+Kumar, N.R., Rai, A.B. and Rai, M. 2008. Export of Cucumber
+of high-value horticultural crops, effective supply
+and Gherkin from India: Performance, Destinations,
+chain management through collaboration among Competitiveness and Determinants. Agric. Econ. Res.
+various stakeholders, emphasis should be given Rev., 21: 130-138.
+on pre and -post-harvest handling, storage. India is Madhuri, S. 2019. Market awareness and profitability: case
+the homeland of small and marginal farmers, they study of Mango production in Karnataka, India. Eco. Pol.
+Week., LIV(4): 52-59.
+need to be mobilized and help them to diversify the
+crop to meet the increasing demand of horticultural Mishra, S. 2018. Assessments of commodity and trade issues.
+India, Tree Nuts Annual. Global Agricultural Information
+products by linking them with export markets
+Network.
+through proper marketing strategy. Moreover, the
+Mittal, S. 2007. Can Horticulture be a success story for India?
+government needs to take practical steps regarding
+Working Paper No. 197, Indian Council for Research on
+the development of credit structure, infrastructure International Economic Relations.
+development, strengthening research for sustainable
+Ramesh, G.B., Lokesha, H., Deshmanya, J.B., Vijaya, B.,
+production technology, and improved pest-resistant Patil Wali, M.G. and Tewari, P. 2017. Growth trends in
+variety. It is also necessary from the government Export and Import of Horticultural Crops from India
+and Karnataka: An Economic analysis. Econ. Aff., 62(3):
+to strengthen the role of Agri Export Zones (AEZ),
+367-371.
+encouraging extension activities to improve farmers’
+knowledge and awareness regarding improved
+cultivation practices.
+Print ISSN : 0424-2513 258 Online ISSN : 0976-4666
