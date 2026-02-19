@@ -824,7 +824,6 @@ class NutrientThresholds:
 **MIT License**
 
 Created: February 2026
-Status: PRODUCTION READY ✓
 
 ---
 
@@ -929,5 +928,6 @@ Status: PRODUCTION READY ✓
 *For training data and results, see `dataset/` folder (5 consolidated CSV files).*
 *For quick reference, see the Quick Start section above.*
 #
+
 
 
