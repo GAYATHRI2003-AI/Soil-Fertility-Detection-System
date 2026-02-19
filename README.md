@@ -930,5 +930,6 @@ Status: PRODUCTION READY ✓
 *For parameter specifications, see `dataset/10_PARAMETERS_GUIDE.md`.*
 *For training data and results, see `dataset/` folder (5 consolidated CSV files).*
 *For quick reference, see the Quick Start section above.*
-#   S o i l - F e r t i l i t y - D e t e c t i o n - S y s t e m  
+#   S o i l - F e r t i l i t y - D e t e c t i o n - S y s t e m 
+ 
  
