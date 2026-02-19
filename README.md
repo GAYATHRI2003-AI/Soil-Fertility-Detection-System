@@ -302,7 +302,6 @@ The knowledge base returns results based on available PDFs. For **region-specifi
 **To get better region-specific results:**
 
 1. **Add relevant PDFs to `knowledge_base/` folder:**
-   - Coorg/Karnataka agricultural guides
    - Regional soil classification documents
    - Crop-specific cultivation manuals
    - Coffee/tea plantation guides
@@ -930,4 +929,5 @@ Status: PRODUCTION READY ✓
 *For training data and results, see `dataset/` folder (5 consolidated CSV files).*
 *For quick reference, see the Quick Start section above.*
 #
+
 
